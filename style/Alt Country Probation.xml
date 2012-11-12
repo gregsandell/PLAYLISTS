@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-11-04T21:54:57Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Tracks</key>
+	<dict>
+		<key>142741</key>
+		<dict>
+			<key>Track ID</key><integer>142741</integer>
+			<key>Name</key><string>When I Get My Rewards</string>
+			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
+			<key>Composer</key><string>Paul Kennerley</string>
+			<key>Album</key><string>Will The Circle Be Unbroken, Vol. 2</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5318019</integer>
+			<key>Total Time</key><integer>264706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-03-20T00:01:08Z</date>
+			<key>Date Added</key><date>2012-11-04T21:54:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-13T18:16:18Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1028</integer>
+			<key>Sort Artist</key><string>Nitty Gritty Dirt Band</string>
+			<key>Persistent ID</key><string>34190D0E013A189B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Nitty%20Gritty%20Dirt%20Band/Will%20The%20Circle%20Be%20Unbroken,%20Vol.%202/When%20I%20Get%20My%20Rewards.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>142746</key>
+		<dict>
+			<key>Track ID</key><integer>142746</integer>
+			<key>Name</key><string>Will The Circle Be Unbroken</string>
+			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
+			<key>Composer</key><string>A. P. Carter, add. lyrics last verse by Jimmy Ibbotson</string>
+			<key>Album</key><string>Will The Circle Be Unbroken, Vol. 2</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6828410</integer>
+			<key>Total Time</key><integer>339149</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-03-20T00:01:08Z</date>
+			<key>Date Added</key><date>2012-11-04T21:54:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-25T17:24:28Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1007</integer>
+			<key>Sort Artist</key><string>Nitty Gritty Dirt Band</string>
+			<key>Persistent ID</key><string>1ACB989F33BC027A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Nitty%20Gritty%20Dirt%20Band/Will%20The%20Circle%20Be%20Unbroken,%20Vol.%202/Will%20The%20Circle%20Be%20Unbroken.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Alt Country Probation</string>
+			<key>Playlist ID</key><integer>142784</integer>
+			<key>Playlist Persistent ID</key><string>4D54C14B1476FC5E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>142746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142741</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

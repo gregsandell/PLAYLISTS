@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-16T23:08:12Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6276</key>
+		<dict>
+			<key>Track ID</key><integer>6276</integer>
+			<key>Name</key><string>World Falls</string>
+			<key>Artist</key><string>Indigo Girls</string>
+			<key>Album</key><string>1200 Curfews (1 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1877141</integer>
+			<key>Total Time</key><integer>233090</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2011-03-19T22:53:58Z</date>
+			<key>Date Added</key><date>2011-11-08T01:39:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E661572EB8111B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Indigo%20Girls/1200%20Curfews%20(1%20of%202)/World%20Falls.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6306</key>
+		<dict>
+			<key>Track ID</key><integer>6306</integer>
+			<key>Name</key><string>Gone Again</string>
+			<key>Artist</key><string>Indigo Girls</string>
+			<key>Album</key><string>Come on Now Social</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1676897</integer>
+			<key>Total Time</key><integer>207804</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2011-03-19T22:54:02Z</date>
+			<key>Date Added</key><date>2011-11-08T01:39:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C03623EDC0133244</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Indigo%20Girls/Come%20on%20Now%20Social/Gone%20Again.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6314</key>
+		<dict>
+			<key>Track ID</key><integer>6314</integer>
+			<key>Name</key><string>Trouble</string>
+			<key>Artist</key><string>Indigo Girls</string>
+			<key>Album</key><string>Come on Now Social</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2347512</integer>
+			<key>Total Time</key><integer>291631</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2011-03-19T22:54:04Z</date>
+			<key>Date Added</key><date>2011-11-08T01:39:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3409133283</integer>
+			<key>Play Date UTC</key><date>2012-01-11T19:28:03Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F360358882345715</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Indigo%20Girls/Come%20on%20Now%20Social/Trouble.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Indigo Girls probation</string>
+			<key>Playlist ID</key><integer>23649</integer>
+			<key>Playlist Persistent ID</key><string>48A82AEE6D289F92</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6276</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
