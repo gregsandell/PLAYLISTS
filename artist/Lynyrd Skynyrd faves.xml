@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-11-12T14:08:27Z</date>
+	<key>Date</key><date>2012-11-13T01:50:55Z</date>
 	<key>Application Version</key><string>10.7</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -562,6 +562,9 @@
 			<key>Date Added</key><date>2012-11-04T23:56:27Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3435559694</integer>
+			<key>Play Date UTC</key><date>2012-11-12T16:08:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -589,6 +592,9 @@
 			<key>Date Added</key><date>2012-11-04T23:56:27Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3435570753</integer>
+			<key>Play Date UTC</key><date>2012-11-12T19:12:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1050,6 +1056,36 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>155734</key>
+		<dict>
+			<key>Track ID</key><integer>155734</integer>
+			<key>Name</key><string>Comin' Home</string>
+			<key>Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Album</key><string>Southern By The Grace Of God: Lynyrd Skynyrd Tribute Tour, Vol. 1 [Live]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18136390</integer>
+			<key>Total Time</key><integer>452388</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2012-10-19T05:31:13Z</date>
+			<key>Date Added</key><date>2012-11-07T23:40:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3435465225</integer>
+			<key>Play Date UTC</key><date>2012-11-11T13:53:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D9D57C5EA22C6F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20Southern%20By%20The%20Grace%20Of%20God-Lynyrd%20Skynyrd%20Tribute%20Tour,%20Vol.%201%20%5BLive%5D%20(1987)/04.Comin'%20Home.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 		<key>155740</key>
 		<dict>
 			<key>Track ID</key><integer>155740</integer>
@@ -1097,7 +1133,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7C77026C050A6F5E</string>
@@ -1208,7 +1244,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>242ED01D1DE2C762</string>
@@ -1238,7 +1274,7 @@
 			<key>Play Date</key><integer>3435244721</integer>
 			<key>Play Date UTC</key><date>2012-11-09T00:38:41Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D22068BB8693D36</string>
@@ -1388,6 +1424,9 @@
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>155890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155734</integer>
 				</dict>
 			</array>
 		</dict>
