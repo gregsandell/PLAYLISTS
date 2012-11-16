@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-11-16T03:13:18Z</date>
+	<key>Date</key><date>2012-11-16T03:50:13Z</date>
 	<key>Application Version</key><string>10.7</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -1279,7 +1279,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Lynyrd Skynyrd Disc 1</string>
@@ -1307,13 +1307,43 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Lynyrd Skynyrd Disc 1</string>
 			<key>Persistent ID</key><string>8B389796D2F1E069</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20The%20Essential%20Lynyrd%20Skynyrd%20(1998)/Disc%201/04.Gimme%20Three%20Steps.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>155845</key>
+		<dict>
+			<key>Track ID</key><integer>155845</integer>
+			<key>Name</key><string>You Got That Right</string>
+			<key>Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Album</key><string>The Essential Lynyrd Skynyrd Disc 2</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9268926</integer>
+			<key>Total Time</key><integer>227918</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2012-10-19T05:28:27Z</date>
+			<key>Date Added</key><date>2012-11-07T23:40:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-12T13:25:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Essential Lynyrd Skynyrd Disc 2</string>
+			<key>Persistent ID</key><string>78B4BE9944771117</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20The%20Essential%20Lynyrd%20Skynyrd%20(1998)/Disc%202/09.You%20Got%20That%20Right.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -1335,7 +1365,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Lynyrd Skynyrd Disc 2</string>
@@ -1588,6 +1618,9 @@
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>155767</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155845</integer>
 				</dict>
 			</array>
 		</dict>
