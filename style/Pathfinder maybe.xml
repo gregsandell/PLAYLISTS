@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2013-04-03T02:57:18Z</date>
+	<key>Date</key><date>2013-04-05T00:01:21Z</date>
 	<key>Application Version</key><string>11.0.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -203,9 +203,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>(Live)</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3446697763</integer>
-			<key>Play Date UTC</key><date>2013-03-21T13:02:43Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3447855933</integer>
+			<key>Play Date UTC</key><date>2013-04-03T22:45:33Z</date>
 			<key>Release Date</key><date>2009-02-03T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -441,7 +441,8 @@
 			<key>Play Count</key><integer>14</integer>
 			<key>Play Date</key><integer>3442927340</integer>
 			<key>Play Date UTC</key><date>2013-02-05T21:42:20Z</date>
-			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-04-03T11:20:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -616,8 +617,8 @@
 			<key>Play Count</key><integer>10</integer>
 			<key>Play Date</key><integer>3358308109</integer>
 			<key>Play Date UTC</key><date>2010-06-02T12:21:49Z</date>
-			<key>Skip Count</key><integer>4</integer>
-			<key>Skip Date</key><date>2010-06-14T16:58:10Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2013-04-03T11:20:34Z</date>
 			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -713,8 +714,8 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3411955854</integer>
 			<key>Play Date UTC</key><date>2012-02-13T10:30:54Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-04T21:14:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-04-03T11:20:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -929,6 +930,9 @@
 			<key>Date Added</key><date>2013-04-01T04:31:11Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-04-04T11:52:11Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7483</integer>
