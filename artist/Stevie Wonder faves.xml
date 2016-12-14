@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-09T07:34:28Z</date>
+	<key>Date</key><date>2016-12-14T04:24:50Z</date>
 	<key>Application Version</key><string>12.5.3.17</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,67 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>169802</key>
+		<key>6303</key>
 		<dict>
-			<key>Track ID</key><integer>169802</integer>
+			<key>Track ID</key><integer>6303</integer>
+			<key>Name</key><string>Signed Sealed Delivered Im You</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>The Very Best Of (2CDS)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3805758</integer>
+			<key>Total Time</key><integer>158380</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T22:50:30Z</date>
+			<key>Date Added</key><date>2016-05-16T05:49:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3561817706</integer>
+			<key>Play Date UTC</key><date>2016-11-13T01:48:26Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-12-12T16:56:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Very Best Of (2CDS)</string>
+			<key>Persistent ID</key><string>48185832078DCDDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/The%20Very%20Best%20Of/Cd1/(08)%20Stevie%20Wonder%20-%20Signed%20Sealed%20Delivered%20Im%20Yours.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8781</key>
+		<dict>
+			<key>Track ID</key><integer>8781</integer>
+			<key>Name</key><string>Be Cool Be Calm (And Keep Yourself Together)</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Down To Earth</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6629114</integer>
+			<key>Total Time</key><integer>163787</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2016-12-04T19:12:05Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564140683</integer>
+			<key>Play Date UTC</key><date>2016-12-09T23:04:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T23:04:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8716624BD06A587</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1966%20Down%20To%20Earth/05%20-%20Be%20Cool%20Be%20Calm%20(And%20Keep%20Yourself%20Together).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8787</key>
+		<dict>
+			<key>Track ID</key><integer>8787</integer>
 			<key>Name</key><string>Angel Baby (Don't You Ever Leave Me)</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Down To Earth</string>
@@ -34,7 +92,6 @@
 			<key>Skip Date</key><date>2016-12-06T17:00:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>698C9178C716695F</string>
 			<key>Track Type</key><string>File</string>
@@ -42,9 +99,62 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169826</key>
+		<key>8789</key>
 		<dict>
-			<key>Track ID</key><integer>169826</integer>
+			<key>Track ID</key><integer>8789</integer>
+			<key>Name</key><string>Mr. Tambourine Man</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Down To Earth</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6112883</integer>
+			<key>Total Time</key><integer>150883</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2016-12-04T19:12:05Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3621EBDD7922FB04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1966%20Down%20To%20Earth/10%20-%20Mr.%20Tambourine%20Man.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8793</key>
+		<dict>
+			<key>Track ID</key><integer>8793</integer>
+			<key>Name</key><string>Nothing's Too Good For My Baby</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Up-Tight</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6425893</integer>
+			<key>Total Time</key><integer>159320</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2016-12-04T19:12:45Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564174678</integer>
+			<key>Play Date UTC</key><date>2016-12-10T08:31:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T09:01:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF9FA081598A276C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1966%20Up-Tight/04%20-%20Nothing's%20Too%20Good%20For%20My%20Baby.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8795</key>
+		<dict>
+			<key>Track ID</key><integer>8795</integer>
 			<key>Name</key><string>Teach Me Tonight</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Up-Tight</string>
@@ -57,9 +167,11 @@
 			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564148434</integer>
+			<key>Play Date UTC</key><date>2016-12-10T01:13:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8280364AC377A41B</string>
 			<key>Track Type</key><string>File</string>
@@ -67,9 +179,63 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169850</key>
+		<key>8799</key>
 		<dict>
-			<key>Track ID</key><integer>169850</integer>
+			<key>Track ID</key><integer>8799</integer>
+			<key>Name</key><string>I Want My Baby Back</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Up-Tight</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6854280</integer>
+			<key>Total Time</key><integer>170031</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2016-12-04T19:12:45Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564388967</integer>
+			<key>Play Date UTC</key><date>2016-12-12T20:02:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DDBBEFC425571968</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1966%20Up-Tight/08%20-%20I%20Want%20My%20Baby%20Back.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8805</key>
+		<dict>
+			<key>Track ID</key><integer>8805</integer>
+			<key>Name</key><string>Contract On Love</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Up-Tight</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5133328</integer>
+			<key>Total Time</key><integer>127007</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2016-12-04T19:12:45Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564145823</integer>
+			<key>Play Date UTC</key><date>2016-12-10T00:30:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>738F8C64E276E01A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1966%20Up-Tight/11%20-%20Contract%20On%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8807</key>
+		<dict>
+			<key>Track ID</key><integer>8807</integer>
 			<key>Name</key><string>My Cehrie Amour</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>My Cherie Amour</string>
@@ -83,7 +249,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CC8E4C77B2BE8197</string>
@@ -92,9 +258,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169862</key>
+		<key>8813</key>
 		<dict>
-			<key>Track ID</key><integer>169862</integer>
+			<key>Track ID</key><integer>8813</integer>
 			<key>Name</key><string>The Shadow Of Your Smile</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>My Cherie Amour</string>
@@ -108,7 +274,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Shadow Of Your Smile</string>
@@ -118,9 +284,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169868</key>
+		<key>8817</key>
 		<dict>
-			<key>Track ID</key><integer>169868</integer>
+			<key>Track ID</key><integer>8817</integer>
 			<key>Name</key><string>Pearl</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>My Cherie Amour</string>
@@ -139,7 +305,7 @@
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2016-12-08T01:05:24Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5D762F75D9C9BA21</string>
@@ -148,9 +314,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169871</key>
+		<key>8819</key>
 		<dict>
-			<key>Track ID</key><integer>169871</integer>
+			<key>Track ID</key><integer>8819</integer>
 			<key>Name</key><string>Somebody Knows, Somebody Cares</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>My Cherie Amour</string>
@@ -166,10 +332,10 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3564037638</integer>
 			<key>Play Date UTC</key><date>2016-12-08T18:27:18Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2016-12-06T16:58:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-12-10T08:23:25Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>045970C5B8E4410A</string>
@@ -178,9 +344,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169883</key>
+		<key>8823</key>
 		<dict>
-			<key>Track ID</key><integer>169883</integer>
+			<key>Track ID</key><integer>8823</integer>
 			<key>Name</key><string>I've Got You</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>My Cherie Amour</string>
@@ -199,7 +365,7 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2016-12-08T16:20:34Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3DC0A886EAB99F99</string>
@@ -208,9 +374,139 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169919</key>
+		<key>8825</key>
 		<dict>
-			<key>Track ID</key><integer>169919</integer>
+			<key>Track ID</key><integer>8825</integer>
+			<key>Name</key><string>Look Around</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Where I'm Coming From</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6814422</integer>
+			<key>Total Time</key><integer>168594</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-04T19:13:47Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8025B29ACDE78FCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1971%20Where%20I'm%20Comin'%20From/01%20-%20Look%20Around.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8827</key>
+		<dict>
+			<key>Track ID</key><integer>8827</integer>
+			<key>Name</key><string>Do Yourself A Favor</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Where I'm Coming From</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14932250</integer>
+			<key>Total Time</key><integer>371539</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-04T19:13:47Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9E5B7FFC49C57F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1971%20Where%20I'm%20Comin'%20From/02%20-%20Do%20Yourself%20A%20Favor.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8829</key>
+		<dict>
+			<key>Track ID</key><integer>8829</integer>
+			<key>Name</key><string>Something Out Of The Blue</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Where I'm Coming From</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7467511</integer>
+			<key>Total Time</key><integer>184920</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-04T19:13:47Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38980FFEFE4463FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1971%20Where%20I'm%20Comin'%20From/04%20-%20Something%20Out%20Of%20The%20Blue.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8831</key>
+		<dict>
+			<key>Track ID</key><integer>8831</integer>
+			<key>Name</key><string>If Your Really Love Me</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Where I'm Coming From</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7441383</integer>
+			<key>Total Time</key><integer>184267</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-04T19:13:47Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564122526</integer>
+			<key>Play Date UTC</key><date>2016-12-09T18:02:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59D701134A49109F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1971%20Where%20I'm%20Comin'%20From/05%20-%20If%20Your%20Really%20Love%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8835</key>
+		<dict>
+			<key>Track ID</key><integer>8835</integer>
+			<key>Name</key><string>Love Having You Around</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Music Of My Mind</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17805055</integer>
+			<key>Total Time</key><integer>444160</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-04T19:02:52Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564137331</integer>
+			<key>Play Date UTC</key><date>2016-12-09T22:08:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33F9C7813C68CB93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Music%20Of%20My%20Mind/01%20-%20Love%20Having%20You%20Around.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8839</key>
+		<dict>
+			<key>Track ID</key><integer>8839</integer>
 			<key>Name</key><string>I Love Every Little Thing About You</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Music Of My Mind</string>
@@ -223,9 +519,10 @@
 			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T16:13:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>313E70663EABAF0C</string>
 			<key>Track Type</key><string>File</string>
@@ -233,9 +530,57 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169955</key>
+		<key>8841</key>
 		<dict>
-			<key>Track ID</key><integer>169955</integer>
+			<key>Track ID</key><integer>8841</integer>
+			<key>Name</key><string>Happier Than The Morning Sun</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Music Of My Mind</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12769703</integer>
+			<key>Total Time</key><integer>318275</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-04T19:02:52Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45DB8660DF3EE141</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Music%20Of%20My%20Mind/05%20-%20Happier%20Than%20The%20Morning%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8851</key>
+		<dict>
+			<key>Track ID</key><integer>8851</integer>
+			<key>Name</key><string>You Are The Sunshine Of My Life</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Talking Book</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7235282</integer>
+			<key>Total Time</key><integer>179147</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-04T18:50:29Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF9A990DE7383224</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Talking%20Book/01%20-%20You%20Are%20The%20Sunshine%20Of%20My%20Life.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8853</key>
+		<dict>
+			<key>Track ID</key><integer>8853</integer>
 			<key>Name</key><string>Superstition</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Talking Book</string>
@@ -250,7 +595,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9A7989DD0E3B0933</string>
 			<key>Track Type</key><string>File</string>
@@ -258,9 +602,38 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169964</key>
+		<key>8855</key>
 		<dict>
-			<key>Track ID</key><integer>169964</integer>
+			<key>Track ID</key><integer>8855</integer>
+			<key>Name</key><string>Blame It On The Sun</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Talking Book</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8306278</integer>
+			<key>Total Time</key><integer>205923</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-04T18:50:29Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563974211</integer>
+			<key>Play Date UTC</key><date>2016-12-08T00:50:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T16:17:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D94C54680299F99C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Talking%20Book/08%20-%20Blame%20It%20On%20The%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8857</key>
+		<dict>
+			<key>Track ID</key><integer>8857</integer>
 			<key>Name</key><string>Lookin' For Another Pure Love</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Talking Book</string>
@@ -275,7 +648,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D8E4C0B885BED41</string>
 			<key>Track Type</key><string>File</string>
@@ -283,9 +655,33 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169973</key>
+		<key>8859</key>
 		<dict>
-			<key>Track ID</key><integer>169973</integer>
+			<key>Track ID</key><integer>8859</integer>
+			<key>Name</key><string>I Believe (When I Fall In Love It Will Be Forever )</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Talking Book</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11775405</integer>
+			<key>Total Time</key><integer>292649</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-04T18:50:29Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B4AA4D4D1379DE34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Talking%20Book/10%20-%20I%20Believe%20(When%20I%20Fall%20In%20Love%20It%20Will%20Be%20Forever%20).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8863</key>
+		<dict>
+			<key>Track ID</key><integer>8863</integer>
 			<key>Name</key><string>Visions</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Innervisions</string>
@@ -300,7 +696,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>18AD4C9CCA340128</string>
 			<key>Track Type</key><string>File</string>
@@ -308,9 +703,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169979</key>
+		<key>8865</key>
 		<dict>
-			<key>Track ID</key><integer>169979</integer>
+			<key>Track ID</key><integer>8865</integer>
+			<key>Name</key><string>Living For The City</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Innervisions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17769203</integer>
+			<key>Total Time</key><integer>442488</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2016-12-04T19:08:03Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564141255</integer>
+			<key>Play Date UTC</key><date>2016-12-09T23:14:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42A24EBAA6521CE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1973%20Innervisions/03%20-%20Living%20For%20The%20City.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8867</key>
+		<dict>
+			<key>Track ID</key><integer>8867</integer>
 			<key>Name</key><string>Golden Lady</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Innervisions</string>
@@ -325,7 +747,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C640A0A9E2870D31</string>
 			<key>Track Type</key><string>File</string>
@@ -333,9 +754,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169982</key>
+		<key>8869</key>
 		<dict>
-			<key>Track ID</key><integer>169982</integer>
+			<key>Track ID</key><integer>8869</integer>
 			<key>Name</key><string>Higher Ground</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Innervisions</string>
@@ -352,7 +773,6 @@
 			<key>Skip Date</key><date>2016-12-08T00:09:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>808C9C0116EE8E4C</string>
 			<key>Track Type</key><string>File</string>
@@ -360,9 +780,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169985</key>
+		<key>8871</key>
 		<dict>
-			<key>Track ID</key><integer>169985</integer>
+			<key>Track ID</key><integer>8871</integer>
 			<key>Name</key><string>Jesus Children Of America</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Innervisions</string>
@@ -377,7 +797,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C7C80CDC2F487B56</string>
 			<key>Track Type</key><string>File</string>
@@ -385,9 +804,59 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>169994</key>
+		<key>8873</key>
 		<dict>
-			<key>Track ID</key><integer>169994</integer>
+			<key>Track ID</key><integer>8873</integer>
+			<key>Name</key><string>All In Love Is Fair</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Innervisions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8948175</integer>
+			<key>Total Time</key><integer>221962</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2016-12-04T19:08:03Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07E2149D732B3441</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1973%20Innervisions/07%20-%20All%20In%20Love%20Is%20Fair.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8875</key>
+		<dict>
+			<key>Track ID</key><integer>8875</integer>
+			<key>Name</key><string>Don't You Worry 'Bout A Thing</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Innervisions</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11466399</integer>
+			<key>Total Time</key><integer>284917</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2016-12-04T19:08:03Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T20:59:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D07DA98718EC0D7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1973%20Innervisions/08%20-%20Don't%20You%20Worry%20'Bout%20A%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8877</key>
+		<dict>
+			<key>Track ID</key><integer>8877</integer>
 			<key>Name</key><string>He's Misstra Know-It-All</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Innervisions</string>
@@ -400,9 +869,10 @@
 			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T08:18:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>113A790F80E04546</string>
 			<key>Track Type</key><string>File</string>
@@ -410,9 +880,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170006</key>
+		<key>8883</key>
 		<dict>
-			<key>Track ID</key><integer>170006</integer>
+			<key>Track ID</key><integer>8883</integer>
 			<key>Name</key><string>Boogie On Reggae Woman</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Fulfillingness' First Finale</string>
@@ -429,7 +899,6 @@
 			<key>Skip Date</key><date>2016-12-08T00:08:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E83EFF09C7678071</string>
 			<key>Track Type</key><string>File</string>
@@ -437,9 +906,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170009</key>
+		<key>8885</key>
 		<dict>
-			<key>Track ID</key><integer>170009</integer>
+			<key>Track ID</key><integer>8885</integer>
 			<key>Name</key><string>Creepin'</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Fulfillingness' First Finale</string>
@@ -456,7 +925,6 @@
 			<key>Skip Date</key><date>2016-12-08T04:14:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0D4C1C211C192D0B</string>
 			<key>Track Type</key><string>File</string>
@@ -464,9 +932,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170012</key>
+		<key>8887</key>
 		<dict>
-			<key>Track ID</key><integer>170012</integer>
+			<key>Track ID</key><integer>8887</integer>
 			<key>Name</key><string>You Haven't Done Nothin'</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Fulfillingness' First Finale</string>
@@ -483,7 +951,6 @@
 			<key>Skip Date</key><date>2016-12-08T04:10:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>636B648B0608220B</string>
 			<key>Track Type</key><string>File</string>
@@ -491,9 +958,60 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170030</key>
+		<key>8891</key>
 		<dict>
-			<key>Track ID</key><integer>170030</integer>
+			<key>Track ID</key><integer>8891</integer>
+			<key>Name</key><string>They Won't Go When I Go</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Fulfillingness' First Finale</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14439920</integer>
+			<key>Total Time</key><integer>359000</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:06Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10ECE5A94A97DD23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1974%20Fulfillingness'%20First%20Finale/08%20-%20They%20Won't%20Go%20When%20I%20Go.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8893</key>
+		<dict>
+			<key>Track ID</key><integer>8893</integer>
+			<key>Name</key><string>Please Don't Go</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Fulfillingness' First Finale</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9978191</integer>
+			<key>Total Time</key><integer>247457</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:06Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563873287</integer>
+			<key>Play Date UTC</key><date>2016-12-06T20:48:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BECB567BDBB8E361</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1974%20Fulfillingness'%20First%20Finale/10%20-%20Please%20Don't%20Go.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8897</key>
+		<dict>
+			<key>Track ID</key><integer>8897</integer>
 			<key>Name</key><string>Have A Talk With God</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Songs In The Key Of Life CD1</string>
@@ -508,7 +1026,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C06A1D59F29CA22A</string>
 			<key>Track Type</key><string>File</string>
@@ -516,9 +1033,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170033</key>
+		<key>8899</key>
 		<dict>
-			<key>Track ID</key><integer>170033</integer>
+			<key>Track ID</key><integer>8899</integer>
 			<key>Name</key><string>Village Ghetto Land</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Songs In The Key Of Life CD1</string>
@@ -533,7 +1050,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5E5624D9FE174101</string>
 			<key>Track Type</key><string>File</string>
@@ -541,9 +1057,33 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170039</key>
+		<key>8901</key>
 		<dict>
-			<key>Track ID</key><integer>170039</integer>
+			<key>Track ID</key><integer>8901</integer>
+			<key>Name</key><string>Contusion</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Songs In The Key Of Life CD1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9102292</integer>
+			<key>Total Time</key><integer>226037</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:38Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DDB9B4BBE5513EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/04%20-%20Contusion.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8903</key>
+		<dict>
+			<key>Track ID</key><integer>8903</integer>
 			<key>Name</key><string>Sir Duke</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Songs In The Key Of Life CD1</string>
@@ -560,7 +1100,6 @@
 			<key>Skip Date</key><date>2016-12-06T16:17:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0A28DF391C615B5F</string>
 			<key>Track Type</key><string>File</string>
@@ -568,9 +1107,112 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170073</key>
+		<key>8905</key>
 		<dict>
-			<key>Track ID</key><integer>170073</integer>
+			<key>Track ID</key><integer>8905</integer>
+			<key>Name</key><string>I Wish</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Songs In The Key Of Life CD1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10157633</integer>
+			<key>Total Time</key><integer>252421</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:38Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B2E1DD7FD4F522A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/06%20-%20I%20Wish.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8907</key>
+		<dict>
+			<key>Track ID</key><integer>8907</integer>
+			<key>Name</key><string>Isn't She Lovely</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Songs In The Key Of Life CD2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15847122</integer>
+			<key>Total Time</key><integer>394657</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:20Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T09:04:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>383969A628CFC4F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/11%20-%20Isn't%20She%20Lovely.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8911</key>
+		<dict>
+			<key>Track ID</key><integer>8911</integer>
+			<key>Name</key><string>Black Man</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Songs In The Key Of Life CD2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20443614</integer>
+			<key>Total Time</key><integer>509570</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:20Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53C9F06BE11607A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/13%20Black%20Man.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8913</key>
+		<dict>
+			<key>Track ID</key><integer>8913</integer>
+			<key>Name</key><string>Ngiculela - Es Una Historia - I Am Singing</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Songs In The Key Of Life CD2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9204758</integer>
+			<key>Total Time</key><integer>228597</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:20Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564138485</integer>
+			<key>Play Date UTC</key><date>2016-12-09T22:28:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-11T09:05:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>132442E71BD056FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/14%20Ngiculela%20-%20Es%20Una%20Historia%20-%20I%20Am%20Singing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8915</key>
+		<dict>
+			<key>Track ID</key><integer>8915</integer>
 			<key>Name</key><string>As</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Songs In The Key Of Life CD2</string>
@@ -585,7 +1227,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8CEBD6F2F61D2B47</string>
 			<key>Track Type</key><string>File</string>
@@ -593,9 +1234,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170076</key>
+		<key>8917</key>
 		<dict>
-			<key>Track ID</key><integer>170076</integer>
+			<key>Track ID</key><integer>8917</integer>
 			<key>Name</key><string>Another Star</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Songs In The Key Of Life CD2</string>
@@ -610,7 +1251,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>253D8B34A8086897</string>
 			<key>Track Type</key><string>File</string>
@@ -618,9 +1258,118 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170169</key>
+		<key>8921</key>
 		<dict>
-			<key>Track ID</key><integer>170169</integer>
+			<key>Track ID</key><integer>8921</integer>
+			<key>Name</key><string>All Day Sucker</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Songs In The Key Of Life CD2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12291331</integer>
+			<key>Total Time</key><integer>305763</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-04T19:22:20Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564132656</integer>
+			<key>Play Date UTC</key><date>2016-12-09T20:50:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14F8D95C3A95C628</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/20%20-%20All%20Day%20Sucker.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8925</key>
+		<dict>
+			<key>Track ID</key><integer>8925</integer>
+			<key>Name</key><string>Black Orchid</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Journey Through The Secret Life Of Plants CD2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9152171</integer>
+			<key>Total Time</key><integer>227787</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2016-12-04T19:21:26Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564138075</integer>
+			<key>Play Date UTC</key><date>2016-12-09T22:21:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T22:21:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38D7F16353EEEE7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1979%20Journey%20Through%20The%20Secret%20Life%20Of%20Plants/13%20-%20Black%20Orchid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8933</key>
+		<dict>
+			<key>Track ID</key><integer>8933</integer>
+			<key>Name</key><string>Did I Hear You Say You Love Me</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Hotter Than July</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9969195</integer>
+			<key>Total Time</key><integer>248006</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2016-12-04T19:20:17Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563873805</integer>
+			<key>Play Date UTC</key><date>2016-12-06T20:56:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T01:37:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68CC52A813EB9662</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1980%20Hotter%20Than%20July/01%20-%20Did%20I%20Hear%20You%20Say%20You%20Love%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8943</key>
+		<dict>
+			<key>Track ID</key><integer>8943</integer>
+			<key>Name</key><string>Master Blaster (Jammin')</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Hotter Than July</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12368269</integer>
+			<key>Total Time</key><integer>307983</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2016-12-04T19:20:17Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B5CC76BDAC2FA5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1980%20Hotter%20Than%20July/06%20-%20Master%20Blaster%20(Jammin').mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8945</key>
+		<dict>
+			<key>Track ID</key><integer>8945</integer>
 			<key>Name</key><string>Do Like You</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Hotter Than July</string>
@@ -637,7 +1386,6 @@
 			<key>Skip Date</key><date>2016-12-07T16:17:16Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A56D79A3F1F60D55</string>
 			<key>Track Type</key><string>File</string>
@@ -645,9 +1393,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170172</key>
+		<key>8947</key>
 		<dict>
-			<key>Track ID</key><integer>170172</integer>
+			<key>Track ID</key><integer>8947</integer>
 			<key>Name</key><string>Cash In Your Face</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Hotter Than July</string>
@@ -664,7 +1412,6 @@
 			<key>Skip Date</key><date>2016-12-06T17:03:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B494347FAA734EB7</string>
 			<key>Track Type</key><string>File</string>
@@ -672,9 +1419,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170184</key>
+		<key>8953</key>
 		<dict>
-			<key>Track ID</key><integer>170184</integer>
+			<key>Track ID</key><integer>8953</integer>
 			<key>Name</key><string>I Love You Too Much</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>In Square Circle</string>
@@ -694,7 +1441,6 @@
 			<key>Skip Date</key><date>2016-12-06T16:55:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E41933AE01AA5959</string>
 			<key>Track Type</key><string>File</string>
@@ -702,9 +1448,38 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170190</key>
+		<key>8955</key>
 		<dict>
-			<key>Track ID</key><integer>170190</integer>
+			<key>Track ID</key><integer>8955</integer>
+			<key>Name</key><string>Whereabouts</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album</key><string>In Square Circle</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10416274</integer>
+			<key>Total Time</key><integer>258847</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2016-12-04T19:19:45Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564119714</integer>
+			<key>Play Date UTC</key><date>2016-12-09T17:15:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T17:16:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>209E5914315E7A28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1985%20In%20Square%20Circle/03%20-%20Whereabouts.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8957</key>
+		<dict>
+			<key>Track ID</key><integer>8957</integer>
 			<key>Name</key><string>Stranger On The Shore Of Love</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>In Square Circle</string>
@@ -719,7 +1494,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9AF9DE99931D94BB</string>
 			<key>Track Type</key><string>File</string>
@@ -727,9 +1501,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170193</key>
+		<key>8959</key>
 		<dict>
-			<key>Track ID</key><integer>170193</integer>
+			<key>Track ID</key><integer>8959</integer>
 			<key>Name</key><string>Never In Your Sun</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>In Square Circle</string>
@@ -744,7 +1518,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4765A72566D85DBE</string>
 			<key>Track Type</key><string>File</string>
@@ -752,9 +1525,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170211</key>
+		<key>8969</key>
 		<dict>
-			<key>Track ID</key><integer>170211</integer>
+			<key>Track ID</key><integer>8969</integer>
 			<key>Name</key><string>I Believe</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>High Fidelity</string>
@@ -778,9 +1551,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>170214</key>
+		<key>8971</key>
 		<dict>
-			<key>Track ID</key><integer>170214</integer>
+			<key>Track ID</key><integer>8971</integer>
 			<key>Name</key><string>Boogie On Reggae Woman</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>Original Musiquarium I, Volume II</string>
@@ -805,106 +1578,227 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>8975</key>
+		<dict>
+			<key>Track ID</key><integer>8975</integer>
+			<key>Name</key><string>Superstition</string>
+			<key>Artist</key><string>Stevie Wonder</string>
+			<key>Album Artist</key><string>Stevie Wonder</string>
+			<key>Composer</key><string>Stevie Wonder</string>
+			<key>Album</key><string>The Very Best Of (2CDS)</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5809410</integer>
+			<key>Total Time</key><integer>241867</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T22:50:30Z</date>
+			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Very Best Of (2CDS)</string>
+			<key>Persistent ID</key><string>547F3AA14EFA8F8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/The%20Very%20Best%20Of/Cd1/(09)%20Stevie%20Wonder%20-%20Superstition.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Stevie Wonder faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>234357</integer>
+			<key>Playlist ID</key><integer>20036</integer>
 			<key>Playlist Persistent ID</key><string>DEA582AC81A250F2</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>170039</integer>
+					<key>Track ID</key><integer>8903</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170030</integer>
+					<key>Track ID</key><integer>8897</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169868</integer>
+					<key>Track ID</key><integer>8817</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169862</integer>
+					<key>Track ID</key><integer>8813</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169850</integer>
+					<key>Track ID</key><integer>8807</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169919</integer>
+					<key>Track ID</key><integer>8839</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169985</integer>
+					<key>Track ID</key><integer>8871</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170193</integer>
+					<key>Track ID</key><integer>8959</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170169</integer>
+					<key>Track ID</key><integer>8945</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170012</integer>
+					<key>Track ID</key><integer>8887</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169826</integer>
+					<key>Track ID</key><integer>8795</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169964</integer>
+					<key>Track ID</key><integer>8857</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169955</integer>
+					<key>Track ID</key><integer>8853</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170076</integer>
+					<key>Track ID</key><integer>8917</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170214</integer>
+					<key>Track ID</key><integer>8971</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169982</integer>
+					<key>Track ID</key><integer>8869</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169979</integer>
+					<key>Track ID</key><integer>8867</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169973</integer>
+					<key>Track ID</key><integer>8863</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170009</integer>
+					<key>Track ID</key><integer>8885</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170006</integer>
+					<key>Track ID</key><integer>8883</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169871</integer>
+					<key>Track ID</key><integer>8819</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170184</integer>
+					<key>Track ID</key><integer>8953</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170172</integer>
+					<key>Track ID</key><integer>8947</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170211</integer>
+					<key>Track ID</key><integer>8969</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169802</integer>
+					<key>Track ID</key><integer>8787</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170073</integer>
+					<key>Track ID</key><integer>8915</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170033</integer>
+					<key>Track ID</key><integer>8899</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169883</integer>
+					<key>Track ID</key><integer>8823</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>169994</integer>
+					<key>Track ID</key><integer>8877</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>170190</integer>
+					<key>Track ID</key><integer>8957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8911</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8975</integer>
 				</dict>
 			</array>
 		</dict>

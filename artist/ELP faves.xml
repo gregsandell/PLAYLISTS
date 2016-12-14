@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-09T07:33:45Z</date>
+	<key>Date</key><date>2016-12-14T04:18:38Z</date>
 	<key>Application Version</key><string>12.5.3.17</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6138</key>
+		<key>6257</key>
 		<dict>
-			<key>Track ID</key><integer>6138</integer>
+			<key>Track ID</key><integer>6257</integer>
 			<key>Name</key><string>Jerusalem</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -34,7 +34,6 @@
 			<key>Skip Date</key><date>2016-12-07T16:04:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>DC7721C1AC2BF50E</string>
 			<key>Track Type</key><string>File</string>
@@ -42,9 +41,33 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234483</key>
+		<key>8999</key>
 		<dict>
-			<key>Track ID</key><integer>234483</integer>
+			<key>Track ID</key><integer>8999</integer>
+			<key>Name</key><string>01. Decline and fall (Atomic Rooster)</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14005704</integer>
+			<key>Total Time</key><integer>349884</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-11T09:02:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>1058630C71CBDA19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/01.%20Decline%20and%20fall%20(Atomic%20Rooster).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9001</key>
+		<dict>
+			<key>Track ID</key><integer>9001</integer>
 			<key>Name</key><string>03. Lucky Man</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -59,7 +82,6 @@
 			<key>Skip Date</key><date>2016-12-08T21:44:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>D44E116F042171E7</string>
 			<key>Track Type</key><string>File</string>
@@ -67,9 +89,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234486</key>
+		<key>9003</key>
 		<dict>
-			<key>Track ID</key><integer>234486</integer>
+			<key>Track ID</key><integer>9003</integer>
 			<key>Name</key><string>04. Tank</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -87,7 +109,6 @@
 			<key>Skip Date</key><date>2016-12-07T16:47:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>291B455AA0F56FDB</string>
 			<key>Track Type</key><string>File</string>
@@ -95,9 +116,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234489</key>
+		<key>9005</key>
 		<dict>
-			<key>Track ID</key><integer>234489</integer>
+			<key>Track ID</key><integer>9005</integer>
 			<key>Name</key><string>05. Take a pebble</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -110,7 +131,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>06279B35181D45BE</string>
 			<key>Track Type</key><string>File</string>
@@ -118,9 +138,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234492</key>
+		<key>9007</key>
 		<dict>
-			<key>Track ID</key><integer>234492</integer>
+			<key>Track ID</key><integer>9007</integer>
 			<key>Name</key><string>06. The barbarian (live 1970)</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -131,9 +151,10 @@
 			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-12-12T16:13:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>61055BA4F0B70DC3</string>
 			<key>Track Type</key><string>File</string>
@@ -141,9 +162,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234495</key>
+		<key>9009</key>
 		<dict>
-			<key>Track ID</key><integer>234495</integer>
+			<key>Track ID</key><integer>9009</integer>
 			<key>Name</key><string>07. Knife edge (live 1970)</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -156,7 +177,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>4418865A1DFC5FDA</string>
 			<key>Track Type</key><string>File</string>
@@ -164,9 +184,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234498</key>
+		<key>9011</key>
 		<dict>
-			<key>Track ID</key><integer>234498</integer>
+			<key>Track ID</key><integer>9011</integer>
 			<key>Name</key><string>08. Rondo (live 1970)</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -179,7 +199,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>E9CB2C1C03DAFEE4</string>
 			<key>Track Type</key><string>File</string>
@@ -187,9 +206,100 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234519</key>
+		<key>9013</key>
 		<dict>
-			<key>Track ID</key><integer>234519</integer>
+			<key>Track ID</key><integer>9013</integer>
+			<key>Name</key><string>09. Tarkus</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>49791369</integer>
+			<key>Total Time</key><integer>1244525</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>E1B1193992E1CFFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/09.%20Tarkus.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9019</key>
+		<dict>
+			<key>Track ID</key><integer>9019</integer>
+			<key>Name</key><string>12. OH My Father</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9949410</integer>
+			<key>Total Time</key><integer>248476</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>CE5BF40B683A36EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/12.%20OH%20My%20Father.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9021</key>
+		<dict>
+			<key>Track ID</key><integer>9021</integer>
+			<key>Name</key><string>13. The Endless Enigma 1</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16160283</integer>
+			<key>Total Time</key><integer>403748</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>C4ECCC9963EC8881</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/13.%20The%20Endless%20Enigma%201.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9023</key>
+		<dict>
+			<key>Track ID</key><integer>9023</integer>
+			<key>Name</key><string>14. Fugue</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4599532</integer>
+			<key>Total Time</key><integer>114729</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563961589</integer>
+			<key>Play Date UTC</key><date>2016-12-07T21:19:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>FDA7829AC25E1246</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/14.%20Fugue.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9025</key>
+		<dict>
+			<key>Track ID</key><integer>9025</integer>
 			<key>Name</key><string>15. The Endless Enigma 2</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -207,7 +317,6 @@
 			<key>Skip Date</key><date>2016-12-08T21:40:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>97DECFF1605827FD</string>
 			<key>Track Type</key><string>File</string>
@@ -215,9 +324,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234522</key>
+		<key>9027</key>
 		<dict>
-			<key>Track ID</key><integer>234522</integer>
+			<key>Track ID</key><integer>9027</integer>
 			<key>Name</key><string>16. From The Beginning</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -232,7 +341,6 @@
 			<key>Skip Date</key><date>2016-12-08T22:08:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>0588E784AD658DB0</string>
 			<key>Track Type</key><string>File</string>
@@ -240,9 +348,33 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234528</key>
+		<key>9029</key>
 		<dict>
-			<key>Track ID</key><integer>234528</integer>
+			<key>Track ID</key><integer>9029</integer>
+			<key>Name</key><string>17. Trilogy</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21453737</integer>
+			<key>Total Time</key><integer>536084</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T03:35:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>0F7E99460D0A193C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/17.%20Trilogy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9031</key>
+		<dict>
+			<key>Track ID</key><integer>9031</integer>
 			<key>Name</key><string>18. Abbadon`s Bolero</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -256,9 +388,10 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3564049014</integer>
 			<key>Play Date UTC</key><date>2016-12-08T21:36:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T00:17:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>E219B9447090E673</string>
 			<key>Track Type</key><string>File</string>
@@ -266,9 +399,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234537</key>
+		<key>9037</key>
 		<dict>
-			<key>Track ID</key><integer>234537</integer>
+			<key>Track ID</key><integer>9037</integer>
 			<key>Name</key><string>21. Still You Turn Me On</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -286,7 +419,6 @@
 			<key>Skip Date</key><date>2016-12-08T01:16:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>E67305824F863716</string>
 			<key>Track Type</key><string>File</string>
@@ -294,9 +426,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234543</key>
+		<key>9039</key>
 		<dict>
-			<key>Track ID</key><integer>234543</integer>
+			<key>Track ID</key><integer>9039</integer>
+			<key>Name</key><string>22. When The Apple Blossoms</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9483385</integer>
+			<key>Total Time</key><integer>236826</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564404321</integer>
+			<key>Play Date UTC</key><date>2016-12-13T00:18:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T16:26:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>F9F0EE54BAA3CB4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/22.%20When%20The%20Apple%20Blossoms.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9041</key>
+		<dict>
+			<key>Track ID</key><integer>9041</integer>
 			<key>Name</key><string>23. Karn Evil 9</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -307,9 +466,10 @@
 			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T22:08:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>4B779C1D17BB6613</string>
 			<key>Track Type</key><string>File</string>
@@ -317,9 +477,60 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234579</key>
+		<key>9043</key>
 		<dict>
-			<key>Track ID</key><integer>234579</integer>
+			<key>Track ID</key><integer>9043</integer>
+			<key>Name</key><string>26. I Believe In Father Christmas (earlier Version)</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8487598</integer>
+			<key>Total Time</key><integer>211931</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564389594</integer>
+			<key>Play Date UTC</key><date>2016-12-12T20:13:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T01:46:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>F8BAE84498CBC6F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/26.%20I%20Believe%20In%20Father%20Christmas%20(earlier%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9047</key>
+		<dict>
+			<key>Track ID</key><integer>9047</integer>
+			<key>Name</key><string>31. Fanfare For The Common Man</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23384708</integer>
+			<key>Total Time</key><integer>584359</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T08:28:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>1EB2F37B895AF302</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/31.%20Fanfare%20For%20The%20Common%20Man.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9051</key>
+		<dict>
+			<key>Track ID</key><integer>9051</integer>
 			<key>Name</key><string>35. Introducing Fanfare - Peter Gunn Theme Live</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -337,7 +548,6 @@
 			<key>Skip Date</key><date>2016-12-08T22:08:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>7435EDB7FF68F2E8</string>
 			<key>Track Type</key><string>File</string>
@@ -345,9 +555,34 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234609</key>
+		<key>9057</key>
 		<dict>
-			<key>Track ID</key><integer>234609</integer>
+			<key>Track ID</key><integer>9057</integer>
+			<key>Name</key><string>41. Man In The Long Black Coat</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10233622</integer>
+			<key>Total Time</key><integer>255582</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564089422</integer>
+			<key>Play Date UTC</key><date>2016-12-09T08:50:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>4D75FC96D7E36B49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/41.%20Man%20In%20The%20Long%20Black%20Coat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9059</key>
+		<dict>
+			<key>Track ID</key><integer>9059</integer>
 			<key>Name</key><string>45. Hoedown (live 04.01.72, at Mar Y Sol Festival, Puerto Rico)</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -365,7 +600,6 @@
 			<key>Skip Date</key><date>2016-12-08T21:54:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>68F1AD1D66FA0D68</string>
 			<key>Track Type</key><string>File</string>
@@ -373,9 +607,58 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234624</key>
+		<key>9065</key>
 		<dict>
-			<key>Track ID</key><integer>234624</integer>
+			<key>Track ID</key><integer>9065</integer>
+			<key>Name</key><string>48. Lucky Man (live 04.01.72, at Mar Y Sol Festival, Puerto Rico)</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7245214</integer>
+			<key>Total Time</key><integer>180871</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564400855</integer>
+			<key>Play Date UTC</key><date>2016-12-12T23:20:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-07T15:55:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>FB39B0535B0859B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/48.%20Lucky%20Man%20(live%2004.01.72,%20at%20Mar%20Y%20Sol%20Festival,%20Puerto%20Rico).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9067</key>
+		<dict>
+			<key>Track ID</key><integer>9067</integer>
+			<key>Name</key><string>49. Piano Improvisation (live 04.01.72, at Mar Y Sol Festival, Puerto Rico)</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>From the Beginning</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23871630</integer>
+			<key>Total Time</key><integer>596532</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:18Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>933420208B8B1C90</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/From%20the%20Beginning%20-%205CD-BOX%202012/49.%20Piano%20Improvisation%20(live%2004.01.72,%20at%20Mar%20Y%20Sol%20Festival,%20Puerto%20Rico).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9069</key>
+		<dict>
+			<key>Track ID</key><integer>9069</integer>
 			<key>Name</key><string>50. Pictures At An Exhibition (live 04.01.72, at Mar Y Sol Festival, Puerto Rico)</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -391,7 +674,6 @@
 			<key>Play Date UTC</key><date>2016-12-08T00:26:12Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>80C375EED6110EF2</string>
 			<key>Track Type</key><string>File</string>
@@ -399,9 +681,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234627</key>
+		<key>9071</key>
 		<dict>
-			<key>Track ID</key><integer>234627</integer>
+			<key>Track ID</key><integer>9071</integer>
 			<key>Name</key><string>51. Rondo (live 04.01.72, at Mar Y Sol Festival, Puerto Rico)</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>From the Beginning</string>
@@ -414,7 +696,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>838C91A320FC336F</string>
 			<key>Track Type</key><string>File</string>
@@ -422,9 +703,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234633</key>
+		<key>9075</key>
 		<dict>
-			<key>Track ID</key><integer>234633</integer>
+			<key>Track ID</key><integer>9075</integer>
 			<key>Name</key><string>Still... You Turn Me On</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -439,7 +720,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>01328472FBDBF379</string>
 			<key>Track Type</key><string>File</string>
@@ -447,9 +727,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234639</key>
+		<key>9079</key>
 		<dict>
-			<key>Track ID</key><integer>234639</integer>
+			<key>Track ID</key><integer>9079</integer>
 			<key>Name</key><string>Tarkus Eruption / Stones Of Year / Iconoclast / Mass / Manticore / The Battlefield / Aquatarkus</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -467,7 +747,6 @@
 			<key>Play Date UTC</key><date>2016-12-08T22:29:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2959</integer>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>F0BFD85136CD9893</string>
@@ -476,9 +755,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234643</key>
+		<key>9081</key>
 		<dict>
-			<key>Track ID</key><integer>234643</integer>
+			<key>Track ID</key><integer>9081</integer>
 			<key>Name</key><string>From The Beginning</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -495,7 +774,6 @@
 			<key>Skip Date</key><date>2016-12-08T21:40:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>876CCC50502BF9C1</string>
 			<key>Track Type</key><string>File</string>
@@ -503,9 +781,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234646</key>
+		<key>9083</key>
 		<dict>
-			<key>Track ID</key><integer>234646</integer>
+			<key>Track ID</key><integer>9083</integer>
 			<key>Name</key><string>Knife-Edge</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -522,7 +800,6 @@
 			<key>Skip Date</key><date>2016-12-08T22:08:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>AD8B1D0F110C82D1</string>
 			<key>Track Type</key><string>File</string>
@@ -530,9 +807,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234649</key>
+		<key>9085</key>
 		<dict>
-			<key>Track ID</key><integer>234649</integer>
+			<key>Track ID</key><integer>9085</integer>
 			<key>Name</key><string>Karn Evil 9 Part 1 / 1st Impression</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -547,7 +824,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>CA7B295B57320FD1</string>
 			<key>Track Type</key><string>File</string>
@@ -555,9 +831,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234652</key>
+		<key>9087</key>
 		<dict>
-			<key>Track ID</key><integer>234652</integer>
+			<key>Track ID</key><integer>9087</integer>
 			<key>Name</key><string>Karn Evil 9 Part 1 / 2nd Impression</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -572,7 +848,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>C2BDE289F192DAB0</string>
 			<key>Track Type</key><string>File</string>
@@ -580,9 +855,91 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234664</key>
+		<key>9089</key>
 		<dict>
-			<key>Track ID</key><integer>234664</integer>
+			<key>Track ID</key><integer>9089</integer>
+			<key>Name</key><string>Nutrocker</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5767296</integer>
+			<key>Total Time</key><integer>240248</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:46Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>EAE4709437B4C32B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/The%20Essential/14_Nutrocker_-_The_Essential_%5BCD_2%5D_-_Emerson,_Lake_&#38;_Palmer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9091</key>
+		<dict>
+			<key>Track ID</key><integer>9091</integer>
+			<key>Name</key><string>Brain Salad Surgery</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4542592</integer>
+			<key>Total Time</key><integer>189257</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:46Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564050256</integer>
+			<key>Play Date UTC</key><date>2016-12-08T21:57:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-08T21:59:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>22411B9124D2A9AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/The%20Essential/15_Brain_Salad_Surgery_-_The_Essential_%5BCD_2%5D_-_Emerson,_Lake_&#38;_Palmer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9093</key>
+		<dict>
+			<key>Track ID</key><integer>9093</integer>
+			<key>Name</key><string>Take A Pebble</string>
+			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
+			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18004096</integer>
+			<key>Total Time</key><integer>750080</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-12-07T04:01:46Z</date>
+			<key>Date Added</key><date>2016-12-07T03:58:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564053175</integer>
+			<key>Play Date UTC</key><date>2016-12-08T22:46:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T01:37:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
+			<key>Persistent ID</key><string>DC5C3659DF8B6221</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emerson,%20Lake%20&#38;%20Palmer/The%20Essential/16_Take_A_Pebble_-_The_Essential_%5BCD_2%5D_-_Emerson,_Lake_&#38;_Palmer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9095</key>
+		<dict>
+			<key>Track ID</key><integer>9095</integer>
 			<key>Name</key><string>Lucky Man</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -599,7 +956,6 @@
 			<key>Skip Date</key><date>2016-12-08T03:38:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>70196DE081F4A129</string>
 			<key>Track Type</key><string>File</string>
@@ -607,9 +963,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234667</key>
+		<key>9097</key>
 		<dict>
-			<key>Track ID</key><integer>234667</integer>
+			<key>Track ID</key><integer>9097</integer>
 			<key>Name</key><string>Affairs Of The Heart</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -624,7 +980,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Persistent ID</key><string>378E3B02171B7AED</string>
 			<key>Track Type</key><string>File</string>
@@ -632,9 +987,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>234676</key>
+		<key>9101</key>
 		<dict>
-			<key>Track ID</key><integer>234676</integer>
+			<key>Track ID</key><integer>9101</integer>
 			<key>Name</key><string>The Great Gates Of Kiev</string>
 			<key>Artist</key><string>Emerson, Lake &#38; Palmer</string>
 			<key>Album</key><string>The Essential Emerson, Lake &#38; Palmer</string>
@@ -649,7 +1004,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Essential Emerson, Lake &#38; Palmer</string>
 			<key>Sort Name</key><string>Great Gates Of Kiev</string>
 			<key>Persistent ID</key><string>5F3336F23501824C</string>
@@ -664,85 +1018,130 @@
 		<dict>
 			<key>Name</key><string>ELP faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>234965</integer>
+			<key>Playlist ID</key><integer>19040</integer>
 			<key>Playlist Persistent ID</key><string>33826EF81AF3D65C</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>234624</integer>
+					<key>Track ID</key><integer>9069</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234543</integer>
+					<key>Track ID</key><integer>9041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234537</integer>
+					<key>Track ID</key><integer>9037</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234492</integer>
+					<key>Track ID</key><integer>9007</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234486</integer>
+					<key>Track ID</key><integer>9003</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234649</integer>
+					<key>Track ID</key><integer>9085</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234667</integer>
+					<key>Track ID</key><integer>9097</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6138</integer>
+					<key>Track ID</key><integer>6257</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234627</integer>
+					<key>Track ID</key><integer>9071</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234609</integer>
+					<key>Track ID</key><integer>9059</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234579</integer>
+					<key>Track ID</key><integer>9051</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234528</integer>
+					<key>Track ID</key><integer>9031</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234522</integer>
+					<key>Track ID</key><integer>9027</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234519</integer>
+					<key>Track ID</key><integer>9025</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234498</integer>
+					<key>Track ID</key><integer>9011</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234495</integer>
+					<key>Track ID</key><integer>9009</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234489</integer>
+					<key>Track ID</key><integer>9005</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234483</integer>
+					<key>Track ID</key><integer>9001</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234676</integer>
+					<key>Track ID</key><integer>9101</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234646</integer>
+					<key>Track ID</key><integer>9083</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234643</integer>
+					<key>Track ID</key><integer>9081</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234664</integer>
+					<key>Track ID</key><integer>9095</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234639</integer>
+					<key>Track ID</key><integer>9079</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234633</integer>
+					<key>Track ID</key><integer>9075</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>234652</integer>
+					<key>Track ID</key><integer>9087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9039</integer>
 				</dict>
 			</array>
 		</dict>

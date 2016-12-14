@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-09T07:33:57Z</date>
+	<key>Date</key><date>2016-12-14T04:19:13Z</date>
 	<key>Application Version</key><string>12.5.3.17</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6924</key>
+		<key>6967</key>
 		<dict>
-			<key>Track ID</key><integer>6924</integer>
+			<key>Track ID</key><integer>6967</integer>
 			<key>Name</key><string>Hooked Up</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -38,9 +38,68 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6946</key>
+		<key>6975</key>
 		<dict>
-			<key>Track ID</key><integer>6946</integer>
+			<key>Track ID</key><integer>6975</integer>
+			<key>Name</key><string>Whatever It Is, I Just Can't Stop</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Emergency On Planet Earth</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10214165</integer>
+			<key>Total Time</key><integer>247222</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2016-10-05T03:56:32Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3558519690</integer>
+			<key>Play Date UTC</key><date>2016-10-05T20:41:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CB6BE7D9E3D8D13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(1993)%20Jamiroquai%20-%20Emergency%20On%20Planet%20Earth/07%20-%20Whatever%20It%20Is,%20I%20Just%20Can't%20Stop.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6977</key>
+		<dict>
+			<key>Track ID</key><integer>6977</integer>
+			<key>Name</key><string>Just Another Story</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>The Return Of The Space Cowboy</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21859350</integer>
+			<key>Total Time</key><integer>529580</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2016-10-05T03:57:18Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3559190316</integer>
+			<key>Play Date UTC</key><date>2016-10-13T14:58:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Return Of The Space Cowboy</string>
+			<key>Persistent ID</key><string>7931F73E82BC2C10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(1994)%20Jamiroquai%20-%20The%20Return%20Of%20The%20Space%20Cowboy/01%20-%20Just%20Another%20Story.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6981</key>
+		<dict>
+			<key>Track ID</key><integer>6981</integer>
 			<key>Name</key><string>The Kids</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -66,9 +125,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6958</key>
+		<key>6991</key>
 		<dict>
-			<key>Track ID</key><integer>6958</integer>
+			<key>Track ID</key><integer>6991</integer>
 			<key>Name</key><string>Virtual Insanity</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -95,9 +154,64 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6964</key>
+		<key>6993</key>
 		<dict>
-			<key>Track ID</key><integer>6964</integer>
+			<key>Track ID</key><integer>6993</integer>
+			<key>Name</key><string>Cosmic Girl</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Travelling Without Moving</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11460134</integer>
+			<key>Total Time</key><integer>244009</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2016-10-05T03:57:50Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A3A286BDA58A8E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(1996)%20Jamiroquai%20-%20Travelling%20Without%20Moving/02%20-%20Cosmic%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6995</key>
+		<dict>
+			<key>Track ID</key><integer>6995</integer>
+			<key>Name</key><string>Use The Force</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Travelling Without Moving</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11326391</integer>
+			<key>Total Time</key><integer>240666</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2016-10-05T03:57:55Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564058755</integer>
+			<key>Play Date UTC</key><date>2016-12-09T00:19:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB14A66FBF9AC8CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(1996)%20Jamiroquai%20-%20Travelling%20Without%20Moving/03%20-%20Use%20The%20Force.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6997</key>
+		<dict>
+			<key>Track ID</key><integer>6997</integer>
 			<key>Name</key><string>Everyday</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -121,9 +235,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6966</key>
+		<key>6999</key>
 		<dict>
-			<key>Track ID</key><integer>6966</integer>
+			<key>Track ID</key><integer>6999</integer>
 			<key>Name</key><string>Alright</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -150,9 +264,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6988</key>
+		<key>7015</key>
 		<dict>
-			<key>Track ID</key><integer>6988</integer>
+			<key>Track ID</key><integer>7015</integer>
 			<key>Name</key><string>Planet Home</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -169,7 +283,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>078B538E735EFDE4</string>
 			<key>Track Type</key><string>File</string>
@@ -177,9 +290,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6998</key>
+		<key>7017</key>
 		<dict>
-			<key>Track ID</key><integer>6998</integer>
+			<key>Track ID</key><integer>7017</integer>
+			<key>Name</key><string>Black Capricorn Day</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Synkronized</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13842140</integer>
+			<key>Total Time</key><integer>341629</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-10-05T03:57:10Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D26D4C0A63990EAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(1999)%20Jamiroquai%20-%20Synkronized/03%20-%20Black%20Capricorn%20Day.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7023</key>
+		<dict>
+			<key>Track ID</key><integer>7023</integer>
 			<key>Name</key><string>Supersonic</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -196,7 +335,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>681F51660F303E83</string>
 			<key>Track Type</key><string>File</string>
@@ -204,9 +342,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7006</key>
+		<key>7029</key>
 		<dict>
-			<key>Track ID</key><integer>7006</integer>
+			<key>Track ID</key><integer>7029</integer>
 			<key>Name</key><string>Feel So Good</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -225,7 +363,7 @@
 			<key>Play Date</key><integer>3564058514</integer>
 			<key>Play Date UTC</key><date>2016-12-09T00:15:14Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Funk Odyssey</string>
@@ -235,9 +373,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7012</key>
+		<key>7035</key>
 		<dict>
-			<key>Track ID</key><integer>7012</integer>
+			<key>Track ID</key><integer>7035</integer>
 			<key>Name</key><string>Corner Of The Earth</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -256,7 +394,7 @@
 			<key>Play Date</key><integer>3559192454</integer>
 			<key>Play Date UTC</key><date>2016-10-13T15:34:14Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Funk Odyssey</string>
@@ -266,9 +404,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7014</key>
+		<key>7037</key>
 		<dict>
-			<key>Track ID</key><integer>7014</integer>
+			<key>Track ID</key><integer>7037</integer>
 			<key>Name</key><string>Love Foolosophy</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -286,7 +424,7 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2016-12-01T23:14:31Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Funk Odyssey</string>
@@ -296,9 +434,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7026</key>
+		<key>7047</key>
 		<dict>
-			<key>Track ID</key><integer>7026</integer>
+			<key>Track ID</key><integer>7047</integer>
 			<key>Name</key><string>Canned Heat</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -316,7 +454,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5E30D407720EECA7</string>
 			<key>Track Type</key><string>File</string>
@@ -324,9 +461,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7030</key>
+		<key>7051</key>
 		<dict>
-			<key>Track ID</key><integer>7030</integer>
+			<key>Track ID</key><integer>7051</integer>
 			<key>Name</key><string>Corner Of The Earth</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -344,7 +481,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3D828624E9505129</string>
 			<key>Track Type</key><string>File</string>
@@ -352,9 +488,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7032</key>
+		<key>7053</key>
 		<dict>
-			<key>Track ID</key><integer>7032</integer>
+			<key>Track ID</key><integer>7053</integer>
 			<key>Name</key><string>Virtual Insanity</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -375,7 +511,6 @@
 			<key>Play Date UTC</key><date>2016-10-13T15:10:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A65A24244E98AAED</string>
 			<key>Track Type</key><string>File</string>
@@ -383,9 +518,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7038</key>
+		<key>7059</key>
 		<dict>
-			<key>Track ID</key><integer>7038</integer>
+			<key>Track ID</key><integer>7059</integer>
 			<key>Name</key><string>Cosmic Girl</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -411,9 +546,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7042</key>
+		<key>7061</key>
 		<dict>
-			<key>Track ID</key><integer>7042</integer>
+			<key>Track ID</key><integer>7061</integer>
 			<key>Name</key><string>Alright</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -442,9 +577,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7046</key>
+		<key>7065</key>
 		<dict>
-			<key>Track ID</key><integer>7046</integer>
+			<key>Track ID</key><integer>7065</integer>
 			<key>Name</key><string>Use The Force</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -467,7 +602,6 @@
 			<key>Skip Date</key><date>2016-12-09T00:32:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C67594DA9E2421C1</string>
 			<key>Track Type</key><string>File</string>
@@ -475,9 +609,66 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7066</key>
+		<key>7067</key>
 		<dict>
-			<key>Track ID</key><integer>7066</integer>
+			<key>Track ID</key><integer>7067</integer>
+			<key>Name</key><string>Canned Heat</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Live At Montreux 2003 - CD 1</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19940879</integer>
+			<key>Total Time</key><integer>465084</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-10-05T03:55:49Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564060038</integer>
+			<key>Play Date UTC</key><date>2016-12-09T00:40:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D9E132FAAC42131</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(2003)%20Jamiroquai%20-%20Live%20At%20Montreux%202003/CD%201/02%20-%20Canned%20Heat.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7077</key>
+		<dict>
+			<key>Track ID</key><integer>7077</integer>
+			<key>Name</key><string>Butterfly</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Live At Montreux 2003 - CD 1</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21440308</integer>
+			<key>Total Time</key><integer>502569</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-10-05T03:56:01Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F3DBE00D0CA58A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(2003)%20Jamiroquai%20-%20Live%20At%20Montreux%202003/CD%201/08%20-%20Butterfly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7081</key>
+		<dict>
+			<key>Track ID</key><integer>7081</integer>
 			<key>Name</key><string>Just Another Story</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -497,7 +688,7 @@
 			<key>Play Date</key><integer>3559129886</integer>
 			<key>Play Date UTC</key><date>2016-10-12T22:11:26Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8ADEC7BA0E35B4C7</string>
@@ -506,9 +697,70 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7080</key>
+		<key>7087</key>
 		<dict>
-			<key>Track ID</key><integer>7080</integer>
+			<key>Track ID</key><integer>7087</integer>
+			<key>Name</key><string>Love Foolosophy</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Live At Montreux 2003 - CD 2</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23620995</integer>
+			<key>Total Time</key><integer>557087</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-10-05T03:56:15Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F644361E60EE790</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(2003)%20Jamiroquai%20-%20Live%20At%20Montreux%202003/CD%202/06%20-%20Love%20Foolosophy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7093</key>
+		<dict>
+			<key>Track ID</key><integer>7093</integer>
+			<key>Name</key><string>Dynamite</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Dynamite</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13267764</integer>
+			<key>Total Time</key><integer>297273</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-10-05T03:57:57Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3559193893</integer>
+			<key>Play Date UTC</key><date>2016-10-13T15:58:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-08T03:35:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2FBF8B4473B0AC69</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(2005)%20Jamiroquai%20-%20Dynamite/02%20-%20Dynamite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7095</key>
+		<dict>
+			<key>Track ID</key><integer>7095</integer>
 			<key>Name</key><string>Seven Days In Sunny June</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -527,7 +779,7 @@
 			<key>Play Date</key><integer>3563798089</integer>
 			<key>Play Date UTC</key><date>2016-12-05T23:54:49Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5A0011C6EA0D1DBB</string>
@@ -537,9 +789,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7094</key>
+		<key>7107</key>
 		<dict>
-			<key>Track ID</key><integer>7094</integer>
+			<key>Track ID</key><integer>7107</integer>
 			<key>Name</key><string>Time Won't Wait</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -558,7 +810,7 @@
 			<key>Play Date</key><integer>3563798885</integer>
 			<key>Play Date UTC</key><date>2016-12-06T00:08:05Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5EC5BFC51BFE8559</string>
@@ -568,9 +820,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7106</key>
+		<key>7115</key>
 		<dict>
-			<key>Track ID</key><integer>7106</integer>
+			<key>Track ID</key><integer>7115</integer>
 			<key>Name</key><string>Cosmic Girl</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -590,7 +842,7 @@
 			<key>Play Date</key><integer>3563797649</integer>
 			<key>Play Date UTC</key><date>2016-12-05T23:47:29Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>657400015AFC8E9C</string>
@@ -599,9 +851,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7108</key>
+		<key>7117</key>
 		<dict>
-			<key>Track ID</key><integer>7108</integer>
+			<key>Track ID</key><integer>7117</integer>
 			<key>Name</key><string>Alright</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -621,7 +873,7 @@
 			<key>Play Date</key><integer>3558522211</integer>
 			<key>Play Date UTC</key><date>2016-10-05T21:23:31Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>26781B9BF5E6A210</string>
@@ -630,9 +882,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7110</key>
+		<key>7119</key>
 		<dict>
-			<key>Track ID</key><integer>7110</integer>
+			<key>Track ID</key><integer>7119</integer>
 			<key>Name</key><string>High Times</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -649,7 +901,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DFEC67C80B5F872F</string>
@@ -658,9 +910,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7116</key>
+		<key>7125</key>
 		<dict>
-			<key>Track ID</key><integer>7116</integer>
+			<key>Track ID</key><integer>7125</integer>
 			<key>Name</key><string>Little L</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -677,7 +929,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>37F20C0653949E6D</string>
@@ -686,9 +938,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7118</key>
+		<key>7127</key>
 		<dict>
-			<key>Track ID</key><integer>7118</integer>
+			<key>Track ID</key><integer>7127</integer>
 			<key>Name</key><string>Love Foolosophy</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -705,7 +957,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3D2A3FD059241623</string>
@@ -714,9 +966,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7124</key>
+		<key>7133</key>
 		<dict>
-			<key>Track ID</key><integer>7124</integer>
+			<key>Track ID</key><integer>7133</integer>
 			<key>Name</key><string>(Don't) Give Hate A Chance</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -738,7 +990,7 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2016-12-01T21:54:24Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>26060211CDFC4E92</string>
@@ -747,9 +999,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7126</key>
+		<key>7135</key>
 		<dict>
-			<key>Track ID</key><integer>7126</integer>
+			<key>Track ID</key><integer>7135</integer>
 			<key>Name</key><string>Runaway</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -769,7 +1021,7 @@
 			<key>Play Date</key><integer>3563815717</integer>
 			<key>Play Date UTC</key><date>2016-12-06T04:48:37Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3EA4381FCF7A67A5</string>
@@ -778,9 +1030,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7134</key>
+		<key>7139</key>
 		<dict>
-			<key>Track ID</key><integer>7134</integer>
+			<key>Track ID</key><integer>7139</integer>
 			<key>Name</key><string>Love Foolosophy (Knee Deep Remix)</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -808,9 +1060,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7140</key>
+		<key>7141</key>
 		<dict>
-			<key>Track ID</key><integer>7140</integer>
+			<key>Track ID</key><integer>7141</integer>
 			<key>Name</key><string>Dynamite (Restless Souls Remix)</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -835,9 +1087,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7142</key>
+		<key>7143</key>
 		<dict>
-			<key>Track ID</key><integer>7142</integer>
+			<key>Track ID</key><integer>7143</integer>
 			<key>Name</key><string>Seven Days In Sunny June (Ashley Beedle Heavy Disco Vocal Remix)</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -862,9 +1114,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7144</key>
+		<key>7145</key>
 		<dict>
-			<key>Track ID</key><integer>7144</integer>
+			<key>Track ID</key><integer>7145</integer>
 			<key>Name</key><string>Virtual Insanity (Salaam Remi Remix)</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -889,9 +1141,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7150</key>
+		<key>7147</key>
 		<dict>
-			<key>Track ID</key><integer>7150</integer>
+			<key>Track ID</key><integer>7147</integer>
 			<key>Name</key><string>Rock Dust Light Star</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -918,9 +1170,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7154</key>
+		<key>7151</key>
 		<dict>
-			<key>Track ID</key><integer>7154</integer>
+			<key>Track ID</key><integer>7151</integer>
 			<key>Name</key><string>Smoke And Mirrors</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -947,9 +1199,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7162</key>
+		<key>7155</key>
 		<dict>
-			<key>Track ID</key><integer>7162</integer>
+			<key>Track ID</key><integer>7155</integer>
 			<key>Name</key><string>Lifeline</string>
 			<key>Artist</key><string>Jamiroquai</string>
 			<key>Album Artist</key><string>Jamiroquai</string>
@@ -978,115 +1230,174 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>7161</key>
+		<dict>
+			<key>Track ID</key><integer>7161</integer>
+			<key>Name</key><string>All Good In The Hood (Acoustic Version)</string>
+			<key>Artist</key><string>Jamiroquai</string>
+			<key>Album Artist</key><string>Jamiroquai</string>
+			<key>Album</key><string>Rock Dust Light Star</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9384928</integer>
+			<key>Total Time</key><integer>219611</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-10-05T03:52:17Z</date>
+			<key>Date Added</key><date>2016-10-05T04:52:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564059157</integer>
+			<key>Play Date UTC</key><date>2016-12-09T00:25:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A936F9D251F46C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jamiroquai/(2010)%20Jamiroquai%20-%20Rock%20Dust%20Light%20Star/13%20-%20All%20Good%20In%20The%20Hood%20(Acoustic%20Version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Jamiroquai faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>18787</integer>
+			<key>Playlist ID</key><integer>19698</integer>
 			<key>Playlist Persistent ID</key><string>5F8E4809D96A77AA</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>7154</integer>
+					<key>Track ID</key><integer>7151</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7014</integer>
+					<key>Track ID</key><integer>7037</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7108</integer>
+					<key>Track ID</key><integer>7117</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7118</integer>
+					<key>Track ID</key><integer>7127</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7124</integer>
+					<key>Track ID</key><integer>7133</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7038</integer>
+					<key>Track ID</key><integer>7059</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7042</integer>
+					<key>Track ID</key><integer>7061</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6958</integer>
+					<key>Track ID</key><integer>6991</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7026</integer>
+					<key>Track ID</key><integer>7047</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7032</integer>
+					<key>Track ID</key><integer>7053</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7162</integer>
+					<key>Track ID</key><integer>7155</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6964</integer>
+					<key>Track ID</key><integer>6997</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6966</integer>
+					<key>Track ID</key><integer>6999</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7110</integer>
+					<key>Track ID</key><integer>7119</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7150</integer>
+					<key>Track ID</key><integer>7147</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7140</integer>
+					<key>Track ID</key><integer>7141</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7134</integer>
+					<key>Track ID</key><integer>7139</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7116</integer>
+					<key>Track ID</key><integer>7125</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7094</integer>
+					<key>Track ID</key><integer>7107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7080</integer>
+					<key>Track ID</key><integer>7095</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7144</integer>
+					<key>Track ID</key><integer>7145</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7106</integer>
+					<key>Track ID</key><integer>7115</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7142</integer>
+					<key>Track ID</key><integer>7143</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7012</integer>
+					<key>Track ID</key><integer>7035</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7066</integer>
+					<key>Track ID</key><integer>7081</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7030</integer>
+					<key>Track ID</key><integer>7051</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6988</integer>
+					<key>Track ID</key><integer>7015</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6998</integer>
+					<key>Track ID</key><integer>7023</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6946</integer>
+					<key>Track ID</key><integer>6981</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7046</integer>
+					<key>Track ID</key><integer>7065</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7006</integer>
+					<key>Track ID</key><integer>7029</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6924</integer>
+					<key>Track ID</key><integer>6967</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7126</integer>
+					<key>Track ID</key><integer>7135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6993</integer>
 				</dict>
 			</array>
 		</dict>

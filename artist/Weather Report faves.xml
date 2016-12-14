@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-09T07:34:55Z</date>
+	<key>Date</key><date>2016-12-14T04:25:19Z</date>
 	<key>Application Version</key><string>12.5.3.17</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8324</key>
+		<key>8207</key>
 		<dict>
-			<key>Track ID</key><integer>8324</integer>
+			<key>Track ID</key><integer>8207</integer>
 			<key>Name</key><string>Directions</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>I Sing the Body Electric</string>
@@ -30,9 +30,10 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3563890222</integer>
 			<key>Play Date UTC</key><date>2016-12-07T01:30:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T01:36:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9BD587DE79EB877E</string>
 			<key>Track Type</key><string>File</string>
@@ -40,9 +41,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8328</key>
+		<key>8209</key>
 		<dict>
-			<key>Track ID</key><integer>8328</integer>
+			<key>Track ID</key><integer>8209</integer>
+			<key>Name</key><string>Medley:  T.H./Dr. Honoris Causa</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album</key><string>I Sing the Body Electric</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10247902</integer>
+			<key>Total Time</key><integer>639973</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2011-03-19T23:17:12Z</date>
+			<key>Date Added</key><date>2016-12-01T07:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563441643</integer>
+			<key>Play Date UTC</key><date>2016-12-01T20:54:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>695FA95405A3A44D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/I%20Sing%20the%20Body%20Electric/Medley_%20%20T.H._Dr.%20Honoris%20Causa.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8211</key>
+		<dict>
+			<key>Track ID</key><integer>8211</integer>
 			<key>Name</key><string>Second Sunday in August</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>I Sing the Body Electric</string>
@@ -55,9 +83,10 @@
 			<key>Date Added</key><date>2016-12-01T07:12:23Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T16:22:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A343D9F0F4939165</string>
 			<key>Track Type</key><string>File</string>
@@ -65,9 +94,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8330</key>
+		<key>8213</key>
 		<dict>
-			<key>Track ID</key><integer>8330</integer>
+			<key>Track ID</key><integer>8213</integer>
 			<key>Name</key><string>Surucucu</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>I Sing the Body Electric</string>
@@ -84,7 +113,6 @@
 			<key>Skip Date</key><date>2016-12-08T04:10:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>855123159E7FD395</string>
 			<key>Track Type</key><string>File</string>
@@ -92,9 +120,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8332</key>
+		<key>8215</key>
 		<dict>
-			<key>Track ID</key><integer>8332</integer>
+			<key>Track ID</key><integer>8215</integer>
 			<key>Name</key><string>The Moors</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>I Sing the Body Electric</string>
@@ -114,7 +142,6 @@
 			<key>Skip Date</key><date>2016-12-08T01:13:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Moors</string>
 			<key>Persistent ID</key><string>1AF27FDC3F477946</string>
@@ -123,9 +150,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8336</key>
+		<key>8217</key>
 		<dict>
-			<key>Track ID</key><integer>8336</integer>
+			<key>Track ID</key><integer>8217</integer>
+			<key>Name</key><string>Unknown Soldier</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album</key><string>I Sing the Body Electric</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7697515</integer>
+			<key>Total Time</key><integer>480574</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-03-19T23:17:12Z</date>
+			<key>Date Added</key><date>2016-12-01T07:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563442932</integer>
+			<key>Play Date UTC</key><date>2016-12-01T21:15:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DADFAA846B0FC722</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/I%20Sing%20the%20Body%20Electric/Unknown%20Soldier.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8219</key>
+		<dict>
+			<key>Track ID</key><integer>8219</integer>
 			<key>Name</key><string>Milky Way</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -150,9 +204,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8338</key>
+		<key>8221</key>
 		<dict>
-			<key>Track ID</key><integer>8338</integer>
+			<key>Track ID</key><integer>8221</integer>
 			<key>Name</key><string>Morning Lake</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -165,6 +219,8 @@
 			<key>Date Added</key><date>2016-12-01T07:12:23Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T20:45:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -175,9 +231,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8340</key>
+		<key>8223</key>
 		<dict>
-			<key>Track ID</key><integer>8340</integer>
+			<key>Track ID</key><integer>8223</integer>
 			<key>Name</key><string>Orange Lady</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -203,9 +259,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8342</key>
+		<key>8225</key>
 		<dict>
-			<key>Track ID</key><integer>8342</integer>
+			<key>Track ID</key><integer>8225</integer>
 			<key>Name</key><string>Seventh Arrow</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -231,9 +287,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8344</key>
+		<key>8227</key>
 		<dict>
-			<key>Track ID</key><integer>8344</integer>
+			<key>Track ID</key><integer>8227</integer>
 			<key>Name</key><string>Tears</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -261,9 +317,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8346</key>
+		<key>8229</key>
 		<dict>
-			<key>Track ID</key><integer>8346</integer>
+			<key>Track ID</key><integer>8229</integer>
 			<key>Name</key><string>Umbrellas</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -291,9 +347,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8348</key>
+		<key>8231</key>
 		<dict>
-			<key>Track ID</key><integer>8348</integer>
+			<key>Track ID</key><integer>8231</integer>
 			<key>Name</key><string>Waterfall</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Weather Report [1971]</string>
@@ -321,9 +377,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8438</key>
+		<key>8295</key>
 		<dict>
-			<key>Track ID</key><integer>8438</integer>
+			<key>Track ID</key><integer>8295</integer>
 			<key>Name</key><string>Black Market</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>8:30 (disc 1)</string>
@@ -348,9 +404,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8442</key>
+		<key>8297</key>
 		<dict>
-			<key>Track ID</key><integer>8442</integer>
+			<key>Track ID</key><integer>8297</integer>
 			<key>Name</key><string>Teen Town</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>8:30 (disc 1)</string>
@@ -374,9 +430,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8444</key>
+		<key>8299</key>
 		<dict>
-			<key>Track ID</key><integer>8444</integer>
+			<key>Track ID</key><integer>8299</integer>
 			<key>Name</key><string>A Remark You Made</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>8:30 (disc 1)</string>
@@ -401,9 +457,35 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8450</key>
+		<key>8301</key>
 		<dict>
-			<key>Track ID</key><integer>8450</integer>
+			<key>Track ID</key><integer>8301</integer>
+			<key>Name</key><string>Slang (Bass Solo)</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album</key><string>8:30 (disc 1)</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11454492</integer>
+			<key>Total Time</key><integer>286354</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2016-12-01T08:02:05Z</date>
+			<key>Date Added</key><date>2016-12-01T08:08:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-12-13T17:44:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>758501C784577962</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/8%2030%20(1979)/05%20-%20Slang%20(Bass%20Solo).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8303</key>
+		<dict>
+			<key>Track ID</key><integer>8303</integer>
 			<key>Name</key><string>Birdland</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>8:30 (disc 2)</string>
@@ -424,9 +506,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8462</key>
+		<key>8313</key>
 		<dict>
-			<key>Track ID</key><integer>8462</integer>
+			<key>Track ID</key><integer>8313</integer>
 			<key>Name</key><string>Badia / Boogie Woogie Waltz</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -449,9 +531,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8464</key>
+		<key>8315</key>
 		<dict>
-			<key>Track ID</key><integer>8464</integer>
+			<key>Track ID</key><integer>8315</integer>
 			<key>Name</key><string>American Tango</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Mysterious Traveller</string>
@@ -474,9 +556,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8466</key>
+		<key>8317</key>
 		<dict>
-			<key>Track ID</key><integer>8466</integer>
+			<key>Track ID</key><integer>8317</integer>
 			<key>Name</key><string>Cucumber Slumber</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Mysterious Traveller</string>
@@ -489,6 +571,8 @@
 			<key>Date Added</key><date>2016-12-01T08:08:00Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T00:19:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -499,9 +583,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8468</key>
+		<key>8319</key>
 		<dict>
-			<key>Track ID</key><integer>8468</integer>
+			<key>Track ID</key><integer>8319</integer>
 			<key>Name</key><string>Nubian Sundance</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Mysterious Traveller</string>
@@ -514,8 +598,8 @@
 			<key>Date Added</key><date>2016-12-01T08:08:00Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-03T20:06:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-12-10T08:22:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -526,9 +610,72 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8484</key>
+		<key>8323</key>
 		<dict>
-			<key>Track ID</key><integer>8484</integer>
+			<key>Track ID</key><integer>8323</integer>
+			<key>Name</key><string>Sightseeing</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album Artist</key><string>Weather Report</string>
+			<key>Album</key><string>The Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18156625</integer>
+			<key>Total Time</key><integer>453903</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-01T08:21:13Z</date>
+			<key>Date Added</key><date>2016-12-01T08:31:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563891111</integer>
+			<key>Play Date UTC</key><date>2016-12-07T01:45:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T21:58:45Z</date>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
+			<key>Persistent ID</key><string>3F9D3B6920E960C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/The%20Legendary%20Live%20Tapes%201978-1981/02%20-%20Sightseeing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8325</key>
+		<dict>
+			<key>Track ID</key><integer>8325</integer>
+			<key>Name</key><string>The Orphan</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album Artist</key><string>Weather Report</string>
+			<key>Album</key><string>The Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4448607</integer>
+			<key>Total Time</key><integer>111203</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-01T08:21:38Z</date>
+			<key>Date Added</key><date>2016-12-01T08:31:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564139209</integer>
+			<key>Play Date UTC</key><date>2016-12-09T22:40:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T22:41:59Z</date>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
+			<key>Sort Name</key><string>Orphan</string>
+			<key>Persistent ID</key><string>E7B69A423A17BC1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/The%20Legendary%20Live%20Tapes%201978-1981/04%20-%20The%20Orphan.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8327</key>
+		<dict>
+			<key>Track ID</key><integer>8327</integer>
 			<key>Name</key><string>Three Views of a Secret</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -545,7 +692,6 @@
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
 			<key>Persistent ID</key><string>E5FB9B7042D4910B</string>
 			<key>Track Type</key><string>File</string>
@@ -553,9 +699,68 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8494</key>
+		<key>8329</key>
 		<dict>
-			<key>Track ID</key><integer>8494</integer>
+			<key>Track ID</key><integer>8329</integer>
+			<key>Name</key><string>Jaco Solo</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album Artist</key><string>Weather Report</string>
+			<key>Album</key><string>The Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19183757</integer>
+			<key>Total Time</key><integer>479582</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2016-12-01T08:24:03Z</date>
+			<key>Date Added</key><date>2016-12-01T08:31:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-12-12T16:20:17Z</date>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Legendary Live Tapes-CD1-The Quintet 1980-1981</string>
+			<key>Persistent ID</key><string>7392807FA782CCA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/The%20Legendary%20Live%20Tapes%201978-1981/09%20-%20Jaco%20Solo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8331</key>
+		<dict>
+			<key>Track ID</key><integer>8331</integer>
+			<key>Name</key><string>Peter's Solo</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album Artist</key><string>Weather Report</string>
+			<key>Album</key><string>The Legendary Live Tapes-CD2-The Quartet 1978</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11320898</integer>
+			<key>Total Time</key><integer>283010</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-01T08:24:42Z</date>
+			<key>Date Added</key><date>2016-12-01T08:31:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564386770</integer>
+			<key>Play Date UTC</key><date>2016-12-12T19:26:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-07T16:26:21Z</date>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Album</key><string>Legendary Live Tapes-CD2-The Quartet 1978</string>
+			<key>Persistent ID</key><string>47700E4677CDB862</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/The%20Legendary%20Live%20Tapes%201978-1981/12%20-%20Weather%20Report%20-%20Peter's%20Solo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8333</key>
+		<dict>
+			<key>Track ID</key><integer>8333</integer>
 			<key>Name</key><string>A Remark You Made</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -572,7 +777,6 @@
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes-CD2-The Quartet 1978</string>
 			<key>Sort Name</key><string>Remark You Made</string>
 			<key>Persistent ID</key><string>E3E51CCA07D955D9</string>
@@ -581,9 +785,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8496</key>
+		<key>8335</key>
 		<dict>
-			<key>Track ID</key><integer>8496</integer>
+			<key>Track ID</key><integer>8335</integer>
 			<key>Name</key><string>Continuum - River People</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -600,7 +804,6 @@
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes-CD2-The Quartet 1978</string>
 			<key>Sort Artist</key><string>Weather Report</string>
 			<key>Sort Name</key><string>Continuum - River People</string>
@@ -610,9 +813,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8498</key>
+		<key>8337</key>
 		<dict>
-			<key>Track ID</key><integer>8498</integer>
+			<key>Track ID</key><integer>8337</integer>
 			<key>Name</key><string>Gibraltar</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -629,7 +832,6 @@
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes-CD2-The Quartet 1978</string>
 			<key>Persistent ID</key><string>41A22A636B37F2EE</string>
 			<key>Track Type</key><string>File</string>
@@ -637,9 +839,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8504</key>
+		<key>8339</key>
 		<dict>
-			<key>Track ID</key><integer>8504</integer>
+			<key>Track ID</key><integer>8339</integer>
 			<key>Name</key><string>Night Passage</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -657,7 +859,7 @@
 			<key>Skip Date</key><date>2016-12-07T00:59:04Z</date>
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes - CD3 - The Quintet 1980-1981</string>
 			<key>Persistent ID</key><string>DBBC75A8F87B19F7</string>
@@ -666,9 +868,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8508</key>
+		<key>8343</key>
 		<dict>
-			<key>Track ID</key><integer>8508</integer>
+			<key>Track ID</key><integer>8343</integer>
 			<key>Name</key><string>Rockin' In Rhythm</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -686,7 +888,7 @@
 			<key>Skip Date</key><date>2016-12-08T00:09:10Z</date>
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes - CD3 - The Quintet 1980-1981</string>
 			<key>Persistent ID</key><string>2838B39D8660EE3E</string>
@@ -695,9 +897,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8510</key>
+		<key>8345</key>
 		<dict>
-			<key>Track ID</key><integer>8510</integer>
+			<key>Track ID</key><integer>8345</integer>
 			<key>Name</key><string>Port of Entry</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -713,7 +915,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Legendary Live Tapes - CD3 - The Quintet 1980-1981</string>
 			<key>Persistent ID</key><string>D5E476F2C0465DD3</string>
@@ -722,9 +924,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8512</key>
+		<key>8347</key>
 		<dict>
-			<key>Track ID</key><integer>8512</integer>
+			<key>Track ID</key><integer>8347</integer>
 			<key>Name</key><string>Elegant People</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -751,9 +953,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8514</key>
+		<key>8349</key>
 		<dict>
-			<key>Track ID</key><integer>8514</integer>
+			<key>Track ID</key><integer>8349</integer>
 			<key>Name</key><string>Black Market</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -780,9 +982,39 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8524</key>
+		<key>8351</key>
 		<dict>
-			<key>Track ID</key><integer>8524</integer>
+			<key>Track ID</key><integer>8351</integer>
+			<key>Name</key><string>Jaco Solo</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album Artist</key><string>Weather Report</string>
+			<key>Album</key><string>The Legendary Live Tapes - CD4 - The Quartet 1978</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19970564</integer>
+			<key>Total Time</key><integer>499252</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-01T08:30:08Z</date>
+			<key>Date Added</key><date>2016-12-01T08:31:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563888125</integer>
+			<key>Play Date UTC</key><date>2016-12-07T00:55:25Z</date>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Legendary Live Tapes - CD4 - The Quartet 1978</string>
+			<key>Persistent ID</key><string>7709B56850AE8D69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/The%20Legendary%20Live%20Tapes%201978-1981/25%20-%20Jaco%20Solo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8353</key>
+		<dict>
+			<key>Track ID</key><integer>8353</integer>
 			<key>Name</key><string>River People</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -799,16 +1031,43 @@
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>50A05DCF688F5E3C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Mr.Gone%20(1978)/02%20-%20River%20People.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8532</key>
+		<key>8355</key>
 		<dict>
-			<key>Track ID</key><integer>8532</integer>
+			<key>Track ID</key><integer>8355</integer>
+			<key>Name</key><string>Young And Fine</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album Artist</key><string>Weather Report</string>
+			<key>Album</key><string>Mr. Gone</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16596293</integer>
+			<key>Total Time</key><integer>414902</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-02T04:53:05Z</date>
+			<key>Date Added</key><date>2016-12-02T04:56:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564089165</integer>
+			<key>Play Date UTC</key><date>2016-12-09T08:46:05Z</date>
+			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>1A8F9C998E4096C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Mr.Gone%20(1978)/03%20-%20Young%20And%20Fine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8357</key>
+		<dict>
+			<key>Track ID</key><integer>8357</integer>
 			<key>Name</key><string>Punk Jazz</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -825,19 +1084,20 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3563523193</integer>
 			<key>Play Date UTC</key><date>2016-12-02T19:33:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-12-11T08:53:14Z</date>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>E042FF886079A6DA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Mr.Gone%20(1978)/06%20-%20Punk%20Jazz.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8534</key>
+		<key>8359</key>
 		<dict>
-			<key>Track ID</key><integer>8534</integer>
+			<key>Track ID</key><integer>8359</integer>
 			<key>Name</key><string>Pinocchio</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album Artist</key><string>Weather Report</string>
@@ -859,16 +1119,15 @@
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>75DF41D002D81947</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Mr.Gone%20(1978)/07%20-%20Pinocchio.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8996</key>
+		<key>8679</key>
 		<dict>
-			<key>Track ID</key><integer>8996</integer>
+			<key>Track ID</key><integer>8679</integer>
 			<key>Name</key><string>Black Market</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Black Market</string>
@@ -891,9 +1150,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9002</key>
+		<key>8685</key>
 		<dict>
-			<key>Track ID</key><integer>9002</integer>
+			<key>Track ID</key><integer>8685</integer>
 			<key>Name</key><string>Gibraltar</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Black Market</string>
@@ -917,9 +1176,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9004</key>
+		<key>8687</key>
 		<dict>
-			<key>Track ID</key><integer>9004</integer>
+			<key>Track ID</key><integer>8687</integer>
 			<key>Name</key><string>Herandnu</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Black Market</string>
@@ -941,9 +1200,39 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9010</key>
+		<key>8691</key>
 		<dict>
-			<key>Track ID</key><integer>9010</integer>
+			<key>Track ID</key><integer>8691</integer>
+			<key>Name</key><string>A Remark You Made</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album</key><string>Heavy Weather</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6633307</integer>
+			<key>Total Time</key><integer>413805</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2011-03-19T23:17:08Z</date>
+			<key>Date Added</key><date>2016-12-02T23:34:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3564490662</integer>
+			<key>Play Date UTC</key><date>2016-12-14T00:17:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T22:09:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Remark You Made</string>
+			<key>Persistent ID</key><string>A1E34EB722FD7B4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Heavy%20Weather/A%20Remark%20You%20Made.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8693</key>
+		<dict>
+			<key>Track ID</key><integer>8693</integer>
 			<key>Name</key><string>Birdland</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Heavy Weather</string>
@@ -956,11 +1245,10 @@
 			<key>Date Added</key><date>2016-12-02T23:34:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-07T16:47:28Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-12-12T09:01:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7D23D80A5EAE843D</string>
 			<key>Track Type</key><string>File</string>
@@ -968,9 +1256,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9012</key>
+		<key>8695</key>
 		<dict>
-			<key>Track ID</key><integer>9012</integer>
+			<key>Track ID</key><integer>8695</integer>
 			<key>Name</key><string>Harlequin</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Heavy Weather</string>
@@ -983,9 +1271,10 @@
 			<key>Date Added</key><date>2016-12-02T23:34:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-09T22:44:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AFC27B415A9FACA5</string>
 			<key>Track Type</key><string>File</string>
@@ -993,9 +1282,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9014</key>
+		<key>8697</key>
 		<dict>
-			<key>Track ID</key><integer>9014</integer>
+			<key>Track ID</key><integer>8697</integer>
 			<key>Name</key><string>Havona</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Heavy Weather</string>
@@ -1010,7 +1299,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>82E4D5442DBB63A7</string>
 			<key>Track Type</key><string>File</string>
@@ -1018,9 +1306,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9016</key>
+		<key>8699</key>
 		<dict>
-			<key>Track ID</key><integer>9016</integer>
+			<key>Track ID</key><integer>8699</integer>
 			<key>Name</key><string>Palladium</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Heavy Weather</string>
@@ -1037,7 +1325,6 @@
 			<key>Skip Date</key><date>2016-12-07T16:47:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C1E9A34F8A8E2AB3</string>
 			<key>Track Type</key><string>File</string>
@@ -1045,9 +1332,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9018</key>
+		<key>8701</key>
 		<dict>
-			<key>Track ID</key><integer>9018</integer>
+			<key>Track ID</key><integer>8701</integer>
 			<key>Name</key><string>The Juggler</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Heavy Weather</string>
@@ -1062,7 +1349,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Juggler</string>
 			<key>Persistent ID</key><string>96723E9F352162ED</string>
@@ -1071,9 +1357,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9020</key>
+		<key>8703</key>
 		<dict>
-			<key>Track ID</key><integer>9020</integer>
+			<key>Track ID</key><integer>8703</integer>
 			<key>Name</key><string>Night Passage</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Night Passage</string>
@@ -1086,8 +1372,8 @@
 			<key>Date Added</key><date>2016-12-02T23:34:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2016-12-08T03:38:24Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-12-10T02:46:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1098,9 +1384,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9022</key>
+		<key>8705</key>
 		<dict>
-			<key>Track ID</key><integer>9022</integer>
+			<key>Track ID</key><integer>8705</integer>
 			<key>Name</key><string>Port of Entry</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Night Passage</string>
@@ -1123,9 +1409,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9026</key>
+		<key>8709</key>
 		<dict>
-			<key>Track ID</key><integer>9026</integer>
+			<key>Track ID</key><integer>8709</integer>
 			<key>Name</key><string>Three Views of a Secret</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Night Passage</string>
@@ -1138,8 +1424,8 @@
 			<key>Date Added</key><date>2016-12-02T23:34:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-08T16:59:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-12-12T16:17:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1150,9 +1436,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9028</key>
+		<key>8711</key>
 		<dict>
-			<key>Track ID</key><integer>9028</integer>
+			<key>Track ID</key><integer>8711</integer>
 			<key>Name</key><string>A Remark You Made</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
@@ -1179,9 +1465,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9030</key>
+		<key>8713</key>
 		<dict>
-			<key>Track ID</key><integer>9030</integer>
+			<key>Track ID</key><integer>8713</integer>
 			<key>Name</key><string>Havona</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
@@ -1206,9 +1492,34 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9034</key>
+		<key>8715</key>
 		<dict>
-			<key>Track ID</key><integer>9034</integer>
+			<key>Track ID</key><integer>8715</integer>
+			<key>Name</key><string>Punk Jazz</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4972379</integer>
+			<key>Total Time</key><integer>310125</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-03-19T23:17:16Z</date>
+			<key>Date Added</key><date>2016-12-02T23:34:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FA23AC7EB18B0B0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/This%20Is%20Jazz,%20Vol.%2040_%20The%20Jaco%20Years/Punk%20Jazz.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8717</key>
+		<dict>
+			<key>Track ID</key><integer>8717</integer>
 			<key>Name</key><string>River People</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
@@ -1231,9 +1542,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9036</key>
+		<key>8719</key>
 		<dict>
-			<key>Track ID</key><integer>9036</integer>
+			<key>Track ID</key><integer>8719</integer>
 			<key>Name</key><string>Slang</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
@@ -1258,9 +1569,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9038</key>
+		<key>8721</key>
 		<dict>
-			<key>Track ID</key><integer>9038</integer>
+			<key>Track ID</key><integer>8721</integer>
 			<key>Name</key><string>Teen Town</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
@@ -1285,9 +1596,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9040</key>
+		<key>8723</key>
 		<dict>
-			<key>Track ID</key><integer>9040</integer>
+			<key>Track ID</key><integer>8723</integer>
 			<key>Name</key><string>Three Views of a Secret</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>This Is Jazz, Vol. 40: The Jaco Years</string>
@@ -1313,9 +1624,33 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9068</key>
+		<key>8743</key>
 		<dict>
-			<key>Track ID</key><integer>9068</integer>
+			<key>Track ID</key><integer>8743</integer>
+			<key>Name</key><string>Man in the Green Shirt</string>
+			<key>Artist</key><string>Weather Report</string>
+			<key>Album</key><string>Tale Spinnin' (The Columbia Albums 1971-1975)</string>
+			<key>Genre</key><string>Jazz Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15549657</integer>
+			<key>Total Time</key><integer>388728</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-12-03T22:14:29Z</date>
+			<key>Date Added</key><date>2016-12-03T22:17:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>92B273EB465A0B9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Tale%20Spinnin'%20(1975)/01%20Man%20in%20the%20Green%20Shirt.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8745</key>
+		<dict>
+			<key>Track ID</key><integer>8745</integer>
 			<key>Name</key><string>Freezing Fire</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Tale Spinnin' (The Columbia Albums 1971-1975)</string>
@@ -1331,16 +1666,15 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>B2BB8EC5128C6DE9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Tale%20Spinnin'%20(1975)/05%20Freezing%20Fire.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9074</key>
+		<key>8747</key>
 		<dict>
-			<key>Track ID</key><integer>9074</integer>
+			<key>Track ID</key><integer>8747</integer>
 			<key>Name</key><string>Directions/Dr. Honoris Causa (live)</string>
 			<key>Artist</key><string>Weather Report</string>
 			<key>Album</key><string>Tale Spinnin' (The Columbia Albums 1971-1975)</string>
@@ -1356,7 +1690,6 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>13857BBAB295FD0E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Weather%20Report/Tale%20Spinnin'%20(1975)/08%20Directions%EF%BC%8FDr.%20Honoris%20Causa%20(live).mp3</string>
@@ -1369,160 +1702,196 @@
 		<dict>
 			<key>Name</key><string>Weather Report faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>19231</integer>
+			<key>Playlist ID</key><integer>20202</integer>
 			<key>Playlist Persistent ID</key><string>C54EEEE0DF5E90A3</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8524</integer>
+					<key>Track ID</key><integer>8353</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8496</integer>
+					<key>Track ID</key><integer>8335</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8508</integer>
+					<key>Track ID</key><integer>8343</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8996</integer>
+					<key>Track ID</key><integer>8679</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9004</integer>
+					<key>Track ID</key><integer>8687</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8450</integer>
+					<key>Track ID</key><integer>8303</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9002</integer>
+					<key>Track ID</key><integer>8685</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8468</integer>
+					<key>Track ID</key><integer>8319</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8464</integer>
+					<key>Track ID</key><integer>8315</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9028</integer>
+					<key>Track ID</key><integer>8711</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9030</integer>
+					<key>Track ID</key><integer>8713</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8332</integer>
+					<key>Track ID</key><integer>8215</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9034</integer>
+					<key>Track ID</key><integer>8717</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8346</integer>
+					<key>Track ID</key><integer>8229</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8340</integer>
+					<key>Track ID</key><integer>8223</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9016</integer>
+					<key>Track ID</key><integer>8699</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9010</integer>
+					<key>Track ID</key><integer>8693</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9012</integer>
+					<key>Track ID</key><integer>8695</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8330</integer>
+					<key>Track ID</key><integer>8213</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8494</integer>
+					<key>Track ID</key><integer>8333</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8462</integer>
+					<key>Track ID</key><integer>8313</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8534</integer>
+					<key>Track ID</key><integer>8359</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8466</integer>
+					<key>Track ID</key><integer>8317</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9068</integer>
+					<key>Track ID</key><integer>8745</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8338</integer>
+					<key>Track ID</key><integer>8221</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8348</integer>
+					<key>Track ID</key><integer>8231</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8444</integer>
+					<key>Track ID</key><integer>8299</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9020</integer>
+					<key>Track ID</key><integer>8703</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8532</integer>
+					<key>Track ID</key><integer>8357</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8498</integer>
+					<key>Track ID</key><integer>8337</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8484</integer>
+					<key>Track ID</key><integer>8327</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8514</integer>
+					<key>Track ID</key><integer>8349</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8512</integer>
+					<key>Track ID</key><integer>8347</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8324</integer>
+					<key>Track ID</key><integer>8207</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8504</integer>
+					<key>Track ID</key><integer>8339</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8510</integer>
+					<key>Track ID</key><integer>8345</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9040</integer>
+					<key>Track ID</key><integer>8723</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8344</integer>
+					<key>Track ID</key><integer>8227</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8438</integer>
+					<key>Track ID</key><integer>8295</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8442</integer>
+					<key>Track ID</key><integer>8297</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8328</integer>
+					<key>Track ID</key><integer>8211</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9038</integer>
+					<key>Track ID</key><integer>8721</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9036</integer>
+					<key>Track ID</key><integer>8719</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8336</integer>
+					<key>Track ID</key><integer>8219</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8342</integer>
+					<key>Track ID</key><integer>8225</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9018</integer>
+					<key>Track ID</key><integer>8701</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9014</integer>
+					<key>Track ID</key><integer>8697</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9022</integer>
+					<key>Track ID</key><integer>8705</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9026</integer>
+					<key>Track ID</key><integer>8709</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9074</integer>
+					<key>Track ID</key><integer>8747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8301</integer>
 				</dict>
 			</array>
 		</dict>
