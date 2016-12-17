@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-14T04:25:28Z</date>
-	<key>Application Version</key><string>12.5.3.17</string>
+	<key>Date</key><date>2016-12-17T06:21:17Z</date>
+	<key>Application Version</key><string>12.5.4.42</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8363</key>
+		<key>8019</key>
 		<dict>
-			<key>Track ID</key><integer>8363</integer>
+			<key>Track ID</key><integer>8019</integer>
 			<key>Name</key><string>I See You</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yes</string>
@@ -34,12 +34,12 @@
 			<key>Persistent ID</key><string>52335BD4937D5D28</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1969%20-%20Yes/(02)%20%5BYes%5D%20I%20See%20You.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8369</key>
+		<key>8025</key>
 		<dict>
-			<key>Track ID</key><integer>8369</integer>
+			<key>Track ID</key><integer>8025</integer>
 			<key>Name</key><string>Everydays (Single Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yes</string>
@@ -59,12 +59,12 @@
 			<key>Persistent ID</key><string>83F52A811ADBC5C2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1969%20-%20Yes/(09)%20%5BYes%5D%20Everydays%20(Single%20Version).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8377</key>
+		<key>8031</key>
 		<dict>
-			<key>Track ID</key><integer>8377</integer>
+			<key>Track ID</key><integer>8031</integer>
 			<key>Name</key><string>Something's Coming (Early Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yes</string>
@@ -84,12 +84,37 @@
 			<key>Persistent ID</key><string>7D1CD85FD7C65821</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1969%20-%20Yes/(14)%20%5BYes%5D%20Something's%20Coming%20(Early%20Version).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8387</key>
+		<key>8039</key>
 		<dict>
-			<key>Track ID</key><integer>8387</integer>
+			<key>Track ID</key><integer>8039</integer>
+			<key>Name</key><string>Roundabout</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Fragile</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20519666</integer>
+			<key>Total Time</key><integer>512783</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-02T01:55:01Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>4CCEB9D7B042FE4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(01)%20%5BYes%5D%20Roundabout.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8041</key>
+		<dict>
+			<key>Track ID</key><integer>8041</integer>
 			<key>Name</key><string>We Have Heaven</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Fragile</string>
@@ -112,12 +137,12 @@
 			<key>Persistent ID</key><string>8C7210FDFD9F5CAB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(03)%20%5BYes%5D%20We%20Have%20Heaven.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8389</key>
+		<key>8043</key>
 		<dict>
-			<key>Track ID</key><integer>8389</integer>
+			<key>Track ID</key><integer>8043</integer>
 			<key>Name</key><string>South Side Of The Sky</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Fragile</string>
@@ -137,12 +162,12 @@
 			<key>Persistent ID</key><string>13D34958B28846D9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(04)%20%5BYes%5D%20South%20Side%20Of%20The%20Sky.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8391</key>
+		<key>8045</key>
 		<dict>
-			<key>Track ID</key><integer>8391</integer>
+			<key>Track ID</key><integer>8045</integer>
 			<key>Name</key><string>Five Per Cent For Nothing</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Fragile</string>
@@ -162,12 +187,42 @@
 			<key>Persistent ID</key><string>84666C51E8E625C9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(05)%20%5BYes%5D%20Five%20Per%20Cent%20For%20Nothing.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8395</key>
+		<key>8047</key>
 		<dict>
-			<key>Track ID</key><integer>8395</integer>
+			<key>Track ID</key><integer>8047</integer>
+			<key>Name</key><string>Long Distance Runaround</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Fragile</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8418704</integer>
+			<key>Total Time</key><integer>210259</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-02T01:55:10Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564571743</integer>
+			<key>Play Date UTC</key><date>2016-12-14T22:49:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-14T22:49:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>EAC7D5AFA8BB1DE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(06)%20%5BYes%5D%20Long%20Distance%20Runaround.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8049</key>
+		<dict>
+			<key>Track ID</key><integer>8049</integer>
 			<key>Name</key><string>The Fish (Schindleria Praematurus)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Fragile</string>
@@ -190,12 +245,12 @@
 			<key>Persistent ID</key><string>334692DB18E50692</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(07)%20%5BYes%5D%20The%20Fish%20(Schindleria%20Praematurus).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8397</key>
+		<key>8051</key>
 		<dict>
-			<key>Track ID</key><integer>8397</integer>
+			<key>Track ID</key><integer>8051</integer>
 			<key>Name</key><string>Mood For A Day</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Fragile</string>
@@ -215,12 +270,40 @@
 			<key>Persistent ID</key><string>4EFC9932AF0BED38</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(08)%20%5BYes%5D%20Mood%20For%20A%20Day.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8403</key>
+		<key>8053</key>
 		<dict>
-			<key>Track ID</key><integer>8403</integer>
+			<key>Track ID</key><integer>8053</integer>
+			<key>Name</key><string>Heart Of The Sunrise</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Fragile</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27512124</integer>
+			<key>Total Time</key><integer>687595</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-02T01:55:16Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564075472</integer>
+			<key>Play Date UTC</key><date>2016-12-09T04:57:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>11646E50791C18AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(09)%20%5BYes%5D%20Heart%20Of%20The%20Sunrise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8055</key>
+		<dict>
+			<key>Track ID</key><integer>8055</integer>
 			<key>Name</key><string>Roundabout (Early Rough Mix)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Fragile</string>
@@ -242,12 +325,12 @@
 			<key>Persistent ID</key><string>D4B7B8A82C65A9DC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20Fragile/(11)%20%5BYes%5D%20Roundabout%20(Early%20Rough%20Mix).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8405</key>
+		<key>8057</key>
 		<dict>
-			<key>Track ID</key><integer>8405</integer>
+			<key>Track ID</key><integer>8057</integer>
 			<key>Name</key><string>Yours Is No Disgrace</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -271,12 +354,12 @@
 			<key>Persistent ID</key><string>61B0626FA1F08DCB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(01)%20%5BYes%5D%20Yours%20Is%20No%20Disgrace.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8407</key>
+		<key>8059</key>
 		<dict>
-			<key>Track ID</key><integer>8407</integer>
+			<key>Track ID</key><integer>8059</integer>
 			<key>Name</key><string>Clap</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -297,12 +380,12 @@
 			<key>Persistent ID</key><string>A602502E7D3631E2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(02)%20%5BYes%5D%20Clap.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8411</key>
+		<key>8063</key>
 		<dict>
-			<key>Track ID</key><integer>8411</integer>
+			<key>Track ID</key><integer>8063</integer>
 			<key>Name</key><string>I've Seen All Good People a. Your Move b. All Good People</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -328,12 +411,12 @@
 			<key>Persistent ID</key><string>5365C64BD0818656</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(04)%20%5BYes%5D%20I've%20Seen%20All%20Good%20People%20a.%20Your%20Move%20b.%20All%20Good%20People.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8413</key>
+		<key>8065</key>
 		<dict>
-			<key>Track ID</key><integer>8413</integer>
+			<key>Track ID</key><integer>8065</integer>
 			<key>Name</key><string>A Venture</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -358,12 +441,12 @@
 			<key>Persistent ID</key><string>4DA8E1B814CA0FF0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(05)%20%5BYes%5D%20A%20Venture.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8415</key>
+		<key>8067</key>
 		<dict>
-			<key>Track ID</key><integer>8415</integer>
+			<key>Track ID</key><integer>8067</integer>
 			<key>Name</key><string>Perpetual Change</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -387,12 +470,12 @@
 			<key>Persistent ID</key><string>4BE1393A5FB59C96</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(06)%20%5BYes%5D%20Perpetual%20Change.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8417</key>
+		<key>8069</key>
 		<dict>
-			<key>Track ID</key><integer>8417</integer>
+			<key>Track ID</key><integer>8069</integer>
 			<key>Name</key><string>Your Move (Single Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -418,12 +501,12 @@
 			<key>Persistent ID</key><string>2694D57C12200F28</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(07)%20%5BYes%5D%20Your%20Move%20(Single%20Version).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8421</key>
+		<key>8073</key>
 		<dict>
-			<key>Track ID</key><integer>8421</integer>
+			<key>Track ID</key><integer>8073</integer>
 			<key>Name</key><string>Clap (Single Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>The Yes Album</string>
@@ -446,12 +529,12 @@
 			<key>Persistent ID</key><string>9A4A10449E2F59C2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1971%20-%20The%20Yes%20Album/(09)%20%5BYes%5D%20Clap%20(Single%20Version).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8423</key>
+		<key>8075</key>
 		<dict>
-			<key>Track ID</key><integer>8423</integer>
+			<key>Track ID</key><integer>8075</integer>
 			<key>Name</key><string>Close To The Edge: i. The Solid Time of Change / ii. Total Mass Retain / iii. I Get Up I Get Down  / iv. Seasons Of Man</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Close To The Edge</string>
@@ -473,12 +556,12 @@
 			<key>Persistent ID</key><string>BB991EA207B93DDD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1972%20-%20Close%20To%20The%20Edge/(01)%20%5BYes%5D%20Close%20To%20The%20Edge-%20i.%20The%20Solid%20Time%20of%20Change%20-%20ii.%20Total%20Mass%20Retain%20-%20iii.%20I%20Get%20Up%20I%20Get%20Down%20%20-%20iv.%20Seasons%20Of%20Man.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8425</key>
+		<key>8077</key>
 		<dict>
-			<key>Track ID</key><integer>8425</integer>
+			<key>Track ID</key><integer>8077</integer>
 			<key>Name</key><string>And You And I: i. Cord Of Life / ii. Eclipse / iii. The Preacher The Teacher / iv. Apocalypse</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Close To The Edge</string>
@@ -500,12 +583,12 @@
 			<key>Persistent ID</key><string>285E9E57A0D65FFA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1972%20-%20Close%20To%20The%20Edge/(02)%20%5BYes%5D%20And%20You%20And%20I-%20i.%20Cord%20Of%20Life%20-%20ii.%20Eclipse%20-%20iii.%20The%20Preacher%20The%20Teacher%20-%20iv.%20Apocalypse.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8429</key>
+		<key>8081</key>
 		<dict>
-			<key>Track ID</key><integer>8429</integer>
+			<key>Track ID</key><integer>8081</integer>
 			<key>Name</key><string>America (Single Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Close To The Edge</string>
@@ -525,12 +608,12 @@
 			<key>Persistent ID</key><string>4FA4B984122E6F08</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1972%20-%20Close%20To%20The%20Edge/(04)%20%5BYes%5D%20America%20(Single%20Version).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8431</key>
+		<key>8083</key>
 		<dict>
-			<key>Track ID</key><integer>8431</integer>
+			<key>Track ID</key><integer>8083</integer>
 			<key>Name</key><string>Total Mass Retain (Single Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Close To The Edge</string>
@@ -550,12 +633,62 @@
 			<key>Persistent ID</key><string>A27B11F7605CCE40</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1972%20-%20Close%20To%20The%20Edge/(05)%20%5BYes%5D%20Total%20Mass%20Retain%20(Single%20Version).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8571</key>
+		<key>8085</key>
 		<dict>
-			<key>Track ID</key><integer>8571</integer>
+			<key>Track ID</key><integer>8085</integer>
+			<key>Name</key><string>And You And I (Alternate Version)</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Close To The Edge</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>24723291</integer>
+			<key>Total Time</key><integer>617874</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-02T01:45:25Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>EA876179EC1B28E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1972%20-%20Close%20To%20The%20Edge/(06)%20%5BYes%5D%20And%20You%20And%20I%20(Alternate%20Version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8087</key>
+		<dict>
+			<key>Track ID</key><integer>8087</integer>
+			<key>Name</key><string>Siberia (Studio Run-through Of 'Siberian Khatru')</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Close To The Edge</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22405708</integer>
+			<key>Total Time</key><integer>559934</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-02T01:45:30Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>18EA1833BC846D5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1972%20-%20Close%20To%20The%20Edge/(07)%20%5BYes%5D%20Siberia%20(Studio%20Run-through%20Of%20'Siberian%20Khatru').mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8201</key>
+		<dict>
+			<key>Track ID</key><integer>8201</integer>
 			<key>Name</key><string>Siberian Khatru</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album Artist</key><string>Yes</string>
@@ -581,12 +714,12 @@
 			<key>Persistent ID</key><string>4F30CF1B5391002B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1996%20-%20Keys%20To%20Ascension/(1-01)%20%5BYes%5D%20Siberian%20Khatru.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8581</key>
+		<key>8209</key>
 		<dict>
-			<key>Track ID</key><integer>8581</integer>
+			<key>Track ID</key><integer>8209</integer>
 			<key>Name</key><string>Roundabout</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album Artist</key><string>Yes</string>
@@ -609,12 +742,12 @@
 			<key>Persistent ID</key><string>F96472BADC53A4B1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1996%20-%20Keys%20To%20Ascension/(2-01)%20%5BYes%5D%20Roundabout.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8595</key>
+		<key>8221</key>
 		<dict>
-			<key>Track ID</key><integer>8595</integer>
+			<key>Track ID</key><integer>8221</integer>
 			<key>Name</key><string>Close To The Edge</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Keys To Ascension 2</string>
@@ -638,12 +771,12 @@
 			<key>Persistent ID</key><string>20D06B831F7F61E0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1997%20-%20Keys%20To%20Ascension%202/(1-04)%20%5BYes%5D%20Close%20To%20The%20Edge.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8641</key>
+		<key>8265</key>
 		<dict>
-			<key>Track ID</key><integer>8641</integer>
+			<key>Track ID</key><integer>8265</integer>
 			<key>Name</key><string>Siberian Khatru</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yessongs (1 of 2)</string>
@@ -664,12 +797,110 @@
 			<key>Persistent ID</key><string>A2A6EB5B28AB875B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(1%20of%202)/02%20Siberian%20Khatru.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8651</key>
+		<key>8267</key>
 		<dict>
-			<key>Track ID</key><integer>8651</integer>
+			<key>Track ID</key><integer>8267</integer>
+			<key>Name</key><string>Heart of the Sunrise</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Yessongs (1 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11109734</integer>
+			<key>Total Time</key><integer>693838</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2011-03-19T23:20:38Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E04DAE865C7E63E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(1%20of%202)/03%20Heart%20of%20the%20Sunrise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8269</key>
+		<dict>
+			<key>Track ID</key><integer>8269</integer>
+			<key>Name</key><string>Perpetual Change</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Yessongs (1 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13631282</integer>
+			<key>Total Time</key><integer>851435</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2011-03-19T23:20:38Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-13T18:02:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43C619E00C319411</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(1%20of%202)/04%20Perpetual%20Change.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8271</key>
+		<dict>
+			<key>Track ID</key><integer>8271</integer>
+			<key>Name</key><string>And You and I: Cord of Life/Eclipse/The Preacher the Teacher/Apocalypse</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Yessongs (1 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9186704</integer>
+			<key>Total Time</key><integer>573648</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2011-03-19T23:20:40Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97FE9B43EFCC99EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(1%20of%202)/05%20And%20You%20and%20I_%20Cord%20of%20L.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8273</key>
+		<dict>
+			<key>Track ID</key><integer>8273</integer>
+			<key>Name</key><string>Mood for a Day</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Yessongs (1 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2780225</integer>
+			<key>Total Time</key><integer>173244</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2011-03-19T23:20:40Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D805ACF2D43F7331</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(1%20of%202)/06%20Mood%20for%20a%20Day.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8275</key>
+		<dict>
+			<key>Track ID</key><integer>8275</integer>
 			<key>Name</key><string>Roundabout</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yessongs (1 of 2)</string>
@@ -688,12 +919,36 @@
 			<key>Persistent ID</key><string>2A5A9663FC1A9AC3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(1%20of%202)/08%20Roundabout.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8655</key>
+		<key>8277</key>
 		<dict>
-			<key>Track ID</key><integer>8655</integer>
+			<key>Track ID</key><integer>8277</integer>
+			<key>Name</key><string>Your Move/I've Seen All Good People</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Yessongs (2 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6876225</integer>
+			<key>Total Time</key><integer>429244</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-03-19T23:20:40Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7BB35B94FDE1DC8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(2%20of%202)/01%20Your%20Move_I've%20Seen%20All.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8279</key>
+		<dict>
+			<key>Track ID</key><integer>8279</integer>
 			<key>Name</key><string>Long Distance Runaround/The Fish</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yessongs (2 of 2)</string>
@@ -715,12 +970,36 @@
 			<key>Persistent ID</key><string>3DE68D9DCDFC05DA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(2%20of%202)/02%20Long%20Distance%20Runaround_.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8659</key>
+		<key>8281</key>
 		<dict>
-			<key>Track ID</key><integer>8659</integer>
+			<key>Track ID</key><integer>8281</integer>
+			<key>Name</key><string>Close to the Edge: The Solid Time of Change/Total Mass Retain/I Get Up</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Yessongs (2 of 2)</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17510779</integer>
+			<key>Total Time</key><integer>1093903</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2011-03-19T23:20:42Z</date>
+			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A848C5A172F434A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(2%20of%202)/03%20Close%20to%20the%20Edge_%20The%20S.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8283</key>
+		<dict>
+			<key>Track ID</key><integer>8283</integer>
 			<key>Name</key><string>Yours Is No Disgrace</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yessongs (2 of 2)</string>
@@ -739,12 +1018,12 @@
 			<key>Persistent ID</key><string>B9E08B560E6E14E9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(2%20of%202)/04%20Yours%20Is%20No%20Disgrace.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8661</key>
+		<key>8285</key>
 		<dict>
-			<key>Track ID</key><integer>8661</integer>
+			<key>Track ID</key><integer>8285</integer>
 			<key>Name</key><string>Starship Trooper: Life Seeker/Disillusion/Wurm</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yessongs (2 of 2)</string>
@@ -763,8 +1042,8 @@
 			<key>Persistent ID</key><string>90299688F7DD0980</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/Yessongs%20(2%20of%202)/05%20Starship%20Trooper_%20Life%20S.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -772,94 +1051,127 @@
 		<dict>
 			<key>Name</key><string>Yes Classics</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>45103</integer>
+			<key>Playlist ID</key><integer>22117</integer>
 			<key>Playlist Persistent ID</key><string>F750701D5E5A7A25</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8655</integer>
+					<key>Track ID</key><integer>8279</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8425</integer>
+					<key>Track ID</key><integer>8077</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8571</integer>
+					<key>Track ID</key><integer>8201</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8581</integer>
+					<key>Track ID</key><integer>8209</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8595</integer>
+					<key>Track ID</key><integer>8221</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8407</integer>
+					<key>Track ID</key><integer>8059</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8641</integer>
+					<key>Track ID</key><integer>8265</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8421</integer>
+					<key>Track ID</key><integer>8073</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8417</integer>
+					<key>Track ID</key><integer>8069</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8415</integer>
+					<key>Track ID</key><integer>8067</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8413</integer>
+					<key>Track ID</key><integer>8065</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8405</integer>
+					<key>Track ID</key><integer>8057</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8661</integer>
+					<key>Track ID</key><integer>8285</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8363</integer>
+					<key>Track ID</key><integer>8019</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8397</integer>
+					<key>Track ID</key><integer>8051</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8389</integer>
+					<key>Track ID</key><integer>8043</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8387</integer>
+					<key>Track ID</key><integer>8041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8423</integer>
+					<key>Track ID</key><integer>8075</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8377</integer>
+					<key>Track ID</key><integer>8031</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8429</integer>
+					<key>Track ID</key><integer>8081</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8431</integer>
+					<key>Track ID</key><integer>8083</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8411</integer>
+					<key>Track ID</key><integer>8063</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8651</integer>
+					<key>Track ID</key><integer>8275</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8391</integer>
+					<key>Track ID</key><integer>8045</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8659</integer>
+					<key>Track ID</key><integer>8283</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8395</integer>
+					<key>Track ID</key><integer>8049</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8403</integer>
+					<key>Track ID</key><integer>8055</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8369</integer>
+					<key>Track ID</key><integer>8025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8269</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8281</integer>
 				</dict>
 			</array>
 		</dict>
