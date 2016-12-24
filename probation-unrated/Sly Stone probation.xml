@@ -4,17 +4,41 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-17T06:18:01Z</date>
+	<key>Date</key><date>2016-12-24T05:10:16Z</date>
 	<key>Application Version</key><string>12.5.4.42</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9771</key>
+		<key>9225</key>
 		<dict>
-			<key>Track ID</key><integer>9771</integer>
+			<key>Track ID</key><integer>9225</integer>
+			<key>Name</key><string>03 - run, run, run</string>
+			<key>Artist</key><string>Sly &#38; The Family Stone</string>
+			<key>Album</key><string>A Whole New Thing</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3004192</integer>
+			<key>Total Time</key><integer>187088</integer>
+			<key>Date Modified</key><date>2016-12-16T03:22:19Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-20T00:34:50Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Whole New Thing</string>
+			<key>Persistent ID</key><string>48335C3DBE4AC02F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/01%20-%20A%20Whole%20New%20Thing/03%20-%20run,%20run,%20run.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9229</key>
+		<dict>
+			<key>Track ID</key><integer>9229</integer>
 			<key>Name</key><string>06 - advice</string>
 			<key>Artist</key><string>Sly &#38; The Family Stone</string>
 			<key>Album</key><string>A Whole New Thing</string>
@@ -22,102 +46,94 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>2308708</integer>
 			<key>Total Time</key><integer>143621</integer>
-			<key>Date Modified</key><date>2016-12-16T05:22:20Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
+			<key>Date Modified</key><date>2016-12-16T03:22:20Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Whole New Thing</string>
 			<key>Persistent ID</key><string>03EB3616B0178B83</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/01%20-%20A%20Whole%20New%20Thing/06%20-%20advice.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9811</key>
+		<key>9247</key>
 		<dict>
-			<key>Track ID</key><integer>9811</integer>
-			<key>Name</key><string>Plastic Jim</string>
+			<key>Track ID</key><integer>9247</integer>
+			<key>Name</key><string>Ride the Rhythm</string>
 			<key>Artist</key><string>Sly &#38; the Family Stone</string>
-			<key>Album Artist</key><string>Sly &#38; the Family Stone</string>
-			<key>Composer</key><string>Sylvester "Sly Stone" Stewart</string>
-			<key>Album</key><string>Life</string>
+			<key>Album</key><string>Dance to the Music</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4990472</integer>
-			<key>Total Time</key><integer>208195</integer>
-			<key>Track Number</key><integer>3</integer>
+			<key>Size</key><integer>1011435</integer>
+			<key>Total Time</key><integer>168515</integer>
+			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2016-12-16T05:00:06Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
-			<key>Bit Rate</key><integer>192</integer>
+			<key>Date Modified</key><date>2016-12-16T02:55:25Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
+			<key>Bit Rate</key><integer>48</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>DFC7935EB164A067</string>
+			<key>Persistent ID</key><string>CD38BA39F5210B44</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/03%20-%20Life/03%20plastic%20jim.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/02%20-%20Dance%20To%20The%20Music/05%20-%20Ride%20the%20Rhythm.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9857</key>
+		<key>9277</key>
 		<dict>
-			<key>Track ID</key><integer>9857</integer>
-			<key>Name</key><string>brave and strong</string>
+			<key>Track ID</key><integer>9277</integer>
+			<key>Name</key><string>Stand !</string>
+			<key>Artist</key><string>Sly &#38;&#38; The Family Stone</string>
+			<key>Album</key><string>Stand !</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1880944</integer>
+			<key>Total Time</key><integer>188081</integer>
+			<key>Date Modified</key><date>2016-12-16T02:59:14Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>59143D29C7095154</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/04%20-%20Stand%20!/01%20-%20Stand%20!.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9293</key>
+		<dict>
+			<key>Track ID</key><integer>9293</integer>
+			<key>Name</key><string>family affair</string>
 			<key>Artist</key><string>sly and the family stone</string>
 			<key>Album</key><string>There's A Riot Goin' On</string>
 			<key>Genre</key><string>Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4986781</integer>
-			<key>Total Time</key><integer>208065</integer>
-			<key>Track Number</key><integer>6</integer>
+			<key>Size</key><integer>4382720</integer>
+			<key>Total Time</key><integer>182569</integer>
+			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1971</integer>
-			<key>Date Modified</key><date>2016-12-16T04:58:41Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
+			<key>Date Modified</key><date>2016-12-16T02:58:37Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>AFA0CBECFDF33E2E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/05%20-%20There's%20A%20Riot%20Goin'%20On/06%20-%20sly%20and%20the%20family%20stone%20-%20brave%20and%20strong%20.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>9869</key>
-		<dict>
-			<key>Track ID</key><integer>9869</integer>
-			<key>Name</key><string>In Time</string>
-			<key>Artist</key><string>Sly &#38; the Family Stone</string>
-			<key>Album</key><string>Fresh</string>
-			<key>Genre</key><string>Funk</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8418034</integer>
-			<key>Total Time</key><integer>350720</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2016-12-16T04:57:29Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>This is not my rip, but I did tag these files.                                  El Smeggo</string>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3564746194</integer>
-			<key>Play Date UTC</key><date>2016-12-16T23:16:34Z</date>
+			<key>Play Date</key><integer>3565268891</integer>
+			<key>Play Date UTC</key><date>2016-12-22T22:28:11Z</date>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>66FEAF8C4E130119</string>
+			<key>Persistent ID</key><string>07C3361F5849E509</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/06%20-%20Fresh/01%20-%20In%20Time.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/05%20-%20There's%20A%20Riot%20Goin'%20On/04%20-%20sly%20and%20the%20family%20stone%20-%20family%20affair%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9883</key>
+		<key>9319</key>
 		<dict>
-			<key>Track ID</key><integer>9883</integer>
+			<key>Track ID</key><integer>9319</integer>
 			<key>Name</key><string>Keep On Dancin'</string>
 			<key>Artist</key><string>Sly &#38; the Family Stone</string>
 			<key>Album</key><string>Fresh</string>
@@ -127,8 +143,8 @@
 			<key>Total Time</key><integer>144770</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2016-12-16T04:57:08Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
+			<key>Date Modified</key><date>2016-12-16T02:57:08Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>This is not my rip, but I did tag these files.                                  El Smeggo</string>
@@ -137,94 +153,110 @@
 			<key>Persistent ID</key><string>A206A8A8304E16D1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/06%20-%20Fresh/08%20-%20Keep%20On%20Dancin'.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9969</key>
+		<key>9349</key>
 		<dict>
-			<key>Track ID</key><integer>9969</integer>
-			<key>Name</key><string>L.O.V.I.N.U.</string>
+			<key>Track ID</key><integer>9349</integer>
+			<key>Name</key><string>So Good To Me</string>
+			<key>Artist</key><string>Sly Stone</string>
+			<key>Album</key><string>High On You </string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4919279</integer>
+			<key>Total Time</key><integer>204956</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2016-12-16T02:57:41Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>B0CB2D310AEEB126</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/08%20-%20High%20On%20You/09%20-%20So%20Good%20To%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9363</key>
+		<dict>
+			<key>Track ID</key><integer>9363</integer>
+			<key>Name</key><string>Let's Be Together</string>
+			<key>Artist</key><string>Sly &#38; The Family Stone</string>
+			<key>Album</key><string>Heard You Missed Me, Well I'm</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5244073</integer>
+			<key>Total Time</key><integer>218488</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2016-12-16T02:57:14Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>04A5FB39EF95BCA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/09%20-%20Heard%20Ya%20Missed%20Me,%20Well%20I'm%20Back/08%20-%20Let's%20Be%20Together.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9381</key>
+		<dict>
+			<key>Track ID</key><integer>9381</integer>
+			<key>Name</key><string>Ha Ha, Hee Hee</string>
 			<key>Artist</key><string>Sly &#38; The Family Stone</string>
 			<key>Album</key><string>Ain't But The One Way</string>
 			<key>Genre</key><string>Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6746200</integer>
-			<key>Total Time</key><integer>281077</integer>
-			<key>Track Number</key><integer>1</integer>
+			<key>Size</key><integer>5623354</integer>
+			<key>Total Time</key><integer>234292</integer>
+			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1982</integer>
-			<key>Date Modified</key><date>2016-12-16T05:00:11Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
+			<key>Date Modified</key><date>2016-12-16T03:00:07Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3564750346</integer>
-			<key>Play Date UTC</key><date>2016-12-17T00:25:46Z</date>
+			<key>Play Date</key><integer>3564985838</integer>
+			<key>Play Date UTC</key><date>2016-12-19T15:50:38Z</date>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>2269567F96CDDDD1</string>
+			<key>Persistent ID</key><string>B89476523EEAB38C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/11%20-%20Ain't%20But%20The%20One%20Way/01%20-%20L.O.V.I.N.U.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/11%20-%20Ain't%20But%20The%20One%20Way/03%20-%20Ha%20Ha,%20Hee%20Hee.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9995</key>
+		<key>9395</key>
 		<dict>
-			<key>Track ID</key><integer>9995</integer>
-			<key>Name</key><string>You Can Make It If You Try</string>
-			<key>Artist</key><string>Sly &#38; The Family Stone</string>
-			<key>Composer</key><string>Sylvester Stewart</string>
-			<key>Album</key><string>Greatest Hits</string>
-			<key>Genre</key><string>R&#38;B</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4376725</integer>
-			<key>Total Time</key><integer>218723</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>1969</integer>
-			<key>Date Modified</key><date>2011-03-19T22:46:40Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>1778</integer>
-			<key>Persistent ID</key><string>76310FCC26A7AF8D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/Greatest%20Hits/06%20You%20Can%20Make%20It%20If%20You%20Try.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>10003</key>
-		<dict>
-			<key>Track ID</key><integer>10003</integer>
+			<key>Track ID</key><integer>9395</integer>
 			<key>Name</key><string>Sing A Simple Song</string>
 			<key>Artist</key><string>Sly &#38; The Family Stone</string>
-			<key>Composer</key><string>Slyvester Stewart</string>
-			<key>Album</key><string>Greatest Hits</string>
-			<key>Genre</key><string>R&#38;B</string>
+			<key>Album</key><string>The Best Of Sly &#38; The Family Stone</string>
+			<key>Genre</key><string>Soul</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4739298</integer>
-			<key>Total Time</key><integer>236852</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>1969</integer>
-			<key>Date Modified</key><date>2011-03-19T22:46:40Z</date>
-			<key>Date Added</key><date>2016-12-16T05:20:31Z</date>
-			<key>Bit Rate</key><integer>160</integer>
+			<key>Size</key><integer>9522672</integer>
+			<key>Total Time</key><integer>237949</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2011-03-19T20:46:42Z</date>
+			<key>Date Added</key><date>2016-12-16T03:20:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>freedbID : 2D109B14</string>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>1707</integer>
-			<key>Persistent ID</key><string>E6C6F8D7961B8729</string>
+			<key>Sort Album</key><string>Best Of Sly &#38; The Family Stone</string>
+			<key>Persistent ID</key><string>157D43718DD74BF4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/Greatest%20Hits/11%20Sing%20A%20Simple%20Song.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sly%20&#38;%20The%20Family%20Stone/The%20Best%20Of/10.%20Sing%20A%20Simple%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -232,34 +264,40 @@
 		<dict>
 			<key>Name</key><string>Sly Stone probation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>21620</integer>
+			<key>Playlist ID</key><integer>21769</integer>
 			<key>Playlist Persistent ID</key><string>6EDBD01123EAC1A2</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>9857</integer>
+					<key>Track ID</key><integer>9319</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9811</integer>
+					<key>Track ID</key><integer>9229</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9969</integer>
+					<key>Track ID</key><integer>9247</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9869</integer>
+					<key>Track ID</key><integer>9225</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9883</integer>
+					<key>Track ID</key><integer>9349</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9995</integer>
+					<key>Track ID</key><integer>9363</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10003</integer>
+					<key>Track ID</key><integer>9277</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9771</integer>
+					<key>Track ID</key><integer>9381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9293</integer>
 				</dict>
 			</array>
 		</dict>

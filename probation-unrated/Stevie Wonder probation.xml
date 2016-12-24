@@ -4,74 +4,16 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-17T06:19:24Z</date>
+	<key>Date</key><date>2016-12-24T05:10:54Z</date>
 	<key>Application Version</key><string>12.5.4.42</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8363</key>
+		<key>8243</key>
 		<dict>
-			<key>Track ID</key><integer>8363</integer>
-			<key>Name</key><string>Music Talk</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>Up-Tight</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6967111</integer>
-			<key>Total Time</key><integer>172852</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>1966</integer>
-			<key>Date Modified</key><date>2016-12-04T19:12:45Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3564727839</integer>
-			<key>Play Date UTC</key><date>2016-12-16T18:10:39Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-17T02:06:49Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>CB935CAB189AF5B0</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1966%20Up-Tight/10%20-%20Music%20Talk.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8369</key>
-		<dict>
-			<key>Track ID</key><integer>8369</integer>
-			<key>Name</key><string>At Last</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>My Cherie Amour</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6949814</integer>
-			<key>Total Time</key><integer>171859</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2016-12-04T18:46:11Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3564745843</integer>
-			<key>Play Date UTC</key><date>2016-12-16T23:10:43Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B8B649F04FF75ABE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1969%20My%20Cherie%20Amour/03%20-%20At%20Last.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8371</key>
-		<dict>
-			<key>Track ID</key><integer>8371</integer>
+			<key>Track ID</key><integer>8243</integer>
 			<key>Name</key><string>Light My Fire</string>
 			<key>Artist</key><string>Stevie Wonder</string>
 			<key>Album</key><string>My Cherie Amour</string>
@@ -81,145 +23,15 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1968</integer>
 			<key>Date Modified</key><date>2016-12-04T18:46:11Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
+			<key>Date Added</key><date>2016-12-06T02:23:09Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C394BC08DB92CEA1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1969%20My%20Cherie%20Amour/04%20-%20Light%20My%20Fire.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8391</key>
-		<dict>
-			<key>Track ID</key><integer>8391</integer>
-			<key>Name</key><string>Superwoman</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>Music Of My Mind</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>19551055</integer>
-			<key>Total Time</key><integer>487810</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>1972</integer>
-			<key>Date Modified</key><date>2016-12-04T19:02:52Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2016-12-13T22:47:05Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C6AEB96D23D9C6BE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Music%20Of%20My%20Mind/02%20-%20Superwoman.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8397</key>
-		<dict>
-			<key>Track ID</key><integer>8397</integer>
-			<key>Name</key><string>Girl Blue</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>Music Of My Mind</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8605747</integer>
-			<key>Total Time</key><integer>214177</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1972</integer>
-			<key>Date Modified</key><date>2016-12-04T19:02:52Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3563873558</integer>
-			<key>Play Date UTC</key><date>2016-12-06T20:52:38Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9A8C01450C45418A</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1972%20Music%20Of%20My%20Mind/06%20-%20Girl%20Blue.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8429</key>
-		<dict>
-			<key>Track ID</key><integer>8429</integer>
-			<key>Name</key><string>Smile Please</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>Fulfillingness' First Finale</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8417107</integer>
-			<key>Total Time</key><integer>208431</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1974</integer>
-			<key>Date Modified</key><date>2016-12-04T19:22:06Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>628CA3E7033E4062</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1974%20Fulfillingness'%20First%20Finale/01%20-%20Smile%20Please.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8467</key>
-		<dict>
-			<key>Track ID</key><integer>8467</integer>
-			<key>Name</key><string>Ebony Eyes</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>Songs In The Key Of Life CD2</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10020759</integer>
-			<key>Total Time</key><integer>248999</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Year</key><integer>1976</integer>
-			<key>Date Modified</key><date>2016-12-04T19:22:20Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7F32F18C3C35DFD0</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/1976%20Songs%20In%20The%20Key%20Of%20Life/19%20-%20Ebony%20Eyes.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8511</key>
-		<dict>
-			<key>Track ID</key><integer>8511</integer>
-			<key>Name</key><string>You Haven't Done Nothin'</string>
-			<key>Artist</key><string>Stevie Wonder</string>
-			<key>Album Artist</key><string>Stevie Wonder</string>
-			<key>Album</key><string>The Definitive Collection</string>
-			<key>Genre</key><string>R&#38;B</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5659056</integer>
-			<key>Total Time</key><integer>204042</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:50:30Z</date>
-			<key>Date Added</key><date>2016-12-06T04:23:09Z</date>
-			<key>Bit Rate</key><integer>221</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Sort Album</key><string>Definitive Collection</string>
-			<key>Persistent ID</key><string>A6DA839516BCA718</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Stevie%20Wonder/The%20Definitive%20Collection/12%20-%20You%20Haven't%20Done%20Nothin'.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -229,34 +41,13 @@
 		<dict>
 			<key>Name</key><string>Stevie Wonder probation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>21869</integer>
+			<key>Playlist ID</key><integer>21968</integer>
 			<key>Playlist Persistent ID</key><string>9786E51D67E35E31</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8511</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8429</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8391</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8397</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8369</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8371</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8467</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8363</integer>
+					<key>Track ID</key><integer>8243</integer>
 				</dict>
 			</array>
 		</dict>

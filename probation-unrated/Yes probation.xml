@@ -4,42 +4,76 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-17T06:21:36Z</date>
+	<key>Date</key><date>2016-12-24T05:11:49Z</date>
 	<key>Application Version</key><string>12.5.4.42</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8027</key>
+		<key>7923</key>
 		<dict>
-			<key>Track ID</key><integer>8027</integer>
-			<key>Name</key><string>Dear Father (Early Version #2)</string>
+			<key>Track ID</key><integer>7923</integer>
+			<key>Name</key><string>Something's Coming</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Yes</string>
 			<key>Genre</key><string>Progressive Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>13983830</integer>
-			<key>Total Time</key><integer>349387</integer>
-			<key>Track Number</key><integer>10</integer>
+			<key>Size</key><integer>17092401</integer>
+			<key>Total Time</key><integer>427102</integer>
+			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1969</integer>
-			<key>Date Modified</key><date>2016-12-02T01:46:22Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:46:17Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-23T21:24:48Z</date>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Persistent ID</key><string>B8013EF880BB2B06</string>
+			<key>Persistent ID</key><string>9620E75BE7991991</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1969%20-%20Yes/(10)%20%5BYes%5D%20Dear%20Father%20(Early%20Version%20%232).mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1969%20-%20Yes/(11)%20%5BYes%5D%20Something's%20Coming.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8091</key>
+		<key>7983</key>
 		<dict>
-			<key>Track ID</key><integer>8091</integer>
+			<key>Track ID</key><integer>7983</integer>
+			<key>Name</key><string>'The Ancient' / Giants Under The Sun</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Tales From Topographic Oceans</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>44625463</integer>
+			<key>Total Time</key><integer>1115428</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2016-12-01T23:54:40Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3563609903</integer>
+			<key>Play Date UTC</key><date>2016-12-03T17:38:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T06:23:05Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Sort Name</key><string>Ancient' / Giants Under The Sun</string>
+			<key>Persistent ID</key><string>7AC8EE65547A2C05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1973%20-%20Tales%20From%20Topographic%20Oceans/(1-03)%20%5BYes%5D%20'The%20Ancient'%20-%20Giants%20Under%20The%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7985</key>
+		<dict>
+			<key>Track ID</key><integer>7985</integer>
 			<key>Name</key><string>Ritual / Nous Sommes du Soleil</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Tales From Topographic Oceans</string>
@@ -51,23 +85,22 @@
 			<key>Disc Count</key><integer>2</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2016-12-02T01:54:53Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:54:53Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>DFCBF91264BD761B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1973%20-%20Tales%20From%20Topographic%20Oceans/(2-01)%20%5BYes%5D%20Ritual%20-%20Nous%20Sommes%20du%20Soleil.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8093</key>
+		<key>7987</key>
 		<dict>
-			<key>Track ID</key><integer>8093</integer>
+			<key>Track ID</key><integer>7987</integer>
 			<key>Name</key><string>Dance Of The Dawn (Studio Run-Through)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Tales From Topographic Oceans</string>
@@ -79,51 +112,22 @@
 			<key>Disc Count</key><integer>2</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2016-12-02T01:55:22Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:55:22Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>9B0606B559C368CB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1973%20-%20Tales%20From%20Topographic%20Oceans/(2-02)%20%5BYes%5D%20Dance%20Of%20The%20Dawn%20(Studio%20Run-Through).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8107</key>
+		<key>8003</key>
 		<dict>
-			<key>Track ID</key><integer>8107</integer>
-			<key>Name</key><string>Parallels (Rehearsal)</string>
-			<key>Artist</key><string>Yes</string>
-			<key>Album</key><string>Going For The One</string>
-			<key>Genre</key><string>Progressive Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>15090377</integer>
-			<key>Total Time</key><integer>377051</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>1977</integer>
-			<key>Date Modified</key><date>2016-12-02T01:46:59Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62; </string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3564727486</integer>
-			<key>Play Date UTC</key><date>2016-12-16T18:04:46Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>B92F4AEDDB7F8BD4</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1977%20-%20Going%20For%20The%20One/(10)%20%5BYes%5D%20Parallels%20(Rehearsal).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8113</key>
-		<dict>
-			<key>Track ID</key><integer>8113</integer>
+			<key>Track ID</key><integer>8003</integer>
 			<key>Name</key><string>Future Times / Rejoice</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Tormato</string>
@@ -133,8 +137,8 @@
 			<key>Total Time</key><integer>406726</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2016-12-02T01:51:06Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:51:06Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62; </string>
@@ -146,9 +150,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8135</key>
+		<key>8025</key>
 		<dict>
-			<key>Track ID</key><integer>8135</integer>
+			<key>Track ID</key><integer>8025</integer>
 			<key>Name</key><string>Onward (Orchestral Version)</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Tormato</string>
@@ -158,8 +162,8 @@
 			<key>Total Time</key><integer>186174</integer>
 			<key>Track Number</key><integer>18</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2016-12-02T01:48:17Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:48:17Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62; </string>
@@ -171,62 +175,71 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8143</key>
+		<key>8093</key>
 		<dict>
-			<key>Track ID</key><integer>8143</integer>
-			<key>Name</key><string>Tempus Fugit</string>
-			<key>Artist</key><string>Yes</string>
-			<key>Album</key><string>Drama</string>
-			<key>Genre</key><string>Progressive Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12625463</integer>
-			<key>Total Time</key><integer>315428</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1980</integer>
-			<key>Date Modified</key><date>2016-12-02T01:50:04Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62;</string>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Persistent ID</key><string>0104064FB110D15C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1980%20-%20Drama/(06)%20%5BYes%5D%20Tempus%20Fugit.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8205</key>
-		<dict>
-			<key>Track ID</key><integer>8205</integer>
-			<key>Name</key><string>Onward</string>
+			<key>Track ID</key><integer>8093</integer>
+			<key>Name</key><string>That, That Is</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album Artist</key><string>Yes</string>
 			<key>Album</key><string>Keys To Ascension</string>
 			<key>Genre</key><string>Progressive Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>13605701</integer>
-			<key>Total Time</key><integer>340062</integer>
-			<key>Disc Number</key><integer>1</integer>
+			<key>Size</key><integer>46233685</integer>
+			<key>Total Time</key><integer>1155761</integer>
+			<key>Disc Number</key><integer>2</integer>
 			<key>Disc Count</key><integer>2</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2016-12-02T01:50:24Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:53:58Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62; </string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-08T00:08:11Z</date>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>16356757043AD51D</string>
+			<key>Persistent ID</key><string>1D94312F6028F832</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1996%20-%20Keys%20To%20Ascension/(1-04)%20%5BYes%5D%20Onward.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1996%20-%20Keys%20To%20Ascension/(2-04)%20%5BYes%5D%20That,%20That%20Is%20%5Bstudio%20track%5D.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8231</key>
+		<key>8107</key>
 		<dict>
-			<key>Track ID</key><integer>8231</integer>
+			<key>Track ID</key><integer>8107</integer>
+			<key>Name</key><string>Foot Prints</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Keys To Ascension 2</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21874900</integer>
+			<key>Total Time</key><integer>546664</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2016-12-01T23:51:33Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>BonkEnc v1.0.13 &#60;http://www.bonkenc.org/&#62; </string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564469757</integer>
+			<key>Play Date UTC</key><date>2016-12-13T16:29:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-10T06:23:02Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>B673F03E108EE656</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1997%20-%20Keys%20To%20Ascension%202/(2-02)%20%5BYes%5D%20Foot%20Prints%20%5Bstudio%20track%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8111</key>
+		<dict>
+			<key>Track ID</key><integer>8111</integer>
 			<key>Name</key><string>No Way We Can Lose</string>
 			<key>Artist</key><string>Yes</string>
 			<key>Album</key><string>Open Your Eyes</string>
@@ -236,8 +249,8 @@
 			<key>Total Time</key><integer>296254</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1997</integer>
-			<key>Date Modified</key><date>2016-12-02T01:52:07Z</date>
-			<key>Date Added</key><date>2016-12-02T05:12:58Z</date>
+			<key>Date Modified</key><date>2016-12-01T23:52:07Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>ExactAudioCopy v0.99pb4</string>
@@ -249,43 +262,71 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>8115</key>
+		<dict>
+			<key>Track ID</key><integer>8115</integer>
+			<key>Name</key><string>Wonderlove</string>
+			<key>Artist</key><string>Yes</string>
+			<key>Album</key><string>Open Your Eyes</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14643161</integer>
+			<key>Total Time</key><integer>365871</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2016-12-01T23:49:33Z</date>
+			<key>Date Added</key><date>2016-12-02T03:12:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ExactAudioCopy v0.99pb4</string>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>0E1FF6DA1BD1D3FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yes/1997%20-%20Open%20Your%20Eyes/(07)%20%5BYes%5D%20Wonderlove.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Yes probation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>22253</integer>
+			<key>Playlist ID</key><integer>22286</integer>
 			<key>Playlist Persistent ID</key><string>EC29D4223250A41A</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8143</integer>
+					<key>Track ID</key><integer>8093</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8205</integer>
+					<key>Track ID</key><integer>8111</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8231</integer>
+					<key>Track ID</key><integer>8115</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8091</integer>
+					<key>Track ID</key><integer>7983</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8093</integer>
+					<key>Track ID</key><integer>7985</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8113</integer>
+					<key>Track ID</key><integer>7987</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8135</integer>
+					<key>Track ID</key><integer>8003</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8027</integer>
+					<key>Track ID</key><integer>8025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7923</integer>
 				</dict>
 			</array>
 		</dict>
