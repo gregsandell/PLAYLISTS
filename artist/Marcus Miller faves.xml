@@ -4,16 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2016-12-24T05:01:24Z</date>
+	<key>Date</key><date>2017-01-02T02:49:16Z</date>
 	<key>Application Version</key><string>12.5.4.42</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9419</key>
+		<key>7463</key>
 		<dict>
-			<key>Track ID</key><integer>9419</integer>
+			<key>Track ID</key><integer>7463</integer>
 			<key>Name</key><string>Funny (All She Needs Is Love)</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
@@ -25,8 +26,8 @@
 			<key>Total Time</key><integer>326191</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2011-03-19T20:17:12Z</date>
-			<key>Date Added</key><date>2016-12-18T04:36:09Z</date>
+			<key>Date Modified</key><date>2011-03-19T22:17:12Z</date>
+			<key>Date Added</key><date>2016-12-18T06:36:09Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
@@ -39,9 +40,37 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9425</key>
+		<key>7465</key>
 		<dict>
-			<key>Track ID</key><integer>9425</integer>
+			<key>Track ID</key><integer>7465</integer>
+			<key>Name</key><string>Moons</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Sun Don't Lie</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2351775</integer>
+			<key>Total Time</key><integer>292675</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2011-03-19T22:17:12Z</date>
+			<key>Date Added</key><date>2016-12-18T06:36:09Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sun Don't Lie</string>
+			<key>Persistent ID</key><string>549FA580D9BAF485</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/The%20Sun%20Don't%20Lie/Moons.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7469</key>
+		<dict>
+			<key>Track ID</key><integer>7469</integer>
 			<key>Name</key><string>Panther</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
@@ -53,8 +82,8 @@
 			<key>Total Time</key><integer>362657</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2011-03-19T20:17:12Z</date>
-			<key>Date Added</key><date>2016-12-18T04:36:09Z</date>
+			<key>Date Modified</key><date>2011-03-19T22:17:12Z</date>
+			<key>Date Added</key><date>2016-12-18T06:36:09Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
@@ -67,9 +96,65 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9431</key>
+		<key>7471</key>
 		<dict>
-			<key>Track ID</key><integer>9431</integer>
+			<key>Track ID</key><integer>7471</integer>
+			<key>Name</key><string>Steveland</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Sun Don't Lie</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3546512</integer>
+			<key>Total Time</key><integer>442017</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2011-03-19T22:17:12Z</date>
+			<key>Date Added</key><date>2016-12-18T06:36:09Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sun Don't Lie</string>
+			<key>Persistent ID</key><string>CA934882F3A9DEFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/The%20Sun%20Don't%20Lie/Steveland.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7473</key>
+		<dict>
+			<key>Track ID</key><integer>7473</integer>
+			<key>Name</key><string>Teen Town</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Jaco Pastorius</string>
+			<key>Album</key><string>The Sun Don't Lie</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2376435</integer>
+			<key>Total Time</key><integer>295758</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2011-03-19T22:17:12Z</date>
+			<key>Date Added</key><date>2016-12-18T06:36:09Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sun Don't Lie</string>
+			<key>Persistent ID</key><string>5FF48421CE5EB82B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/The%20Sun%20Don't%20Lie/Teen%20Town.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7475</key>
+		<dict>
+			<key>Track ID</key><integer>7475</integer>
 			<key>Name</key><string>The Sun Don't Lie</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
@@ -81,8 +166,8 @@
 			<key>Total Time</key><integer>389616</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2011-03-19T20:17:12Z</date>
-			<key>Date Added</key><date>2016-12-18T04:36:09Z</date>
+			<key>Date Modified</key><date>2011-03-19T22:17:12Z</date>
+			<key>Date Added</key><date>2016-12-18T06:36:09Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
@@ -96,347 +181,726 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9457</key>
+		<key>7491</key>
 		<dict>
-			<key>Track ID</key><integer>9457</integer>
+			<key>Track ID</key><integer>7491</integer>
 			<key>Name</key><string>Panther</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Live</string>
 			<key>Genre</key><string>Jazz+Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>19775058</integer>
+			<key>Size</key><integer>19885202</integer>
 			<key>Total Time</key><integer>494367</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2016-12-18T14:18:27Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T22:28:55Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1988-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A38334C7331419C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1988%20-%20Panther%20Live/01%20-%20Panther.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9461</key>
+		<key>7493</key>
 		<dict>
-			<key>Track ID</key><integer>9461</integer>
+			<key>Track ID</key><integer>7493</integer>
 			<key>Name</key><string>Steveland</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Live</string>
 			<key>Genre</key><string>Jazz+Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>22620318</integer>
+			<key>Size</key><integer>22730462</integer>
 			<key>Total Time</key><integer>565498</integer>
 			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2016-12-18T14:18:58Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T22:28:56Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1988-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6710DE2333544A15</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1988%20-%20Panther%20Live/03%20-%20Steveland.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9485</key>
+		<key>7495</key>
 		<dict>
-			<key>Track ID</key><integer>9485</integer>
-			<key>Name</key><string>Visions</string>
+			<key>Track ID</key><integer>7495</integer>
+			<key>Name</key><string>Rampage</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Live</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18830900</integer>
+			<key>Total Time</key><integer>468009</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-26T20:28:57Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1988-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>973945857C5648AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1988%20-%20Panther%20Live/04%20-%20Rampage.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7497</key>
+		<dict>
+			<key>Track ID</key><integer>7497</integer>
+			<key>Name</key><string>Tutu</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Live</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20079550</integer>
+			<key>Total Time</key><integer>499226</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2016-12-26T22:28:58Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1988-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD5D44337E326FE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1988%20-%20Panther%20Live/05%20-%20Tutu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7499</key>
+		<dict>
+			<key>Track ID</key><integer>7499</integer>
+			<key>Name</key><string>Rampage</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Sun Don't Lie</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13945580</integer>
+			<key>Total Time</key><integer>348630</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-18T16:21:22Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565009530</integer>
+			<key>Play Date UTC</key><date>2016-12-20T00:25:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-27T01:21:23Z</date>
+			<key>Release Date</key><date>1993-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Sun Don't Lie</string>
+			<key>Persistent ID</key><string>A5C4A742B2628436</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1993%20-%20The%20Sun%20Don't%20Lie/03%20-%20Rampage.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7509</key>
+		<dict>
+			<key>Track ID</key><integer>7509</integer>
+			<key>Name</key><string>Ethiopia</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Tales</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>15414694</integer>
-			<key>Total Time</key><integer>385358</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2016-12-18T14:29:54Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Size</key><integer>12754026</integer>
+			<key>Total Time</key><integer>315533</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2016-12-26T20:40:49Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B5D48574F67FE5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1994%20-%20Tales/07%20-%20Ethiopia.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7511</key>
+		<dict>
+			<key>Track ID</key><integer>7511</integer>
+			<key>Name</key><string>Visions</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tales</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15547037</integer>
+			<key>Total Time</key><integer>385358</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2016-12-26T20:40:50Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6AA25B0D84B6EE15</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1994%20-%20Tales/09%20-%20Visions.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9513</key>
+		<key>7515</key>
 		<dict>
-			<key>Track ID</key><integer>9513</integer>
+			<key>Track ID</key><integer>7515</integer>
+			<key>Name</key><string>Infatuation</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tales</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12469818</integer>
+			<key>Total Time</key><integer>308427</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2016-12-26T20:40:51Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565621038</integer>
+			<key>Play Date UTC</key><date>2016-12-27T02:17:18Z</date>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26E2BEAAC385E756</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1994%20-%20Tales/12%20-%20Infatuation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7521</key>
+		<dict>
+			<key>Track ID</key><integer>7521</integer>
+			<key>Name</key><string>Panther (Osaka)</string>
+			<key>Artist</key><string>Marcus Miller (live)</string>
+			<key>Album</key><string>Marcus Miller - Live &#38; More</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17579447</integer>
+			<key>Total Time</key><integer>545959</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-26T20:42:01Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34E75ABAD28BE0D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1998%20-%20Live%20&#38;%20More/02%20-%20Panther%20(Osaka).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7523</key>
+		<dict>
+			<key>Track ID</key><integer>7523</integer>
+			<key>Name</key><string>Funny (Tokyo)</string>
+			<key>Artist</key><string>Marcus Miller (live)</string>
+			<key>Album</key><string>Marcus Miller - Live &#38; More</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>24496670</integer>
+			<key>Total Time</key><integer>762122</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-26T20:42:02Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53494A45ED2A2CB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/1998%20-%20Live%20&#38;%20More/04%20-%20Funny%20(Tokyo).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7527</key>
+		<dict>
+			<key>Track ID</key><integer>7527</integer>
 			<key>Name</key><string>Power</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>M Squared</string>
 			<key>Genre</key><string>Fusion</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8872801</integer>
+			<key>Size</key><integer>8983390</integer>
 			<key>Total Time</key><integer>277263</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2016-12-18T14:40:44Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:21Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7B2806D61DE4AA92</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/01%20-%20Power.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9515</key>
+		<key>7529</key>
 		<dict>
-			<key>Track ID</key><integer>9515</integer>
+			<key>Track ID</key><integer>7529</integer>
 			<key>Name</key><string>Lonnie's Lament</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>M Squared</string>
 			<key>Genre</key><string>Fusion</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10856445</integer>
+			<key>Size</key><integer>10967034</integer>
 			<key>Total Time</key><integer>339252</integer>
 			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2016-12-18T14:40:56Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:22Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F64B37B9369EF674</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/02%20-%20Lonnie's%20Lament.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9519</key>
+		<key>7533</key>
 		<dict>
-			<key>Track ID</key><integer>9519</integer>
+			<key>Track ID</key><integer>7533</integer>
 			<key>Name</key><string>Nikki's Groove</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>M Squared</string>
 			<key>Genre</key><string>Fusion</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6670165</integer>
+			<key>Size</key><integer>6780754</integer>
 			<key>Total Time</key><integer>208431</integer>
 			<key>Track Number</key><integer>4</integer>
-			<key>Date Modified</key><date>2016-12-18T14:41:14Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:22Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A49A68492C1CE3B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/04%20-%20Nikki's%20Groove.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9521</key>
+		<key>7535</key>
 		<dict>
-			<key>Track ID</key><integer>9521</integer>
+			<key>Track ID</key><integer>7535</integer>
 			<key>Name</key><string>Goodbye Pork Pie Hat</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>M Squared</string>
 			<key>Genre</key><string>Fusion</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6871628</integer>
+			<key>Size</key><integer>6982217</integer>
 			<key>Total Time</key><integer>214726</integer>
 			<key>Track Number</key><integer>5</integer>
-			<key>Date Modified</key><date>2016-12-18T14:41:22Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:23Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F4D13E2B9D2F7796</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/05%20-%20Goodbye%20Pork%20Pie%20Hat.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9527</key>
+		<key>7539</key>
 		<dict>
-			<key>Track ID</key><integer>9527</integer>
+			<key>Track ID</key><integer>7539</integer>
 			<key>Name</key><string>Red Baron</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>M Squared</string>
 			<key>Genre</key><string>Fusion</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12743108</integer>
+			<key>Size</key><integer>12853697</integer>
 			<key>Total Time</key><integer>398210</integer>
 			<key>Track Number</key><integer>12</integer>
-			<key>Date Modified</key><date>2016-12-18T14:42:41Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:24Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>146F251FFC203D72</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/12%20-%20Red%20Baron.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9555</key>
+		<key>7543</key>
 		<dict>
-			<key>Track ID</key><integer>9555</integer>
+			<key>Track ID</key><integer>7543</integer>
+			<key>Name</key><string>Ozell (interlude 4)</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>M Squared</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3763931</integer>
+			<key>Total Time</key><integer>114155</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2016-12-26T20:29:24Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564997423</integer>
+			<key>Play Date UTC</key><date>2016-12-19T21:03:43Z</date>
+			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99DB65BF7D2CF79D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/15%20-%20Ozell%20(interlude%204).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7545</key>
+		<dict>
+			<key>Track ID</key><integer>7545</integer>
+			<key>Name</key><string>Power</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Ozell Tapes</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11614907</integer>
+			<key>Total Time</key><integer>360463</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-26T20:32:18Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2002-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ozell Tapes</string>
+			<key>Persistent ID</key><string>E84B7B22CCA3A1BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2003%20-%20The%20Ozell%20Tapes/02%20-%20Power.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7547</key>
+		<dict>
+			<key>Track ID</key><integer>7547</integer>
+			<key>Name</key><string>Lonnie's Lament</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Ozell Tapes</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20960484</integer>
+			<key>Total Time</key><integer>652512</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-26T20:32:20Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2002-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ozell Tapes</string>
+			<key>Persistent ID</key><string>AD460D157A2171F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2003%20-%20The%20Ozell%20Tapes/04%20-%20Lonnie's%20Lament.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7549</key>
+		<dict>
+			<key>Track ID</key><integer>7549</integer>
+			<key>Name</key><string>Panther</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Ozell Tapes</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21905900</integer>
+			<key>Total Time</key><integer>682057</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2016-12-26T22:32:20Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2002-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ozell Tapes</string>
+			<key>Persistent ID</key><string>902CD29351FA1D1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2003%20-%20The%20Ozell%20Tapes/08%20-%20Panther.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7551</key>
+		<dict>
+			<key>Track ID</key><integer>7551</integer>
 			<key>Name</key><string>Intro Duction</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Silver Rain</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>979232</integer>
+			<key>Size</key><integer>1089130</integer>
 			<key>Total Time</key><integer>30589</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2016-12-18T15:19:29Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:38Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3565258526</integer>
-			<key>Play Date UTC</key><date>2016-12-22T19:35:26Z</date>
+			<key>Play Date UTC</key><date>2016-12-22T21:35:26Z</date>
 			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>12FDE9EEBC400CF3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/01%20-%20Intro%20Duction.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9557</key>
+		<key>7553</key>
 		<dict>
-			<key>Track ID</key><integer>9557</integer>
+			<key>Track ID</key><integer>7553</integer>
 			<key>Name</key><string>Bruce Lee</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Silver Rain</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10339006</integer>
+			<key>Size</key><integer>10448904</integer>
 			<key>Total Time</key><integer>323082</integer>
 			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2016-12-18T15:19:40Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:38Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8A696EC77836FECD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/02%20-%20Bruce%20Lee.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9561</key>
+		<key>7555</key>
 		<dict>
-			<key>Track ID</key><integer>9561</integer>
+			<key>Track ID</key><integer>7555</integer>
+			<key>Name</key><string>La Villette</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Silver Rain</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11441977</integer>
+			<key>Total Time</key><integer>354115</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-26T20:39:39Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>660B8FFFFBE4BC3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/03%20-%20La%20Villette.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7557</key>
+		<dict>
+			<key>Track ID</key><integer>7557</integer>
 			<key>Name</key><string>Frankenstein</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Silver Rain</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12593481</integer>
+			<key>Size</key><integer>12703379</integer>
 			<key>Total Time</key><integer>393534</integer>
 			<key>Track Number</key><integer>5</integer>
-			<key>Date Modified</key><date>2016-12-18T15:20:17Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:39Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3565011832</integer>
-			<key>Play Date UTC</key><date>2016-12-19T23:03:52Z</date>
+			<key>Play Date UTC</key><date>2016-12-20T01:03:52Z</date>
 			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EE832D78B562698B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/05%20-%20Frankenstein.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9569</key>
+		<key>7561</key>
 		<dict>
-			<key>Track ID</key><integer>9569</integer>
-			<key>Name</key><string>Power Of Soul</string>
+			<key>Track ID</key><integer>7561</integer>
+			<key>Name</key><string>Boogie On Reggae Woman</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Silver Rain</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>13229617</integer>
-			<key>Total Time</key><integer>413413</integer>
-			<key>Track Number</key><integer>13</integer>
-			<key>Date Modified</key><date>2016-12-18T15:23:49Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Size</key><integer>9798572</integer>
+			<key>Total Time</key><integer>302759</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2016-12-26T20:39:40Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC8298DCCED6FF55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/07%20-%20Boogie%20On%20Reggae%20Woman.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7563</key>
+		<dict>
+			<key>Track ID</key><integer>7563</integer>
+			<key>Name</key><string>Power Of Soul</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Silver Rain</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13339515</integer>
+			<key>Total Time</key><integer>413413</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2016-12-26T20:39:41Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EA8E8E60C2F7ED66</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/13%20-%20Power%20Of%20Soul.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9571</key>
+		<key>7565</key>
 		<dict>
-			<key>Track ID</key><integer>9571</integer>
+			<key>Track ID</key><integer>7565</integer>
 			<key>Name</key><string>Outro Duction</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Silver Rain</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1708154</integer>
+			<key>Size</key><integer>1818052</integer>
 			<key>Total Time</key><integer>53368</integer>
 			<key>Track Number</key><integer>14</integer>
-			<key>Date Modified</key><date>2016-12-18T15:24:08Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:41Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3564922763</integer>
-			<key>Play Date UTC</key><date>2016-12-18T22:19:23Z</date>
+			<key>Play Date UTC</key><date>2016-12-19T00:19:23Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-18T22:19:35Z</date>
+			<key>Skip Date</key><date>2016-12-19T00:19:35Z</date>
 			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CB6B237C3A389F14</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/14%20-%20Outro%20Duction.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9577</key>
+		<key>7567</key>
 		<dict>
-			<key>Track ID</key><integer>9577</integer>
-			<key>Name</key><string>Power</string>
+			<key>Track ID</key><integer>7567</integer>
+			<key>Name</key><string>Panther</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>The Essential Marcus Miller - Power</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8885980</integer>
-			<key>Total Time</key><integer>277681</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2016-12-18T15:26:36Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Size</key><integer>11776921</integer>
+			<key>Total Time</key><integer>360933</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-12-26T20:26:39Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
+			<key>Persistent ID</key><string>4EC3777E421ED8C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2006%20-%20Power/01%20-%20Panther.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7569</key>
+		<dict>
+			<key>Track ID</key><integer>7569</integer>
+			<key>Name</key><string>Power</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Essential Marcus Miller - Power</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9112847</integer>
+			<key>Total Time</key><integer>277681</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-26T20:26:39Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
 			<key>Persistent ID</key><string>572B1AEA95625D6E</string>
 			<key>Track Type</key><string>File</string>
@@ -444,26 +908,53 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9585</key>
+		<key>7575</key>
 		<dict>
-			<key>Track ID</key><integer>9585</integer>
+			<key>Track ID</key><integer>7575</integer>
+			<key>Name</key><string>Moonlight Sonata</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Essential Marcus Miller - Power</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13659418</integer>
+			<key>Total Time</key><integer>419761</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2016-12-26T20:26:41Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
+			<key>Persistent ID</key><string>59C486B45B29FB58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2006%20-%20Power/05%20-%20Moonlight%20Sonata.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7577</key>
+		<dict>
+			<key>Track ID</key><integer>7577</integer>
 			<key>Name</key><string>Frankenstein</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>The Essential Marcus Miller - Power</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12584090</integer>
+			<key>Size</key><integer>12810957</integer>
 			<key>Total Time</key><integer>393247</integer>
 			<key>Track Number</key><integer>6</integer>
-			<key>Date Modified</key><date>2016-12-18T15:27:29Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:26:41Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-21T16:24:22Z</date>
+			<key>Skip Date</key><date>2016-12-21T18:24:22Z</date>
 			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
 			<key>Persistent ID</key><string>75FC4BA3A23F9819</string>
 			<key>Track Type</key><string>File</string>
@@ -471,24 +962,51 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9595</key>
+		<key>7579</key>
 		<dict>
-			<key>Track ID</key><integer>9595</integer>
-			<key>Name</key><string>Come Together</string>
+			<key>Track ID</key><integer>7579</integer>
+			<key>Name</key><string>Cousin John</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>The Essential Marcus Miller - Power</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10604636</integer>
-			<key>Total Time</key><integer>331389</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Date Modified</key><date>2016-12-18T15:30:44Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Size</key><integer>9196445</integer>
+			<key>Total Time</key><integer>280293</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2016-12-26T20:26:41Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
+			<key>Persistent ID</key><string>2BDD9DD351ADB18D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2006%20-%20Power/07%20-%20Cousin%20John.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7583</key>
+		<dict>
+			<key>Track ID</key><integer>7583</integer>
+			<key>Name</key><string>Come Together</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>The Essential Marcus Miller - Power</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10831503</integer>
+			<key>Total Time</key><integer>331389</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2016-12-26T20:26:42Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
 			<key>Persistent ID</key><string>A80970349D7366D8</string>
 			<key>Track Type</key><string>File</string>
@@ -496,27 +1014,28 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9599</key>
+		<key>7587</key>
 		<dict>
-			<key>Track ID</key><integer>9599</integer>
+			<key>Track ID</key><integer>7587</integer>
 			<key>Name</key><string>Outro Duction</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>The Essential Marcus Miller - Power</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1612662</integer>
+			<key>Size</key><integer>1839529</integer>
 			<key>Total Time</key><integer>50390</integer>
 			<key>Track Number</key><integer>14</integer>
-			<key>Date Modified</key><date>2016-12-18T15:31:47Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:26:43Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3565008198</integer>
-			<key>Play Date UTC</key><date>2016-12-19T22:03:18Z</date>
+			<key>Play Date UTC</key><date>2016-12-20T00:03:18Z</date>
 			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Marcus Miller - Power</string>
 			<key>Persistent ID</key><string>2B4862E347F2F381</string>
 			<key>Track Type</key><string>File</string>
@@ -524,33 +1043,84 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9601</key>
+		<key>7589</key>
 		<dict>
-			<key>Track ID</key><integer>9601</integer>
+			<key>Track ID</key><integer>7589</integer>
 			<key>Name</key><string>Blast</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Free</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10989339</integer>
+			<key>Size</key><integer>11084269</integer>
 			<key>Total Time</key><integer>343405</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2016-12-18T15:43:21Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:27:15Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DF75A167FB59D2E3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2007%20-%20Free/01%20-%20Blast.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9615</key>
+		<key>7591</key>
 		<dict>
-			<key>Track ID</key><integer>9615</integer>
+			<key>Track ID</key><integer>7591</integer>
+			<key>Name</key><string>Strum</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Free</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11024083</integer>
+			<key>Total Time</key><integer>341524</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-26T20:27:16Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52E5F3A98D74F292</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2007%20-%20Free/04%20-%20Strum.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7597</key>
+		<dict>
+			<key>Track ID</key><integer>7597</integer>
+			<key>Name</key><string>When I Fall In Love</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Free</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10449821</integer>
+			<key>Total Time</key><integer>323578</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2016-12-26T20:27:17Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B298CA3DEFBDF90A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2007%20-%20Free/07%20-%20When%20I%20Fall%20In%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7599</key>
+		<dict>
+			<key>Track ID</key><integer>7599</integer>
 			<key>Name</key><string>What Is Hip?</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Free</string>
@@ -559,8 +1129,8 @@
 			<key>Size</key><integer>11525171</integer>
 			<key>Total Time</key><integer>360150</integer>
 			<key>Track Number</key><integer>10</integer>
-			<key>Date Modified</key><date>2016-12-18T15:45:40Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-18T17:45:40Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
@@ -572,322 +1142,473 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9617</key>
+		<key>7601</key>
 		<dict>
-			<key>Track ID</key><integer>9617</integer>
+			<key>Track ID</key><integer>7601</integer>
 			<key>Name</key><string>Blast!</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Marcus</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10989405</integer>
+			<key>Size</key><integer>11083202</integer>
 			<key>Total Time</key><integer>343405</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2016-12-18T15:46:29Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:51Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7DDC8A76936933FD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Marcus/01%20-%20Blast!.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9621</key>
+		<key>7603</key>
 		<dict>
-			<key>Track ID</key><integer>9621</integer>
-			<key>Name</key><string>Higher Ground</string>
+			<key>Track ID</key><integer>7603</integer>
+			<key>Name</key><string>Funk Joint</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Marcus</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9949530</integer>
-			<key>Total Time</key><integer>310909</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Date Modified</key><date>2016-12-18T15:47:00Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Size</key><integer>10101838</integer>
+			<key>Total Time</key><integer>312737</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-26T20:29:51Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>463D86DFB95613A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Marcus/02%20-%20Funk%20Joint.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7605</key>
+		<dict>
+			<key>Track ID</key><integer>7605</integer>
+			<key>Name</key><string>Higher Ground</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Marcus</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10043327</integer>
+			<key>Total Time</key><integer>310909</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-26T20:29:51Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B001BB83BA0DA5DC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Marcus/04%20-%20Higher%20Ground.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9623</key>
+		<key>7607</key>
 		<dict>
-			<key>Track ID</key><integer>9623</integer>
+			<key>Track ID</key><integer>7607</integer>
 			<key>Name</key><string>Milky Way (Feat. Keb' Mo')</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Marcus</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10772087</integer>
+			<key>Size</key><integer>10865884</integer>
 			<key>Total Time</key><integer>336613</integer>
 			<key>Track Number</key><integer>5</integer>
-			<key>Date Modified</key><date>2016-12-18T15:47:11Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:52Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0D560E44561BFA57</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Marcus/05%20-%20Milky%20Way%20(Feat.%20Keb'%20Mo').mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9629</key>
+		<key>7611</key>
 		<dict>
-			<key>Track ID</key><integer>9629</integer>
+			<key>Track ID</key><integer>7611</integer>
 			<key>Name</key><string>Doh (Feat. Lalah Hathaway)</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Marcus</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7688384</integer>
+			<key>Size</key><integer>7782181</integer>
 			<key>Total Time</key><integer>240248</integer>
 			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2016-12-18T15:47:43Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:52Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>900776D9FF71F09C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Marcus/09%20-%20Doh%20(Feat.%20Lalah%20Hathaway).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9633</key>
+		<key>7613</key>
 		<dict>
-			<key>Track ID</key><integer>9633</integer>
+			<key>Track ID</key><integer>7613</integer>
 			<key>Name</key><string>What Is Hip?</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Marcus</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11604648</integer>
+			<key>Size</key><integer>11698445</integer>
 			<key>Total Time</key><integer>362631</integer>
 			<key>Track Number</key><integer>13</integer>
-			<key>Date Modified</key><date>2016-12-18T15:48:45Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:29:53Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>68329D3DC8108CA2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Marcus/13%20-%20What%20Is%20Hip.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9641</key>
+		<key>7615</key>
 		<dict>
-			<key>Track ID</key><integer>9641</integer>
+			<key>Track ID</key><integer>7615</integer>
+			<key>Name</key><string>Los Maestros De Las Frecuencias Bajas</string>
+			<key>Artist</key><string>S.M.V.</string>
+			<key>Album Artist</key><string>S.M.V.</string>
+			<key>Album</key><string>Thunder</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5605523</integer>
+			<key>Total Time</key><integer>172773</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-12-31T19:43:13Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3565621211</integer>
+			<key>Play Date UTC</key><date>2016-12-27T02:20:11Z</date>
+			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33FD61F5E22E2678</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/01%20-%20Los%20Maestros%20De%20Las%20Frecuencias%20Bajas.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7617</key>
+		<dict>
+			<key>Track ID</key><integer>7617</integer>
 			<key>Name</key><string>Hillbillies On A Quiet Afternoon</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11939860</integer>
+			<key>Size</key><integer>12016176</integer>
 			<key>Total Time</key><integer>373106</integer>
 			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2016-12-18T15:51:13Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:13Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AEFC6AA78AFFC7DA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/03%20-%20Hillbillies%20On%20A%20Quiet%20Afternoon.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9647</key>
+		<key>7619</key>
 		<dict>
-			<key>Track ID</key><integer>9647</integer>
+			<key>Track ID</key><integer>7619</integer>
+			<key>Name</key><string>Los Tres Hermanos</string>
+			<key>Artist</key><string>S.M.V.</string>
+			<key>Album Artist</key><string>S.M.V.</string>
+			<key>Album</key><string>Thunder</string>
+			<key>Genre</key><string>Jazz Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10479743</integer>
+			<key>Total Time</key><integer>325093</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2016-12-31T19:43:14Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-20T02:18:39Z</date>
+			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF8409BC7182E8F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/05%20-%20Los%20Tres%20Hermanos.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7621</key>
+		<dict>
+			<key>Track ID</key><integer>7621</integer>
 			<key>Name</key><string>Lopsy Lu - Silly Putty (Medley)</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11984162</integer>
+			<key>Size</key><integer>12060478</integer>
 			<key>Total Time</key><integer>374491</integer>
 			<key>Track Number</key><integer>6</integer>
-			<key>Date Modified</key><date>2016-12-18T15:51:48Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:14Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FEB12EA45FE75397</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/06%20-%20Lopsy%20Lu%20-%20Silly%20Putty%20(Medley).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9649</key>
+		<key>7623</key>
 		<dict>
-			<key>Track ID</key><integer>9649</integer>
+			<key>Track ID</key><integer>7623</integer>
 			<key>Name</key><string>Milano</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8390524</integer>
+			<key>Size</key><integer>8466840</integer>
 			<key>Total Time</key><integer>262191</integer>
 			<key>Track Number</key><integer>7</integer>
-			<key>Date Modified</key><date>2016-12-18T15:51:56Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:14Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>55FCB197D09192EB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/07%20-%20Milano.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9651</key>
+		<key>7625</key>
 		<dict>
-			<key>Track ID</key><integer>9651</integer>
+			<key>Track ID</key><integer>7625</integer>
 			<key>Name</key><string>Classical Thump (Jam)</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9310885</integer>
+			<key>Size</key><integer>9387201</integer>
 			<key>Total Time</key><integer>290951</integer>
 			<key>Track Number</key><integer>8</integer>
-			<key>Date Modified</key><date>2016-12-18T15:52:42Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:14Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C9B4E04F6AE9DE1B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/08%20-%20Classical%20Thump%20(Jam).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9655</key>
+		<key>7627</key>
 		<dict>
-			<key>Track ID</key><integer>9655</integer>
+			<key>Track ID</key><integer>7627</integer>
 			<key>Name</key><string>Lil’ Victa</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8105482</integer>
+			<key>Size</key><integer>8181798</integer>
 			<key>Total Time</key><integer>253283</integer>
 			<key>Track Number</key><integer>10</integer>
-			<key>Date Modified</key><date>2016-12-18T15:54:11Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:15Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C76AC0487A2E8140</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/10%20-%20Lil%E2%80%99%20Victa.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9657</key>
+		<key>7629</key>
 		<dict>
-			<key>Track ID</key><integer>9657</integer>
+			<key>Track ID</key><integer>7629</integer>
 			<key>Name</key><string>Pendulum</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8262631</integer>
+			<key>Size</key><integer>8338947</integer>
 			<key>Total Time</key><integer>258194</integer>
 			<key>Track Number</key><integer>11</integer>
-			<key>Date Modified</key><date>2016-12-18T15:54:51Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:15Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DB3BC15B588C0FB8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/11%20-%20Pendulum.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9659</key>
+		<key>7631</key>
 		<dict>
-			<key>Track ID</key><integer>9659</integer>
+			<key>Track ID</key><integer>7631</integer>
 			<key>Name</key><string>'Lemme Try Your Bass' (Interlude)</string>
 			<key>Artist</key><string>S.M.V.</string>
 			<key>Album Artist</key><string>S.M.V.</string>
 			<key>Album</key><string>Thunder</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1901317</integer>
+			<key>Size</key><integer>1977633</integer>
 			<key>Total Time</key><integer>59402</integer>
 			<key>Track Number</key><integer>12</integer>
-			<key>Date Modified</key><date>2016-12-18T15:55:26Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-31T19:43:15Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3564931596</integer>
-			<key>Play Date UTC</key><date>2016-12-19T00:46:36Z</date>
+			<key>Play Date UTC</key><date>2016-12-19T02:46:36Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9DDB435DB37E4D30</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2008%20-%20Thunder%20(SMV)/12%20-%20''Lemme%20Try%20Your%20Bass''%20(Interlude).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9665</key>
+		<key>7633</key>
 		<dict>
-			<key>Track ID</key><integer>9665</integer>
-			<key>Name</key><string>State Of Mind</string>
+			<key>Track ID</key><integer>7633</integer>
+			<key>Name</key><string>Blast!</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>A Night In Monte-Carlo</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12278291</integer>
-			<key>Total Time</key><integer>383686</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2016-12-18T16:01:06Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Size</key><integer>15296429</integer>
+			<key>Total Time</key><integer>474488</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-12-26T20:31:18Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Night In Monte-Carlo</string>
+			<key>Persistent ID</key><string>B22F48379B22B7B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20A%20Night%20In%20Monte-Carlo/01%20-%20Blast!.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7635</key>
+		<dict>
+			<key>Track ID</key><integer>7635</integer>
+			<key>Name</key><string>So What</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>A Night In Monte-Carlo</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14696240</integer>
+			<key>Total Time</key><integer>455732</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-26T20:31:18Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-22T17:04:01Z</date>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Night In Monte-Carlo</string>
+			<key>Persistent ID</key><string>93D0A842B824014C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20A%20Night%20In%20Monte-Carlo/02%20-%20So%20What.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7637</key>
+		<dict>
+			<key>Track ID</key><integer>7637</integer>
+			<key>Name</key><string>State Of Mind</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>A Night In Monte-Carlo</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12390784</integer>
+			<key>Total Time</key><integer>383686</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-26T20:31:19Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-27T18:50:32Z</date>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Night In Monte-Carlo</string>
 			<key>Persistent ID</key><string>6C9B0C372145F510</string>
 			<key>Track Type</key><string>File</string>
@@ -895,184 +1616,420 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9701</key>
+		<key>7639</key>
 		<dict>
-			<key>Track ID</key><integer>9701</integer>
+			<key>Track ID</key><integer>7639</integer>
+			<key>Name</key><string>Strange Fruit</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>A Night In Monte-Carlo</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11380994</integer>
+			<key>Total Time</key><integer>352130</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2016-12-26T20:31:21Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Night In Monte-Carlo</string>
+			<key>Persistent ID</key><string>B9F43D8F6AC3E116</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20A%20Night%20In%20Monte-Carlo/09%20-%20Strange%20Fruit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7641</key>
+		<dict>
+			<key>Track ID</key><integer>7641</integer>
+			<key>Name</key><string>Tomaas</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23582979</integer>
+			<key>Total Time</key><integer>733701</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:45Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9713EA7AF1E73E7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/01.%20Tomaas.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7643</key>
+		<dict>
+			<key>Track ID</key><integer>7643</integer>
+			<key>Name</key><string>Backyard Ritual</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17348709</integer>
+			<key>Total Time</key><integer>538880</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:45Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3933964B07EDD44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/02.%20Backyard%20Ritual.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7645</key>
+		<dict>
+			<key>Track ID</key><integer>7645</integer>
+			<key>Name</key><string>Splatch</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27789321</integer>
+			<key>Total Time</key><integer>865149</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:45Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3FA30F9CD2922BA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/03.%20Splatch.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7647</key>
+		<dict>
+			<key>Track ID</key><integer>7647</integer>
+			<key>Name</key><string>Jean-Pierre</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25817394</integer>
+			<key>Total Time</key><integer>803526</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:45Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4F106BE96E8C4EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/05.%20Jean-Pierre.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7649</key>
+		<dict>
+			<key>Track ID</key><integer>7649</integer>
+			<key>Name</key><string>Aida</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12204456</integer>
+			<key>Total Time</key><integer>378122</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:45Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF4EC37264D3181F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/06.%20Aida.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7653</key>
+		<dict>
+			<key>Track ID</key><integer>7653</integer>
+			<key>Name</key><string>Hannibal</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22142693</integer>
+			<key>Total Time</key><integer>688692</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:46Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7A44EACCBD477A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/09.%20Hannibal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7655</key>
+		<dict>
+			<key>Track ID</key><integer>7655</integer>
+			<key>Name</key><string>Tutu</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22034020</integer>
+			<key>Total Time</key><integer>685296</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:46Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FEDD42DA79AC4C91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/11.%20Tutu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7657</key>
+		<dict>
+			<key>Track ID</key><integer>7657</integer>
+			<key>Name</key><string>Full Nelson / Perfect Way</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Tutu Revisited</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15969453</integer>
+			<key>Total Time</key><integer>495777</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-27T16:58:46Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3564937330</integer>
+			<key>Play Date UTC</key><date>2016-12-19T04:22:10Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5CA4596C05F12E7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2011%20-%20Tutu%20Revisited/12.%20Full%20Nelson%20_%20Perfect%20Way.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7661</key>
+		<dict>
+			<key>Track ID</key><integer>7661</integer>
 			<key>Name</key><string>Slippin' Into Darkness</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>17842255</integer>
+			<key>Size</key><integer>17918276</integer>
 			<key>Total Time</key><integer>557557</integer>
 			<key>Track Number</key><integer>4</integer>
-			<key>Date Modified</key><date>2016-12-18T16:16:55Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:09Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9FB2D6E92290DA75</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/04%20-%20Slippin'%20Into%20Darkness.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9703</key>
+		<key>7663</key>
 		<dict>
-			<key>Track ID</key><integer>9703</integer>
+			<key>Track ID</key><integer>7663</integer>
 			<key>Name</key><string>Setembro (Brazilian Wedding Song)</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12780780</integer>
+			<key>Size</key><integer>12856801</integer>
 			<key>Total Time</key><integer>399386</integer>
 			<key>Track Number</key><integer>5</integer>
-			<key>Date Modified</key><date>2016-12-18T16:17:50Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:09Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>239644A2C14222AB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/05%20-%20Setembro%20(Brazilian%20Wedding%20Song).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9705</key>
+		<key>7665</key>
 		<dict>
-			<key>Track ID</key><integer>9705</integer>
+			<key>Track ID</key><integer>7665</integer>
 			<key>Name</key><string>Jekyll &#38; Hyde</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12512431</integer>
+			<key>Size</key><integer>12588452</integer>
 			<key>Total Time</key><integer>391000</integer>
 			<key>Track Number</key><integer>6</integer>
-			<key>Date Modified</key><date>2016-12-18T16:18:36Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:10Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>87DE8B4B8F9B9705</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/06%20-%20Jekyll%20&#38;%20Hyde.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9707</key>
+		<key>7667</key>
 		<dict>
-			<key>Track ID</key><integer>9707</integer>
+			<key>Track ID</key><integer>7667</integer>
 			<key>Name</key><string>Revelation</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9172934</integer>
+			<key>Size</key><integer>9248955</integer>
 			<key>Total Time</key><integer>286641</integer>
 			<key>Track Number</key><integer>8</integer>
-			<key>Date Modified</key><date>2016-12-18T16:20:16Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:10Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7F137968F233E20B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/08%20-%20Revelation.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9709</key>
+		<key>7669</key>
 		<dict>
-			<key>Track ID</key><integer>9709</integer>
+			<key>Track ID</key><integer>7669</integer>
 			<key>Name</key><string>Mr. Clean</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9639375</integer>
+			<key>Size</key><integer>9715396</integer>
 			<key>Total Time</key><integer>301217</integer>
 			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2016-12-18T16:21:04Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:11Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C3E62137E3EBD4B0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/09%20-%20Mr.%20Clean.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9713</key>
+		<key>7671</key>
 		<dict>
-			<key>Track ID</key><integer>9713</integer>
+			<key>Track ID</key><integer>7671</integer>
 			<key>Name</key><string>Tightrope</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11103905</integer>
+			<key>Size</key><integer>11179926</integer>
 			<key>Total Time</key><integer>346984</integer>
 			<key>Track Number</key><integer>12</integer>
-			<key>Date Modified</key><date>2016-12-18T16:25:16Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:11Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F539CA7B682A88B7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/12%20-%20Tightrope.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9715</key>
+		<key>7673</key>
 		<dict>
-			<key>Track ID</key><integer>9715</integer>
+			<key>Track ID</key><integer>7673</integer>
 			<key>Name</key><string>I'll Be There</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Renaissance</string>
 			<key>Genre</key><string>Jazz Funk</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7371534</integer>
+			<key>Size</key><integer>7447555</integer>
 			<key>Total Time</key><integer>230347</integer>
 			<key>Track Number</key><integer>13</integer>
-			<key>Date Modified</key><date>2016-12-18T16:26:32Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T20:39:11Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>958FC41F0E1B8C6D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2012%20-%20Renaissance/13%20-%20I'll%20Be%20There.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9721</key>
+		<key>7675</key>
 		<dict>
-			<key>Track ID</key><integer>9721</integer>
+			<key>Track ID</key><integer>7675</integer>
 			<key>Name</key><string>Water Dancer</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album Artist</key><string>Marcus Miller</string>
@@ -1080,26 +2037,195 @@
 			<key>Album</key><string>Afrodeezia</string>
 			<key>Genre</key><string>Fusion Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>17926769</integer>
+			<key>Size</key><integer>36645798</integer>
 			<key>Total Time</key><integer>448130</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Track Number</key><integer>10</integer>
-			<key>Date Modified</key><date>2016-12-18T04:28:18Z</date>
-			<key>Date Added</key><date>2016-12-18T16:41:04Z</date>
+			<key>Date Modified</key><date>2016-12-26T22:25:40Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2015-03-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>94642156462A80E9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2015%20-%20Afrodeezia/10%20-%20Water%20Dancer.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9747</key>
+		<key>7677</key>
 		<dict>
-			<key>Track ID</key><integer>9747</integer>
+			<key>Track ID</key><integer>7677</integer>
+			<key>Name</key><string>I Can't Breathe</string>
+			<key>Artist</key><string>Marcus Miller, Chuck D., Mocean Worker</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller, Chuck D., Mocean Worker</string>
+			<key>Album</key><string>Afrodeezia</string>
+			<key>Genre</key><string>Fusion Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>31081689</integer>
+			<key>Total Time</key><integer>309028</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2016-12-26T22:25:42Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>332BE6085F22379F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2015%20-%20Afrodeezia/11%20-%20I%20Can't%20Breathe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7679</key>
+		<dict>
+			<key>Track ID</key><integer>7679</integer>
+			<key>Name</key><string>B's River</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller</string>
+			<key>Album</key><string>Afrodeezia</string>
+			<key>Genre</key><string>Fusion Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>35065807</integer>
+			<key>Total Time</key><integer>408633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2016-12-26T22:25:35Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BEB07D39C79F31E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2015%20-%20Afrodeezia/2%20-%20B's%20River.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7681</key>
+		<dict>
+			<key>Track ID</key><integer>7681</integer>
+			<key>Name</key><string>Preacher's Kid (Song for William H)</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller</string>
+			<key>Album</key><string>Afrodeezia</string>
+			<key>Genre</key><string>Fusion Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>32548653</integer>
+			<key>Total Time</key><integer>345704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-12-26T22:25:36Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>676587404B299F7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2015%20-%20Afrodeezia/3%20-%20Preacher's%20Kid%20(Song%20for%20William%20H).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7683</key>
+		<dict>
+			<key>Track ID</key><integer>7683</integer>
+			<key>Name</key><string>We Were There</string>
+			<key>Artist</key><string>Marcus Miller, Djavan</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller, Djavan</string>
+			<key>Album</key><string>Afrodeezia</string>
+			<key>Genre</key><string>Fusion Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>35068016</integer>
+			<key>Total Time</key><integer>408685</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2016-12-26T22:25:37Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565112929</integer>
+			<key>Play Date UTC</key><date>2016-12-21T05:08:49Z</date>
+			<key>Release Date</key><date>2015-03-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF0BE30D8399D2A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2015%20-%20Afrodeezia/4%20-%20We%20Were%20There.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7685</key>
+		<dict>
+			<key>Track ID</key><integer>7685</integer>
+			<key>Name</key><string>Papa Was a Rolling Stone</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album Artist</key><string>Marcus Miller</string>
+			<key>Composer</key><string>Marcus Miller</string>
+			<key>Album</key><string>Afrodeezia</string>
+			<key>Genre</key><string>Fusion Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>33385678</integer>
+			<key>Total Time</key><integer>366628</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2016-12-26T20:25:38Z</date>
+			<key>Date Added</key><date>2016-12-18T18:41:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58A77B8D6C1F2351</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2015%20-%20Afrodeezia/5%20-%20Papa%20Was%20a%20Rolling%20Stone.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7689</key>
+		<dict>
+			<key>Track ID</key><integer>7689</integer>
+			<key>Name</key><string>Red Baron</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Montreux Jazz festival 2001</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11124736</integer>
+			<key>Total Time</key><integer>604708</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2016-12-18T18:56:06Z</date>
+			<key>Date Added</key><date>2016-12-18T19:28:46Z</date>
+			<key>Bit Rate</key><integer>147</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>encoded by masomusic</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>DF03C67BECD681A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20Montreux%20Jazz%20Festival/02%20-%20Red%20Baron.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7691</key>
+		<dict>
+			<key>Track ID</key><integer>7691</integer>
 			<key>Name</key><string>Teen Town</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>Montreux Jazz festival 2001</string>
@@ -1109,8 +2235,8 @@
 			<key>Total Time</key><integer>634853</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2016-12-18T16:57:51Z</date>
-			<key>Date Added</key><date>2016-12-18T17:28:46Z</date>
+			<key>Date Modified</key><date>2016-12-18T18:57:51Z</date>
+			<key>Date Added</key><date>2016-12-18T19:28:46Z</date>
 			<key>Bit Rate</key><integer>147</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>encoded by masomusic</string>
@@ -1122,148 +2248,299 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>7693</key>
+		<dict>
+			<key>Track ID</key><integer>7693</integer>
+			<key>Name</key><string>Amandla + Tutu</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Montreux Jazz festival 2001</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15757312</integer>
+			<key>Total Time</key><integer>864026</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2016-12-18T18:56:45Z</date>
+			<key>Date Added</key><date>2016-12-18T19:28:46Z</date>
+			<key>Bit Rate</key><integer>145</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>encoded by masomusic</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>A2CB402DA985482D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20Montreux%20Jazz%20Festival/08%20-%20Amandla%20+%20Tutu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Marcus Miller faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>21368</integer>
+			<key>Playlist ID</key><integer>19882</integer>
 			<key>Playlist Persistent ID</key><string>EBEBFE47D79772D9</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>9659</integer>
+					<key>Track ID</key><integer>7679</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9419</integer>
+					<key>Track ID</key><integer>7681</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9425</integer>
+					<key>Track ID</key><integer>7683</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9571</integer>
+					<key>Track ID</key><integer>7685</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9557</integer>
+					<key>Track ID</key><integer>7675</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9707</integer>
+					<key>Track ID</key><integer>7677</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9703</integer>
+					<key>Track ID</key><integer>7567</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9701</integer>
+					<key>Track ID</key><integer>7569</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9629</integer>
+					<key>Track ID</key><integer>7575</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9721</integer>
+					<key>Track ID</key><integer>7577</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9485</integer>
+					<key>Track ID</key><integer>7579</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9515</integer>
+					<key>Track ID</key><integer>7583</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9655</integer>
+					<key>Track ID</key><integer>7587</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9595</integer>
+					<key>Track ID</key><integer>7589</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9599</integer>
+					<key>Track ID</key><integer>7591</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9601</integer>
+					<key>Track ID</key><integer>7597</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9617</integer>
+					<key>Track ID</key><integer>7599</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9621</integer>
+					<key>Track ID</key><integer>7491</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9623</integer>
+					<key>Track ID</key><integer>7493</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9633</integer>
+					<key>Track ID</key><integer>7495</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9747</integer>
+					<key>Track ID</key><integer>7497</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9705</integer>
+					<key>Track ID</key><integer>7527</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9709</integer>
+					<key>Track ID</key><integer>7529</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9713</integer>
+					<key>Track ID</key><integer>7533</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9715</integer>
+					<key>Track ID</key><integer>7535</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9641</integer>
+					<key>Track ID</key><integer>7539</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9647</integer>
+					<key>Track ID</key><integer>7543</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9649</integer>
+					<key>Track ID</key><integer>7601</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9651</integer>
+					<key>Track ID</key><integer>7603</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9657</integer>
+					<key>Track ID</key><integer>7605</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9561</integer>
+					<key>Track ID</key><integer>7607</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9577</integer>
+					<key>Track ID</key><integer>7611</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9585</integer>
+					<key>Track ID</key><integer>7613</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9665</integer>
+					<key>Track ID</key><integer>7521</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9569</integer>
+					<key>Track ID</key><integer>7523</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9431</integer>
+					<key>Track ID</key><integer>7689</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9513</integer>
+					<key>Track ID</key><integer>7691</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9519</integer>
+					<key>Track ID</key><integer>7693</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9521</integer>
+					<key>Track ID</key><integer>7633</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9461</integer>
+					<key>Track ID</key><integer>7635</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9615</integer>
+					<key>Track ID</key><integer>7637</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9457</integer>
+					<key>Track ID</key><integer>7639</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9527</integer>
+					<key>Track ID</key><integer>7545</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9555</integer>
+					<key>Track ID</key><integer>7547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7649</integer>
 				</dict>
 			</array>
 		</dict>
