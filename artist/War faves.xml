@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-01-09T04:43:11Z</date>
+	<key>Date</key><date>2017-01-24T05:11:14Z</date>
 	<key>Application Version</key><string>12.5.4.42</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,37 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10234</key>
+		<key>8802</key>
 		<dict>
-			<key>Track ID</key><integer>10234</integer>
+			<key>Track ID</key><integer>8802</integer>
+			<key>Name</key><string>Spill The Wine</string>
+			<key>Artist</key><string>Eric Burdon, War</string>
+			<key>Album</key><string>Legends: Get It On</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3997926</integer>
+			<key>Total Time</key><integer>246548</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-03-19T21:41:14Z</date>
+			<key>Date Added</key><date>2016-12-31T20:22:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566489978</integer>
+			<key>Play Date UTC</key><date>2017-01-06T03:39:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1632</integer>
+			<key>Persistent ID</key><string>65EE047F8E91D1AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eric%20Burdon%20and%20War/Legends_%20Get%20It%20On/07%20Spill%20The%20Wine.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9928</key>
+		<dict>
+			<key>Track ID</key><integer>9928</integer>
 			<key>Name</key><string>Spill The Wine</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>Eric Burdon declares 'WAR'</string>
@@ -30,7 +58,6 @@
 			<key>Release Date</key><date>1970-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Persistent ID</key><string>0D3A8538CB15B747</string>
@@ -39,9 +66,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10238</key>
+		<key>9930</key>
 		<dict>
-			<key>Track ID</key><integer>10238</integer>
+			<key>Track ID</key><integer>9930</integer>
 			<key>Name</key><string>Paint It Black Medley (a: Black On Black In Black/b: Paint It Black/c: Laurel &#38; Hardy/d: Pintello Negro/e: P.C. 3/f: Blackbird)</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>The Black-Man's Burdon</string>
@@ -57,7 +84,6 @@
 			<key>Release Date</key><date>1970-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Black-Man's Burdon</string>
 			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
@@ -67,9 +93,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10244</key>
+		<key>9932</key>
 		<dict>
-			<key>Track ID</key><integer>10244</integer>
+			<key>Track ID</key><integer>9932</integer>
 			<key>Name</key><string>Nights In White Satin II</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>The Black-Man's Burdon</string>
@@ -88,7 +114,6 @@
 			<key>Release Date</key><date>1970-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Black-Man's Burdon</string>
 			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
@@ -98,9 +123,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10252</key>
+		<key>9934</key>
 		<dict>
-			<key>Track ID</key><integer>10252</integer>
+			<key>Track ID</key><integer>9934</integer>
 			<key>Name</key><string>Sun Oh Son</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album Artist</key><string>War</string>
@@ -118,7 +143,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Persistent ID</key><string>A525F60D9C64C1FB</string>
@@ -127,9 +151,40 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10258</key>
+		<key>9936</key>
 		<dict>
-			<key>Track ID</key><integer>10258</integer>
+			<key>Track ID</key><integer>9936</integer>
+			<key>Name</key><string>Back Home</string>
+			<key>Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Album Artist</key><string>War</string>
+			<key>Composer</key><string>Hilton Valentine, Papa Dee Allen, Harold Brown, B.B. Dickerson, Lonnie Jordan, Charles Miller, Lee Oskar, Howard E. Scott</string>
+			<key>Album</key><string>War</string>
+			<key>Genre</key><string>Rhythm &#38; Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10157358</integer>
+			<key>Total Time</key><integer>406282</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2017-01-06T03:46:21Z</date>
+			<key>Date Added</key><date>2017-01-06T03:56:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3567060139</integer>
+			<key>Play Date UTC</key><date>2017-01-12T18:02:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Persistent ID</key><string>FC7C053994961163</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eric%20Burdon%20and%20War/1971%20-%20War/03%20-%20Back%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9938</key>
+		<dict>
+			<key>Track ID</key><integer>9938</integer>
 			<key>Name</key><string>The Cisco Kid</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Composer</key><string>Allen/Brown/Dickerson/Jordan/Miller/Oskar/Scott</string>
@@ -149,7 +204,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2586</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>World Is A Ghetto</string>
@@ -161,9 +215,106 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10270</key>
+		<key>9940</key>
 		<dict>
-			<key>Track ID</key><integer>10270</integer>
+			<key>Track ID</key><integer>9940</integer>
+			<key>Name</key><string>Where Was You At</string>
+			<key>Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Composer</key><string>Allen/Brown/Dickerson/Jordan/Miller/Oskar/Scott</string>
+			<key>Album</key><string>The World Is A Ghetto</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5129307</integer>
+			<key>Total Time</key><integer>207120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-01-06T03:58:54Z</date>
+			<key>Date Added</key><date>2017-01-06T03:56:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566560266</integer>
+			<key>Play Date UTC</key><date>2017-01-06T23:11:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Normalization</key><integer>2630</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World Is A Ghetto</string>
+			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Persistent ID</key><string>6414B1D92A8813F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eric%20Burdon%20and%20War/1972%20-%20The%20World%20Is%20A%20Ghetto/02%20Where%20Was%20You%20At.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9942</key>
+		<dict>
+			<key>Track ID</key><integer>9942</integer>
+			<key>Name</key><string>The Cisco Kid</string>
+			<key>Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Album</key><string>War Live</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14709932</integer>
+			<key>Total Time</key><integer>366942</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-01-06T03:59:17Z</date>
+			<key>Date Added</key><date>2017-01-06T03:56:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Normalization</key><integer>980</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Sort Name</key><string>Cisco Kid</string>
+			<key>Persistent ID</key><string>1548E5C08127CE94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eric%20Burdon%20and%20War/1974%20-%20War%20Live/03%20The%20Cisco%20Kid.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9944</key>
+		<dict>
+			<key>Track ID</key><integer>9944</integer>
+			<key>Name</key><string>Lonely Feelin'</string>
+			<key>Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Album</key><string>War Live</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7158456</integer>
+			<key>Total Time</key><integer>178155</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-01-06T03:59:21Z</date>
+			<key>Date Added</key><date>2017-01-06T03:56:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3567060703</integer>
+			<key>Play Date UTC</key><date>2017-01-12T18:11:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Normalization</key><integer>2291</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Persistent ID</key><string>8EAAACE1E9C8A66C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eric%20Burdon%20and%20War/1974%20-%20War%20Live/08%20Lonely%20Feelin'.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9946</key>
+		<dict>
+			<key>Track ID</key><integer>9946</integer>
 			<key>Name</key><string>Low Rider</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>Why Can't We Be Friends?</string>
@@ -190,9 +341,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10272</key>
+		<key>9948</key>
 		<dict>
-			<key>Track ID</key><integer>10272</integer>
+			<key>Track ID</key><integer>9948</integer>
 			<key>Name</key><string>Why Can't We Be Friends?</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>Why Can't We Be Friends?</string>
@@ -219,9 +370,42 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10282</key>
+		<key>9950</key>
 		<dict>
-			<key>Track ID</key><integer>10282</integer>
+			<key>Track ID</key><integer>9950</integer>
+			<key>Name</key><string>Magic Mountain</string>
+			<key>Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Album</key><string>Love Is All Around</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7200629</integer>
+			<key>Total Time</key><integer>262582</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2017-01-06T04:00:04Z</date>
+			<key>Date Added</key><date>2017-01-06T03:56:43Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3567059433</integer>
+			<key>Play Date UTC</key><date>2017-01-12T17:50:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-11T04:40:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>933</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
+			<key>Persistent ID</key><string>33C5CF2891BA8E0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eric%20Burdon%20and%20War/1976%20-%20Love%20Is%20All%20Around/04%20Magic%20Mountain.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9952</key>
+		<dict>
+			<key>Track ID</key><integer>9952</integer>
 			<key>Name</key><string>A Day in the Life</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>Love Is All Around</string>
@@ -241,7 +425,6 @@
 			<key>Play Date UTC</key><date>2017-01-07T00:42:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1018</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
@@ -252,9 +435,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10284</key>
+		<key>9954</key>
 		<dict>
-			<key>Track ID</key><integer>10284</integer>
+			<key>Track ID</key><integer>9954</integer>
 			<key>Name</key><string>Paint it Black Medley</string>
 			<key>Artist</key><string>Eric Burdon &#38; War</string>
 			<key>Album</key><string>Love Is All Around</string>
@@ -273,7 +456,6 @@
 			<key>Skip Date</key><date>2017-01-07T00:58:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Eric Burdon &#38; War</string>
@@ -289,37 +471,55 @@
 		<dict>
 			<key>Name</key><string>War faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>22325</integer>
+			<key>Playlist ID</key><integer>24537</integer>
 			<key>Playlist Persistent ID</key><string>23C02699E2FF2CAB</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10258</integer>
+					<key>Track ID</key><integer>9938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10272</integer>
+					<key>Track ID</key><integer>9948</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10270</integer>
+					<key>Track ID</key><integer>9946</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10282</integer>
+					<key>Track ID</key><integer>9952</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10234</integer>
+					<key>Track ID</key><integer>9928</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10244</integer>
+					<key>Track ID</key><integer>9932</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10238</integer>
+					<key>Track ID</key><integer>9930</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10252</integer>
+					<key>Track ID</key><integer>9934</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10284</integer>
+					<key>Track ID</key><integer>9954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9936</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9942</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8802</integer>
 				</dict>
 			</array>
 		</dict>

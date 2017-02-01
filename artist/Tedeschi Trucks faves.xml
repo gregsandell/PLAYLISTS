@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-01-09T04:42:54Z</date>
-	<key>Application Version</key><string>12.5.4.42</string>
+	<key>Date</key><date>2017-01-31T03:50:13Z</date>
+	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8068</key>
+		<key>7980</key>
 		<dict>
-			<key>Track ID</key><integer>8068</integer>
+			<key>Track ID</key><integer>7980</integer>
 			<key>Name</key><string>In Every Heart</string>
 			<key>Artist</key><string>Tedeschi Trucks Band</string>
 			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
@@ -39,9 +39,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8072</key>
+		<key>7982</key>
 		<dict>
-			<key>Track ID</key><integer>8072</integer>
+			<key>Track ID</key><integer>7982</integer>
 			<key>Name</key><string>In Every Heart (Alternate Mix)</string>
 			<key>Artist</key><string>Tedeschi Trucks Band</string>
 			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
@@ -69,9 +69,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8074</key>
+		<key>7984</key>
 		<dict>
-			<key>Track ID</key><integer>8074</integer>
+			<key>Track ID</key><integer>7984</integer>
 			<key>Name</key><string>Oh! You Pretty Things</string>
 			<key>Artist</key><string>Tedeschi Trucks Band</string>
 			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
@@ -99,9 +99,39 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8078</key>
+		<key>7986</key>
 		<dict>
-			<key>Track ID</key><integer>8078</integer>
+			<key>Track ID</key><integer>7986</integer>
+			<key>Name</key><string>Satie Groove</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Let Me Get By</string>
+			<key>Genre</key><string>Southern Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10037654</integer>
+			<key>Total Time</key><integer>243670</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-05T05:05:32Z</date>
+			<key>Date Added</key><date>2016-12-29T01:23:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3567181942</integer>
+			<key>Play Date UTC</key><date>2017-01-14T03:52:22Z</date>
+			<key>Release Date</key><date>2016-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F76D3EBF2C364365</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Tedeschi%20Trucks%20Band/Let%20Me%20Get%20By%20(2016)/15%20-%20Satie%20Groove.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7988</key>
+		<dict>
+			<key>Track ID</key><integer>7988</integer>
 			<key>Name</key><string>Laugh About It (Live at the Beacon Theatre)</string>
 			<key>Artist</key><string>Tedeschi Trucks Band</string>
 			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
@@ -126,28 +156,63 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>7990</key>
+		<dict>
+			<key>Track ID</key><integer>7990</integer>
+			<key>Name</key><string>Keep on Growing (Live at the Beacon Theatre)</string>
+			<key>Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album Artist</key><string>Tedeschi Trucks Band</string>
+			<key>Album</key><string>Let Me Get By</string>
+			<key>Genre</key><string>Southern Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23430097</integer>
+			<key>Total Time</key><integer>578481</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-01-05T05:05:32Z</date>
+			<key>Date Added</key><date>2016-12-29T01:23:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-19T01:26:33Z</date>
+			<key>Release Date</key><date>2016-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7560D2096356A155</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Tedeschi%20Trucks%20Band/Let%20Me%20Get%20By%20(2016)/18%20-%20Keep%20on%20Growing%20(live%20at%20the%20Beacon%20Theatre).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Tedeschi Trucks faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>22220</integer>
+			<key>Playlist ID</key><integer>24273</integer>
 			<key>Playlist Persistent ID</key><string>93FE512857E317BD</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8072</integer>
+					<key>Track ID</key><integer>7982</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8074</integer>
+					<key>Track ID</key><integer>7984</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8068</integer>
+					<key>Track ID</key><integer>7980</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8078</integer>
+					<key>Track ID</key><integer>7988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7990</integer>
 				</dict>
 			</array>
 		</dict>

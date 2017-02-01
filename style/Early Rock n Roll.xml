@@ -4,17 +4,74 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-12-17T00:56:48Z</date>
-	<key>Application Version</key><string>10.7</string>
+	<key>Date</key><date>2017-02-01T02:30:10Z</date>
+	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6875</key>
+		<key>7869</key>
 		<dict>
-			<key>Track ID</key><integer>6875</integer>
+			<key>Track ID</key><integer>7869</integer>
+			<key>Name</key><string>02 Paul Revere</string>
+			<key>Artist</key><string>Asylum Street Spankers</string>
+			<key>Album</key><string>Mercurial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3505948</integer>
+			<key>Total Time</key><integer>215092</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-12-31T04:02:34Z</date>
+			<key>Date Added</key><date>2016-12-30T07:41:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566396875</integer>
+			<key>Play Date UTC</key><date>2017-01-05T01:47:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mercurial</string>
+			<key>Sort Artist</key><string>Asylum Street Spankers</string>
+			<key>Persistent ID</key><string>17CBAD2257E00F02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2004%20Mercurial/02%20Paul%20Revere.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10543</key>
+		<dict>
+			<key>Track ID</key><integer>10543</integer>
+			<key>Name</key><string>Stop Drop And Roll</string>
+			<key>Artist</key><string>Squirrel Nut Zippers</string>
+			<key>Album</key><string>Bedlam Ballroom</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3575221</integer>
+			<key>Total Time</key><integer>178651</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2011-03-19T22:48:32Z</date>
+			<key>Date Added</key><date>2017-01-31T15:36:12Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-31T20:53:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4206</integer>
+			<key>Persistent ID</key><string>3BE6145D8AFB4855</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Squirrel%20Nut%20Zippers/Bedlam%20Ballroom/Stop%20Drop%20And%20Roll.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>43882</key>
+		<dict>
+			<key>Track ID</key><integer>43882</integer>
 			<key>Name</key><string>Ay-Te Te Fee - Clifton Chenier</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -27,27 +84,27 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:02Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:15:02Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:42Z</date>
 			<key>Bit Rate</key><integer>165</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3432730405</integer>
+			<key>Play Date</key><integer>3432726805</integer>
 			<key>Play Date UTC</key><date>2012-10-10T22:13:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6977</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>B1A7F316DDE4ED46</string>
+			<key>Persistent ID</key><string>F327D04A9FED326B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Ay-Te%20Te%20Fee%20-%20Clifton%20Chenier.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Ay-Te%20Te%20Fee%20-%20Clifton%20Chenier.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6877</key>
+		<key>43887</key>
 		<dict>
-			<key>Track ID</key><integer>6877</integer>
+			<key>Track ID</key><integer>43887</integer>
 			<key>Name</key><string>Bon Ton Roulet - Clarence 'Bon Ton' Barlow</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -60,27 +117,28 @@
 			<key>Track Number</key><integer>20</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:02Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2013-04-19T02:30:05Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3432399509</integer>
+			<key>Play Date</key><integer>3432395909</integer>
 			<key>Play Date UTC</key><date>2012-10-07T02:18:29Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4147</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>6BFF96608C0F8F63</string>
+			<key>Persistent ID</key><string>BEE75F83EEA4A9D6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Bon%20Ton%20Roulet%20-%20Clarence%20'Bon%20Ton'%20Barlow.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Bon%20Ton%20Roulet%20-%20Clarence%20'Bon%20Ton'%20Barlow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6879</key>
+		<key>43890</key>
 		<dict>
-			<key>Track ID</key><integer>6879</integer>
+			<key>Track ID</key><integer>43890</integer>
 			<key>Name</key><string>Down The Road Apiece - Amos Milburn</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -93,27 +151,27 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:02Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:15:02Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3433796331</integer>
+			<key>Play Date</key><integer>3433792731</integer>
 			<key>Play Date UTC</key><date>2012-10-23T06:18:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3451</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>5BCDF1C61913746A</string>
+			<key>Persistent ID</key><string>658C4912F9985809</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Down%20The%20Road%20Apiece%20-%20Amos%20Milburn.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Down%20The%20Road%20Apiece%20-%20Amos%20Milburn.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6883</key>
+		<key>43893</key>
 		<dict>
-			<key>Track ID</key><integer>6883</integer>
+			<key>Track ID</key><integer>43893</integer>
 			<key>Name</key><string>Good Golly Miss Molly - Little Richard</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -126,27 +184,27 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:04Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:15:04Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>167</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3432399942</integer>
+			<key>Play Date</key><integer>3432396342</integer>
 			<key>Play Date UTC</key><date>2012-10-07T02:25:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7537</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>63C2EFD003922672</string>
+			<key>Persistent ID</key><string>D8AB79A270B88FD6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Good%20Golly%20Miss%20Molly%20-%20Little%20Richard.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Good%20Golly%20Miss%20Molly%20-%20Little%20Richard.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6889</key>
+		<key>43896</key>
 		<dict>
-			<key>Track ID</key><integer>6889</integer>
+			<key>Track ID</key><integer>43896</integer>
 			<key>Name</key><string>Mardi Gras In New Orleans - Professor Longhair and His Shuffling Hungarians</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -159,27 +217,27 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:04Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:15:04Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>186</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3432402301</integer>
+			<key>Play Date</key><integer>3432398701</integer>
 			<key>Play Date UTC</key><date>2012-10-07T03:05:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7030</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>486E5DA705719CF1</string>
+			<key>Persistent ID</key><string>615EC7821C13BEE1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Mardi%20Gras%20In%20New%20Orleans%20-%20Professor%20Longhair%20and%20His%20Shuffling%20Hungarians.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Mardi%20Gras%20In%20New%20Orleans%20-%20Professor%20Longhair%20and%20His%20Shuffling%20Hungarians.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6893</key>
+		<key>43899</key>
 		<dict>
-			<key>Track ID</key><integer>6893</integer>
+			<key>Track ID</key><integer>43899</integer>
 			<key>Name</key><string>Preachin' Blues (Up Jumped The Devil) - Robert Johnson</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -192,27 +250,27 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:06Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:15:06Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>163</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3432401946</integer>
+			<key>Play Date</key><integer>3432398346</integer>
 			<key>Play Date UTC</key><date>2012-10-07T02:59:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3202</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>21FB1FD39475B914</string>
+			<key>Persistent ID</key><string>E1FB81B23F59A74D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Preachin'%20Blues%20(Up%20Jumped%20The%20Devil)%20-%20Robert%20Johnson.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Preachin'%20Blues%20(Up%20Jumped%20The%20Devil)%20-%20Robert%20Johnson.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6901</key>
+		<key>43902</key>
 		<dict>
-			<key>Track ID</key><integer>6901</integer>
+			<key>Track ID</key><integer>43902</integer>
 			<key>Name</key><string>Talkin' To Your Mama - Blind Willie McTell</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -225,27 +283,27 @@
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:15:06Z</date>
-			<key>Date Added</key><date>2012-12-03T01:31:42Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:15:06Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3432401446</integer>
+			<key>Play Date</key><integer>3432397846</integer>
 			<key>Play Date UTC</key><date>2012-10-07T02:50:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3717</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
-			<key>Persistent ID</key><string>5D4C51F787EB387D</string>
+			<key>Persistent ID</key><string>45A2F87DAABF3931</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Talkin'%20To%20Your%20Mama%20-%20Blind%20Willie%20McTell.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Talkin'%20To%20Your%20Mama%20-%20Blind%20Willie%20McTell.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6965</key>
+		<key>43905</key>
 		<dict>
-			<key>Track ID</key><integer>6965</integer>
+			<key>Track ID</key><integer>43905</integer>
 			<key>Name</key><string>Dirt Road Blues</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -259,23 +317,23 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:17:42Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:17Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:17:42Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1821</integer>
-			<key>Persistent ID</key><string>6B970BF000168822</string>
+			<key>Persistent ID</key><string>394471210A7C063B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/Dirt%20Road%20Blues.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/Dirt%20Road%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6967</key>
+		<key>43908</key>
 		<dict>
-			<key>Track ID</key><integer>6967</integer>
+			<key>Track ID</key><integer>43908</integer>
 			<key>Name</key><string>I'm Gonna Dig Myself A Hole</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -289,26 +347,26 @@
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:17:44Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:17Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:17:44Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3438070407</integer>
+			<key>Play Date</key><integer>3438063207</integer>
 			<key>Play Date UTC</key><date>2012-12-11T17:33:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>494</integer>
-			<key>Persistent ID</key><string>3DAED69886B23C84</string>
+			<key>Persistent ID</key><string>281D7BD482AEBA5E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/I'm%20Gonna%20Dig%20Myself%20A%20Hole.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/I'm%20Gonna%20Dig%20Myself%20A%20Hole.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6973</key>
+		<key>43911</key>
 		<dict>
-			<key>Track ID</key><integer>6973</integer>
+			<key>Track ID</key><integer>43911</integer>
 			<key>Name</key><string>Shout Sister Shout</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -322,23 +380,23 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:17:46Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:17Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:17:46Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1258</integer>
-			<key>Persistent ID</key><string>C40DCA555AE86C28</string>
+			<key>Persistent ID</key><string>ADAA486FE88D2D0B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/Shout%20Sister%20Shout.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/Shout%20Sister%20Shout.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6975</key>
+		<key>43914</key>
 		<dict>
-			<key>Track ID</key><integer>6975</integer>
+			<key>Track ID</key><integer>43914</integer>
 			<key>Name</key><string>That's All Right</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -352,12 +410,12 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:17:46Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:18Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:17:46Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3437974722</integer>
+			<key>Play Date</key><integer>3437967522</integer>
 			<key>Play Date UTC</key><date>2012-12-10T14:58:42Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2012-12-12T01:57:27Z</date>
@@ -365,15 +423,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2489</integer>
-			<key>Persistent ID</key><string>61B13597772E2A36</string>
+			<key>Persistent ID</key><string>4AAD48079462A07B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/That's%20All%20Right.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Arthur%20_Big%20Boy_%20Crudup_%20Rock%20Me%20Mama%20(Vol.%207)/That's%20All%20Right.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7039</key>
+		<key>43917</key>
 		<dict>
-			<key>Track ID</key><integer>7039</integer>
+			<key>Track ID</key><integer>43917</integer>
 			<key>Name</key><string>Better Cut That Out</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -384,23 +442,23 @@
 			<key>Track Number</key><integer>25</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:12Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:12Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>779</integer>
-			<key>Persistent ID</key><string>DBF86475C07525B3</string>
+			<key>Persistent ID</key><string>A24DDA3F242790B9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Better%20Cut%20That%20Out.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Better%20Cut%20That%20Out.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7049</key>
+		<key>43920</key>
 		<dict>
-			<key>Track ID</key><integer>7049</integer>
+			<key>Track ID</key><integer>43920</integer>
 			<key>Name</key><string>Jivin' The Blues</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -411,25 +469,25 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:16Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:16Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-12-06T23:21:31Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1227</integer>
-			<key>Persistent ID</key><string>0857D93C93334BF1</string>
+			<key>Persistent ID</key><string>00E3751B77CA0C26</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Jivin'%20The%20Blues.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Jivin'%20The%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7051</key>
+		<key>43923</key>
 		<dict>
-			<key>Track ID</key><integer>7051</integer>
+			<key>Track ID</key><integer>43923</integer>
 			<key>Name</key><string>Mellow Chick Swing</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -440,28 +498,28 @@
 			<key>Track Number</key><integer>22</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:16Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:16Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3438165887</integer>
+			<key>Play Date</key><integer>3438158687</integer>
 			<key>Play Date UTC</key><date>2012-12-12T20:04:47Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2012-12-12T18:27:33Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>629</integer>
-			<key>Persistent ID</key><string>4C2C9DA029F91B5E</string>
+			<key>Persistent ID</key><string>F031FDAF4A926A87</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Mellow%20Chick%20Swing.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Mellow%20Chick%20Swing.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7057</key>
+		<key>43926</key>
 		<dict>
-			<key>Track ID</key><integer>7057</integer>
+			<key>Track ID</key><integer>43926</integer>
 			<key>Name</key><string>Polly Put Your Kettle On</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -472,26 +530,26 @@
 			<key>Track Number</key><integer>23</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:16Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:16Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3438253635</integer>
+			<key>Play Date</key><integer>3438246435</integer>
 			<key>Play Date UTC</key><date>2012-12-13T20:27:15Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1333</integer>
-			<key>Persistent ID</key><string>F3F737289334A837</string>
+			<key>Persistent ID</key><string>50E8428E45014C90</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Polly%20Put%20Your%20Kettle%20On.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Polly%20Put%20Your%20Kettle%20On.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7059</key>
+		<key>43929</key>
 		<dict>
-			<key>Track ID</key><integer>7059</integer>
+			<key>Track ID</key><integer>43929</integer>
 			<key>Name</key><string>She Was A Dreamer</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -502,23 +560,23 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:16Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:16Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>866</integer>
-			<key>Persistent ID</key><string>DFA75C13766AC693</string>
+			<key>Persistent ID</key><string>F0639651C32D0FE3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/She%20Was%20A%20Dreamer.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/She%20Was%20A%20Dreamer.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7061</key>
+		<key>43932</key>
 		<dict>
-			<key>Track ID</key><integer>7061</integer>
+			<key>Track ID</key><integer>43932</integer>
 			<key>Name</key><string>Sloppy Drunk Blues</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -529,23 +587,23 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:18Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:18Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1080</integer>
-			<key>Persistent ID</key><string>39584A06F74F1E36</string>
+			<key>Persistent ID</key><string>94DF04DE516DD5BC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Sloppy%20Drunk%20Blues.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Sloppy%20Drunk%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7063</key>
+		<key>43935</key>
 		<dict>
-			<key>Track ID</key><integer>7063</integer>
+			<key>Track ID</key><integer>43935</integer>
 			<key>Name</key><string>Sonny Boy's Jump</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -556,26 +614,26 @@
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:18Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:18Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3437973219</integer>
+			<key>Play Date</key><integer>3437966019</integer>
 			<key>Play Date UTC</key><date>2012-12-10T14:33:39Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1110</integer>
-			<key>Persistent ID</key><string>926EECBD96344042</string>
+			<key>Persistent ID</key><string>87E8E8F8C242CD10</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Sonny%20Boy's%20Jump.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Sonny%20Boy's%20Jump.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7067</key>
+		<key>43938</key>
 		<dict>
-			<key>Track ID</key><integer>7067</integer>
+			<key>Track ID</key><integer>43938</integer>
 			<key>Name</key><string>Chicago Is Just That Way - Eddie Boyd</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -587,23 +645,23 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:18Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:19Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:18Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>528</integer>
-			<key>Persistent ID</key><string>A8CAD9C3BA1FCBE5</string>
+			<key>Persistent ID</key><string>B0D5673754C36E60</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Chicago%20Is%20Just%20That%20Way%20-%20Eddie%20Boyd.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Chicago%20Is%20Just%20That%20Way%20-%20Eddie%20Boyd.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7075</key>
+		<key>43941</key>
 		<dict>
-			<key>Track ID</key><integer>7075</integer>
+			<key>Track ID</key><integer>43941</integer>
 			<key>Name</key><string>My Baby Left Me - Arthur Crudup</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -615,23 +673,23 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:20Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:20Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1727</integer>
-			<key>Persistent ID</key><string>35E6CFECAABEC775</string>
+			<key>Persistent ID</key><string>3808D9562631D212</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/My%20Baby%20Left%20Me%20-%20Arthur%20Crudup.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/My%20Baby%20Left%20Me%20-%20Arthur%20Crudup.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7079</key>
+		<key>43944</key>
 		<dict>
-			<key>Track ID</key><integer>7079</integer>
+			<key>Track ID</key><integer>43944</integer>
 			<key>Name</key><string>Right String, But The Wrong Yo-Yo - Piano Red</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -643,23 +701,23 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>23</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:22Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:22Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2215</integer>
-			<key>Persistent ID</key><string>88E559DCC8330572</string>
+			<key>Persistent ID</key><string>0CABE4944D9C616B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Right%20String,%20But%20The%20Wrong%20Yo-Yo%20-%20Piano%20Red.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Right%20String,%20But%20The%20Wrong%20Yo-Yo%20-%20Piano%20Red.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7081</key>
+		<key>43947</key>
 		<dict>
-			<key>Track ID</key><integer>7081</integer>
+			<key>Track ID</key><integer>43947</integer>
 			<key>Name</key><string>Rockin' With Red - Piano Red</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -671,26 +729,26 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:22Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:22Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3438063789</integer>
+			<key>Play Date</key><integer>3438056589</integer>
 			<key>Play Date UTC</key><date>2012-12-11T15:43:09Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2493</integer>
-			<key>Persistent ID</key><string>6A7BCF53596C4588</string>
+			<key>Persistent ID</key><string>6D14646EFA11DE50</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Rockin'%20With%20Red%20-%20Piano%20Red.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Rockin'%20With%20Red%20-%20Piano%20Red.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7083</key>
+		<key>43950</key>
 		<dict>
-			<key>Track ID</key><integer>7083</integer>
+			<key>Track ID</key><integer>43950</integer>
 			<key>Name</key><string>That's All Right - Arthur Crudup</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -702,23 +760,23 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:22Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:22Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1187</integer>
-			<key>Persistent ID</key><string>91AD42524A9F9B9B</string>
+			<key>Persistent ID</key><string>82A58C6A0891FA8D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/That's%20All%20Right%20-%20Arthur%20Crudup.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/That's%20All%20Right%20-%20Arthur%20Crudup.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7085</key>
+		<key>43953</key>
 		<dict>
-			<key>Track ID</key><integer>7085</integer>
+			<key>Track ID</key><integer>43953</integer>
 			<key>Name</key><string>Walkin' The Boogie - Pete Johnson &#38; Albert Ammons</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -730,26 +788,26 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:22Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:22Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3438165211</integer>
+			<key>Play Date</key><integer>3438158011</integer>
 			<key>Play Date UTC</key><date>2012-12-12T19:53:31Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1203</integer>
-			<key>Persistent ID</key><string>491514E9AA74716D</string>
+			<key>Persistent ID</key><string>19185C9616A2FAA5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Walkin'%20The%20Boogie%20-%20Pete%20Johnson%20&#38;%20Albert%20Ammons.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Walkin'%20The%20Boogie%20-%20Pete%20Johnson%20&#38;%20Albert%20Ammons.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7093</key>
+		<key>43956</key>
 		<dict>
-			<key>Track ID</key><integer>7093</integer>
+			<key>Track ID</key><integer>43956</integer>
 			<key>Name</key><string>Bucket's Got A Hole In It - Washboard Sam</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's Chicago's South Side (Vol. 3)</string>
@@ -761,12 +819,12 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>18</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:24Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:24Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3438162108</integer>
+			<key>Play Date</key><integer>3438154908</integer>
 			<key>Play Date UTC</key><date>2012-12-12T19:01:48Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-12-12T19:02:05Z</date>
@@ -774,15 +832,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1278</integer>
-			<key>Persistent ID</key><string>56A719BAC0023910</string>
+			<key>Persistent ID</key><string>B53CBEAA0984132F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20Chicago's%20South%20Side%20(Vol.%203)/Bucket's%20Got%20A%20Hole%20In%20It%20-%20Washboard%20Sam.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20Chicago's%20South%20Side%20(Vol.%203)/Bucket's%20Got%20A%20Hole%20In%20It%20-%20Washboard%20Sam.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7095</key>
+		<key>43959</key>
 		<dict>
-			<key>Track ID</key><integer>7095</integer>
+			<key>Track ID</key><integer>43959</integer>
 			<key>Name</key><string>Devil's Island Gin Blues - Rosevelt Sykes</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's Chicago's South Side (Vol. 3)</string>
@@ -794,26 +852,26 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:24Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:24Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3438161571</integer>
+			<key>Play Date</key><integer>3438154371</integer>
 			<key>Play Date UTC</key><date>2012-12-12T18:52:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1487</integer>
-			<key>Persistent ID</key><string>4EC4038E9B703ED4</string>
+			<key>Persistent ID</key><string>DBEF404E9E7AB629</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20Chicago's%20South%20Side%20(Vol.%203)/Devil's%20Island%20Gin%20Blues%20-%20Rosevelt%20Sykes.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20Chicago's%20South%20Side%20(Vol.%203)/Devil's%20Island%20Gin%20Blues%20-%20Rosevelt%20Sykes.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7103</key>
+		<key>43962</key>
 		<dict>
-			<key>Track ID</key><integer>7103</integer>
+			<key>Track ID</key><integer>43962</integer>
 			<key>Name</key><string>I Lost My Baby - Lil Johnson</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's Chicago's South Side (Vol. 3)</string>
@@ -825,12 +883,12 @@
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:26Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:26Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3437323405</integer>
+			<key>Play Date</key><integer>3437316205</integer>
 			<key>Play Date UTC</key><date>2012-12-03T02:03:25Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-12-04T02:44:39Z</date>
@@ -838,15 +896,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1158</integer>
-			<key>Persistent ID</key><string>E6CA57355A2023B0</string>
+			<key>Persistent ID</key><string>80960ACE4D5C9F74</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20Chicago's%20South%20Side%20(Vol.%203)/I%20Lost%20My%20Baby%20-%20Lil%20Johnson.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20Chicago's%20South%20Side%20(Vol.%203)/I%20Lost%20My%20Baby%20-%20Lil%20Johnson.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7119</key>
+		<key>43965</key>
 		<dict>
-			<key>Track ID</key><integer>7119</integer>
+			<key>Track ID</key><integer>43965</integer>
 			<key>Name</key><string>The Girl I Love, She Got Long, Curly Hair - Sleepy John Estes</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>The First Time I Met The Blues (Vol. 2)</string>
@@ -859,25 +917,25 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:18:34Z</date>
-			<key>Date Added</key><date>2012-12-03T01:35:20Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:18:34Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1232</integer>
 			<key>Sort Album</key><string>First Time I Met The Blues (Vol. 2)</string>
 			<key>Sort Name</key><string>Girl I Love, She Got Long, Curly Hair - Sleepy John Estes</string>
-			<key>Persistent ID</key><string>644393580700CA61</string>
+			<key>Persistent ID</key><string>F76CDE13AF82AD47</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/The%20First%20Time%20I%20Met%20The%20Blues%20(Vol.%202)/The%20Girl%20I%20Love,%20She%20Got%20Long,%20Curly%20Hair%20-%20Sleepy%20John%20Estes.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/The%20First%20Time%20I%20Met%20The%20Blues%20(Vol.%202)/The%20Girl%20I%20Love,%20She%20Got%20Long,%20Curly%20Hair%20-%20Sleepy%20John%20Estes.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7177</key>
+		<key>43968</key>
 		<dict>
-			<key>Track ID</key><integer>7177</integer>
+			<key>Track ID</key><integer>43968</integer>
 			<key>Name</key><string>That's Alright</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -887,24 +945,24 @@
 			<key>Total Time</key><integer>117551</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Date Modified</key><date>2012-12-13T00:46:47Z</date>
-			<key>Date Added</key><date>2012-12-13T00:43:17Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-12-13T17:07:03Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Sun Studio Sessions</string>
-			<key>Persistent ID</key><string>98383493C0C76E17</string>
+			<key>Persistent ID</key><string>F95BD9734EFD2517</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/01%20-%20%20That's%20Alright.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/01%20-%20%20That's%20Alright.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7185</key>
+		<key>43971</key>
 		<dict>
-			<key>Track ID</key><integer>7185</integer>
+			<key>Track ID</key><integer>43971</integer>
 			<key>Name</key><string>Good Rockin' Tonight</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -914,24 +972,24 @@
 			<key>Total Time</key><integer>133302</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Date Modified</key><date>2012-12-13T00:46:48Z</date>
-			<key>Date Added</key><date>2012-12-13T00:43:17Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2012-12-13T05:38:01Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Sun Studio Sessions</string>
-			<key>Persistent ID</key><string>236C03D3546DB256</string>
+			<key>Persistent ID</key><string>57ECB7C60ADA7805</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/09%20-%20%20Good%20Rockin'%20Tonight.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/09%20-%20%20Good%20Rockin'%20Tonight.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7187</key>
+		<key>43974</key>
 		<dict>
-			<key>Track ID</key><integer>7187</integer>
+			<key>Track ID</key><integer>43974</integer>
 			<key>Name</key><string>Mystery Train</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -941,22 +999,22 @@
 			<key>Total Time</key><integer>149133</integer>
 			<key>Track Number</key><integer>17</integer>
 			<key>Date Modified</key><date>2012-12-13T00:46:48Z</date>
-			<key>Date Added</key><date>2012-12-13T00:43:18Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Sun Studio Sessions</string>
-			<key>Persistent ID</key><string>7D0505DD069C68C4</string>
+			<key>Persistent ID</key><string>BC1CA874EC23D4F1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/17%20-%20Mystery%20Train.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/17%20-%20Mystery%20Train.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7189</key>
+		<key>43977</key>
 		<dict>
-			<key>Track ID</key><integer>7189</integer>
+			<key>Track ID</key><integer>43977</integer>
 			<key>Name</key><string>Shake, Rattle And Roll</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -966,22 +1024,22 @@
 			<key>Total Time</key><integer>137795</integer>
 			<key>Track Number</key><integer>27</integer>
 			<key>Date Modified</key><date>2012-12-13T00:46:48Z</date>
-			<key>Date Added</key><date>2012-12-13T00:43:18Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Sun Studio Sessions</string>
-			<key>Persistent ID</key><string>73C998D8B1258EE3</string>
+			<key>Persistent ID</key><string>2E30BC4E1F6431C4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/27%20-%20%20Shake,%20Rattle%20And%20Roll.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/27%20-%20%20Shake,%20Rattle%20And%20Roll.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7191</key>
+		<key>43980</key>
 		<dict>
-			<key>Track ID</key><integer>7191</integer>
+			<key>Track ID</key><integer>43980</integer>
 			<key>Name</key><string>Maybellene</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -991,24 +1049,24 @@
 			<key>Total Time</key><integer>148244</integer>
 			<key>Track Number</key><integer>31</integer>
 			<key>Date Modified</key><date>2012-12-13T00:46:48Z</date>
-			<key>Date Added</key><date>2012-12-13T00:43:18Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-12-13T17:07:06Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Sun Studio Sessions</string>
-			<key>Persistent ID</key><string>E18C1E84EF49B79E</string>
+			<key>Persistent ID</key><string>2ABDF84B9FB1DF26</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/31%20-%20%20%20Maybellene.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Sun%20Studio%20Sessions/31%20-%20%20%20Maybellene.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>119956</key>
+		<key>43983</key>
 		<dict>
-			<key>Track ID</key><integer>119956</integer>
+			<key>Track ID</key><integer>43983</integer>
 			<key>Name</key><string>I Got A Woman</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 01)</string>
@@ -1018,23 +1076,23 @@
 			<key>Total Time</key><integer>146364</integer>
 			<key>Track Number</key><integer>20</integer>
 			<key>Date Modified</key><date>2012-12-16T05:18:34Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:49Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 01)</string>
-			<key>Persistent ID</key><string>2D41377FD270215A</string>
+			<key>Persistent ID</key><string>31C93F649C2D69EE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2001/20%20-%20I%20Got%20A%20Woman.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2001/20%20-%20I%20Got%20A%20Woman.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>119974</key>
+		<key>43986</key>
 		<dict>
-			<key>Track ID</key><integer>119974</integer>
+			<key>Track ID</key><integer>43986</integer>
 			<key>Name</key><string>Blue Suede Shoes</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1044,23 +1102,23 @@
 			<key>Total Time</key><integer>121260</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Date Modified</key><date>2012-12-16T05:19:53Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:49Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>FA7EF19E4BA924A0</string>
+			<key>Persistent ID</key><string>CE5D5F7ED14DE21F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/01%20-%20Blue%20Suede%20Shoes.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/01%20-%20Blue%20Suede%20Shoes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>119977</key>
+		<key>43989</key>
 		<dict>
-			<key>Track ID</key><integer>119977</integer>
+			<key>Track ID</key><integer>43989</integer>
 			<key>Name</key><string>My Baby Left Me</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1070,23 +1128,23 @@
 			<key>Total Time</key><integer>134400</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Date Modified</key><date>2012-12-16T05:20:00Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:49Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>24FA5801B9790278</string>
+			<key>Persistent ID</key><string>F0A0FFBC1683B6E9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/02%20-%20My%20Baby%20Left%20Me.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/02%20-%20My%20Baby%20Left%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>119995</key>
+		<key>43992</key>
 		<dict>
-			<key>Track ID</key><integer>119995</integer>
+			<key>Track ID</key><integer>43992</integer>
 			<key>Name</key><string>Shake, Rattle And Roll</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1096,23 +1154,23 @@
 			<key>Total Time</key><integer>148767</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Date Modified</key><date>2012-12-16T05:20:42Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:50Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>568675C306BDFECE</string>
+			<key>Persistent ID</key><string>FC2DF52DA2BDBEC2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/08%20-%20Shake,%20Rattle%20And%20Roll.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/08%20-%20Shake,%20Rattle%20And%20Roll.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>120001</key>
+		<key>43995</key>
 		<dict>
-			<key>Track ID</key><integer>120001</integer>
+			<key>Track ID</key><integer>43995</integer>
 			<key>Name</key><string>Hound Dog</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1122,23 +1180,23 @@
 			<key>Total Time</key><integer>137639</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Date Modified</key><date>2012-12-16T05:20:58Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:50Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>EE358A67D8B4BDFA</string>
+			<key>Persistent ID</key><string>FAF61FD948089732</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/10%20-%20Hound%20Dog.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/10%20-%20Hound%20Dog.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>120004</key>
+		<key>43998</key>
 		<dict>
-			<key>Track ID</key><integer>120004</integer>
+			<key>Track ID</key><integer>43998</integer>
 			<key>Name</key><string>Don't Be Cruel</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1148,23 +1206,23 @@
 			<key>Total Time</key><integer>124499</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Date Modified</key><date>2012-12-16T05:21:04Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:50Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>B7389E401A8F4E61</string>
+			<key>Persistent ID</key><string>92CEA98A2F58CB6A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/11%20-%20Don't%20Be%20Cruel.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/11%20-%20Don't%20Be%20Cruel.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>120043</key>
+		<key>44001</key>
 		<dict>
-			<key>Track ID</key><integer>120043</integer>
+			<key>Track ID</key><integer>44001</integer>
 			<key>Name</key><string>Paralyzed</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1174,23 +1232,23 @@
 			<key>Total Time</key><integer>146024</integer>
 			<key>Track Number</key><integer>24</integer>
 			<key>Date Modified</key><date>2012-12-16T05:22:53Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:50Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>57650CC8AE3C2E05</string>
+			<key>Persistent ID</key><string>F2F64ADE8B1F9331</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/24%20-%20Paralyzed.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/24%20-%20Paralyzed.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>120058</key>
+		<key>44004</key>
 		<dict>
-			<key>Track ID</key><integer>120058</integer>
+			<key>Track ID</key><integer>44004</integer>
 			<key>Name</key><string>Rip It Up</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1200,152 +1258,159 @@
 			<key>Total Time</key><integer>113214</integer>
 			<key>Track Number</key><integer>29</integer>
 			<key>Date Modified</key><date>2012-12-16T05:23:33Z</date>
-			<key>Date Added</key><date>2012-12-17T00:48:50Z</date>
+			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>Complete Elvis Presley Masters (Disc 02)</string>
-			<key>Persistent ID</key><string>CEEBC4B4BB0F6F95</string>
+			<key>Persistent ID</key><string>5455586528A71045</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/29%20-%20Rip%20It%20Up.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elvis%20Presley/The%20Complete%20Elvis%20Presley%20%20Masters/Disc%2002/29%20-%20Rip%20It%20Up.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Early Rock n Roll</string>
-			<key>Playlist ID</key><integer>21207</integer>
-			<key>Playlist Persistent ID</key><string>C22F59F6D43A2FA9</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>44007</integer>
+			<key>Playlist Persistent ID</key><string>6ECB0DD7C6F15F6F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6875</integer>
+					<key>Track ID</key><integer>43882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7039</integer>
+					<key>Track ID</key><integer>43917</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>119974</integer>
+					<key>Track ID</key><integer>43986</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6877</integer>
+					<key>Track ID</key><integer>43887</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7093</integer>
+					<key>Track ID</key><integer>43956</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7067</integer>
+					<key>Track ID</key><integer>43938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7095</integer>
+					<key>Track ID</key><integer>43959</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6965</integer>
+					<key>Track ID</key><integer>43905</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>120004</integer>
+					<key>Track ID</key><integer>43998</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6879</integer>
+					<key>Track ID</key><integer>43890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7119</integer>
+					<key>Track ID</key><integer>43965</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6883</integer>
+					<key>Track ID</key><integer>43893</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7185</integer>
+					<key>Track ID</key><integer>43971</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>120001</integer>
+					<key>Track ID</key><integer>43995</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>119956</integer>
+					<key>Track ID</key><integer>43983</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7103</integer>
+					<key>Track ID</key><integer>43962</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6967</integer>
+					<key>Track ID</key><integer>43908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7049</integer>
+					<key>Track ID</key><integer>43920</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6889</integer>
+					<key>Track ID</key><integer>43896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7191</integer>
+					<key>Track ID</key><integer>43980</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7051</integer>
+					<key>Track ID</key><integer>43923</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>119977</integer>
+					<key>Track ID</key><integer>43989</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7075</integer>
+					<key>Track ID</key><integer>43941</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7187</integer>
+					<key>Track ID</key><integer>43974</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>120043</integer>
+					<key>Track ID</key><integer>44001</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7057</integer>
+					<key>Track ID</key><integer>43926</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6893</integer>
+					<key>Track ID</key><integer>43899</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7079</integer>
+					<key>Track ID</key><integer>43944</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>120058</integer>
+					<key>Track ID</key><integer>44004</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7081</integer>
+					<key>Track ID</key><integer>43947</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>119995</integer>
+					<key>Track ID</key><integer>43992</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7189</integer>
+					<key>Track ID</key><integer>43977</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7059</integer>
+					<key>Track ID</key><integer>43929</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6973</integer>
+					<key>Track ID</key><integer>43911</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7061</integer>
+					<key>Track ID</key><integer>43932</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7063</integer>
+					<key>Track ID</key><integer>43935</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6901</integer>
+					<key>Track ID</key><integer>43902</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6975</integer>
+					<key>Track ID</key><integer>43914</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7083</integer>
+					<key>Track ID</key><integer>43950</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7177</integer>
+					<key>Track ID</key><integer>43968</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7085</integer>
+					<key>Track ID</key><integer>43953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10543</integer>
 				</dict>
 			</array>
 		</dict>

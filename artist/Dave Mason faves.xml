@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-01-09T04:41:12Z</date>
-	<key>Application Version</key><string>12.5.4.42</string>
+	<key>Date</key><date>2017-01-31T03:47:41Z</date>
+	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8084</key>
+		<key>7992</key>
 		<dict>
-			<key>Track ID</key><integer>8084</integer>
+			<key>Track ID</key><integer>7992</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -31,7 +31,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>040256E2C427F361</string>
 			<key>Track Type</key><string>File</string>
@@ -39,9 +38,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8092</key>
+		<key>7994</key>
 		<dict>
-			<key>Track ID</key><integer>8092</integer>
+			<key>Track ID</key><integer>7994</integer>
+			<key>Name</key><string>Sad And Deep As You</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Alone Together</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8733488</integer>
+			<key>Total Time</key><integer>216241</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2016-12-28T22:45:56Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3567601546</integer>
+			<key>Play Date UTC</key><date>2017-01-19T00:25:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFB43BC9BCD12D60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1970-Alone%20Together/06-Sad%20And%20Deep%20As%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7996</key>
+		<dict>
+			<key>Track ID</key><integer>7996</integer>
 			<key>Name</key><string>Look At You Look At Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -58,7 +86,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F89B9EA5C82E52E8</string>
 			<key>Track Type</key><string>File</string>
@@ -66,9 +93,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8100</key>
+		<key>7998</key>
 		<dict>
-			<key>Track ID</key><integer>8100</integer>
+			<key>Track ID</key><integer>7998</integer>
+			<key>Name</key><string>Walk To The Point</string>
+			<key>Artist</key><string>Dave Mason &#38; Cass Elliot</string>
+			<key>Album Artist</key><string>Dave Mason &#38; Cass Elliot</string>
+			<key>Album</key><string>Dave Mason &#38; Cass Elliot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9709418</integer>
+			<key>Total Time</key><integer>241763</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2016-12-28T23:04:17Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>554A545459809232</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1971-Dave%20Mason%20&#38;%20Cass%20Elliot/01-Walk%20To%20The%20Point.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8000</key>
+		<dict>
+			<key>Track ID</key><integer>8000</integer>
 			<key>Name</key><string>Here We Go Again</string>
 			<key>Artist</key><string>Dave Mason &#38; Cass Elliot</string>
 			<key>Album Artist</key><string>Dave Mason &#38; Cass Elliot</string>
@@ -95,9 +148,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8102</key>
+		<key>8002</key>
 		<dict>
-			<key>Track ID</key><integer>8102</integer>
+			<key>Track ID</key><integer>8002</integer>
 			<key>Name</key><string>Pleasing You</string>
 			<key>Artist</key><string>Dave Mason &#38; Cass Elliot</string>
 			<key>Album Artist</key><string>Dave Mason &#38; Cass Elliot</string>
@@ -124,9 +177,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8104</key>
+		<key>8004</key>
 		<dict>
-			<key>Track ID</key><integer>8104</integer>
+			<key>Track ID</key><integer>8004</integer>
 			<key>Name</key><string>Glittering Facade</string>
 			<key>Artist</key><string>Dave Mason &#38; Cass Elliot</string>
 			<key>Album Artist</key><string>Dave Mason &#38; Cass Elliot</string>
@@ -150,9 +203,124 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8120</key>
+		<key>8006</key>
 		<dict>
-			<key>Track ID</key><integer>8120</integer>
+			<key>Track ID</key><integer>8006</integer>
+			<key>Name</key><string>In My Mind</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Headkeeper</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7760052</integer>
+			<key>Total Time</key><integer>193724</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-28T22:51:09Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565791953</integer>
+			<key>Play Date UTC</key><date>2016-12-29T01:45:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-09T15:55:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DB690D0DEC5541C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1972-Headkeeper/02-In%20My%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8008</key>
+		<dict>
+			<key>Track ID</key><integer>8008</integer>
+			<key>Name</key><string>Headkeeper</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Headkeeper</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11253146</integer>
+			<key>Total Time</key><integer>281051</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-28T22:58:44Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565792729</integer>
+			<key>Play Date UTC</key><date>2016-12-29T01:58:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3FCD897FBDFF2E16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1972-Headkeeper/05-Headkeeper.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8010</key>
+		<dict>
+			<key>Track ID</key><integer>8010</integer>
+			<key>Name</key><string>Just A Song</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Headkeeper</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7162372</integer>
+			<key>Total Time</key><integer>178782</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-28T22:54:36Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565793283</integer>
+			<key>Play Date UTC</key><date>2016-12-29T02:08:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8954B29E913DD7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1972-Headkeeper/07-Just%20A%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8012</key>
+		<dict>
+			<key>Track ID</key><integer>8012</integer>
+			<key>Name</key><string>World In Changes</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Headkeeper</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11461093</integer>
+			<key>Total Time</key><integer>286249</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2016-12-28T22:42:56Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B278FC184284A1F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1972-Headkeeper/08-World%20In%20Changes.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8014</key>
+		<dict>
+			<key>Track ID</key><integer>8014</integer>
 			<key>Name</key><string>Feelin' Alright?</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -172,7 +340,6 @@
 			<key>Play Date UTC</key><date>2016-12-29T02:19:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1485F92A2E04B1CE</string>
 			<key>Track Type</key><string>File</string>
@@ -180,9 +347,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8126</key>
+		<key>8016</key>
 		<dict>
-			<key>Track ID</key><integer>8126</integer>
+			<key>Track ID</key><integer>8016</integer>
+			<key>Name</key><string>Baby...Please</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>It's Like You Never Left</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7978868</integer>
+			<key>Total Time</key><integer>198373</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2016-12-28T23:10:25Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42067FD4E75818DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1973-It's%20Like%20You%20Never%20Left/01-Baby...Please.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8018</key>
+		<dict>
+			<key>Track ID</key><integer>8018</integer>
 			<key>Name</key><string>If You've Got Love</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -209,9 +402,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8128</key>
+		<key>8020</key>
 		<dict>
-			<key>Track ID</key><integer>8128</integer>
+			<key>Track ID</key><integer>8020</integer>
 			<key>Name</key><string>Head Keeper</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -235,9 +428,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8130</key>
+		<key>8022</key>
 		<dict>
-			<key>Track ID</key><integer>8130</integer>
+			<key>Track ID</key><integer>8022</integer>
 			<key>Name</key><string>Misty Morning Stranger</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -261,9 +454,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8132</key>
+		<key>8024</key>
 		<dict>
-			<key>Track ID</key><integer>8132</integer>
+			<key>Track ID</key><integer>8024</integer>
 			<key>Name</key><string>Silent Partner</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -287,9 +480,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8136</key>
+		<key>8026</key>
 		<dict>
-			<key>Track ID</key><integer>8136</integer>
+			<key>Track ID</key><integer>8026</integer>
 			<key>Name</key><string>The Lonely One</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -314,9 +507,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8140</key>
+		<key>8028</key>
 		<dict>
-			<key>Track ID</key><integer>8140</integer>
+			<key>Track ID</key><integer>8028</integer>
 			<key>Name</key><string>It Can't Make Any Differance To Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -343,9 +536,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8146</key>
+		<key>8030</key>
 		<dict>
-			<key>Track ID</key><integer>8146</integer>
+			<key>Track ID</key><integer>8030</integer>
 			<key>Name</key><string>You Can't Take It When You Go</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -369,9 +562,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8148</key>
+		<key>8032</key>
 		<dict>
-			<key>Track ID</key><integer>8148</integer>
+			<key>Track ID</key><integer>8032</integer>
 			<key>Name</key><string>You Can Lose It</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -400,9 +593,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8156</key>
+		<key>8034</key>
 		<dict>
-			<key>Track ID</key><integer>8156</integer>
+			<key>Track ID</key><integer>8034</integer>
+			<key>Name</key><string>So High (Rock Me Baby And Roll Me Away)</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Let It Flow</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10022454</integer>
+			<key>Total Time</key><integer>248868</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2016-12-28T23:08:54Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>711B7D44E5FC0CC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1977-Let%20It%20Flow/01-So%20High%20(Rock%20Me%20Baby%20And%20Roll%20Me%20Away).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8036</key>
+		<dict>
+			<key>Track ID</key><integer>8036</integer>
 			<key>Name</key><string>We Just Disagree</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -428,9 +647,66 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8162</key>
+		<key>8038</key>
 		<dict>
-			<key>Track ID</key><integer>8162</integer>
+			<key>Track ID</key><integer>8038</integer>
+			<key>Name</key><string>Spend Your Life With Me</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Let It Flow</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8208511</integer>
+			<key>Total Time</key><integer>203520</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2016-12-28T23:01:46Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566299221</integer>
+			<key>Play Date UTC</key><date>2017-01-03T22:40:21Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-01-04T06:59:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D71E19922131FBA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1977-Let%20It%20Flow/04-Spend%20Your%20Life%20With%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8040</key>
+		<dict>
+			<key>Track ID</key><integer>8040</integer>
+			<key>Name</key><string>Takin' The Time To Find</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Let It Flow</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10952413</integer>
+			<key>Total Time</key><integer>272117</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2016-12-28T22:58:01Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCD8FD9C99B8872F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1977-Let%20It%20Flow/05-Takin'%20The%20Time%20To%20Find.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8042</key>
+		<dict>
+			<key>Track ID</key><integer>8042</integer>
 			<key>Name</key><string>Let It Go, Let It Flow</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -457,9 +733,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8166</key>
+		<key>8044</key>
 		<dict>
-			<key>Track ID</key><integer>8166</integer>
+			<key>Track ID</key><integer>8044</integer>
 			<key>Name</key><string>Don't It Make You Wonder</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -483,9 +759,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8188</key>
+		<key>8046</key>
 		<dict>
-			<key>Track ID</key><integer>8188</integer>
+			<key>Track ID</key><integer>8046</integer>
+			<key>Name</key><string>Words</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Mariposa De Oro</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8177054</integer>
+			<key>Total Time</key><integer>203807</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2016-12-28T23:04:55Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36184C9C66301B16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1978-Mariposa%20De%20Oro/10-Words.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8048</key>
+		<dict>
+			<key>Track ID</key><integer>8048</integer>
 			<key>Name</key><string>Save Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -509,9 +811,65 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8196</key>
+		<key>8050</key>
 		<dict>
-			<key>Track ID</key><integer>8196</integer>
+			<key>Track ID</key><integer>8050</integer>
+			<key>Name</key><string>Life Is A Ladder</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Old Crest On A New Wave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6225134</integer>
+			<key>Total Time</key><integer>155010</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2016-12-28T22:55:07Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566882556</integer>
+			<key>Play Date UTC</key><date>2017-01-10T16:42:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25E6402F0F6722D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1980-Old%20Crest%20On%20A%20New%20Wave/07-Life%20Is%20A%20Ladder.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8052</key>
+		<dict>
+			<key>Track ID</key><integer>8052</integer>
+			<key>Name</key><string>Let It Go, Let It Flow</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>The Best Of Dave Mason</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7958462</integer>
+			<key>Total Time</key><integer>197877</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2016-12-28T22:55:24Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Of Dave Mason</string>
+			<key>Persistent ID</key><string>FE1D308C39C572C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1981-The%20Best%20Of%20Dave%20Mason/01-Let%20It%20Go,%20Let%20It%20Flow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8054</key>
+		<dict>
+			<key>Track ID</key><integer>8054</integer>
 			<key>Name</key><string>So High (Rock Me Baby And Roll Me Away)</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -536,9 +894,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8200</key>
+		<key>8058</key>
 		<dict>
-			<key>Track ID</key><integer>8200</integer>
+			<key>Track ID</key><integer>8058</integer>
 			<key>Name</key><string>All Along The Watchtower</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -563,9 +921,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8202</key>
+		<key>8060</key>
 		<dict>
-			<key>Track ID</key><integer>8202</integer>
+			<key>Track ID</key><integer>8060</integer>
 			<key>Name</key><string>We Just Disagree</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -590,9 +948,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8204</key>
+		<key>8062</key>
 		<dict>
-			<key>Track ID</key><integer>8204</integer>
+			<key>Track ID</key><integer>8062</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -617,9 +975,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8206</key>
+		<key>8064</key>
 		<dict>
-			<key>Track ID</key><integer>8206</integer>
+			<key>Track ID</key><integer>8064</integer>
 			<key>Name</key><string>Feelin' Alright</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -644,9 +1002,66 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8212</key>
+		<key>8066</key>
 		<dict>
-			<key>Track ID</key><integer>8212</integer>
+			<key>Track ID</key><integer>8066</integer>
+			<key>Name</key><string>Hold On</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Some Assembly Required</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4869094</integer>
+			<key>Total Time</key><integer>202579</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2016-12-28T22:32:37Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3565791575</integer>
+			<key>Play Date UTC</key><date>2016-12-29T01:39:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>849379E15C5B577C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1987-Some%20Assembly%20Required/03-Hold%20On.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8068</key>
+		<dict>
+			<key>Track ID</key><integer>8068</integer>
+			<key>Name</key><string>In Love With You</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Some Assembly Required</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5574596</integer>
+			<key>Total Time</key><integer>232019</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2016-12-28T22:52:09Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-19T02:43:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22DEDE82F8D217AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1987-Some%20Assembly%20Required/04-In%20Love%20With%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8070</key>
+		<dict>
+			<key>Track ID</key><integer>8070</integer>
 			<key>Name</key><string>Sour Grapes</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -670,9 +1085,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8222</key>
+		<key>8072</key>
 		<dict>
-			<key>Track ID</key><integer>8222</integer>
+			<key>Track ID</key><integer>8072</integer>
 			<key>Name</key><string>Misty Morning Stranger</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -696,9 +1111,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8226</key>
+		<key>8074</key>
 		<dict>
-			<key>Track ID</key><integer>8226</integer>
+			<key>Track ID</key><integer>8074</integer>
 			<key>Name</key><string>Bring It On Home To Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -725,9 +1140,66 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8232</key>
+		<key>8076</key>
 		<dict>
-			<key>Track ID</key><integer>8232</integer>
+			<key>Track ID</key><integer>8076</integer>
+			<key>Name</key><string>Split Coconut</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Long Lost Friend:The Best Of Dave Mason</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5349066</integer>
+			<key>Total Time</key><integer>221544</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2016-12-28T22:18:44Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-04T16:00:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E271DA4D58C6CBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1995-Long%20Lost%20Friend%20The%20Best%20Of%20Dave%20Mason/08-Split%20Coconut.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8078</key>
+		<dict>
+			<key>Track ID</key><integer>8078</integer>
+			<key>Name</key><string>You Can Lose It</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Long Lost Friend:The Best Of Dave Mason</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4491743</integer>
+			<key>Total Time</key><integer>185991</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2016-12-28T22:18:57Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566315357</integer>
+			<key>Play Date UTC</key><date>2017-01-04T03:09:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20675B8CA37AC500</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1995-Long%20Lost%20Friend%20The%20Best%20Of%20Dave%20Mason/09-You%20Can%20Lose%20It.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8080</key>
+		<dict>
+			<key>Track ID</key><integer>8080</integer>
 			<key>Name</key><string>Long Lost Friend</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -751,9 +1223,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8234</key>
+		<key>8082</key>
 		<dict>
-			<key>Track ID</key><integer>8234</integer>
+			<key>Track ID</key><integer>8082</integer>
 			<key>Name</key><string>We Just Disagree</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -777,9 +1249,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8236</key>
+		<key>8084</key>
 		<dict>
-			<key>Track ID</key><integer>8236</integer>
+			<key>Track ID</key><integer>8084</integer>
 			<key>Name</key><string>So High (Rock Me Baby and Roll Me Away)</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -803,9 +1275,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8238</key>
+		<key>8086</key>
 		<dict>
-			<key>Track ID</key><integer>8238</integer>
+			<key>Track ID</key><integer>8086</integer>
 			<key>Name</key><string>Let It Go, Let It Flow</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -829,9 +1301,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8244</key>
+		<key>8088</key>
 		<dict>
-			<key>Track ID</key><integer>8244</integer>
+			<key>Track ID</key><integer>8088</integer>
+			<key>Name</key><string>Save Me</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Long Lost Friend:The Best Of Dave Mason</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5170318</integer>
+			<key>Total Time</key><integer>217364</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2016-12-28T22:20:51Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>188</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F4DD23E9BAA9BB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1995-Long%20Lost%20Friend%20The%20Best%20Of%20Dave%20Mason/16-Save%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8090</key>
+		<dict>
+			<key>Track ID</key><integer>8090</integer>
 			<key>Name</key><string>Feelin' Alright</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -855,9 +1353,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8246</key>
+		<key>8092</key>
 		<dict>
-			<key>Track ID</key><integer>8246</integer>
+			<key>Track ID</key><integer>8092</integer>
 			<key>Name</key><string>Only You Know and I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -883,9 +1381,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8248</key>
+		<key>8094</key>
 		<dict>
-			<key>Track ID</key><integer>8248</integer>
+			<key>Track ID</key><integer>8094</integer>
 			<key>Name</key><string>All Along The Watchtower</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -911,9 +1409,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8254</key>
+		<key>8096</key>
 		<dict>
-			<key>Track ID</key><integer>8254</integer>
+			<key>Track ID</key><integer>8096</integer>
 			<key>Name</key><string>We Just Disagree</string>
 			<key>Artist</key><string>Jim Capaldi &#38; Dave Mason</string>
 			<key>Album Artist</key><string>Jim Capaldi &#38; Dave Mason</string>
@@ -937,9 +1435,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8256</key>
+		<key>8098</key>
 		<dict>
-			<key>Track ID</key><integer>8256</integer>
+			<key>Track ID</key><integer>8098</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Jim Capaldi &#38; Dave Mason</string>
 			<key>Album Artist</key><string>Jim Capaldi &#38; Dave Mason</string>
@@ -963,9 +1461,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8258</key>
+		<key>8100</key>
 		<dict>
-			<key>Track ID</key><integer>8258</integer>
+			<key>Track ID</key><integer>8100</integer>
 			<key>Name</key><string>Feelin' Alright</string>
 			<key>Artist</key><string>Jim Capaldi &#38; Dave Mason</string>
 			<key>Album Artist</key><string>Jim Capaldi &#38; Dave Mason</string>
@@ -989,9 +1487,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8264</key>
+		<key>8102</key>
 		<dict>
-			<key>Track ID</key><integer>8264</integer>
+			<key>Track ID</key><integer>8102</integer>
 			<key>Name</key><string>Feelin' Alright</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1015,9 +1513,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8266</key>
+		<key>8104</key>
 		<dict>
-			<key>Track ID</key><integer>8266</integer>
+			<key>Track ID</key><integer>8104</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1041,9 +1539,40 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8272</key>
+		<key>8106</key>
 		<dict>
-			<key>Track ID</key><integer>8272</integer>
+			<key>Track ID</key><integer>8106</integer>
+			<key>Name</key><string>Just A Song</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Ultimate Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7277809</integer>
+			<key>Total Time</key><integer>181289</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-12-31T03:51:16Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3566388829</integer>
+			<key>Play Date UTC</key><date>2017-01-04T23:33:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-05T16:35:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>65ABEA66AD9B1844</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/1999-Ultimate%20Collection/07-Just%20A%20Song.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8108</key>
+		<dict>
+			<key>Track ID</key><integer>8108</integer>
 			<key>Name</key><string>Look At You Look At Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1069,9 +1598,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8276</key>
+		<key>8110</key>
 		<dict>
-			<key>Track ID</key><integer>8276</integer>
+			<key>Track ID</key><integer>8110</integer>
 			<key>Name</key><string>In My Mind</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1095,9 +1624,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8278</key>
+		<key>8112</key>
 		<dict>
-			<key>Track ID</key><integer>8278</integer>
+			<key>Track ID</key><integer>8112</integer>
 			<key>Name</key><string>Headkeeper</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1121,9 +1650,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8280</key>
+		<key>8114</key>
 		<dict>
-			<key>Track ID</key><integer>8280</integer>
+			<key>Track ID</key><integer>8114</integer>
 			<key>Name</key><string>Baby...Please</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1149,9 +1678,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8282</key>
+		<key>8116</key>
 		<dict>
-			<key>Track ID</key><integer>8282</integer>
+			<key>Track ID</key><integer>8116</integer>
 			<key>Name</key><string>We Just Disagree</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1175,9 +1704,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8284</key>
+		<key>8118</key>
 		<dict>
-			<key>Track ID</key><integer>8284</integer>
+			<key>Track ID</key><integer>8118</integer>
 			<key>Name</key><string>Let It Go, Let It Flow</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1201,9 +1730,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8290</key>
+		<key>8120</key>
 		<dict>
-			<key>Track ID</key><integer>8290</integer>
+			<key>Track ID</key><integer>8120</integer>
 			<key>Name</key><string>Bring It On Home To Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album</key><string>Ultimate Collection</string>
@@ -1226,9 +1755,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8292</key>
+		<key>8122</key>
 		<dict>
-			<key>Track ID</key><integer>8292</integer>
+			<key>Track ID</key><integer>8122</integer>
 			<key>Name</key><string>Split Coconut</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album</key><string>Ultimate Collection</string>
@@ -1254,9 +1783,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8298</key>
+		<key>8124</key>
 		<dict>
-			<key>Track ID</key><integer>8298</integer>
+			<key>Track ID</key><integer>8124</integer>
 			<key>Name</key><string>All Along The Watchtower [Live</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album</key><string>Ultimate Collection</string>
@@ -1279,9 +1808,38 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8302</key>
+		<key>8126</key>
 		<dict>
-			<key>Track ID</key><integer>8302</integer>
+			<key>Track ID</key><integer>8126</integer>
+			<key>Name</key><string>It's Just A Song</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Live At Perkins Palace</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6550765</integer>
+			<key>Total Time</key><integer>162847</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2016-12-31T03:54:34Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566238219</integer>
+			<key>Play Date UTC</key><date>2017-01-03T05:43:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B786C1F980DEEC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2002-Live%20At%20Perkins%20Palace%201981/01-It's%20Just%20A%20Song.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8128</key>
+		<dict>
+			<key>Track ID</key><integer>8128</integer>
 			<key>Name</key><string>Dust My Blues</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1305,9 +1863,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8312</key>
+		<key>8130</key>
 		<dict>
-			<key>Track ID</key><integer>8312</integer>
+			<key>Track ID</key><integer>8130</integer>
 			<key>Name</key><string>All Along The Watchtower</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1331,9 +1889,35 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8318</key>
+		<key>8132</key>
 		<dict>
-			<key>Track ID</key><integer>8318</integer>
+			<key>Track ID</key><integer>8132</integer>
+			<key>Name</key><string>Let It Go, Let It Flow</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Live At Sunrise Theatre</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8367076</integer>
+			<key>Total Time</key><integer>207960</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2016-12-31T03:44:12Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61922FAD74616611</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2002-Live%20At%20Sunrise%20Theatre/01-Let%20It%20Go,%20Let%20It%20Flow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8134</key>
+		<dict>
+			<key>Track ID</key><integer>8134</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1357,9 +1941,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8320</key>
+		<key>8136</key>
 		<dict>
-			<key>Track ID</key><integer>8320</integer>
+			<key>Track ID</key><integer>8136</integer>
 			<key>Name</key><string>World In Changes</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1383,9 +1967,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8322</key>
+		<key>8138</key>
 		<dict>
-			<key>Track ID</key><integer>8322</integer>
+			<key>Track ID</key><integer>8138</integer>
 			<key>Name</key><string>Dear Mr. Fantasy</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1408,9 +1992,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8324</key>
+		<key>8140</key>
 		<dict>
-			<key>Track ID</key><integer>8324</integer>
+			<key>Track ID</key><integer>8140</integer>
 			<key>Name</key><string>All Along The Watchtower</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1436,9 +2020,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8326</key>
+		<key>8142</key>
 		<dict>
-			<key>Track ID</key><integer>8326</integer>
+			<key>Track ID</key><integer>8142</integer>
 			<key>Name</key><string>Felin' Alright</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1462,9 +2046,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8328</key>
+		<key>8144</key>
 		<dict>
-			<key>Track ID</key><integer>8328</integer>
+			<key>Track ID</key><integer>8144</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1489,9 +2073,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8332</key>
+		<key>8146</key>
 		<dict>
-			<key>Track ID</key><integer>8332</integer>
+			<key>Track ID</key><integer>8146</integer>
+			<key>Name</key><string>World In Changes</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>The Definitive Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10921194</integer>
+			<key>Total Time</key><integer>271203</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-12-31T03:56:14Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Album</key><string>Definitive Collection</string>
+			<key>Persistent ID</key><string>4472300767562B19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2006-The%20Definitive%20Collection/06-World%20In%20Changes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8148</key>
+		<dict>
+			<key>Track ID</key><integer>8148</integer>
 			<key>Name</key><string>Look At You, Look At Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1516,9 +2127,38 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8336</key>
+		<key>8150</key>
 		<dict>
-			<key>Track ID</key><integer>8336</integer>
+			<key>Track ID</key><integer>8150</integer>
+			<key>Name</key><string>To Be Free</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>The Definitive Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7911876</integer>
+			<key>Total Time</key><integer>195970</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-12-31T03:56:11Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-01-05T16:39:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Album</key><string>Definitive Collection</string>
+			<key>Persistent ID</key><string>CBC033DC1708AC98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2006-The%20Definitive%20Collection/11-To%20Be%20Free.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8152</key>
+		<dict>
+			<key>Track ID</key><integer>8152</integer>
 			<key>Name</key><string>In My Mind</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1543,9 +2183,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8340</key>
+		<key>8154</key>
 		<dict>
-			<key>Track ID</key><integer>8340</integer>
+			<key>Track ID</key><integer>8154</integer>
 			<key>Name</key><string>Headkeeper</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1573,9 +2213,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8342</key>
+		<key>8156</key>
 		<dict>
-			<key>Track ID</key><integer>8342</integer>
+			<key>Track ID</key><integer>8156</integer>
 			<key>Name</key><string>Baby...Please</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1600,9 +2240,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8348</key>
+		<key>8158</key>
 		<dict>
-			<key>Track ID</key><integer>8348</integer>
+			<key>Track ID</key><integer>8158</integer>
 			<key>Name</key><string>All Along The Watchtower</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1627,9 +2267,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8350</key>
+		<key>8160</key>
 		<dict>
-			<key>Track ID</key><integer>8350</integer>
+			<key>Track ID</key><integer>8160</integer>
 			<key>Name</key><string>World In Changes</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1653,9 +2293,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8352</key>
+		<key>8162</key>
 		<dict>
-			<key>Track ID</key><integer>8352</integer>
+			<key>Track ID</key><integer>8162</integer>
 			<key>Name</key><string>Only You Know And I Know</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1679,9 +2319,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8354</key>
+		<key>8164</key>
 		<dict>
-			<key>Track ID</key><integer>8354</integer>
+			<key>Track ID</key><integer>8164</integer>
 			<key>Name</key><string>We Just Disagree</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1705,9 +2345,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8356</key>
+		<key>8166</key>
 		<dict>
-			<key>Track ID</key><integer>8356</integer>
+			<key>Track ID</key><integer>8166</integer>
 			<key>Name</key><string>Look At You, Look At Me</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1731,9 +2371,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8360</key>
+		<key>8168</key>
 		<dict>
-			<key>Track ID</key><integer>8360</integer>
+			<key>Track ID</key><integer>8168</integer>
+			<key>Name</key><string>Dear Mr. Fantasy</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Live At XM Satellite Radio</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9229572</integer>
+			<key>Total Time</key><integer>383242</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-12-28T22:35:13Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1446A6361BBB3A91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2007-Live%20At%20XM/05-Dear%20Mr.%20Fantasy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8170</key>
+		<dict>
+			<key>Track ID</key><integer>8170</integer>
 			<key>Name</key><string>All Along The Watchtower</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1757,9 +2423,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8362</key>
+		<key>8172</key>
 		<dict>
-			<key>Track ID</key><integer>8362</integer>
+			<key>Track ID</key><integer>8172</integer>
 			<key>Name</key><string>Feelin' Allright</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1783,9 +2449,37 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8366</key>
+		<key>8174</key>
 		<dict>
-			<key>Track ID</key><integer>8366</integer>
+			<key>Track ID</key><integer>8174</integer>
+			<key>Name</key><string>Take It To The Limit</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>Live At XM Satellite Radio</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5456247</integer>
+			<key>Total Time</key><integer>226011</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-12-28T22:38:03Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-01-05T16:47:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72BFDA69FE59296F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2007-Live%20At%20XM/08-Take%20It%20To%20The%20Limit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8176</key>
+		<dict>
+			<key>Track ID</key><integer>8176</integer>
 			<key>Name</key><string>Good 2 U</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1809,9 +2503,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8368</key>
+		<key>8178</key>
 		<dict>
-			<key>Track ID</key><integer>8368</integer>
+			<key>Track ID</key><integer>8178</integer>
 			<key>Name</key><string>Let Me Go</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1838,9 +2532,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8376</key>
+		<key>8180</key>
 		<dict>
-			<key>Track ID</key><integer>8376</integer>
+			<key>Track ID</key><integer>8180</integer>
+			<key>Name</key><string>How Do I Get To Heaven</string>
+			<key>Artist</key><string>Dave Mason</string>
+			<key>Album Artist</key><string>Dave Mason</string>
+			<key>Album</key><string>26 Letters 12 Notes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10518570</integer>
+			<key>Total Time</key><integer>261015</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-12-28T22:51:24Z</date>
+			<key>Date Added</key><date>2016-12-29T01:31:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E66E6E1A3F3FE1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave%20Mason/2008-26%20Letters%2012%20Notes/05-How%20Do%20I%20Get%20To%20Heaven.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8182</key>
+		<dict>
+			<key>Track ID</key><integer>8182</integer>
 			<key>Name</key><string>Ain't Your Legs Tired Baby</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1867,9 +2587,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8378</key>
+		<key>8184</key>
 		<dict>
-			<key>Track ID</key><integer>8378</integer>
+			<key>Track ID</key><integer>8184</integer>
 			<key>Name</key><string>You're Standing In My Light</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1893,9 +2613,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8380</key>
+		<key>8186</key>
 		<dict>
-			<key>Track ID</key><integer>8380</integer>
+			<key>Track ID</key><integer>8186</integer>
 			<key>Name</key><string>That's Love</string>
 			<key>Artist</key><string>Dave Mason</string>
 			<key>Album Artist</key><string>Dave Mason</string>
@@ -1925,223 +2645,301 @@
 		<dict>
 			<key>Name</key><string>Dave Mason faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>20559</integer>
+			<key>Playlist ID</key><integer>22177</integer>
 			<key>Playlist Persistent ID</key><string>0003B47B10440839</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8376</integer>
+					<key>Track ID</key><integer>8182</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8200</integer>
+					<key>Track ID</key><integer>8058</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8348</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8312</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8324</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8360</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8248</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8298</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8342</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8280</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8226</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8290</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8322</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8166</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8302</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8362</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8206</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8244</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8264</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8258</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8120</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8326</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8104</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8366</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8128</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8340</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8278</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8100</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8126</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8336</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8276</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8140</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8162</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8238</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8284</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8368</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8136</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8232</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8092</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8272</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8332</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8356</integer>
+					<key>Track ID</key><integer>8158</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8222</integer>
+					<key>Track ID</key><integer>8140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8084</integer>
+					<key>Track ID</key><integer>8170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8204</integer>
+					<key>Track ID</key><integer>8094</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8328</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8318</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8352</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8246</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8266</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8256</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8102</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8188</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8132</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8196</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8236</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8212</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8292</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8380</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8202</integer>
+					<key>Track ID</key><integer>8124</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8354</integer>
+					<key>Track ID</key><integer>8016</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8234</integer>
+					<key>Track ID</key><integer>8114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8282</integer>
+					<key>Track ID</key><integer>8074</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8254</integer>
+					<key>Track ID</key><integer>8120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8320</integer>
+					<key>Track ID</key><integer>8138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8350</integer>
+					<key>Track ID</key><integer>8168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8044</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8064</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8066</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8068</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8050</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8026</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8108</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8148</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>8166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8072</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8062</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8048</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8054</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8084</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8070</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8174</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8060</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8082</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8096</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8046</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>8146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8378</integer>
+					<key>Track ID</key><integer>8012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8078</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8184</integer>
 				</dict>
 			</array>
 		</dict>
