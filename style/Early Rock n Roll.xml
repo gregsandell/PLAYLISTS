@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-01T02:30:10Z</date>
+	<key>Date</key><date>2017-02-04T19:28:32Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,37 +12,61 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7869</key>
+		<key>8210</key>
 		<dict>
-			<key>Track ID</key><integer>7869</integer>
-			<key>Name</key><string>02 Paul Revere</string>
-			<key>Artist</key><string>Asylum Street Spankers</string>
-			<key>Album</key><string>Mercurial</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3505948</integer>
-			<key>Total Time</key><integer>215092</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2016-12-31T04:02:34Z</date>
-			<key>Date Added</key><date>2016-12-30T07:41:20Z</date>
-			<key>Bit Rate</key><integer>128</integer>
+			<key>Track ID</key><integer>8210</integer>
+			<key>Name</key><string>Oh Babe Be Mine</string>
+			<key>Artist</key><string>Link Wray</string>
+			<key>Album</key><string>Rawhide</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2488555</integer>
+			<key>Total Time</key><integer>123668</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2011-03-19T22:12:38Z</date>
+			<key>Date Added</key><date>2017-01-02T07:15:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3566396875</integer>
-			<key>Play Date UTC</key><date>2017-01-05T01:47:55Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Mercurial</string>
-			<key>Sort Artist</key><string>Asylum Street Spankers</string>
-			<key>Persistent ID</key><string>17CBAD2257E00F02</string>
+			<key>Normalization</key><integer>6177</integer>
+			<key>Persistent ID</key><string>E915F77F4A63C9AF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2004%20Mercurial/02%20Paul%20Revere.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Link%20Wray/Rawhide/Oh%20Babe%20Be%20Mine.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10543</key>
+		<key>8606</key>
 		<dict>
-			<key>Track ID</key><integer>10543</integer>
+			<key>Track ID</key><integer>8606</integer>
+			<key>Name</key><string>Red, Red Robin</string>
+			<key>Artist</key><string>Rosie Flores</string>
+			<key>Album</key><string>Best Of The Land Of Nod Store Music - Volume 1</string>
+			<key>Genre</key><string>Children's Music</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2149736</integer>
+			<key>Total Time</key><integer>131051</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-03-19T21:30:20Z</date>
+			<key>Date Added</key><date>2017-01-16T17:40:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-16T17:40:13Z</date>
+			<key>Normalization</key><integer>3206</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>B53FF289B6265117</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Best%20Of%20The%20Land%20Of%20Nod%20Store%20Music%20-%20Vo/02%20Red,%20Red%20Robin.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9162</key>
+		<dict>
+			<key>Track ID</key><integer>9162</integer>
 			<key>Name</key><string>Stop Drop And Roll</string>
 			<key>Artist</key><string>Squirrel Nut Zippers</string>
 			<key>Album</key><string>Bedlam Ballroom</string>
@@ -69,9 +93,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43882</key>
+		<key>9202</key>
 		<dict>
-			<key>Track ID</key><integer>43882</integer>
+			<key>Track ID</key><integer>9202</integer>
 			<key>Name</key><string>Ay-Te Te Fee - Clifton Chenier</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -102,9 +126,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43887</key>
+		<key>9204</key>
 		<dict>
-			<key>Track ID</key><integer>43887</integer>
+			<key>Track ID</key><integer>9204</integer>
 			<key>Name</key><string>Bon Ton Roulet - Clarence 'Bon Ton' Barlow</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -136,9 +160,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43890</key>
+		<key>9206</key>
 		<dict>
-			<key>Track ID</key><integer>43890</integer>
+			<key>Track ID</key><integer>9206</integer>
 			<key>Name</key><string>Down The Road Apiece - Amos Milburn</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -169,9 +193,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43893</key>
+		<key>9208</key>
 		<dict>
-			<key>Track ID</key><integer>43893</integer>
+			<key>Track ID</key><integer>9208</integer>
 			<key>Name</key><string>Good Golly Miss Molly - Little Richard</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -202,9 +226,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43896</key>
+		<key>9210</key>
 		<dict>
-			<key>Track ID</key><integer>43896</integer>
+			<key>Track ID</key><integer>9210</integer>
 			<key>Name</key><string>Mardi Gras In New Orleans - Professor Longhair and His Shuffling Hungarians</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -235,9 +259,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43899</key>
+		<key>9212</key>
 		<dict>
-			<key>Track ID</key><integer>43899</integer>
+			<key>Track ID</key><integer>9212</integer>
 			<key>Name</key><string>Preachin' Blues (Up Jumped The Devil) - Robert Johnson</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -268,9 +292,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43902</key>
+		<key>9214</key>
 		<dict>
-			<key>Track ID</key><integer>43902</integer>
+			<key>Track ID</key><integer>9214</integer>
 			<key>Name</key><string>Talkin' To Your Mama - Blind Willie McTell</string>
 			<key>Artist</key><string>Uncut</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -301,9 +325,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43905</key>
+		<key>9216</key>
 		<dict>
-			<key>Track ID</key><integer>43905</integer>
+			<key>Track ID</key><integer>9216</integer>
 			<key>Name</key><string>Dirt Road Blues</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -331,9 +355,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43908</key>
+		<key>9218</key>
 		<dict>
-			<key>Track ID</key><integer>43908</integer>
+			<key>Track ID</key><integer>9218</integer>
 			<key>Name</key><string>I'm Gonna Dig Myself A Hole</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -364,9 +388,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43911</key>
+		<key>9220</key>
 		<dict>
-			<key>Track ID</key><integer>43911</integer>
+			<key>Track ID</key><integer>9220</integer>
 			<key>Name</key><string>Shout Sister Shout</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -394,9 +418,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43914</key>
+		<key>9222</key>
 		<dict>
-			<key>Track ID</key><integer>43914</integer>
+			<key>Track ID</key><integer>9222</integer>
 			<key>Name</key><string>That's All Right</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Composer</key><string>Crudup Arthur "Big Boy"</string>
@@ -429,9 +453,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43917</key>
+		<key>9224</key>
 		<dict>
-			<key>Track ID</key><integer>43917</integer>
+			<key>Track ID</key><integer>9224</integer>
 			<key>Name</key><string>Better Cut That Out</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -456,9 +480,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43920</key>
+		<key>9226</key>
 		<dict>
-			<key>Track ID</key><integer>43920</integer>
+			<key>Track ID</key><integer>9226</integer>
 			<key>Name</key><string>Jivin' The Blues</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -485,9 +509,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43923</key>
+		<key>9228</key>
 		<dict>
-			<key>Track ID</key><integer>43923</integer>
+			<key>Track ID</key><integer>9228</integer>
 			<key>Name</key><string>Mellow Chick Swing</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -517,9 +541,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43926</key>
+		<key>9230</key>
 		<dict>
-			<key>Track ID</key><integer>43926</integer>
+			<key>Track ID</key><integer>9230</integer>
 			<key>Name</key><string>Polly Put Your Kettle On</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -547,9 +571,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43929</key>
+		<key>9232</key>
 		<dict>
-			<key>Track ID</key><integer>43929</integer>
+			<key>Track ID</key><integer>9232</integer>
 			<key>Name</key><string>She Was A Dreamer</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -574,9 +598,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43932</key>
+		<key>9234</key>
 		<dict>
-			<key>Track ID</key><integer>43932</integer>
+			<key>Track ID</key><integer>9234</integer>
 			<key>Name</key><string>Sloppy Drunk Blues</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -601,9 +625,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43935</key>
+		<key>9236</key>
 		<dict>
-			<key>Track ID</key><integer>43935</integer>
+			<key>Track ID</key><integer>9236</integer>
 			<key>Name</key><string>Sonny Boy's Jump</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
@@ -631,9 +655,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43938</key>
+		<key>9238</key>
 		<dict>
-			<key>Track ID</key><integer>43938</integer>
+			<key>Track ID</key><integer>9238</integer>
 			<key>Name</key><string>Chicago Is Just That Way - Eddie Boyd</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -659,9 +683,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43941</key>
+		<key>9240</key>
 		<dict>
-			<key>Track ID</key><integer>43941</integer>
+			<key>Track ID</key><integer>9240</integer>
 			<key>Name</key><string>My Baby Left Me - Arthur Crudup</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -687,9 +711,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43944</key>
+		<key>9242</key>
 		<dict>
-			<key>Track ID</key><integer>43944</integer>
+			<key>Track ID</key><integer>9242</integer>
 			<key>Name</key><string>Right String, But The Wrong Yo-Yo - Piano Red</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -715,9 +739,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43947</key>
+		<key>9244</key>
 		<dict>
-			<key>Track ID</key><integer>43947</integer>
+			<key>Track ID</key><integer>9244</integer>
 			<key>Name</key><string>Rockin' With Red - Piano Red</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -736,6 +760,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3438056589</integer>
 			<key>Play Date UTC</key><date>2012-12-11T15:43:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-01T08:04:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -746,9 +772,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43950</key>
+		<key>9246</key>
 		<dict>
-			<key>Track ID</key><integer>43950</integer>
+			<key>Track ID</key><integer>9246</integer>
 			<key>Name</key><string>That's All Right - Arthur Crudup</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -764,6 +790,8 @@
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-01T08:04:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -774,9 +802,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43953</key>
+		<key>9248</key>
 		<dict>
-			<key>Track ID</key><integer>43953</integer>
+			<key>Track ID</key><integer>9248</integer>
 			<key>Name</key><string>Walkin' The Boogie - Pete Johnson &#38; Albert Ammons</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's All Right (Vol. 4)</string>
@@ -805,9 +833,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43956</key>
+		<key>9250</key>
 		<dict>
-			<key>Track ID</key><integer>43956</integer>
+			<key>Track ID</key><integer>9250</integer>
 			<key>Name</key><string>Bucket's Got A Hole In It - Washboard Sam</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's Chicago's South Side (Vol. 3)</string>
@@ -838,9 +866,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43959</key>
+		<key>9252</key>
 		<dict>
-			<key>Track ID</key><integer>43959</integer>
+			<key>Track ID</key><integer>9252</integer>
 			<key>Name</key><string>Devil's Island Gin Blues - Rosevelt Sykes</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's Chicago's South Side (Vol. 3)</string>
@@ -869,9 +897,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43962</key>
+		<key>9254</key>
 		<dict>
-			<key>Track ID</key><integer>43962</integer>
+			<key>Track ID</key><integer>9254</integer>
 			<key>Name</key><string>I Lost My Baby - Lil Johnson</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>That's Chicago's South Side (Vol. 3)</string>
@@ -902,9 +930,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43965</key>
+		<key>9256</key>
 		<dict>
-			<key>Track ID</key><integer>43965</integer>
+			<key>Track ID</key><integer>9256</integer>
 			<key>Name</key><string>The Girl I Love, She Got Long, Curly Hair - Sleepy John Estes</string>
 			<key>Artist</key><string>When The Sun Goes Down</string>
 			<key>Album</key><string>The First Time I Met The Blues (Vol. 2)</string>
@@ -933,9 +961,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43968</key>
+		<key>9258</key>
 		<dict>
-			<key>Track ID</key><integer>43968</integer>
+			<key>Track ID</key><integer>9258</integer>
 			<key>Name</key><string>That's Alright</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -960,9 +988,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43971</key>
+		<key>9260</key>
 		<dict>
-			<key>Track ID</key><integer>43971</integer>
+			<key>Track ID</key><integer>9260</integer>
 			<key>Name</key><string>Good Rockin' Tonight</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -987,9 +1015,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43974</key>
+		<key>9262</key>
 		<dict>
-			<key>Track ID</key><integer>43974</integer>
+			<key>Track ID</key><integer>9262</integer>
 			<key>Name</key><string>Mystery Train</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -1012,9 +1040,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43977</key>
+		<key>9264</key>
 		<dict>
-			<key>Track ID</key><integer>43977</integer>
+			<key>Track ID</key><integer>9264</integer>
 			<key>Name</key><string>Shake, Rattle And Roll</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -1037,9 +1065,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43980</key>
+		<key>9266</key>
 		<dict>
-			<key>Track ID</key><integer>43980</integer>
+			<key>Track ID</key><integer>9266</integer>
 			<key>Name</key><string>Maybellene</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album Artist</key><string>Elvis Presley</string>
@@ -1064,9 +1092,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43983</key>
+		<key>9268</key>
 		<dict>
-			<key>Track ID</key><integer>43983</integer>
+			<key>Track ID</key><integer>9268</integer>
 			<key>Name</key><string>I Got A Woman</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 01)</string>
@@ -1090,9 +1118,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43986</key>
+		<key>9270</key>
 		<dict>
-			<key>Track ID</key><integer>43986</integer>
+			<key>Track ID</key><integer>9270</integer>
 			<key>Name</key><string>Blue Suede Shoes</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1116,9 +1144,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43989</key>
+		<key>9272</key>
 		<dict>
-			<key>Track ID</key><integer>43989</integer>
+			<key>Track ID</key><integer>9272</integer>
 			<key>Name</key><string>My Baby Left Me</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1142,9 +1170,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43992</key>
+		<key>9274</key>
 		<dict>
-			<key>Track ID</key><integer>43992</integer>
+			<key>Track ID</key><integer>9274</integer>
 			<key>Name</key><string>Shake, Rattle And Roll</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1168,9 +1196,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43995</key>
+		<key>9276</key>
 		<dict>
-			<key>Track ID</key><integer>43995</integer>
+			<key>Track ID</key><integer>9276</integer>
 			<key>Name</key><string>Hound Dog</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1194,9 +1222,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>43998</key>
+		<key>9278</key>
 		<dict>
-			<key>Track ID</key><integer>43998</integer>
+			<key>Track ID</key><integer>9278</integer>
 			<key>Name</key><string>Don't Be Cruel</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1220,9 +1248,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>44001</key>
+		<key>9280</key>
 		<dict>
-			<key>Track ID</key><integer>44001</integer>
+			<key>Track ID</key><integer>9280</integer>
 			<key>Name</key><string>Paralyzed</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1246,9 +1274,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>44004</key>
+		<key>9282</key>
 		<dict>
-			<key>Track ID</key><integer>44004</integer>
+			<key>Track ID</key><integer>9282</integer>
 			<key>Name</key><string>Rip It Up</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -1272,145 +1300,540 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>9762</key>
+		<dict>
+			<key>Track ID</key><integer>9762</integer>
+			<key>Name</key><string>Wipeout</string>
+			<key>Artist</key><string>The Lively Ones</string>
+			<key>Album</key><string>Surfin' California</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1637734</integer>
+			<key>Total Time</key><integer>102700</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2011-03-19T21:31:28Z</date>
+			<key>Date Added</key><date>2017-02-01T07:15:01Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-01T07:15:21Z</date>
+			<key>Normalization</key><integer>3803</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Artist</key><string>Lively Ones</string>
+			<key>Persistent ID</key><string>7BACDA713AB093E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Surfin'%20California/01%20Wipeout.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9850</key>
+		<dict>
+			<key>Track ID</key><integer>9850</integer>
+			<key>Name</key><string>Life Of A Fool</string>
+			<key>Artist</key><string>Paul Burch</string>
+			<key>Album</key><string>Fool For Love</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3997993</integer>
+			<key>Total Time</key><integer>209906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T22:31:20Z</date>
+			<key>Date Added</key><date>2017-02-01T07:36:12Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1654</integer>
+			<key>Persistent ID</key><string>56DF6F35DF3F287C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Paul%20Burch/Fool%20For%20Love/Life%20Of%20A%20Fool.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9920</key>
+		<dict>
+			<key>Track ID</key><integer>9920</integer>
+			<key>Name</key><string>About Noon</string>
+			<key>Artist</key><string>The Mar-Keys</string>
+			<key>Album</key><string>Last Night!</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3316904</integer>
+			<key>Total Time</key><integer>153234</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2011-03-19T23:00:42Z</date>
+			<key>Date Added</key><date>2017-02-01T07:51:05Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2669</integer>
+			<key>Sort Artist</key><string>Mar-Keys</string>
+			<key>Persistent ID</key><string>E72A0E3272616B64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Mar-Keys/Last%20Night!/About%20Noon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9922</key>
+		<dict>
+			<key>Track ID</key><integer>9922</integer>
+			<key>Name</key><string>Last Night</string>
+			<key>Artist</key><string>The Mar-Keys</string>
+			<key>Album</key><string>Last Night!</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3441248</integer>
+			<key>Total Time</key><integer>159242</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2011-03-19T23:00:44Z</date>
+			<key>Date Added</key><date>2017-02-01T07:51:18Z</date>
+			<key>Bit Rate</key><integer>172</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9518</integer>
+			<key>Sort Artist</key><string>Mar-Keys</string>
+			<key>Persistent ID</key><string>C1D0BB5F68D1D22E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Mar-Keys/Last%20Night!/Last%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9926</key>
+		<dict>
+			<key>Track ID</key><integer>9926</integer>
+			<key>Name</key><string>Sack O' Woe</string>
+			<key>Artist</key><string>The Mar-Keys</string>
+			<key>Album</key><string>Last Night!</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3272601</integer>
+			<key>Total Time</key><integer>151980</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2011-03-19T23:00:44Z</date>
+			<key>Date Added</key><date>2017-02-01T07:52:28Z</date>
+			<key>Bit Rate</key><integer>172</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-01T07:52:45Z</date>
+			<key>Normalization</key><integer>4981</integer>
+			<key>Sort Artist</key><string>Mar-Keys</string>
+			<key>Persistent ID</key><string>2E1AF57035E51AA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Mar-Keys/Last%20Night!/Sack%20O'%20Woe.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10072</key>
+		<dict>
+			<key>Track ID</key><integer>10072</integer>
+			<key>Name</key><string>Reserve The Right</string>
+			<key>Artist</key><string>Dollar Store</string>
+			<key>Album</key><string>Money Music</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3620214</integer>
+			<key>Total Time</key><integer>229093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-03-19T20:56:36Z</date>
+			<key>Date Added</key><date>2017-02-02T03:48:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> [SKIPPED]</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3400851320</integer>
+			<key>Play Date UTC</key><date>2011-10-07T23:55:20Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-02-21T05:23:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4105</integer>
+			<key>Persistent ID</key><string>96C7ADCC28C4F4E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Dollar%20Store/Money%20Music/10%20Reserve%20The%20Right.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10074</key>
+		<dict>
+			<key>Track ID</key><integer>10074</integer>
+			<key>Name</key><string>The Yayhoos / Oh! Chicago</string>
+			<key>Artist</key><string>Down To The Promised Land</string>
+			<key>Album</key><string>Down To The Promised Land</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5133737</integer>
+			<key>Total Time</key><integer>256574</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>41</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2011-03-19T21:38:06Z</date>
+			<key>Date Added</key><date>2017-02-02T03:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3421504970</integer>
+			<key>Play Date UTC</key><date>2012-06-03T01:02:50Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-03-31T12:58:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8963</integer>
+			<key>Sort Name</key><string>Yayhoos / Oh! Chicago</string>
+			<key>Persistent ID</key><string>718A43FFA4545EAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Down%20To%20The%20Promised%20Land/Down%20To%20The%20Promised%20Land/The%20Yayhoos%20_%20Oh!%20Chicago.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10076</key>
+		<dict>
+			<key>Track ID</key><integer>10076</integer>
+			<key>Name</key><string>Juke Joint Jumpin'</string>
+			<key>Artist</key><string>Wayne Hancock</string>
+			<key>Album</key><string>Swing Time</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4632706</integer>
+			<key>Total Time</key><integer>229690</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T23:17:06Z</date>
+			<key>Date Added</key><date>2017-02-02T03:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3137</integer>
+			<key>Persistent ID</key><string>F460C795F742369D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wayne%20Hancock/Swing%20Time/Juke%20Joint%20Jumpin'.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10306</key>
+		<dict>
+			<key>Track ID</key><integer>10306</integer>
+			<key>Name</key><string>On The Wall - Louise Johnson</string>
+			<key>Artist</key><string>Charley Patton</string>
+			<key>Composer</key><string>Charley Patton</string>
+			<key>Album</key><string>Screamin' And Hollerin' The Blues (Disc 4)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3693871</integer>
+			<key>Total Time</key><integer>184320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1930</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:44Z</date>
+			<key>Date Added</key><date>2017-02-02T04:02:01Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3404752466</integer>
+			<key>Play Date UTC</key><date>2011-11-22T04:34:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3501</integer>
+			<key>Persistent ID</key><string>91F88537A08287E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charley%20Patton/Screamin'%20And%20Hollerin'%20The%20Blues%20(Disc/On%20The%20Wall%20-%20Louise%20Johnson.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10328</key>
+		<dict>
+			<key>Track ID</key><integer>10328</integer>
+			<key>Name</key><string>Rockin' Daddy</string>
+			<key>Artist</key><string>Howlin' Wolf</string>
+			<key>Album</key><string>The Real Folk Blues/More Real Folk Blues</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3703277</integer>
+			<key>Total Time</key><integer>182553</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T21:53:36Z</date>
+			<key>Date Added</key><date>2017-02-02T04:02:02Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3568831127</integer>
+			<key>Play Date UTC</key><date>2017-02-02T05:58:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4510</integer>
+			<key>Sort Album</key><string>Real Folk Blues/More Real Folk Blues</string>
+			<key>Persistent ID</key><string>866944C01DD38C43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20Real%20Folk%20Blues_More%20Real%20F/1-22%20Rockin'%20Daddy.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10338</key>
+		<dict>
+			<key>Track ID</key><integer>10338</integer>
+			<key>Name</key><string>Back Alley</string>
+			<key>Artist</key><string>Memphis Slim</string>
+			<key>Album</key><string>The Come Back</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3694275</integer>
+			<key>Total Time</key><integer>183412</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T22:19:00Z</date>
+			<key>Date Added</key><date>2017-02-02T04:02:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2230</integer>
+			<key>Sort Album</key><string>Come Back</string>
+			<key>Persistent ID</key><string>A5230FDE780B3033</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Memphis%20Slim/The%20Come%20Back/Back%20Alley.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10340</key>
+		<dict>
+			<key>Track ID</key><integer>10340</integer>
+			<key>Name</key><string>Nat Dee Special</string>
+			<key>Artist</key><string>Memphis Slim</string>
+			<key>Album</key><string>The Come Back</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3110421</integer>
+			<key>Total Time</key><integer>170200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T22:19:02Z</date>
+			<key>Date Added</key><date>2017-02-02T04:02:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3409307358</integer>
+			<key>Play Date UTC</key><date>2012-01-13T21:49:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1279</integer>
+			<key>Sort Album</key><string>Come Back</string>
+			<key>Persistent ID</key><string>BE90326280E57665</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Memphis%20Slim/The%20Come%20Back/Nat%20Dee%20Special.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Early Rock n Roll</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>44007</integer>
-			<key>Playlist Persistent ID</key><string>6ECB0DD7C6F15F6F</string>
+			<key>Playlist ID</key><integer>22900</integer>
+			<key>Playlist Persistent ID</key><string>EBA5F6AC7BE3EBBB</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>43882</integer>
+					<key>Track ID</key><integer>9202</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43917</integer>
+					<key>Track ID</key><integer>9224</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43986</integer>
+					<key>Track ID</key><integer>8210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43887</integer>
+					<key>Track ID</key><integer>9850</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43956</integer>
+					<key>Track ID</key><integer>9270</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43938</integer>
+					<key>Track ID</key><integer>9762</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43959</integer>
+					<key>Track ID</key><integer>8606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43905</integer>
+					<key>Track ID</key><integer>9204</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43998</integer>
+					<key>Track ID</key><integer>9250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43890</integer>
+					<key>Track ID</key><integer>9238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43965</integer>
+					<key>Track ID</key><integer>9252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43893</integer>
+					<key>Track ID</key><integer>9216</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43971</integer>
+					<key>Track ID</key><integer>9278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43995</integer>
+					<key>Track ID</key><integer>9206</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43983</integer>
+					<key>Track ID</key><integer>9256</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43962</integer>
+					<key>Track ID</key><integer>9208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43908</integer>
+					<key>Track ID</key><integer>9260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43920</integer>
+					<key>Track ID</key><integer>9276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43896</integer>
+					<key>Track ID</key><integer>9268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43980</integer>
+					<key>Track ID</key><integer>9254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43923</integer>
+					<key>Track ID</key><integer>9218</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43989</integer>
+					<key>Track ID</key><integer>9226</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43941</integer>
+					<key>Track ID</key><integer>9210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43974</integer>
+					<key>Track ID</key><integer>9266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>44001</integer>
+					<key>Track ID</key><integer>9228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43926</integer>
+					<key>Track ID</key><integer>9272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43899</integer>
+					<key>Track ID</key><integer>9240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43944</integer>
+					<key>Track ID</key><integer>9262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>44004</integer>
+					<key>Track ID</key><integer>9280</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43947</integer>
+					<key>Track ID</key><integer>9230</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43992</integer>
+					<key>Track ID</key><integer>9212</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43977</integer>
+					<key>Track ID</key><integer>9242</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43929</integer>
+					<key>Track ID</key><integer>9282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43911</integer>
+					<key>Track ID</key><integer>9244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43932</integer>
+					<key>Track ID</key><integer>9274</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43935</integer>
+					<key>Track ID</key><integer>9264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43902</integer>
+					<key>Track ID</key><integer>9232</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43914</integer>
+					<key>Track ID</key><integer>9220</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43950</integer>
+					<key>Track ID</key><integer>9234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43968</integer>
+					<key>Track ID</key><integer>9236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43953</integer>
+					<key>Track ID</key><integer>9214</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7869</integer>
+					<key>Track ID</key><integer>9222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10543</integer>
+					<key>Track ID</key><integer>9246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9248</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10072</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9922</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10338</integer>
 				</dict>
 			</array>
 		</dict>
