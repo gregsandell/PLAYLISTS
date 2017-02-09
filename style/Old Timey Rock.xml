@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-04T19:19:51Z</date>
+	<key>Date</key><date>2017-02-08T06:07:22Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10184</key>
+		<key>10248</key>
 		<dict>
-			<key>Track ID</key><integer>10184</integer>
+			<key>Track ID</key><integer>10248</integer>
 			<key>Name</key><string>Pony</string>
 			<key>Artist</key><string>Moonshine Willy</string>
 			<key>Album</key><string>Pecadores</string>
@@ -40,9 +40,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10186</key>
+		<key>10250</key>
 		<dict>
-			<key>Track ID</key><integer>10186</integer>
+			<key>Track ID</key><integer>10250</integer>
 			<key>Name</key><string>Fox - Waco Brothers</string>
 			<key>Artist</key><string>The Bottle Let Me Down</string>
 			<key>Album</key><string>The Bottle Let Me Down</string>
@@ -74,9 +74,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10188</key>
+		<key>10252</key>
 		<dict>
-			<key>Track ID</key><integer>10188</integer>
+			<key>Track ID</key><integer>10252</integer>
 			<key>Name</key><string>Grand Slam</string>
 			<key>Artist</key><string>Charlie Christian</string>
 			<key>Album</key><string>The Genius of the Electric Guitar [Compilation]</string>
@@ -98,9 +98,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10312</key>
+		<key>10370</key>
 		<dict>
-			<key>Track ID</key><integer>10312</integer>
+			<key>Track ID</key><integer>10370</integer>
 			<key>Name</key><string>Furry's Blues</string>
 			<key>Artist</key><string>David Johansen and the Harry Smiths</string>
 			<key>Album</key><string>Shaker</string>
@@ -127,9 +127,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10350</key>
+		<key>10408</key>
 		<dict>
-			<key>Track ID</key><integer>10350</integer>
+			<key>Track ID</key><integer>10408</integer>
 			<key>Name</key><string>Jambalaya</string>
 			<key>Artist</key><string>Doug Kershaw</string>
 			<key>Album</key><string>Hot Diggidy Doug</string>
@@ -155,9 +155,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11220</key>
+		<key>11198</key>
 		<dict>
-			<key>Track ID</key><integer>11220</integer>
+			<key>Track ID</key><integer>11198</integer>
 			<key>Name</key><string>Bron-Y-Aur Stomp</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -173,11 +173,11 @@
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3569001480</integer>
-			<key>Play Date UTC</key><date>2017-02-04T05:18:00Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3569237197</integer>
+			<key>Play Date UTC</key><date>2017-02-06T22:46:37Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2644</integer>
 			<key>Artwork Count</key><integer>4</integer>
@@ -193,28 +193,28 @@
 		<dict>
 			<key>Name</key><string>Old Timey Rock</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>24088</integer>
+			<key>Playlist ID</key><integer>28320</integer>
 			<key>Playlist Persistent ID</key><string>2E11A8A7DDA74EAA</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10186</integer>
+					<key>Track ID</key><integer>10250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10184</integer>
+					<key>Track ID</key><integer>10248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10188</integer>
+					<key>Track ID</key><integer>10252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10312</integer>
+					<key>Track ID</key><integer>10370</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10350</integer>
+					<key>Track ID</key><integer>10408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11220</integer>
+					<key>Track ID</key><integer>11198</integer>
 				</dict>
 			</array>
 		</dict>
