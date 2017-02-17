@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-07T03:16:38Z</date>
+	<key>Date</key><date>2017-02-17T05:30:30Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,43 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9080</key>
+		<key>7720</key>
 		<dict>
-			<key>Track ID</key><integer>9080</integer>
+			<key>Track ID</key><integer>7720</integer>
+			<key>Name</key><string>Sixteen Tons</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2986308</integer>
+			<key>Total Time</key><integer>146261</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2017-02-02T05:58:47Z</date>
+			<key>Date Added</key><date>2016-12-31T19:59:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566055707</integer>
+			<key>Play Date UTC</key><date>2017-01-01T03:01:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-01T17:18:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>5086</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C8421634BD6F3B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/Bo%20Diddley%20Is%20A%20Gunslinger/Sixteen%20Tons.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9052</key>
+		<dict>
+			<key>Track ID</key><integer>9052</integer>
 			<key>Name</key><string>Ride On Josephine</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
@@ -43,9 +77,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10742</key>
+		<key>10578</key>
 		<dict>
-			<key>Track ID</key><integer>10742</integer>
+			<key>Track ID</key><integer>10578</integer>
 			<key>Name</key><string>Bo Diddley</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>Bo Diddley </string>
@@ -55,10 +89,12 @@
 			<key>Total Time</key><integer>148375</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1958</integer>
-			<key>Date Modified</key><date>2017-02-02T05:53:29Z</date>
+			<key>Date Modified</key><date>2017-02-10T03:32:23Z</date>
 			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T05:29:05Z</date>
 			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -69,9 +105,40 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10760</key>
+		<key>10584</key>
 		<dict>
-			<key>Track ID</key><integer>10760</integer>
+			<key>Track ID</key><integer>10584</integer>
+			<key>Name</key><string>Who Do You Love</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley </string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6267675</integer>
+			<key>Total Time</key><integer>149159</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2017-02-02T05:53:31Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3569997137</integer>
+			<key>Play Date UTC</key><date>2017-02-15T17:52:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-11T00:11:45Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>435741C9B68AB137</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1958%20-%20Bo%20Diddley/11.%20Who%20Do%20You%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10586</key>
+		<dict>
+			<key>Track ID</key><integer>10586</integer>
 			<key>Name</key><string>We're Gonna Get Married</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>Bo Diddley </string>
@@ -95,9 +162,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10762</key>
+		<key>10588</key>
 		<dict>
-			<key>Track ID</key><integer>10762</integer>
+			<key>Track ID</key><integer>10588</integer>
 			<key>Name</key><string>Background To A Music</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>Bo Diddley </string>
@@ -121,17 +188,46 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10768</key>
+		<key>10590</key>
 		<dict>
-			<key>Track ID</key><integer>10768</integer>
-			<key>Name</key><string>Pills</string>
+			<key>Track ID</key><integer>10590</integer>
+			<key>Name</key><string>Heart-O-Matic Love</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>Bo Diddley </string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7108808</integer>
-			<key>Total Time</key><integer>170187</integer>
-			<key>Track Number</key><integer>18</integer>
+			<key>Size</key><integer>7004331</integer>
+			<key>Total Time</key><integer>167575</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2017-02-02T05:53:33Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569578676</integer>
+			<key>Play Date UTC</key><date>2017-02-10T21:37:56Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68474B5A0AB4F697</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1958%20-%20Bo%20Diddley/16.%20Heart-O-Matic%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10592</key>
+		<dict>
+			<key>Track ID</key><integer>10592</integer>
+			<key>Name</key><string>Bo Meets The Monster</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley </string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7773378</integer>
+			<key>Total Time</key><integer>186801</integer>
+			<key>Track Number</key><integer>17</integer>
 			<key>Year</key><integer>1958</integer>
 			<key>Date Modified</key><date>2017-02-02T05:53:33Z</date>
 			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
@@ -141,15 +237,46 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>13D1E2FCA80286EC</string>
+			<key>Persistent ID</key><string>321E82665013CCAC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1958%20-%20Bo%20Diddley/18.%20Pills.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1958%20-%20Bo%20Diddley/17.%20Bo%20Meets%20The%20Monster.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10790</key>
+		<key>10598</key>
 		<dict>
-			<key>Track ID</key><integer>10790</integer>
+			<key>Track ID</key><integer>10598</integer>
+			<key>Name</key><string>Road Runner</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo-Diddley's Beach Party</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10213376</integer>
+			<key>Total Time</key><integer>254850</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2017-02-17T05:29:49Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mudmashers]</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T05:29:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bo-Diddley's Beach Party</string>
+			<key>Persistent ID</key><string>65B67611A674CAD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1963%20-%20Bo-Diddley's%20Beach%20Party/10%20-%20Road%20Runner.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10600</key>
+		<dict>
+			<key>Track ID</key><integer>10600</integer>
 			<key>Name</key><string>Liverpool Drive</string>
 			<key>Artist</key><string>Chuck Berry &#38; Bo Didley</string>
 			<key>Album</key><string>Two Great Guitars</string>
@@ -165,7 +292,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>62CF4F9EFE2CD2D9</string>
 			<key>Track Type</key><string>File</string>
@@ -173,9 +299,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10792</key>
+		<key>10602</key>
 		<dict>
-			<key>Track ID</key><integer>10792</integer>
+			<key>Track ID</key><integer>10602</integer>
 			<key>Name</key><string>Chuck's Beat</string>
 			<key>Artist</key><string>Chuck Berry &#38; Bo Didley</string>
 			<key>Album</key><string>Two Great Guitars</string>
@@ -191,7 +317,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>26A5D42C84A24B61</string>
 			<key>Track Type</key><string>File</string>
@@ -199,9 +324,34 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10796</key>
+		<key>10604</key>
 		<dict>
-			<key>Track ID</key><integer>10796</integer>
+			<key>Track ID</key><integer>10604</integer>
+			<key>Name</key><string>When The Saints Go Marching In</string>
+			<key>Artist</key><string>Chuck Berry &#38; Bo Didley</string>
+			<key>Album</key><string>Two Great Guitars</string>
+			<key>Genre</key><string>Rock &#38; Roll</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7075614</integer>
+			<key>Total Time</key><integer>172930</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2017-02-02T05:55:07Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>F04A4176A8D6A3CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1964%20-%20Two%20Great%20Guitars/03%20-%20When%20The%20Saints%20Go%20Marching%20In.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10606</key>
+		<dict>
+			<key>Track ID</key><integer>10606</integer>
 			<key>Name</key><string>Bo's Beat</string>
 			<key>Artist</key><string>Chuck Berry &#38; Bo Didley</string>
 			<key>Album</key><string>Two Great Guitars</string>
@@ -217,7 +367,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Two Great Guitars</string>
 			<key>Sort Artist</key><string>Chuck Berry &#38; Bo Didley</string>
@@ -227,9 +376,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10798</key>
+		<key>10608</key>
 		<dict>
-			<key>Track ID</key><integer>10798</integer>
+			<key>Track ID</key><integer>10608</integer>
 			<key>Name</key><string>Spoonful</string>
 			<key>Artist</key><string>Howlin' Wolf, Muddy Waters &#38; Bo Diddley</string>
 			<key>Album</key><string>The Super Super Blues Band</string>
@@ -245,7 +394,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Super Super Blues Band</string>
 			<key>Persistent ID</key><string>5A3128B03A81D037</string>
@@ -254,9 +402,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10800</key>
+		<key>10610</key>
 		<dict>
-			<key>Track ID</key><integer>10800</integer>
+			<key>Track ID</key><integer>10610</integer>
 			<key>Name</key><string>Ride The Water (Part 1)</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
@@ -281,9 +429,122 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10812</key>
+		<key>10612</key>
 		<dict>
-			<key>Track ID</key><integer>10812</integer>
+			<key>Track ID</key><integer>10612</integer>
+			<key>Name</key><string>Not Fade Away</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6980485</integer>
+			<key>Total Time</key><integer>173035</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2017-02-02T05:56:23Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569220773</integer>
+			<key>Play Date UTC</key><date>2017-02-06T18:12:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-04T08:50:22Z</date>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>20th Anniversary of Rock'N'Roll</string>
+			<key>Persistent ID</key><string>7320C08899F4F3F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1976%20-%20The%2020th%20Anniversary%20of%20Rock'N'Roll/02.%20Not%20Fade%20Away.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10614</key>
+		<dict>
+			<key>Track ID</key><integer>10614</integer>
+			<key>Name</key><string>Kill My Body</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11095292</integer>
+			<key>Total Time</key><integer>275905</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2017-02-02T05:56:24Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>20th Anniversary of Rock'N'Roll</string>
+			<key>Persistent ID</key><string>9FDA33D4334B6079</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1976%20-%20The%2020th%20Anniversary%20of%20Rock'N'Roll/03.%20Kill%20My%20Body.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10616</key>
+		<dict>
+			<key>Track ID</key><integer>10616</integer>
+			<key>Name</key><string>Drag On</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8037915</integer>
+			<key>Total Time</key><integer>199471</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2017-02-02T05:56:24Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>20th Anniversary of Rock'N'Roll</string>
+			<key>Persistent ID</key><string>5E9792585624F8B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1976%20-%20The%2020th%20Anniversary%20of%20Rock'N'Roll/04.%20Drag%20On.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10618</key>
+		<dict>
+			<key>Track ID</key><integer>10618</integer>
+			<key>Name</key><string>Bo Diddley Jam (I'm The Man-Who Do You Love-Bo Diddley Is A Gunslinger)</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>41127808</integer>
+			<key>Total Time</key><integer>1026716</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2017-02-02T05:56:26Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>20th Anniversary of Rock'N'Roll</string>
+			<key>Persistent ID</key><string>BE5B0D3E10242F64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1976%20-%20The%2020th%20Anniversary%20of%20Rock'N'Roll/06.%20Bo%20Diddley%20Jam%20(I'm%20The%20Man-Who%20Do%20You%20Love-Bo%20Diddley%20Is%20A%20Gunslinger).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10620</key>
+		<dict>
+			<key>Track ID</key><integer>10620</integer>
 			<key>Name</key><string>Mona (Bonus Track)</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
@@ -308,9 +569,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10816</key>
+		<key>10622</key>
 		<dict>
-			<key>Track ID</key><integer>10816</integer>
+			<key>Track ID</key><integer>10622</integer>
 			<key>Name</key><string>You Can't Judge A Book By Looking At The Cover (Bonus Track)</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>The 20th Anniversary of Rock'N'Roll</string>
@@ -335,9 +596,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10820</key>
+		<key>10626</key>
 		<dict>
-			<key>Track ID</key><integer>10820</integer>
+			<key>Track ID</key><integer>10626</integer>
 			<key>Name</key><string>I'm A Man</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -352,6 +613,8 @@
 			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T05:29:18Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -363,9 +626,37 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10824</key>
+		<key>10628</key>
 		<dict>
-			<key>Track ID</key><integer>10824</integer>
+			<key>Track ID</key><integer>10628</integer>
+			<key>Name</key><string>Pretty Thing</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The Definitive Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6909158</integer>
+			<key>Total Time</key><integer>171885</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-02-02T05:57:03Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Definitive Collection</string>
+			<key>Persistent ID</key><string>C0FB2273D1B2AEC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/2007%20-%20The%20Definitive%20Collection/Bo%20Diddley%20-%2005%20-%20Pretty%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10630</key>
+		<dict>
+			<key>Track ID</key><integer>10630</integer>
 			<key>Name</key><string>Bring It To Jerome</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -391,9 +682,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10826</key>
+		<key>10632</key>
 		<dict>
-			<key>Track ID</key><integer>10826</integer>
+			<key>Track ID</key><integer>10632</integer>
 			<key>Name</key><string>I'm Looking For A Woman</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -419,9 +710,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10828</key>
+		<key>10634</key>
 		<dict>
-			<key>Track ID</key><integer>10828</integer>
+			<key>Track ID</key><integer>10634</integer>
 			<key>Name</key><string>Who Do You Love?</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -450,9 +741,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10830</key>
+		<key>10636</key>
 		<dict>
-			<key>Track ID</key><integer>10830</integer>
+			<key>Track ID</key><integer>10636</integer>
 			<key>Name</key><string>Hey Bo Diddley</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -480,9 +771,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10832</key>
+		<key>10638</key>
 		<dict>
-			<key>Track ID</key><integer>10832</integer>
+			<key>Track ID</key><integer>10638</integer>
 			<key>Name</key><string>Mona (I Need You Baby)</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -508,9 +799,69 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10838</key>
+		<key>10640</key>
 		<dict>
-			<key>Track ID</key><integer>10838</integer>
+			<key>Track ID</key><integer>10640</integer>
+			<key>Name</key><string>Before You Accuse Me</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The Definitive Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7543421</integer>
+			<key>Total Time</key><integer>187742</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-02-02T05:57:04Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-17T05:29:02Z</date>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Definitive Collection</string>
+			<key>Persistent ID</key><string>F18B7A041800B67E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/2007%20-%20The%20Definitive%20Collection/Bo%20Diddley%20-%2011%20-%20Before%20You%20Accuse%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10642</key>
+		<dict>
+			<key>Track ID</key><integer>10642</integer>
+			<key>Name</key><string>Dearest Darling</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The Definitive Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7006339</integer>
+			<key>Total Time</key><integer>174315</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-02-02T05:57:05Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-14T01:21:20Z</date>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Definitive Collection</string>
+			<key>Persistent ID</key><string>E650BE95D311E798</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/2007%20-%20The%20Definitive%20Collection/Bo%20Diddley%20-%2013%20-%20Dearest%20Darling.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10644</key>
+		<dict>
+			<key>Track ID</key><integer>10644</integer>
 			<key>Name</key><string>Crackin' Up</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -539,9 +890,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10840</key>
+		<key>10646</key>
 		<dict>
-			<key>Track ID</key><integer>10840</integer>
+			<key>Track ID</key><integer>10646</integer>
 			<key>Name</key><string>The Story Of Bo Diddley</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -568,9 +919,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10842</key>
+		<key>10648</key>
 		<dict>
-			<key>Track ID</key><integer>10842</integer>
+			<key>Track ID</key><integer>10648</integer>
 			<key>Name</key><string>Road Runner</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -585,6 +936,8 @@
 			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T05:29:56Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -596,9 +949,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10844</key>
+		<key>10650</key>
 		<dict>
-			<key>Track ID</key><integer>10844</integer>
+			<key>Track ID</key><integer>10650</integer>
 			<key>Name</key><string>Pills</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -613,6 +966,8 @@
 			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T05:29:49Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
@@ -624,9 +979,40 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10848</key>
+		<key>10652</key>
 		<dict>
-			<key>Track ID</key><integer>10848</integer>
+			<key>Track ID</key><integer>10652</integer>
+			<key>Name</key><string>I Can Tell</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>The Definitive Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11064717</integer>
+			<key>Total Time</key><integer>275774</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-02-02T05:57:06Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3568958835</integer>
+			<key>Play Date UTC</key><date>2017-02-03T17:27:15Z</date>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Definitive Collection</string>
+			<key>Persistent ID</key><string>D2015DBA3832D0B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/2007%20-%20The%20Definitive%20Collection/Bo%20Diddley%20-%2018%20-%20I%20Can%20Tell.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10654</key>
+		<dict>
+			<key>Track ID</key><integer>10654</integer>
 			<key>Name</key><string>You Can't Judge A Book By Its Cover</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -652,9 +1038,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10850</key>
+		<key>10656</key>
 		<dict>
-			<key>Track ID</key><integer>10850</integer>
+			<key>Track ID</key><integer>10656</integer>
 			<key>Name</key><string>Ooh Baby</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album Artist</key><string>Bo Diddley</string>
@@ -680,9 +1066,158 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10862</key>
+		<key>10658</key>
 		<dict>
-			<key>Track ID</key><integer>10862</integer>
+			<key>Track ID</key><integer>10658</integer>
+			<key>Name</key><string>Better Watch Yourself</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3462889</integer>
+			<key>Total Time</key><integer>174821</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2017-02-02T05:58:46Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-15T20:52:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>2435</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>06C09F70C952F979</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/Bo%20Diddley%20Is%20A%20Gunslinger/Better%20Watch%20Yourself.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10660</key>
+		<dict>
+			<key>Track ID</key><integer>10660</integer>
+			<key>Name</key><string>Cheyenne</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2472593</integer>
+			<key>Total Time</key><integer>120440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2017-02-02T05:58:46Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>4303</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0728CA149C546F39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/Bo%20Diddley%20Is%20A%20Gunslinger/Cheyenne.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10662</key>
+		<dict>
+			<key>Track ID</key><integer>10662</integer>
+			<key>Name</key><string>Do What I Say</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3432969</integer>
+			<key>Total Time</key><integer>169248</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2017-02-02T05:58:46Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-07T16:35:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>5103</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DF5A8A3D8AC2AD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/Bo%20Diddley%20Is%20A%20Gunslinger/Do%20What%20I%20Say.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10664</key>
+		<dict>
+			<key>Track ID</key><integer>10664</integer>
+			<key>Name</key><string>Googlia Moo</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3649828</integer>
+			<key>Total Time</key><integer>182089</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2017-02-02T05:58:46Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>6763</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D6012028E6BFA8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/Bo%20Diddley%20Is%20A%20Gunslinger/Googlia%20Moo.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10666</key>
+		<dict>
+			<key>Track ID</key><integer>10666</integer>
+			<key>Name</key><string>Gun Slinger</string>
+			<key>Artist</key><string>Bo Diddley</string>
+			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2285289</integer>
+			<key>Total Time</key><integer>114240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2017-02-02T05:58:46Z</date>
+			<key>Date Added</key><date>2017-02-02T05:52:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>4810</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DD58FD17BCD6AFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/Bo%20Diddley%20Is%20A%20Gunslinger/Gun%20Slinger.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10668</key>
+		<dict>
+			<key>Track ID</key><integer>10668</integer>
 			<key>Name</key><string>Whoa Mule (Shine)</string>
 			<key>Artist</key><string>Bo Diddley</string>
 			<key>Album</key><string>Bo Diddley Is A Gunslinger</string>
@@ -709,91 +1244,205 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>11936</key>
+		<dict>
+			<key>Track ID</key><integer>11936</integer>
+			<key>Name</key><string>Going Down Slow</string>
+			<key>Artist</key><string>Howlin' Wolf, Muddy Waters &#38; Bo Diddley</string>
+			<key>Album</key><string>The Super Super Blues Band</string>
+			<key>Genre</key><string>Rock &#38; Roll</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11870891</integer>
+			<key>Total Time</key><integer>290847</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2017-02-02T05:55:51Z</date>
+			<key>Date Added</key><date>2017-02-10T03:33:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Album</key><string>Super Super Blues Band</string>
+			<key>Sort Artist</key><string>Howlin' Wolf, Muddy Waters &#38; Bo Diddley</string>
+			<key>Persistent ID</key><string>0495B042493047E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1968%20-%20The%20Super%20Blues%20Band/06%20-%20Going%20Down%20Slow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11938</key>
+		<dict>
+			<key>Track ID</key><integer>11938</integer>
+			<key>Name</key><string>Little Red Rooster</string>
+			<key>Artist</key><string>Howlin' Wolf, Muddy Waters &#38; Bo Diddley</string>
+			<key>Album</key><string>The Super Super Blues Band</string>
+			<key>Genre</key><string>Rock &#38; Roll</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18088039</integer>
+			<key>Total Time</key><integer>446275</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2017-02-02T05:55:52Z</date>
+			<key>Date Added</key><date>2017-02-10T03:33:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Album</key><string>Super Super Blues Band</string>
+			<key>Sort Artist</key><string>Howlin' Wolf, Muddy Waters &#38; Bo Diddley</string>
+			<key>Persistent ID</key><string>BC6184DB17BB0660</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bo%20Diddley/1968%20-%20The%20Super%20Blues%20Band/07%20-%20Little%20Red%20Rooster.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Bo Diddley faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>26239</integer>
+			<key>Playlist ID</key><integer>25038</integer>
 			<key>Playlist Persistent ID</key><string>62521F51EDB3194A</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10798</integer>
+					<key>Track ID</key><integer>10588</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10820</integer>
+					<key>Track ID</key><integer>10640</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10862</integer>
+					<key>Track ID</key><integer>10658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10796</integer>
+					<key>Track ID</key><integer>10578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10800</integer>
+					<key>Track ID</key><integer>10618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10742</integer>
+					<key>Track ID</key><integer>10592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10760</integer>
+					<key>Track ID</key><integer>10606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10768</integer>
+					<key>Track ID</key><integer>10630</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10824</integer>
+					<key>Track ID</key><integer>10660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10826</integer>
+					<key>Track ID</key><integer>10602</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10828</integer>
+					<key>Track ID</key><integer>10644</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10830</integer>
+					<key>Track ID</key><integer>10642</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10832</integer>
+					<key>Track ID</key><integer>10662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10838</integer>
+					<key>Track ID</key><integer>10616</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10840</integer>
+					<key>Track ID</key><integer>11936</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10842</integer>
+					<key>Track ID</key><integer>10664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10844</integer>
+					<key>Track ID</key><integer>10666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10790</integer>
+					<key>Track ID</key><integer>10590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10792</integer>
+					<key>Track ID</key><integer>10636</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10850</integer>
+					<key>Track ID</key><integer>10652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10762</integer>
+					<key>Track ID</key><integer>10626</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9080</integer>
+					<key>Track ID</key><integer>10632</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10848</integer>
+					<key>Track ID</key><integer>10614</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10812</integer>
+					<key>Track ID</key><integer>11938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10816</integer>
+					<key>Track ID</key><integer>10600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10612</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10648</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10646</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10654</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10622</integer>
 				</dict>
 			</array>
 		</dict>

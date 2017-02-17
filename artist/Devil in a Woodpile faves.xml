@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-07T03:17:11Z</date>
+	<key>Date</key><date>2017-02-17T05:32:26Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,38 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10176</key>
+		<key>10102</key>
 		<dict>
-			<key>Track ID</key><integer>10176</integer>
+			<key>Track ID</key><integer>10102</integer>
+			<key>Name</key><string>I Shall Not Be Moved</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Division Street</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4148241</integer>
+			<key>Total Time</key><integer>201430</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-02-04T05:17:58Z</date>
+			<key>Date Added</key><date>2017-02-02T03:47:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-07T00:04:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>6229</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19F2191A7C72AD6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Division%20Street/I%20Shall%20Not%20Be%20Moved.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10146</key>
+		<dict>
+			<key>Track ID</key><integer>10146</integer>
 			<key>Name</key><string>Beer Truck Rag</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -36,8 +65,7 @@
 			<key>Skip Count</key><integer>5</integer>
 			<key>Skip Date</key><date>2017-02-01T17:14:07Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2284</integer>
 			<key>Persistent ID</key><string>E51E6D8F59152A27</string>
 			<key>Track Type</key><string>File</string>
@@ -45,9 +73,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10200</key>
+		<key>10170</key>
 		<dict>
-			<key>Track ID</key><integer>10200</integer>
+			<key>Track ID</key><integer>10170</integer>
 			<key>Name</key><string>Louisiana Farytale</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -69,8 +97,7 @@
 			<key>Skip Count</key><integer>7</integer>
 			<key>Skip Date</key><date>2017-02-01T20:24:13Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3070</integer>
 			<key>Persistent ID</key><string>6C611A55A5E203B7</string>
 			<key>Track Type</key><string>File</string>
@@ -78,9 +105,129 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10258</key>
+		<key>10220</key>
 		<dict>
-			<key>Track ID</key><integer>10258</integer>
+			<key>Track ID</key><integer>10220</integer>
+			<key>Name</key><string>Can't Wait</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2575176</integer>
+			<key>Total Time</key><integer>124760</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:30Z</date>
+			<key>Date Added</key><date>2017-02-02T03:49:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569585013</integer>
+			<key>Play Date UTC</key><date>2017-02-10T23:23:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3898</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BAB95C51477BC8C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Can't%20Wait.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10222</key>
+		<dict>
+			<key>Track ID</key><integer>10222</integer>
+			<key>Name</key><string>Good Morning Little School Girl</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3305058</integer>
+			<key>Total Time</key><integer>161253</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:30Z</date>
+			<key>Date Added</key><date>2017-02-02T03:49:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-02T02:02:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>4017</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9403901922602B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Good%20Morning%20Little%20School%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10224</key>
+		<dict>
+			<key>Track ID</key><integer>10224</integer>
+			<key>Name</key><string>Steel Gitar Rag</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4445027</integer>
+			<key>Total Time</key><integer>218253</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:31Z</date>
+			<key>Date Added</key><date>2017-02-02T03:49:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-14T16:31:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>454</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC08F182328FD083</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Steel%20Gitar%20Rag.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10226</key>
+		<dict>
+			<key>Track ID</key><integer>10226</integer>
+			<key>Name</key><string>Whiskey Headed Blues</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3364085</integer>
+			<key>Total Time</key><integer>164205</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:31Z</date>
+			<key>Date Added</key><date>2017-02-02T03:49:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3569924859</integer>
+			<key>Play Date UTC</key><date>2017-02-14T21:47:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-14T16:33:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1764</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11F8DAFCB9F2C0EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Whiskey%20Headed%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10228</key>
+		<dict>
+			<key>Track ID</key><integer>10228</integer>
 			<key>Name</key><string>Big Boat</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>Division Street</string>
@@ -97,7 +244,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3194</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>520C2BF2E13C5E00</string>
@@ -106,9 +252,98 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10378</key>
+		<key>10230</key>
 		<dict>
-			<key>Track ID</key><integer>10378</integer>
+			<key>Track ID</key><integer>10230</integer>
+			<key>Name</key><string>Wrong Woman</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Division Street</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3241783</integer>
+			<key>Total Time</key><integer>156107</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-02-04T05:18:00Z</date>
+			<key>Date Added</key><date>2017-02-02T03:49:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>5182</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CEF76AA558645C75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Division%20Street/Wrong%20Woman.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10304</key>
+		<dict>
+			<key>Track ID</key><integer>10304</integer>
+			<key>Name</key><string>Stranger Here</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5001432</integer>
+			<key>Total Time</key><integer>246073</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:31Z</date>
+			<key>Date Added</key><date>2017-02-02T03:50:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569398496</integer>
+			<key>Play Date UTC</key><date>2017-02-08T19:34:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1819</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA39EE3C4B6E8658</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Stranger%20Here.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10306</key>
+		<dict>
+			<key>Track ID</key><integer>10306</integer>
+			<key>Name</key><string>Lepidoptera</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Division Street</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3855661</integer>
+			<key>Total Time</key><integer>186801</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-02-04T05:17:58Z</date>
+			<key>Date Added</key><date>2017-02-02T03:50:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3569063973</integer>
+			<key>Play Date UTC</key><date>2017-02-04T22:39:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-07T21:24:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1400</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D68E025C15310C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Division%20Street/Lepidoptera.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10344</key>
+		<dict>
+			<key>Track ID</key><integer>10344</integer>
 			<key>Name</key><string>Devil In The Woodpile</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>Division Street</string>
@@ -127,7 +362,6 @@
 			<key>Skip Date</key><date>2017-02-02T02:02:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2082</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>823E26A83E9C5C93</string>
@@ -136,9 +370,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11260</key>
+		<key>11020</key>
 		<dict>
-			<key>Track ID</key><integer>11260</integer>
+			<key>Track ID</key><integer>11020</integer>
 			<key>Name</key><string>A Long Way From Home</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -158,8 +392,7 @@
 			<key>Play Date</key><integer>3569226408</integer>
 			<key>Play Date UTC</key><date>2017-02-06T19:46:48Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>6732</integer>
 			<key>Artwork Count</key><integer>4</integer>
 			<key>Sort Name</key><string>Long Way From Home</string>
@@ -169,9 +402,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11262</key>
+		<key>11022</key>
 		<dict>
-			<key>Track ID</key><integer>11262</integer>
+			<key>Track ID</key><integer>11022</integer>
 			<key>Name</key><string>Shake It And Break it</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -188,8 +421,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4705</integer>
 			<key>Artwork Count</key><integer>4</integer>
 			<key>Persistent ID</key><string>DA904AC83E1247C4</string>
@@ -198,9 +430,40 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11266</key>
+		<key>11024</key>
 		<dict>
-			<key>Track ID</key><integer>11266</integer>
+			<key>Track ID</key><integer>11024</integer>
+			<key>Name</key><string>Until My Love Comes Down</string>
+			<key>Artist</key><string>Devil in a Woodpile</string>
+			<key>Album</key><string>In Your Lonesome Town</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4031146</integer>
+			<key>Total Time</key><integer>216093</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-03-19T20:56:26Z</date>
+			<key>Date Added</key><date>2017-02-04T05:12:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569227059</integer>
+			<key>Play Date UTC</key><date>2017-02-06T19:57:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5667</integer>
+			<key>Artwork Count</key><integer>4</integer>
+			<key>Persistent ID</key><string>D334577139F7CFB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Devil%20in%20a%20Woodpile/In%20Your%20Lonesome%20Town/03%20Until%20My%20Love%20Comes%20Down.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11026</key>
+		<dict>
+			<key>Track ID</key><integer>11026</integer>
 			<key>Name</key><string>Bron-Y-Aur Stomp</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -220,8 +483,7 @@
 			<key>Play Date</key><integer>3569237197</integer>
 			<key>Play Date UTC</key><date>2017-02-06T22:46:37Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2644</integer>
 			<key>Artwork Count</key><integer>4</integer>
 			<key>Persistent ID</key><string>5987274F72DEBFA1</string>
@@ -230,9 +492,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11268</key>
+		<key>11028</key>
 		<dict>
-			<key>Track ID</key><integer>11268</integer>
+			<key>Track ID</key><integer>11028</integer>
 			<key>Name</key><string>Has My Gal Been By Here?</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -249,8 +511,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4449</integer>
 			<key>Artwork Count</key><integer>4</integer>
 			<key>Persistent ID</key><string>DB6ABD8EFF937F67</string>
@@ -259,9 +520,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11270</key>
+		<key>11030</key>
 		<dict>
-			<key>Track ID</key><integer>11270</integer>
+			<key>Track ID</key><integer>11030</integer>
 			<key>Name</key><string>You Just Well To Let Her Go</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -278,8 +539,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> [FIXED]</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3587</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>9A7686EF8315BC50</string>
@@ -288,9 +548,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11272</key>
+		<key>11032</key>
 		<dict>
-			<key>Track ID</key><integer>11272</integer>
+			<key>Track ID</key><integer>11032</integer>
 			<key>Name</key><string>Stovepipe Blues/Greenville Strut</string>
 			<key>Artist</key><string>Devil in a Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -310,8 +570,7 @@
 			<key>Play Date</key><integer>3569070899</integer>
 			<key>Play Date UTC</key><date>2017-02-05T00:34:59Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>5650</integer>
 			<key>Artwork Count</key><integer>4</integer>
 			<key>Persistent ID</key><string>201DBB4491A0E36A</string>
@@ -320,9 +579,98 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11282</key>
+		<key>11034</key>
 		<dict>
-			<key>Track ID</key><integer>11282</integer>
+			<key>Track ID</key><integer>11034</integer>
+			<key>Name</key><string>I'll Be Rested</string>
+			<key>Artist</key><string>Devil in a Woodpile</string>
+			<key>Album</key><string>In Your Lonesome Town</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3087185</integer>
+			<key>Total Time</key><integer>157120</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-03-19T20:56:28Z</date>
+			<key>Date Added</key><date>2017-02-04T05:12:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569001585</integer>
+			<key>Play Date UTC</key><date>2017-02-04T05:19:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3699</integer>
+			<key>Artwork Count</key><integer>4</integer>
+			<key>Persistent ID</key><string>8DB20984724A8214</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Devil%20in%20a%20Woodpile/In%20Your%20Lonesome%20Town/11%20I'll%20Be%20Rested.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11036</key>
+		<dict>
+			<key>Track ID</key><integer>11036</integer>
+			<key>Name</key><string>When I'm Drinkin'</string>
+			<key>Artist</key><string>Devil in a Woodpile</string>
+			<key>Album</key><string>In Your Lonesome Town</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4252551</integer>
+			<key>Total Time</key><integer>231906</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-03-19T20:56:28Z</date>
+			<key>Date Added</key><date>2017-02-04T05:12:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569326407</integer>
+			<key>Play Date UTC</key><date>2017-02-07T23:33:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3044</integer>
+			<key>Artwork Count</key><integer>4</integer>
+			<key>Persistent ID</key><string>AD5B487702C4DB00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Devil%20in%20a%20Woodpile/In%20Your%20Lonesome%20Town/12%20When%20I'm%20Drinkin'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11038</key>
+		<dict>
+			<key>Track ID</key><integer>11038</integer>
+			<key>Name</key><string>Boogie Woogie Dance</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3156149</integer>
+			<key>Total Time</key><integer>153808</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:30Z</date>
+			<key>Date Added</key><date>2017-02-04T05:13:26Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D6ABE20155480479</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Boogie%20Woogie%20Dance.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11040</key>
+		<dict>
+			<key>Track ID</key><integer>11040</integer>
 			<key>Name</key><string>Easy Rinin' Mama</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>Devil In A Woodpile</string>
@@ -338,8 +686,7 @@
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>1208</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BDFEA3FD4409264</string>
@@ -348,9 +695,96 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11298</key>
+		<key>11042</key>
 		<dict>
-			<key>Track ID</key><integer>11298</integer>
+			<key>Track ID</key><integer>11042</integer>
+			<key>Name</key><string>I Got A Woman</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2655114</integer>
+			<key>Total Time</key><integer>128757</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:30Z</date>
+			<key>Date Added</key><date>2017-02-04T05:13:26Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3569617981</integer>
+			<key>Play Date UTC</key><date>2017-02-11T08:33:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1762</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E61E72B96A4C771</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/I%20Got%20A%20Woman.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11044</key>
+		<dict>
+			<key>Track ID</key><integer>11044</integer>
+			<key>Name</key><string>Keep On Drinkin'</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3112782</integer>
+			<key>Total Time</key><integer>151640</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:30Z</date>
+			<key>Date Added</key><date>2017-02-04T05:13:26Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3569329843</integer>
+			<key>Play Date UTC</key><date>2017-02-08T00:30:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>2363</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C99A5132D3649E44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Keep%20On%20Drinkin'.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11046</key>
+		<dict>
+			<key>Track ID</key><integer>11046</integer>
+			<key>Name</key><string>Some Day Baby</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Devil In A Woodpile</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4080355</integer>
+			<key>Total Time</key><integer>200019</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-02-04T05:16:31Z</date>
+			<key>Date Added</key><date>2017-02-04T05:13:26Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1077</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>40A60BF50A3601DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Devil%20In%20A%20Woodpile/Some%20Day%20Baby.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11048</key>
+		<dict>
+			<key>Track ID</key><integer>11048</integer>
 			<key>Name</key><string>Manifold</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>Division Street</string>
@@ -367,7 +801,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2167</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>39BBABCC40DF1AAA</string>
@@ -376,9 +809,41 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11302</key>
+		<key>11050</key>
 		<dict>
-			<key>Track ID</key><integer>11302</integer>
+			<key>Track ID</key><integer>11050</integer>
+			<key>Name</key><string>My Baby Leavin'</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
+			<key>Album</key><string>Division Street</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4301836</integer>
+			<key>Total Time</key><integer>209110</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-02-04T05:17:59Z</date>
+			<key>Date Added</key><date>2017-02-04T05:13:26Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3569487260</integer>
+			<key>Play Date UTC</key><date>2017-02-09T20:14:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-09T20:15:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>6202</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4C681BF4B1E1A1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/Division%20Street/My%20Baby%20Leavin'.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11052</key>
+		<dict>
+			<key>Track ID</key><integer>11052</integer>
 			<key>Name</key><string>Samson And Delilah</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>Division Street</string>
@@ -395,7 +860,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6320</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>54E06A41DB8AF858</string>
@@ -410,49 +874,97 @@
 		<dict>
 			<key>Name</key><string>Devil in a Woodpile faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>26407</integer>
+			<key>Playlist ID</key><integer>25346</integer>
 			<key>Playlist Persistent ID</key><string>4158362E3FDE8D4E</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>11272</integer>
+					<key>Track ID</key><integer>10146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10200</integer>
+					<key>Track ID</key><integer>10228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10176</integer>
+					<key>Track ID</key><integer>11038</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11266</integer>
+					<key>Track ID</key><integer>11026</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11298</integer>
+					<key>Track ID</key><integer>10220</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11282</integer>
+					<key>Track ID</key><integer>10344</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10258</integer>
+					<key>Track ID</key><integer>11040</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11302</integer>
+					<key>Track ID</key><integer>10222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10378</integer>
+					<key>Track ID</key><integer>11028</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11260</integer>
+					<key>Track ID</key><integer>11042</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11262</integer>
+					<key>Track ID</key><integer>10102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11268</integer>
+					<key>Track ID</key><integer>11034</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11270</integer>
+					<key>Track ID</key><integer>11044</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11048</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11050</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11030</integer>
 				</dict>
 			</array>
 		</dict>
