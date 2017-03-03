@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-03-03T05:21:15Z</date>
+	<key>Application Version</key><string>12.5.5.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12355</key>
+		<dict>
+			<key>Track ID</key><integer>12355</integer>
+			<key>Name</key><string>Kissin' Bug Boogie (1950)</string>
+			<key>Artist</key><string>Crown Prince Waterford</string>
+			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6387107</integer>
+			<key>Total Time</key><integer>155271</integer>
+			<key>Year</key><integer>1950</integer>
+			<key>Date Modified</key><date>2017-02-20T19:07:39Z</date>
+			<key>Date Added</key><date>2017-02-18T07:48:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571323614</integer>
+			<key>Play Date UTC</key><date>2017-03-03T02:20:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-20T19:07:41Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Sort Artist</key><string>Crown Prince Waterford</string>
+			<key>Persistent ID</key><string>F526F762BA278B89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/74.%20Kissin'%20Bug%20Boogie%20%20(1950).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Naughty!</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>75597</integer>
+			<key>Playlist Persistent ID</key><string>5D44A5B63B650EDB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12355</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

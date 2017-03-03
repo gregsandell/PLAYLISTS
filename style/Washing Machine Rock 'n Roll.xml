@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-17T05:45:54Z</date>
+	<key>Date</key><date>2017-03-03T05:23:38Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8662</key>
+		<key>8729</key>
 		<dict>
-			<key>Track ID</key><integer>8662</integer>
+			<key>Track ID</key><integer>8729</integer>
 			<key>Name</key><string>Red, Red Robin</string>
 			<key>Artist</key><string>Rosie Flores</string>
 			<key>Album</key><string>Best Of The Land Of Nod Store Music - Volume 1</string>
@@ -31,6 +31,8 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-01-16T17:40:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>3206</integer>
 			<key>Compilation</key><true/>
 			<key>Persistent ID</key><string>B53FF289B6265117</string>
@@ -39,123 +41,132 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9258</key>
+		<key>9321</key>
 		<dict>
-			<key>Track ID</key><integer>9258</integer>
-			<key>Name</key><string>Ay-Te Te Fee - Clifton Chenier</string>
-			<key>Artist</key><string>Uncut</string>
+			<key>Track ID</key><integer>9321</integer>
+			<key>Name</key><string>Ay-Te Te Fee (1955)</string>
+			<key>Artist</key><string>Clifton Chenier</string>
 			<key>Album</key><string>The Devil's Music</string>
 			<key>Genre</key><string>R&#38;B</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3294997</integer>
+			<key>Size</key><integer>3392523</integer>
 			<key>Total Time</key><integer>159634</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>26</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T23:15:02Z</date>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-02-20T19:19:28Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:42Z</date>
 			<key>Bit Rate</key><integer>165</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3432726805</integer>
 			<key>Play Date UTC</key><date>2012-10-10T22:13:25Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-17T01:41:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-17T19:05:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6977</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
+			<key>Sort Artist</key><string>Clifton Chenier</string>
 			<key>Persistent ID</key><string>F327D04A9FED326B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Ay-Te%20Te%20Fee%20-%20Clifton%20Chenier.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9262</key>
+		<key>9325</key>
 		<dict>
-			<key>Track ID</key><integer>9262</integer>
-			<key>Name</key><string>Down The Road Apiece - Amos Milburn</string>
-			<key>Artist</key><string>Uncut</string>
+			<key>Track ID</key><integer>9325</integer>
+			<key>Name</key><string>Down The Road Apiece (1946)</string>
+			<key>Artist</key><string>Amos Milburn</string>
 			<key>Album</key><string>The Devil's Music</string>
 			<key>Genre</key><string>R&#38;B</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3551838</integer>
+			<key>Size</key><integer>3649418</integer>
 			<key>Total Time</key><integer>176666</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>26</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T23:15:02Z</date>
+			<key>Year</key><integer>1946</integer>
+			<key>Date Modified</key><date>2017-02-24T04:30:29Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3433792731</integer>
-			<key>Play Date UTC</key><date>2012-10-23T06:18:51Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3570384839</integer>
+			<key>Play Date UTC</key><date>2017-02-20T05:33:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-20T22:38:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3451</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
+			<key>Sort Artist</key><string>Amos Milburn</string>
+			<key>Sort Name</key><string>Down The Road Apiece (1946)</string>
 			<key>Persistent ID</key><string>658C4912F9985809</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Down%20The%20Road%20Apiece%20-%20Amos%20Milburn.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9264</key>
+		<key>9327</key>
 		<dict>
-			<key>Track ID</key><integer>9264</integer>
-			<key>Name</key><string>Good Golly Miss Molly - Little Richard</string>
-			<key>Artist</key><string>Uncut</string>
+			<key>Track ID</key><integer>9327</integer>
+			<key>Name</key><string>Good Golly Miss Molly (1956)</string>
+			<key>Artist</key><string>Little Richard</string>
 			<key>Album</key><string>The Devil's Music</string>
 			<key>Genre</key><string>R&#38;B</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2697847</integer>
+			<key>Size</key><integer>2795373</integer>
 			<key>Total Time</key><integer>128470</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>26</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T23:15:04Z</date>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2017-02-20T19:23:23Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>167</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3432396342</integer>
-			<key>Play Date UTC</key><date>2012-10-07T02:25:42Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3570446804</integer>
+			<key>Play Date UTC</key><date>2017-02-20T22:46:44Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-17T01:57:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7537</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Devil's Music</string>
+			<key>Sort Artist</key><string>Little Richard</string>
 			<key>Persistent ID</key><string>D8AB79A270B88FD6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Good%20Golly%20Miss%20Molly%20-%20Little%20Richard.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9282</key>
+		<key>9345</key>
 		<dict>
-			<key>Track ID</key><integer>9282</integer>
-			<key>Name</key><string>Jivin' The Blues</string>
-			<key>Artist</key><string>When The Sun Goes Down</string>
-			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
+			<key>Track ID</key><integer>9345</integer>
+			<key>Name</key><string>Jivin' The Blues (1940)</string>
+			<key>Artist</key><string>Sonny Boy Williamson</string>
+			<key>Album</key><string>When The Sun Goes Down : Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
 			<key>Genre</key><string>Blues</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3467521</integer>
+			<key>Size</key><integer>3541403</integer>
 			<key>Total Time</key><integer>174589</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T23:18:16Z</date>
+			<key>Year</key><integer>1940</integer>
+			<key>Date Modified</key><date>2017-02-22T05:40:36Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -165,26 +176,29 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1227</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>When The Sun Goes Down : Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
+			<key>Sort Artist</key><string>Sonny Boy Williamson</string>
 			<key>Persistent ID</key><string>00E3751B77CA0C26</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Jivin'%20The%20Blues.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9292</key>
+		<key>9355</key>
 		<dict>
-			<key>Track ID</key><integer>9292</integer>
-			<key>Name</key><string>Sonny Boy's Jump</string>
-			<key>Artist</key><string>When The Sun Goes Down</string>
-			<key>Album</key><string>Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
+			<key>Track ID</key><integer>9355</integer>
+			<key>Name</key><string>Sonny Boy's Jump (1946)</string>
+			<key>Artist</key><string>Sonny Boy Williamson</string>
+			<key>Album</key><string>When The Sun Goes Down - Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
 			<key>Genre</key><string>Blues</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3371289</integer>
+			<key>Size</key><integer>3445171</integer>
 			<key>Total Time</key><integer>169713</integer>
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T23:18:18Z</date>
+			<key>Year</key><integer>1946</integer>
+			<key>Date Modified</key><date>2017-02-22T06:02:46Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -195,55 +209,66 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1110</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>When The Sun Goes Down - Sonny Boy Williamson: Blue Bird Blues (Vol. 8)</string>
+			<key>Sort Artist</key><string>Sonny Boy Williamson</string>
 			<key>Persistent ID</key><string>87E8E8F8C242CD10</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/Sonny%20Boy%20Williamson_%20Blue%20Bird%20Blues%20(Vol.%208)/Sonny%20Boy's%20Jump.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9294</key>
+		<key>9357</key>
 		<dict>
-			<key>Track ID</key><integer>9294</integer>
-			<key>Name</key><string>Chicago Is Just That Way - Eddie Boyd</string>
-			<key>Artist</key><string>When The Sun Goes Down</string>
-			<key>Album</key><string>That's All Right (Vol. 4)</string>
+			<key>Track ID</key><integer>9357</integer>
+			<key>Name</key><string>Chicago Is Just That Way (1949)</string>
+			<key>Artist</key><string>Eddie Boyd</string>
+			<key>Album</key><string>When The Sun Goes Down - That's All Right (Vol. 4)</string>
 			<key>Genre</key><string>Blues</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3523337</integer>
+			<key>Size</key><integer>3594693</integer>
 			<key>Total Time</key><integer>173567</integer>
 			<key>Disc Number</key><integer>4</integer>
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-19T23:18:18Z</date>
+			<key>Year</key><integer>1949</integer>
+			<key>Date Modified</key><date>2017-02-22T05:35:01Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570427703</integer>
+			<key>Play Date UTC</key><date>2017-02-20T17:28:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T19:13:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>528</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B0D5673754C36E60</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Chicago%20Is%20Just%20That%20Way%20-%20Eddie%20Boyd.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9300</key>
+		<key>9363</key>
 		<dict>
-			<key>Track ID</key><integer>9300</integer>
-			<key>Name</key><string>Rockin' With Red - Piano Red</string>
-			<key>Artist</key><string>When The Sun Goes Down</string>
-			<key>Album</key><string>That's All Right (Vol. 4)</string>
+			<key>Track ID</key><integer>9363</integer>
+			<key>Name</key><string>Rockin' With Red (1950)</string>
+			<key>Artist</key><string>Piano Red</string>
+			<key>Album</key><string>When The Sun Goes Down - That's All Right (Vol. 4)</string>
 			<key>Genre</key><string>Blues</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3144387</integer>
+			<key>Size</key><integer>3215743</integer>
 			<key>Total Time</key><integer>154620</integer>
 			<key>Disc Number</key><integer>4</integer>
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>19</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-19T23:18:22Z</date>
+			<key>Year</key><integer>1950</integer>
+			<key>Date Modified</key><date>2017-02-22T05:58:44Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -256,46 +281,57 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2493</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>When The Sun Goes Down - That's All Right (Vol. 4)</string>
+			<key>Sort Artist</key><string>Piano Red</string>
 			<key>Persistent ID</key><string>6D14646EFA11DE50</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Rockin'%20With%20Red%20-%20Piano%20Red.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9304</key>
+		<key>9367</key>
 		<dict>
-			<key>Track ID</key><integer>9304</integer>
-			<key>Name</key><string>Walkin' The Boogie - Pete Johnson &#38; Albert Ammons</string>
-			<key>Artist</key><string>When The Sun Goes Down</string>
-			<key>Album</key><string>That's All Right (Vol. 4)</string>
+			<key>Track ID</key><integer>9367</integer>
+			<key>Name</key><string>Walkin' The Boogie (1941)</string>
+			<key>Artist</key><string>Pete Johnson &#38; Albert Ammons</string>
+			<key>Album</key><string>When The Sun Goes Down - That's All Right (Vol. 4)</string>
 			<key>Genre</key><string>Blues</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3497331</integer>
+			<key>Size</key><integer>3568715</integer>
 			<key>Total Time</key><integer>172267</integer>
 			<key>Disc Number</key><integer>4</integer>
 			<key>Disc Count</key><integer>6</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2011-03-19T23:18:22Z</date>
+			<key>Year</key><integer>1941</integer>
+			<key>Date Modified</key><date>2017-02-24T05:30:43Z</date>
 			<key>Date Added</key><date>2017-02-01T02:29:43Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3438158011</integer>
-			<key>Play Date UTC</key><date>2012-12-12T19:53:31Z</date>
+			<key>Comments</key><string>Constant piano solo throughout song</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3570175538</integer>
+			<key>Play Date UTC</key><date>2017-02-17T19:25:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-02-28T03:18:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1203</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>When The Sun Goes Down - That's All Right (Vol. 4)</string>
+			<key>Sort Artist</key><string>Pete Johnson &#38; Albert Ammons</string>
+			<key>Sort Name</key><string>Walkin' The Boogie (1941)</string>
 			<key>Persistent ID</key><string>19185C9616A2FAA5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/When%20The%20Sun%20Goes%20Down/That's%20All%20Right%20(Vol.%204)/Walkin'%20The%20Boogie%20-%20Pete%20Johnson%20&#38;%20Albert%20Ammons.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9336</key>
+		<key>9399</key>
 		<dict>
-			<key>Track ID</key><integer>9336</integer>
+			<key>Track ID</key><integer>9399</integer>
 			<key>Name</key><string>Paralyzed</string>
 			<key>Artist</key><string>Elvis Presley</string>
 			<key>Album</key><string>The Complete Elvis Presley Masters (Disc 02)</string>
@@ -308,6 +344,8 @@
 			<key>Date Added</key><date>2017-02-01T02:29:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T18:56:07Z</date>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -319,34 +357,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9978</key>
+		<key>10123</key>
 		<dict>
-			<key>Track ID</key><integer>9978</integer>
-			<key>Name</key><string>Last Night</string>
-			<key>Artist</key><string>The Mar-Keys</string>
-			<key>Album</key><string>Last Night!</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3441248</integer>
-			<key>Total Time</key><integer>159242</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>1961</integer>
-			<key>Date Modified</key><date>2011-03-19T23:00:44Z</date>
-			<key>Date Added</key><date>2017-02-01T07:51:18Z</date>
-			<key>Bit Rate</key><integer>172</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Normalization</key><integer>9518</integer>
-			<key>Sort Artist</key><string>Mar-Keys</string>
-			<key>Persistent ID</key><string>C1D0BB5F68D1D22E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Mar-Keys/Last%20Night!/Last%20Night.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>10130</key>
-		<dict>
-			<key>Track ID</key><integer>10130</integer>
+			<key>Track ID</key><integer>10123</integer>
 			<key>Name</key><string>Juke Joint Jumpin'</string>
 			<key>Artist</key><string>Wayne Hancock</string>
 			<key>Album</key><string>Swing Time</string>
@@ -361,8 +374,12 @@
 			<key>Date Added</key><date>2017-02-02T03:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-17T02:01:49Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570176228</integer>
+			<key>Play Date UTC</key><date>2017-02-17T19:37:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-24T01:37:22Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3137</integer>
@@ -372,9 +389,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10374</key>
+		<key>10359</key>
 		<dict>
-			<key>Track ID</key><integer>10374</integer>
+			<key>Track ID</key><integer>10359</integer>
 			<key>Name</key><string>Rockin' Daddy</string>
 			<key>Artist</key><string>Howlin' Wolf</string>
 			<key>Album</key><string>The Real Folk Blues/More Real Folk Blues</string>
@@ -405,9 +422,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10386</key>
+		<key>10369</key>
 		<dict>
-			<key>Track ID</key><integer>10386</integer>
+			<key>Track ID</key><integer>10369</integer>
 			<key>Name</key><string>Nat Dee Special</string>
 			<key>Artist</key><string>Memphis Slim</string>
 			<key>Album</key><string>The Come Back</string>
@@ -420,10 +437,11 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:19:02Z</date>
+			<key>Date Modified</key><date>2017-02-24T05:31:05Z</date>
 			<key>Date Added</key><date>2017-02-02T04:02:03Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Piano solo is constant throughout song</string>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3409307358</integer>
 			<key>Play Date UTC</key><date>2012-01-13T21:49:18Z</date>
@@ -438,9 +456,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12386</key>
+		<key>12025</key>
 		<dict>
-			<key>Track ID</key><integer>12386</integer>
+			<key>Track ID</key><integer>12025</integer>
 			<key>Name</key><string>Mess Around</string>
 			<key>Artist</key><string>Professor Longhair</string>
 			<key>Album Artist</key><string>Professor Longhair</string>
@@ -467,9 +485,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12396</key>
+		<key>12033</key>
 		<dict>
-			<key>Track ID</key><integer>12396</integer>
+			<key>Track ID</key><integer>12033</integer>
 			<key>Name</key><string>She Walks Right In / Shake, Rattle &#38; Roll</string>
 			<key>Artist</key><string>Professor Longhair</string>
 			<key>Album Artist</key><string>Professor Longhair</string>
@@ -496,9 +514,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12408</key>
+		<key>12043</key>
 		<dict>
-			<key>Track ID</key><integer>12408</integer>
+			<key>Track ID</key><integer>12043</integer>
 			<key>Name</key><string>Boogie Woogie</string>
 			<key>Artist</key><string>Professor Longhair</string>
 			<key>Album Artist</key><string>Professor Longhair</string>
@@ -525,67 +543,333 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>12109</key>
+		<dict>
+			<key>Track ID</key><integer>12109</integer>
+			<key>Name</key><string>Last Night (1961)</string>
+			<key>Artist</key><string>The Mar-Keys</string>
+			<key>Album</key><string>Last Night!</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3515064</integer>
+			<key>Total Time</key><integer>159242</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2017-02-22T06:27:37Z</date>
+			<key>Date Added</key><date>2017-02-17T05:55:50Z</date>
+			<key>Bit Rate</key><integer>172</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>9518</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Mar-Keys</string>
+			<key>Sort Name</key><string>Last Night (1961)</string>
+			<key>Persistent ID</key><string>54E9532E6AA0DF26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Mar-Keys/Last%20Night!/Last%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12201</key>
+		<dict>
+			<key>Track ID</key><integer>12201</integer>
+			<key>Name</key><string>Pinetop's Boogie Woogie (1928)</string>
+			<key>Artist</key><string>Pinetop Smith</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Boogie Woogie Stomp!</string>
+			<key>Genre</key><string>Boogie Woogie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4760021</integer>
+			<key>Total Time</key><integer>194533</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>1928</integer>
+			<key>Date Modified</key><date>2017-02-20T19:38:01Z</date>
+			<key>Date Added</key><date>2017-02-18T05:55:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570428439</integer>
+			<key>Play Date UTC</key><date>2017-02-20T17:40:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-20T19:38:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boogie Woogie Stomp!</string>
+			<key>Sort Artist</key><string>Pinetop Smith</string>
+			<key>Persistent ID</key><string>F2F4761A8F1873FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Boogie%20Woogie%20Stomp!/04.%20Pinetop's%20Boogie%20Woogie%20-%20Pinetop%20Smith%20(1928).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12215</key>
+		<dict>
+			<key>Track ID</key><integer>12215</integer>
+			<key>Name</key><string>Roll 'Em Pete (1938)</string>
+			<key>Artist</key><string>Turner-Johnson</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Boogie Woogie Stomp!</string>
+			<key>Genre</key><string>Boogie Woogie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4249048</integer>
+			<key>Total Time</key><integer>173244</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>1938</integer>
+			<key>Date Modified</key><date>2017-02-20T19:38:58Z</date>
+			<key>Date Added</key><date>2017-02-18T05:55:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-20T19:38:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boogie Woogie Stomp!</string>
+			<key>Sort Artist</key><string>Turner-Johnson</string>
+			<key>Persistent ID</key><string>B6F29CBAD82643AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Boogie%20Woogie%20Stomp!/13.%20Roll%20'Em%20Pete%20-%20Turner-Johnson%20(1938).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12299</key>
+		<dict>
+			<key>Track ID</key><integer>12299</integer>
+			<key>Name</key><string>Milton's Boogie (1947)</string>
+			<key>Artist</key><string>Roy Milton</string>
+			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6893883</integer>
+			<key>Total Time</key><integer>167941</integer>
+			<key>Year</key><integer>1947</integer>
+			<key>Date Modified</key><date>2017-02-20T18:59:25Z</date>
+			<key>Date Added</key><date>2017-02-18T07:48:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570429144</integer>
+			<key>Play Date UTC</key><date>2017-02-20T17:52:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Sort Artist</key><string>Roy Milton</string>
+			<key>Persistent ID</key><string>C62B70BC398AE171</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/35.%20Roy%20Milton%20-%20Milton's%20Boogie%20%20(1947).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12325</key>
+		<dict>
+			<key>Track ID</key><integer>12325</integer>
+			<key>Name</key><string>Douglas Boogie (1950)</string>
+			<key>Artist</key><string>Tommy Douglas</string>
+			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6259630</integer>
+			<key>Total Time</key><integer>152084</integer>
+			<key>Year</key><integer>1950</integer>
+			<key>Date Modified</key><date>2017-02-20T19:02:58Z</date>
+			<key>Date Added</key><date>2017-02-18T07:48:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570713551</integer>
+			<key>Play Date UTC</key><date>2017-02-24T00:52:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Sort Artist</key><string>Tommy Douglas</string>
+			<key>Persistent ID</key><string>4C9044F7E642A602</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/54.%20Douglas%20Boogie%20%20(1950).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12341</key>
+		<dict>
+			<key>Track ID</key><integer>12341</integer>
+			<key>Name</key><string>Bobby's Boogie (1951)</string>
+			<key>Artist</key><string>Morris Lane</string>
+			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6475923</integer>
+			<key>Total Time</key><integer>157492</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-02-20T19:05:00Z</date>
+			<key>Date Added</key><date>2017-02-18T07:48:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3570625386</integer>
+			<key>Play Date UTC</key><date>2017-02-23T00:23:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-20T19:05:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Sort Artist</key><string>Morris Lane</string>
+			<key>Persistent ID</key><string>764A25C784AD8A82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/64.%20Bobby's%20Boogie%20%20(1951).mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12443</key>
+		<dict>
+			<key>Track ID</key><integer>12443</integer>
+			<key>Name</key><string>Death Ray Boogie (1941)</string>
+			<key>Artist</key><string>Pete Johnson</string>
+			<key>Album Artist</key><string>Various </string>
+			<key>Album</key><string>Boogie Woogie Piano - Chicago-New York (1924-1945)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4236345</integer>
+			<key>Total Time</key><integer>180506</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1941</integer>
+			<key>Date Modified</key><date>2017-02-20T19:29:13Z</date>
+			<key>Date Added</key><date>2017-02-19T19:30:21Z</date>
+			<key>Bit Rate</key><integer>181</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570431555</integer>
+			<key>Play Date UTC</key><date>2017-02-20T18:32:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boogie Woogie Piano - Chicago-New York (1924-1945)</string>
+			<key>Sort Name</key><string>Death Ray Boogie (1941)</string>
+			<key>Persistent ID</key><string>361D786C521F89D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Boogie%20Woogie%20Piano%20-%20Chicago-New%20York%20(1924-1945)/24.%20Pete%20Johnson%20-%20Death%20Ray%20Boogie.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13485</key>
+		<dict>
+			<key>Track ID</key><integer>13485</integer>
+			<key>Name</key><string>All Shook Up (1957)</string>
+			<key>Artist</key><string>Elvis Presley</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2944963</integer>
+			<key>Total Time</key><integer>122488</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2017-02-21T07:39:01Z</date>
+			<key>Date Added</key><date>2017-02-21T07:36:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571147343</integer>
+			<key>Play Date UTC</key><date>2017-03-01T01:22:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>7358F4195C8920A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Rock%20n'%20Roll/Elvis%20Presley%20-%20All%20Shook%20Up%20(1957).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Washing Machine Rock 'n Roll</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>54192</integer>
-			<key>Playlist Persistent ID</key><string>A44D234FFBE84BF8</string>
+			<key>Playlist ID</key><integer>35564</integer>
+			<key>Playlist Persistent ID</key><string>9BFDD434A7DFFF9E</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>9258</integer>
+					<key>Track ID</key><integer>9321</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12408</integer>
+					<key>Track ID</key><integer>12043</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9294</integer>
+					<key>Track ID</key><integer>9357</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9262</integer>
+					<key>Track ID</key><integer>9325</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9264</integer>
+					<key>Track ID</key><integer>9327</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9282</integer>
+					<key>Track ID</key><integer>9345</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10130</integer>
+					<key>Track ID</key><integer>10123</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9978</integer>
+					<key>Track ID</key><integer>12109</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12386</integer>
+					<key>Track ID</key><integer>12025</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10386</integer>
+					<key>Track ID</key><integer>10369</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9336</integer>
+					<key>Track ID</key><integer>9399</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8662</integer>
+					<key>Track ID</key><integer>8729</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10374</integer>
+					<key>Track ID</key><integer>10359</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9300</integer>
+					<key>Track ID</key><integer>9363</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12396</integer>
+					<key>Track ID</key><integer>12033</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9292</integer>
+					<key>Track ID</key><integer>9355</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9304</integer>
+					<key>Track ID</key><integer>9367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12341</integer>
 				</dict>
 			</array>
 		</dict>
