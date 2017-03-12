@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-03-03T05:20:51Z</date>
+	<key>Date</key><date>2017-03-12T07:34:09Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12177</key>
+		<key>12219</key>
 		<dict>
-			<key>Track ID</key><integer>12177</integer>
+			<key>Track ID</key><integer>12219</integer>
 			<key>Name</key><string>Stranded In The Jungle</string>
 			<key>Artist</key><string>The Cadets</string>
 			<key>Album</key><string>Frank Zappa's Jukebox</string>
@@ -43,9 +43,38 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13071</key>
+		<key>12859</key>
 		<dict>
-			<key>Track ID</key><integer>13071</integer>
+			<key>Track ID</key><integer>12859</integer>
+			<key>Name</key><string>Blues</string>
+			<key>Artist</key><string>Fats Waller</string>
+			<key>Album</key><string>The Complete Recorded Works Vol 4.2 1937</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7564158</integer>
+			<key>Total Time</key><integer>183823</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1937</integer>
+			<key>Date Modified</key><date>2017-02-20T20:10:04Z</date>
+			<key>Date Added</key><date>2017-02-20T19:48:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3571894920</integer>
+			<key>Play Date UTC</key><date>2017-03-09T17:02:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Recorded Works Vol 4.2 1937</string>
+			<key>Sort Artist</key><string>Fats Waller</string>
+			<key>Persistent ID</key><string>979FBAF014B95DE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%204%20-%201936-1938/CD%202/06%20-%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13017</key>
+		<dict>
+			<key>Track ID</key><integer>13017</integer>
 			<key>Name</key><string>Your Feet's Too Big</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 5.3 1938-1940</string>
@@ -73,9 +102,92 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14107</key>
+		<key>13341</key>
 		<dict>
-			<key>Track ID</key><integer>14107</integer>
+			<key>Track ID</key><integer>13341</integer>
+			<key>Name</key><string>You Gotta Have A Ducktail (1958)</string>
+			<key>Artist</key><string>Billy Adams</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3557712</integer>
+			<key>Total Time</key><integer>148062</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2017-02-21T07:37:51Z</date>
+			<key>Date Added</key><date>2017-02-21T07:36:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3571244677</integer>
+			<key>Play Date UTC</key><date>2017-03-02T04:24:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>D4500278B72C1F31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Rock%20n'%20Roll/Billy%20Adams%20-%20You%20Gotta%20Have%20A%20Ducktail%20(1958).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13367</key>
+		<dict>
+			<key>Track ID</key><integer>13367</integer>
+			<key>Name</key><string>I Got Loaded (1951)</string>
+			<key>Artist</key><string>Peppermint Harris</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3546427</integer>
+			<key>Total Time</key><integer>147591</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-02-21T07:38:33Z</date>
+			<key>Date Added</key><date>2017-02-21T07:36:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571232523</integer>
+			<key>Play Date UTC</key><date>2017-03-02T01:02:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>09F76C92D26D1A60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Boogie%20Woogie/Peppermint%20Harris%20-%20I%20Got%20Loaded%20(1951).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13371</key>
+		<dict>
+			<key>Track ID</key><integer>13371</integer>
+			<key>Name</key><string>Sure Cure For The Blues (1952)</string>
+			<key>Artist</key><string>The Four Jacks</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3918201</integer>
+			<key>Total Time</key><integer>163082</integer>
+			<key>Year</key><integer>1952</integer>
+			<key>Date Modified</key><date>2017-02-21T07:40:33Z</date>
+			<key>Date Added</key><date>2017-02-21T07:36:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3571825924</integer>
+			<key>Play Date UTC</key><date>2017-03-08T21:52:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-27T06:22:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Sort Artist</key><string>Four Jacks</string>
+			<key>Persistent ID</key><string>7239C749BDB95459</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Boogie%20Woogie/The%20Four%20Jacks%20-%20Sure%20Cure%20For%20The%20Blues%20(1952).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13913</key>
+		<dict>
+			<key>Track ID</key><integer>13913</integer>
 			<key>Name</key><string>Honky Tonkin’</string>
 			<key>Artist</key><string>Spade Cooley</string>
 			<key>Album</key><string>YouTube</string>
@@ -99,9 +211,64 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14197</key>
+		<key>13937</key>
 		<dict>
-			<key>Track ID</key><integer>14197</integer>
+			<key>Track ID</key><integer>13937</integer>
+			<key>Name</key><string>Smoke! Smoke! Smoke! (That Cigarette) 1947</string>
+			<key>Artist</key><string>Tex Williams</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4443158</integer>
+			<key>Total Time</key><integer>184528</integer>
+			<key>Date Modified</key><date>2017-02-23T04:38:19Z</date>
+			<key>Date Added</key><date>2017-02-23T04:37:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570712095</integer>
+			<key>Play Date UTC</key><date>2017-02-24T00:28:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-24T01:20:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>23C6BB7F2893AB31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Tex%20Williams/YouTube/Tex%20Williams%20-%20Smoke!%20Smoke!%20Smoke!%20(That%20Cigarette)%201947.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13939</key>
+		<dict>
+			<key>Track ID</key><integer>13939</integer>
+			<key>Name</key><string>Suspicion</string>
+			<key>Artist</key><string>Tex Williams</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4284334</integer>
+			<key>Total Time</key><integer>178337</integer>
+			<key>Date Modified</key><date>2017-03-03T05:50:57Z</date>
+			<key>Date Added</key><date>2017-02-23T04:37:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3571754606</integer>
+			<key>Play Date UTC</key><date>2017-03-08T02:03:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-24T00:41:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>AA325F01350C399C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Tex%20Williams/YouTube/Tex%20Williams%20-%20Suspicion.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13997</key>
+		<dict>
+			<key>Track ID</key><integer>13997</integer>
 			<key>Name</key><string>Big Chief Boogie</string>
 			<key>Artist</key><string>Spade Cooley</string>
 			<key>Album Artist</key><string>Spade Cooley</string>
@@ -115,22 +282,78 @@
 			<key>Date Added</key><date>2017-02-24T04:18:19Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3571331750</integer>
-			<key>Play Date UTC</key><date>2017-03-03T04:35:50Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3571844645</integer>
+			<key>Play Date UTC</key><date>2017-03-09T03:04:05Z</date>
 			<key>Release Date</key><date>2003-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Swingin' The Devil's Dream</string>
 			<key>Persistent ID</key><string>68D14DDD11DD5DD7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Spade%20Cooley/Swingin'%20The%20Devil's%20Dream%20%20%5B2%20disc%20set%5D/disc%202/11%20-%20Big%20Chief%20Boogie.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14401</key>
+		<key>14007</key>
 		<dict>
-			<key>Track ID</key><integer>14401</integer>
+			<key>Track ID</key><integer>14007</integer>
+			<key>Name</key><string>Chew Tobacco Rag</string>
+			<key>Artist</key><string>Spade Cooley</string>
+			<key>Album Artist</key><string>Spade Cooley</string>
+			<key>Album</key><string>Swingin' The Devil's Dream</string>
+			<key>Genre</key><string>Western Swing</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6083256</integer>
+			<key>Total Time</key><integer>150804</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2017-03-03T05:51:55Z</date>
+			<key>Date Added</key><date>2017-02-24T04:18:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3571244528</integer>
+			<key>Play Date UTC</key><date>2017-03-02T04:22:08Z</date>
+			<key>Release Date</key><date>2003-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Swingin' The Devil's Dream</string>
+			<key>Persistent ID</key><string>0BE2163B140BD2B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Spade%20Cooley/Swingin'%20The%20Devil's%20Dream%20%20%5B2%20disc%20set%5D/disc%202/18%20-%20Chew%20Tobacco%20Rag.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14139</key>
+		<dict>
+			<key>Track ID</key><integer>14139</integer>
+			<key>Name</key><string>Yes Sir!</string>
+			<key>Artist</key><string>Milton Brown And His Musical Brownies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3866165</integer>
+			<key>Total Time</key><integer>160914</integer>
+			<key>Date Modified</key><date>2017-02-24T05:46:53Z</date>
+			<key>Date Added</key><date>2017-02-24T07:06:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570963447</integer>
+			<key>Play Date UTC</key><date>2017-02-26T22:17:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>358274F2842DB8AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Milton%20Brown%20and%20His%20Musical%20Brownies/YouTube/Milton%20Brown%20And%20His%20Musical%20Brownies%20-%20Yes%20Sir!.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14143</key>
+		<dict>
+			<key>Track ID</key><integer>14143</integer>
 			<key>Name</key><string>Divorce Me C.O.D.</string>
 			<key>Artist</key><string>Merle Travis</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -153,31 +376,232 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>14171</key>
+		<dict>
+			<key>Track ID</key><integer>14171</integer>
+			<key>Name</key><string>Cocaine Blues (1948)</string>
+			<key>Artist</key><string>Roy Hogsed</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3732001</integer>
+			<key>Total Time</key><integer>155324</integer>
+			<key>Date Modified</key><date>2017-02-24T06:33:14Z</date>
+			<key>Date Added</key><date>2017-02-24T07:09:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3571233608</integer>
+			<key>Play Date UTC</key><date>2017-03-02T01:20:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-03-08T02:03:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>D35B345C79937D74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Western%20Swing%20misc/Roy%20Hogsed%20-%20Cocaine%20Blues%20(1948).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14783</key>
+		<dict>
+			<key>Track ID</key><integer>14783</integer>
+			<key>Name</key><string>Cowpoke</string>
+			<key>Artist</key><string>Johnny Western</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4370224</integer>
+			<key>Total Time</key><integer>181916</integer>
+			<key>Date Modified</key><date>2017-03-03T07:56:28Z</date>
+			<key>Date Added</key><date>2017-03-03T07:56:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571730149</integer>
+			<key>Play Date UTC</key><date>2017-03-07T19:15:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1FB5160D9A28D259</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Western%20Swing%20misc/Johnny%20Western%20-%20Cowpoke.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14801</key>
+		<dict>
+			<key>Track ID</key><integer>14801</integer>
+			<key>Name</key><string>Adam Come &#38; Get Your Rib</string>
+			<key>Artist</key><string>Wayne Raney</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3405992</integer>
+			<key>Total Time</key><integer>141740</integer>
+			<key>Date Modified</key><date>2017-03-03T07:56:28Z</date>
+			<key>Date Added</key><date>2017-03-03T07:56:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3571923888</integer>
+			<key>Play Date UTC</key><date>2017-03-10T01:04:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>184A1BD95CE9EE52</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Western%20Swing%20misc/Wayne%20Raney%20-%20Adam%20Come%20&#38;%20Get%20Your%20Rib.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14969</key>
+		<dict>
+			<key>Track ID</key><integer>14969</integer>
+			<key>Name</key><string>Lirios</string>
+			<key>Artist</key><string>S. Cortez Y Sus Hawaiianos</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Vintage Hawaiian Music: Steel Guitar Masters 1928-1934</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4556654</integer>
+			<key>Total Time</key><integer>186566</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-03-06T01:43:30Z</date>
+			<key>Date Added</key><date>2017-03-05T19:12:11Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[mudmashers]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571661922</integer>
+			<key>Play Date UTC</key><date>2017-03-07T00:18:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-07T04:40:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D1A181082A3603C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Vintage%20Hawaiian%20Music%20-%20Steel%20Guitar%20Masters%201928-34/10%20-%20Lirios%20-%20S.%20Cortez%20Y%20Sus%20Hawaiianos.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15261</key>
+		<dict>
+			<key>Track ID</key><integer>15261</integer>
+			<key>Name</key><string>Taxes Texas</string>
+			<key>Artist</key><string>Hank Penny</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4129312</integer>
+			<key>Total Time</key><integer>169247</integer>
+			<key>Date Modified</key><date>2017-03-11T16:17:28Z</date>
+			<key>Date Added</key><date>2017-03-09T07:38:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>54D0639C9F165AA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hank%20Penny/YouTube/Hank%20Penny%20-%20Taxes%20Texas.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15265</key>
+		<dict>
+			<key>Track ID</key><integer>15265</integer>
+			<key>Name</key><string>I Like The Wide Open Spaces</string>
+			<key>Artist</key><string>Hank Penny</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3154438</integer>
+			<key>Total Time</key><integer>128626</integer>
+			<key>Date Modified</key><date>2017-03-11T16:17:26Z</date>
+			<key>Date Added</key><date>2017-03-09T07:38:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571978214</integer>
+			<key>Play Date UTC</key><date>2017-03-10T16:10:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>9495868A8C4DDC87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hank%20Penny/YouTube/Hank%20Penny%20-%20I%20Like%20The%20Wide%20Open%20Spaces.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Funny Old Songs</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>75589</integer>
+			<key>Playlist ID</key><integer>33374</integer>
 			<key>Playlist Persistent ID</key><string>3B4FA97132EED6FC</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14401</integer>
+					<key>Track ID</key><integer>14143</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13071</integer>
+					<key>Track ID</key><integer>13017</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12177</integer>
+					<key>Track ID</key><integer>12219</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14197</integer>
+					<key>Track ID</key><integer>13997</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14107</integer>
+					<key>Track ID</key><integer>13913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15261</integer>
 				</dict>
 			</array>
 		</dict>

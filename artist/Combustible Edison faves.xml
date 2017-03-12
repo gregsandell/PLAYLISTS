@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-17T05:31:23Z</date>
+	<key>Date</key><date>2017-03-12T07:30:57Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8660</key>
+		<key>8777</key>
 		<dict>
-			<key>Track ID</key><integer>8660</integer>
+			<key>Track ID</key><integer>8777</integer>
 			<key>Name</key><string>Cadillac</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>I, Swinger</string>
@@ -40,9 +40,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12088</key>
+		<key>11821</key>
 		<dict>
-			<key>Track ID</key><integer>12088</integer>
+			<key>Track ID</key><integer>11821</integer>
 			<key>Name</key><string>Vertigogo</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -64,9 +64,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12090</key>
+		<key>11823</key>
 		<dict>
-			<key>Track ID</key><integer>12090</integer>
+			<key>Track ID</key><integer>11823</integer>
 			<key>Name</key><string>vertigogo (opening theme)</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -91,9 +91,66 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12098</key>
+		<key>11825</key>
 		<dict>
-			<key>Track ID</key><integer>12098</integer>
+			<key>Track ID</key><integer>11825</integer>
+			<key>Name</key><string>the earthly diana</string>
+			<key>Artist</key><string>Combustible Edison</string>
+			<key>Album</key><string>Four Rooms (soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>931445</integer>
+			<key>Total Time</key><integer>35996</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2017-02-12T07:18:06Z</date>
+			<key>Date Added</key><date>2017-02-12T06:45:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3570171631</integer>
+			<key>Play Date UTC</key><date>2017-02-17T18:20:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>earthly diana</string>
+			<key>Persistent ID</key><string>96D9B42487858FA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Combustible%20Edison/1995%20-%20Four%20Rooms%20(soundtrack)/10%20-%20the%20earthly%20diana.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11827</key>
+		<dict>
+			<key>Track ID</key><integer>11827</integer>
+			<key>Name</key><string>four rooms swing</string>
+			<key>Artist</key><string>Combustible Edison</string>
+			<key>Album</key><string>Four Rooms (soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3218516</integer>
+			<key>Total Time</key><integer>131291</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2017-02-12T07:18:06Z</date>
+			<key>Date Added</key><date>2017-02-12T07:11:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3570008248</integer>
+			<key>Play Date UTC</key><date>2017-02-15T20:57:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE36D7DF2E73B71C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Combustible%20Edison/1995%20-%20Four%20Rooms%20(soundtrack)/03%20-%20%20four%20rooms%20swing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11829</key>
+		<dict>
+			<key>Track ID</key><integer>11829</integer>
 			<key>Name</key><string>bewitched</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -119,9 +176,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12100</key>
+		<key>11831</key>
 		<dict>
-			<key>Track ID</key><integer>12100</integer>
+			<key>Track ID</key><integer>11831</integer>
 			<key>Name</key><string>tea and eva in the elevator</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -147,9 +204,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12102</key>
+		<key>11833</key>
 		<dict>
-			<key>Track ID</key><integer>12102</integer>
+			<key>Track ID</key><integer>11833</integer>
 			<key>Name</key><string>coven of witches</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -172,9 +229,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12108</key>
+		<key>11835</key>
 		<dict>
-			<key>Track ID</key><integer>12108</integer>
+			<key>Track ID</key><integer>11835</integer>
 			<key>Name</key><string>headshake rhumba</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -200,9 +257,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12110</key>
+		<key>11837</key>
 		<dict>
-			<key>Track ID</key><integer>12110</integer>
+			<key>Track ID</key><integer>11837</integer>
 			<key>Name</key><string>skippen, pukin, sigfried</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -228,9 +285,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12112</key>
+		<key>11839</key>
 		<dict>
-			<key>Track ID</key><integer>12112</integer>
+			<key>Track ID</key><integer>11839</integer>
 			<key>Name</key><string>male bonding</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -253,9 +310,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12114</key>
+		<key>11841</key>
 		<dict>
-			<key>Track ID</key><integer>12114</integer>
+			<key>Track ID</key><integer>11841</integer>
 			<key>Name</key><string>kids watch t.v.</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -278,9 +335,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12120</key>
+		<key>11845</key>
 		<dict>
-			<key>Track ID</key><integer>12120</integer>
+			<key>Track ID</key><integer>11845</integer>
 			<key>Name</key><string>vertigogo (closing credits)</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Four Rooms (soundtrack)</string>
@@ -303,9 +360,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12122</key>
+		<key>11847</key>
 		<dict>
-			<key>Track ID</key><integer>12122</integer>
+			<key>Track ID</key><integer>11847</integer>
 			<key>Name</key><string>Alright Already</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -323,7 +380,6 @@
 			<key>Play Date UTC</key><date>2017-02-15T17:57:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Schizophonic!</string>
 			<key>Persistent ID</key><string>176A11184D8AF8F4</string>
@@ -332,9 +388,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12124</key>
+		<key>11849</key>
 		<dict>
-			<key>Track ID</key><integer>12124</integer>
+			<key>Track ID</key><integer>11849</integer>
 			<key>Name</key><string>Bluebeard</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -349,7 +405,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>94D267D7A6DEBF69</string>
 			<key>Track Type</key><string>File</string>
@@ -357,9 +412,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12126</key>
+		<key>11851</key>
 		<dict>
-			<key>Track ID</key><integer>12126</integer>
+			<key>Track ID</key><integer>11851</integer>
 			<key>Name</key><string>The Checkered Flag</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -374,7 +429,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Checkered Flag</string>
 			<key>Persistent ID</key><string>69137007F487C4E7</string>
@@ -383,9 +437,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12128</key>
+		<key>11853</key>
 		<dict>
-			<key>Track ID</key><integer>12128</integer>
+			<key>Track ID</key><integer>11853</integer>
 			<key>Name</key><string>Solid State</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -400,7 +454,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BFA5289B85E31E5</string>
 			<key>Track Type</key><string>File</string>
@@ -408,9 +461,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12132</key>
+		<key>11855</key>
 		<dict>
-			<key>Track ID</key><integer>12132</integer>
+			<key>Track ID</key><integer>11855</integer>
 			<key>Name</key><string>Short Double Latte</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -425,7 +478,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>94B82342D528A5C3</string>
 			<key>Track Type</key><string>File</string>
@@ -433,9 +485,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12134</key>
+		<key>11857</key>
 		<dict>
-			<key>Track ID</key><integer>12134</integer>
+			<key>Track ID</key><integer>11857</integer>
 			<key>Name</key><string>Mudhead</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -450,7 +502,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9D5344050BE63370</string>
 			<key>Track Type</key><string>File</string>
@@ -458,9 +509,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12136</key>
+		<key>11859</key>
 		<dict>
-			<key>Track ID</key><integer>12136</integer>
+			<key>Track ID</key><integer>11859</integer>
 			<key>Name</key><string>Morticia</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -475,7 +526,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F21CE38141A5C7EC</string>
 			<key>Track Type</key><string>File</string>
@@ -483,9 +533,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12138</key>
+		<key>11861</key>
 		<dict>
-			<key>Track ID</key><integer>12138</integer>
+			<key>Track ID</key><integer>11861</integer>
 			<key>Name</key><string>Objet D'Amour</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -502,7 +552,6 @@
 			<key>Skip Date</key><date>2017-02-14T16:22:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D4B00692EC225A88</string>
 			<key>Track Type</key><string>File</string>
@@ -510,9 +559,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12140</key>
+		<key>11863</key>
 		<dict>
-			<key>Track ID</key><integer>12140</integer>
+			<key>Track ID</key><integer>11863</integer>
 			<key>Name</key><string>The Corner Table</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>Schizophonic!</string>
@@ -532,7 +581,6 @@
 			<key>Skip Date</key><date>2017-02-14T17:03:24Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Corner Table</string>
 			<key>Persistent ID</key><string>9AFF689E3DC2BF46</string>
@@ -541,9 +589,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12142</key>
+		<key>11865</key>
 		<dict>
-			<key>Track ID</key><integer>12142</integer>
+			<key>Track ID</key><integer>11865</integer>
 			<key>Name</key><string>Guadaloupe</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>I, Swinger</string>
@@ -569,9 +617,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12144</key>
+		<key>11867</key>
 		<dict>
-			<key>Track ID</key><integer>12144</integer>
+			<key>Track ID</key><integer>11867</integer>
 			<key>Name</key><string>Impact!</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>I, Swinger</string>
@@ -597,9 +645,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12146</key>
+		<key>11869</key>
 		<dict>
-			<key>Track ID</key><integer>12146</integer>
+			<key>Track ID</key><integer>11869</integer>
 			<key>Name</key><string>Spy Vs. Spy</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>I, Swinger</string>
@@ -625,9 +673,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12148</key>
+		<key>11871</key>
 		<dict>
-			<key>Track ID</key><integer>12148</integer>
+			<key>Track ID</key><integer>11871</integer>
 			<key>Name</key><string>The Millionaire's Holiday</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>I, Swinger</string>
@@ -654,9 +702,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12152</key>
+		<key>11873</key>
 		<dict>
-			<key>Track ID</key><integer>12152</integer>
+			<key>Track ID</key><integer>11873</integer>
+			<key>Name</key><string>Blue Light</string>
+			<key>Artist</key><string>Combustible Edison</string>
+			<key>Album</key><string>(single)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3128885</integer>
+			<key>Total Time</key><integer>130194</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2017-02-12T07:16:40Z</date>
+			<key>Date Added</key><date>2017-02-12T07:11:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3570171785</integer>
+			<key>Play Date UTC</key><date>2017-02-17T18:23:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Album</key><string>single)</string>
+			<key>Persistent ID</key><string>E136C131EEDE56CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Combustible%20Edison/Singles/1993%20-%20Blue%20Light.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11875</key>
+		<dict>
+			<key>Track ID</key><integer>11875</integer>
 			<key>Name</key><string>Miniskirt (Esquivel)</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>(single)</string>
@@ -671,7 +746,6 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>single)</string>
 			<key>Persistent ID</key><string>7A9E9AA0C5A2A798</string>
 			<key>Track Type</key><string>File</string>
@@ -679,9 +753,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12154</key>
+		<key>11877</key>
 		<dict>
-			<key>Track ID</key><integer>12154</integer>
+			<key>Track ID</key><integer>11877</integer>
 			<key>Name</key><string>Cat O'Nine Tails</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>The Impossible World</string>
@@ -708,9 +782,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12156</key>
+		<key>11879</key>
 		<dict>
-			<key>Track ID</key><integer>12156</integer>
+			<key>Track ID</key><integer>11879</integer>
 			<key>Name</key><string>Hot And Bothered</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>The Impossible World</string>
@@ -737,9 +811,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12158</key>
+		<key>11881</key>
 		<dict>
-			<key>Track ID</key><integer>12158</integer>
+			<key>Track ID</key><integer>11881</integer>
 			<key>Name</key><string>Mr. Pushkin Came To Shove</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>The Impossible World</string>
@@ -766,9 +840,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12160</key>
+		<key>11883</key>
 		<dict>
-			<key>Track ID</key><integer>12160</integer>
+			<key>Track ID</key><integer>11883</integer>
 			<key>Name</key><string>Pink Victim</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>The Impossible World</string>
@@ -795,9 +869,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12162</key>
+		<key>11885</key>
 		<dict>
-			<key>Track ID</key><integer>12162</integer>
+			<key>Track ID</key><integer>11885</integer>
 			<key>Name</key><string>Tickled To Death</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>The Impossible World</string>
@@ -830,100 +904,109 @@
 		<dict>
 			<key>Name</key><string>Combustible Edison faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>25190</integer>
+			<key>Playlist ID</key><integer>32745</integer>
 			<key>Playlist Persistent ID</key><string>DD321FB21B32A22B</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12122</integer>
+					<key>Track ID</key><integer>8777</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12098</integer>
+					<key>Track ID</key><integer>11871</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12124</integer>
+					<key>Track ID</key><integer>11867</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8660</integer>
+					<key>Track ID</key><integer>11865</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12154</integer>
+					<key>Track ID</key><integer>11869</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12126</integer>
+					<key>Track ID</key><integer>11877</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12140</integer>
+					<key>Track ID</key><integer>11883</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12102</integer>
+					<key>Track ID</key><integer>11879</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12142</integer>
+					<key>Track ID</key><integer>11881</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12108</integer>
+					<key>Track ID</key><integer>11885</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12156</integer>
+					<key>Track ID</key><integer>11875</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12144</integer>
+					<key>Track ID</key><integer>11823</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12114</integer>
+					<key>Track ID</key><integer>11833</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12112</integer>
+					<key>Track ID</key><integer>11845</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12148</integer>
+					<key>Track ID</key><integer>11821</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12152</integer>
+					<key>Track ID</key><integer>11849</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12136</integer>
+					<key>Track ID</key><integer>11859</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12158</integer>
+					<key>Track ID</key><integer>11857</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12134</integer>
+					<key>Track ID</key><integer>11861</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12138</integer>
+					<key>Track ID</key><integer>11855</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12160</integer>
+					<key>Track ID</key><integer>11853</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12132</integer>
+					<key>Track ID</key><integer>11829</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12110</integer>
+					<key>Track ID</key><integer>11839</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12128</integer>
+					<key>Track ID</key><integer>11847</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12146</integer>
+					<key>Track ID</key><integer>11851</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12100</integer>
+					<key>Track ID</key><integer>11863</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12162</integer>
+					<key>Track ID</key><integer>11831</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12088</integer>
+					<key>Track ID</key><integer>11835</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12120</integer>
+					<key>Track ID</key><integer>11837</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12090</integer>
+					<key>Track ID</key><integer>11841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11873</integer>
 				</dict>
 			</array>
 		</dict>

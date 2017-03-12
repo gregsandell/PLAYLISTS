@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-03-03T05:19:24Z</date>
+	<key>Date</key><date>2017-03-12T07:27:44Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9815</key>
+		<key>9863</key>
 		<dict>
-			<key>Track ID</key><integer>9815</integer>
+			<key>Track ID</key><integer>9863</integer>
 			<key>Name</key><string>Take Me Out To The Ballgame</string>
 			<key>Artist</key><string>Steve Goodman</string>
 			<key>Album</key><string>Best Of The Land Of Nod Store Music - Volume 1</string>
@@ -41,9 +41,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9859</key>
+		<key>9907</key>
 		<dict>
-			<key>Track ID</key><integer>9859</integer>
+			<key>Track ID</key><integer>9907</integer>
 			<key>Name</key><string>Sweet Georgia Brown</string>
 			<key>Artist</key><string>Doc Watson &#38; David Grisman</string>
 			<key>Composer</key><string>Pinckard, Casey, Bernie</string>
@@ -63,6 +63,9 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T07:20:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1306</integer>
 			<key>Persistent ID</key><string>80B9C4478FB77AB7</string>
 			<key>Track Type</key><string>File</string>
@@ -70,9 +73,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10097</key>
+		<key>10139</key>
 		<dict>
-			<key>Track ID</key><integer>10097</integer>
+			<key>Track ID</key><integer>10139</integer>
 			<key>Name</key><string>Satin Doll</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -94,6 +97,9 @@
 			<key>Play Date UTC</key><date>2017-01-01T08:04:11Z</date>
 			<key>Skip Count</key><integer>4</integer>
 			<key>Skip Date</key><date>2017-02-01T16:41:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1159</integer>
 			<key>Persistent ID</key><string>55D66FFAA6C603D1</string>
 			<key>Track Type</key><string>File</string>
@@ -101,9 +107,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10099</key>
+		<key>10141</key>
 		<dict>
-			<key>Track ID</key><integer>10099</integer>
+			<key>Track ID</key><integer>10141</integer>
 			<key>Name</key><string>Where Oh Where Has My Little Love Gone</string>
 			<key>Artist</key><string>Pee Wee King</string>
 			<key>Album</key><string>Pee Wee King's Country Hoedown</string>
@@ -134,68 +140,73 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10101</key>
+		<key>10143</key>
 		<dict>
-			<key>Track ID</key><integer>10101</integer>
+			<key>Track ID</key><integer>10143</integer>
 			<key>Name</key><string>Cactus Swing</string>
 			<key>Artist</key><string>Sons Of The Pioneers</string>
 			<key>Album</key><string>Symphonies Of The Sage</string>
 			<key>Genre</key><string>Texas Swing</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>2623796</integer>
+			<key>Size</key><integer>2682779</integer>
 			<key>Total Time</key><integer>128590</integer>
 			<key>Track Number</key><integer>21</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2012-06-19T02:57:46Z</date>
+			<key>Date Modified</key><date>2017-03-11T16:15:34Z</date>
 			<key>Date Added</key><date>2017-02-02T03:48:03Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3418635503</integer>
-			<key>Play Date UTC</key><date>2012-04-30T19:58:23Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572024124</integer>
+			<key>Play Date UTC</key><date>2017-03-11T04:55:24Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T07:42:38Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3519</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>658E5E1A5951F9C2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sons%20Of%20The%20Pioneers/Symphonies%20Of%20The%20Sage/Cactus%20Swing.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10103</key>
+		<key>10145</key>
 		<dict>
-			<key>Track ID</key><integer>10103</integer>
+			<key>Track ID</key><integer>10145</integer>
 			<key>Name</key><string>Swingin' The Bow</string>
 			<key>Artist</key><string>Sons Of The Pioneers</string>
 			<key>Album</key><string>Symphonies Of The Sage</string>
 			<key>Genre</key><string>Texas Swing</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>2550421</integer>
+			<key>Size</key><integer>2609404</integer>
 			<key>Total Time</key><integer>124921</integer>
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>25</integer>
-			<key>Date Modified</key><date>2012-06-19T02:57:46Z</date>
+			<key>Date Modified</key><date>2017-03-11T16:15:36Z</date>
 			<key>Date Added</key><date>2017-02-02T03:48:03Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2017-02-01T08:49:43Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572065289</integer>
+			<key>Play Date UTC</key><date>2017-03-11T16:21:29Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-03-11T16:13:52Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1398</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F5660A4A9D1016AA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sons%20Of%20The%20Pioneers/Symphonies%20Of%20The%20Sage/Swingin'%20The%20Bow.m4a</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10105</key>
+		<key>10147</key>
 		<dict>
-			<key>Track ID</key><integer>10105</integer>
+			<key>Track ID</key><integer>10147</integer>
 			<key>Name</key><string>Anything Goes</string>
 			<key>Artist</key><string>David Grisman</string>
 			<key>Album</key><string>Tone Poems 2 with Martin Taylor</string>
@@ -209,6 +220,9 @@
 			<key>Date Added</key><date>2017-02-02T03:48:03Z</date>
 			<key>Bit Rate</key><integer>191</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>596</integer>
 			<key>Persistent ID</key><string>AC559311E435C737</string>
 			<key>Track Type</key><string>File</string>
@@ -216,9 +230,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10107</key>
+		<key>10149</key>
 		<dict>
-			<key>Track ID</key><integer>10107</integer>
+			<key>Track ID</key><integer>10149</integer>
 			<key>Name</key><string>Medly: A) Tzigani / B) Fisztorza / C) Fulginiti</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -237,6 +251,9 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T09:01:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1266</integer>
 			<key>Persistent ID</key><string>D2DC1D2EFD410A53</string>
 			<key>Track Type</key><string>File</string>
@@ -244,9 +261,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10109</key>
+		<key>10151</key>
 		<dict>
-			<key>Track ID</key><integer>10109</integer>
+			<key>Track ID</key><integer>10151</integer>
 			<key>Name</key><string>Pent-Up House</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -263,8 +280,11 @@
 			<key>Date Added</key><date>2017-02-02T03:48:03Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-01T08:40:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-03-11T04:53:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1404</integer>
 			<key>Persistent ID</key><string>0E44D96257CAA8A9</string>
 			<key>Track Type</key><string>File</string>
@@ -272,9 +292,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10111</key>
+		<key>10153</key>
 		<dict>
-			<key>Track ID</key><integer>10111</integer>
+			<key>Track ID</key><integer>10153</integer>
 			<key>Name</key><string>Shine</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -291,6 +311,9 @@
 			<key>Date Added</key><date>2017-02-02T03:48:03Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1324</integer>
 			<key>Persistent ID</key><string>7DD3FF7AF1AA4664</string>
 			<key>Track Type</key><string>File</string>
@@ -298,9 +321,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10113</key>
+		<key>10155</key>
 		<dict>
-			<key>Track ID</key><integer>10113</integer>
+			<key>Track ID</key><integer>10155</integer>
 			<key>Name</key><string>Sweet Georgia Brown</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -319,6 +342,9 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2017-02-01T09:01:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>950</integer>
 			<key>Persistent ID</key><string>58390134528A6D78</string>
 			<key>Track Type</key><string>File</string>
@@ -326,9 +352,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10115</key>
+		<key>10157</key>
 		<dict>
-			<key>Track ID</key><integer>10115</integer>
+			<key>Track ID</key><integer>10157</integer>
 			<key>Name</key><string>Swing '42</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -347,6 +373,9 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T08:53:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1478</integer>
 			<key>Persistent ID</key><string>7B39045289F250EE</string>
 			<key>Track Type</key><string>File</string>
@@ -354,9 +383,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10117</key>
+		<key>10159</key>
 		<dict>
-			<key>Track ID</key><integer>10117</integer>
+			<key>Track ID</key><integer>10159</integer>
 			<key>Name</key><string>Tiger Rag (Hold That Tiger)</string>
 			<key>Artist</key><string>David Grisman &#38; Stephane Grappelli</string>
 			<key>Album</key><string>David Grisman &#38; Stephane Grappelli Live</string>
@@ -375,6 +404,9 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T08:44:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1593</integer>
 			<key>Persistent ID</key><string>148A8DE01BF362ED</string>
 			<key>Track Type</key><string>File</string>
@@ -382,9 +414,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11157</key>
+		<key>11199</key>
 		<dict>
-			<key>Track ID</key><integer>11157</integer>
+			<key>Track ID</key><integer>11199</integer>
 			<key>Name</key><string>Payday Blues</string>
 			<key>Artist</key><string>Dan Hicks &#38; the Hot Licks</string>
 			<key>Album</key><string>Last Train to Hicksville</string>
@@ -411,9 +443,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11159</key>
+		<key>11201</key>
 		<dict>
-			<key>Track ID</key><integer>11159</integer>
+			<key>Track ID</key><integer>11201</integer>
 			<key>Name</key><string>Sure Beats Me</string>
 			<key>Artist</key><string>Dan Hicks &#38; the Hot Licks</string>
 			<key>Album</key><string>Last Train to Hicksville</string>
@@ -441,9 +473,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11163</key>
+		<key>11205</key>
 		<dict>
-			<key>Track ID</key><integer>11163</integer>
+			<key>Track ID</key><integer>11205</integer>
 			<key>Name</key><string>'Long Come A Viper</string>
 			<key>Artist</key><string>Dan Hicks &#38; the Hot Licks</string>
 			<key>Album</key><string>Last Train to Hicksville</string>
@@ -468,9 +500,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11323</key>
+		<key>11365</key>
 		<dict>
-			<key>Track ID</key><integer>11323</integer>
+			<key>Track ID</key><integer>11365</integer>
 			<key>Name</key><string>Coast to Coast</string>
 			<key>Artist</key><string>Dan Hicks and The Hot Licks</string>
 			<key>Album</key><string>Where's the Money?</string>
@@ -493,9 +525,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11331</key>
+		<key>11373</key>
 		<dict>
-			<key>Track ID</key><integer>11331</integer>
+			<key>Track ID</key><integer>11373</integer>
 			<key>Name</key><string>Shorty Falls in Love</string>
 			<key>Artist</key><string>Dan Hicks and The Hot Licks</string>
 			<key>Album</key><string>Where's the Money?</string>
@@ -518,9 +550,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11365</key>
+		<key>11407</key>
 		<dict>
-			<key>Track ID</key><integer>11365</integer>
+			<key>Track ID</key><integer>11407</integer>
 			<key>Name</key><string>Shorty Falls In Love</string>
 			<key>Artist</key><string>Dan Hicks</string>
 			<key>Album</key><string>1971-07-04 KSAN Studios</string>
@@ -547,9 +579,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11367</key>
+		<key>11409</key>
 		<dict>
-			<key>Track ID</key><integer>11367</integer>
+			<key>Track ID</key><integer>11409</integer>
 			<key>Name</key><string>Lonely Madman</string>
 			<key>Artist</key><string>Dan Hicks</string>
 			<key>Album</key><string>Last Train To Hicksville</string>
@@ -577,9 +609,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11373</key>
+		<key>11415</key>
 		<dict>
-			<key>Track ID</key><integer>11373</integer>
+			<key>Track ID</key><integer>11415</integer>
 			<key>Name</key><string>Sure Beats Me</string>
 			<key>Artist</key><string>Dan Hicks</string>
 			<key>Album</key><string>Last Train To Hicksville</string>
@@ -607,9 +639,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11377</key>
+		<key>11419</key>
 		<dict>
-			<key>Track ID</key><integer>11377</integer>
+			<key>Track ID</key><integer>11419</integer>
 			<key>Name</key><string>'Long Come A Viper</string>
 			<key>Artist</key><string>Dan Hicks</string>
 			<key>Album</key><string>Last Train To Hicksville</string>
@@ -637,9 +669,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11393</key>
+		<key>11435</key>
 		<dict>
-			<key>Track ID</key><integer>11393</integer>
+			<key>Track ID</key><integer>11435</integer>
 			<key>Name</key><string>Gone With The Wind</string>
 			<key>Artist</key><string>Dan Hicks</string>
 			<key>Album</key><string>It Happened One Bite</string>
@@ -663,9 +695,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11407</key>
+		<key>11449</key>
 		<dict>
-			<key>Track ID</key><integer>11407</integer>
+			<key>Track ID</key><integer>11449</integer>
 			<key>Name</key><string>Willie</string>
 			<key>Artist</key><string>Dan Hicks &#38; The Acoustic Warriors</string>
 			<key>Album</key><string>Shootin' Straight</string>
@@ -691,9 +723,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11411</key>
+		<key>11453</key>
 		<dict>
-			<key>Track ID</key><integer>11411</integer>
+			<key>Track ID</key><integer>11453</integer>
 			<key>Name</key><string>13-D</string>
 			<key>Artist</key><string>Dan Hicks &#38; The Acoustic Warriors</string>
 			<key>Album</key><string>Shootin' Straight</string>
@@ -716,9 +748,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11423</key>
+		<key>11465</key>
 		<dict>
-			<key>Track ID</key><integer>11423</integer>
+			<key>Track ID</key><integer>11465</integer>
 			<key>Name</key><string>I Feel Like Singing</string>
 			<key>Artist</key><string>Dan Hicks and The Hot Licks</string>
 			<key>Album</key><string>Return To Hicksville: The Best of Dan Hicks and his Hot Licks</string>
@@ -746,9 +778,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11651</key>
+		<key>11693</key>
 		<dict>
-			<key>Track ID</key><integer>11651</integer>
+			<key>Track ID</key><integer>11693</integer>
 			<key>Name</key><string>Hot Lunch</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Hot Lunch</string>
@@ -772,9 +804,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11655</key>
+		<key>11697</key>
 		<dict>
-			<key>Track ID</key><integer>11655</integer>
+			<key>Track ID</key><integer>11697</integer>
 			<key>Name</key><string>A Smo-o-oth One</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Hot Lunch</string>
@@ -799,9 +831,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11657</key>
+		<key>11699</key>
 		<dict>
-			<key>Track ID</key><integer>11657</integer>
+			<key>Track ID</key><integer>11699</integer>
 			<key>Name</key><string>Bijou</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Hot Lunch</string>
@@ -825,9 +857,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11661</key>
+		<key>11703</key>
 		<dict>
-			<key>Track ID</key><integer>11661</integer>
+			<key>Track ID</key><integer>11703</integer>
 			<key>Name</key><string>New Jazz Fiddle</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Hot Lunch</string>
@@ -851,9 +883,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14057</key>
+		<key>13875</key>
 		<dict>
-			<key>Track ID</key><integer>14057</integer>
+			<key>Track ID</key><integer>13875</integer>
 			<key>Name</key><string>15 - This Is Southland</string>
 			<key>Artist</key><string>Bob Wills &#38; His Texas Playboys</string>
 			<key>Album</key><string>San Antonio Rose [Box Set][CD11]</string>
@@ -880,9 +912,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14059</key>
+		<key>13877</key>
 		<dict>
-			<key>Track ID</key><integer>14059</integer>
+			<key>Track ID</key><integer>13877</integer>
 			<key>Name</key><string>16 - Punkin' Stomp</string>
 			<key>Artist</key><string>Bob Wills &#38; His Texas Playboys</string>
 			<key>Album</key><string>San Antonio Rose [Box Set][CD11]</string>
@@ -912,115 +944,139 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>14911</key>
+		<dict>
+			<key>Track ID</key><integer>14911</integer>
+			<key>Name</key><string>12 - Mr. Freddie</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Howlin' at the Moon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9458812</integer>
+			<key>Total Time</key><integer>390896</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-03-04T06:49:57Z</date>
+			<key>Date Added</key><date>2017-03-04T06:48:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>762127197F40BBB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/1999%20-%20Howlin'%20at%20the%20Moon/Sam%20Bush%20-%2012%20-%20Mr.%20Freddie.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Bluegrass Jazz</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>31817</integer>
+			<key>Playlist ID</key><integer>32299</integer>
 			<key>Playlist Persistent ID</key><string>52D05FEC35E4CAAA</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10097</integer>
+					<key>Track ID</key><integer>10139</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9859</integer>
+					<key>Track ID</key><integer>9907</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10107</integer>
+					<key>Track ID</key><integer>10149</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10109</integer>
+					<key>Track ID</key><integer>10151</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10111</integer>
+					<key>Track ID</key><integer>10153</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10113</integer>
+					<key>Track ID</key><integer>10155</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10115</integer>
+					<key>Track ID</key><integer>10157</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10117</integer>
+					<key>Track ID</key><integer>10159</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10103</integer>
+					<key>Track ID</key><integer>10145</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10105</integer>
+					<key>Track ID</key><integer>10147</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10101</integer>
+					<key>Track ID</key><integer>10143</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10099</integer>
+					<key>Track ID</key><integer>10141</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11157</integer>
+					<key>Track ID</key><integer>11199</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11159</integer>
+					<key>Track ID</key><integer>11201</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11163</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11365</integer>
+					<key>Track ID</key><integer>11205</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>11407</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11411</integer>
+					<key>Track ID</key><integer>11449</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11393</integer>
+					<key>Track ID</key><integer>11453</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11367</integer>
+					<key>Track ID</key><integer>11435</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11651</integer>
+					<key>Track ID</key><integer>11409</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11655</integer>
+					<key>Track ID</key><integer>11693</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11657</integer>
+					<key>Track ID</key><integer>11697</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11323</integer>
+					<key>Track ID</key><integer>11699</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11661</integer>
+					<key>Track ID</key><integer>11365</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11331</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11423</integer>
+					<key>Track ID</key><integer>11703</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>11373</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11377</integer>
+					<key>Track ID</key><integer>11465</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14057</integer>
+					<key>Track ID</key><integer>11415</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14059</integer>
+					<key>Track ID</key><integer>11419</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14059</integer>
+					<key>Track ID</key><integer>13875</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9815</integer>
+					<key>Track ID</key><integer>13877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14911</integer>
 				</dict>
 			</array>
 		</dict>

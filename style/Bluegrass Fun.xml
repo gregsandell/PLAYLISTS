@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-17T05:28:27Z</date>
+	<key>Date</key><date>2017-03-12T07:27:35Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7374</key>
+		<key>7537</key>
 		<dict>
-			<key>Track ID</key><integer>7374</integer>
+			<key>Track ID</key><integer>7537</integer>
 			<key>Name</key><string>Jingle Bells</string>
 			<key>Artist</key><string>Earl Scruggs</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -37,6 +37,7 @@
 			<key>Play Date UTC</key><date>2016-12-26T02:23:59Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2016-12-12T09:04:28Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2063</integer>
@@ -48,9 +49,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8972</key>
+		<key>8437</key>
 		<dict>
-			<key>Track ID</key><integer>8972</integer>
+			<key>Track ID</key><integer>8437</integer>
+			<key>Name</key><string>Lucky Streak</string>
+			<key>Artist</key><string>Steep Canyon Rangers</string>
+			<key>Album</key><string>Steep Canyon Rangers</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3086502</integer>
+			<key>Total Time</key><integer>154597</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-03-19T22:49:10Z</date>
+			<key>Date Added</key><date>2017-01-02T07:26:40Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4130</integer>
+			<key>Persistent ID</key><string>001A286FA559398C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Steep%20Canyon%20Rangers/Steep%20Canyon%20Rangers/Lucky%20Streak.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9087</key>
+		<dict>
+			<key>Track ID</key><integer>9087</integer>
 			<key>Name</key><string>Cotton-Eyed Joe</string>
 			<key>Artist</key><string>The Chieftains</string>
 			<key>Album</key><string>Another Country</string>
@@ -78,9 +108,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9008</key>
+		<key>9123</key>
 		<dict>
-			<key>Track ID</key><integer>9008</integer>
+			<key>Track ID</key><integer>9123</integer>
 			<key>Name</key><string>Wild Horses</string>
 			<key>Artist</key><string>BlackHawk</string>
 			<key>Album</key><string>Stone Country: Country Artists Perform the Songs of the Rolling Stones</string>
@@ -108,9 +138,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9114</key>
+		<key>9229</key>
 		<dict>
-			<key>Track ID</key><integer>9114</integer>
+			<key>Track ID</key><integer>9229</integer>
 			<key>Name</key><string>Sunny Side Of The Mountain</string>
 			<key>Artist</key><string>Bill Monroe</string>
 			<key>Album Artist</key><string>Bill Monroe</string>
@@ -132,15 +162,18 @@
 			<key>Play Date UTC</key><date>2012-11-23T13:41:36Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2017-02-01T19:09:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>AC2B4DB1C6D317DA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/Bean%20Blossom/Sunny%20Side%20Of%20The%20Mountain.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9116</key>
+		<key>9231</key>
 		<dict>
-			<key>Track ID</key><integer>9116</integer>
+			<key>Track ID</key><integer>9231</integer>
 			<key>Name</key><string>Uncle Pen</string>
 			<key>Artist</key><string>Bill Monroe</string>
 			<key>Album</key><string>Bean Blossom</string>
@@ -158,6 +191,9 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3446295970</integer>
 			<key>Play Date UTC</key><date>2013-03-16T23:26:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1926</integer>
 			<key>Persistent ID</key><string>E658CA208D7F44F8</string>
 			<key>Track Type</key><string>File</string>
@@ -165,9 +201,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9488</key>
+		<key>9565</key>
 		<dict>
-			<key>Track ID</key><integer>9488</integer>
+			<key>Track ID</key><integer>9565</integer>
 			<key>Name</key><string>Rocket Man</string>
 			<key>Artist</key><string>Iron Horse</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -179,6 +215,9 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T19:06:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Iron Horse</string>
 			<key>Sort Name</key><string>Rocket Man</string>
 			<key>Persistent ID</key><string>D1B362E600DEFF2F</string>
@@ -187,9 +226,9 @@
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9528</key>
+		<key>9603</key>
 		<dict>
-			<key>Track ID</key><integer>9528</integer>
+			<key>Track ID</key><integer>9603</integer>
 			<key>Name</key><string>Twelfth Street Rag</string>
 			<key>Artist</key><string>Don Reno And Arthur Smith</string>
 			<key>Album</key><string>Original Dueling Banjos</string>
@@ -218,9 +257,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9548</key>
+		<key>9623</key>
 		<dict>
-			<key>Track ID</key><integer>9548</integer>
+			<key>Track ID</key><integer>9623</integer>
 			<key>Name</key><string>Hit Parade Of Love</string>
 			<key>Artist</key><string>Bill Monroe</string>
 			<key>Album</key><string>Bean Blossom</string>
@@ -241,6 +280,8 @@
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2017-02-01T19:17:40Z</date>
 			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3333</integer>
 			<key>Persistent ID</key><string>5F0E32734B437283</string>
 			<key>Track Type</key><string>File</string>
@@ -248,9 +289,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9552</key>
+		<key>9627</key>
 		<dict>
-			<key>Track ID</key><integer>9552</integer>
+			<key>Track ID</key><integer>9627</integer>
 			<key>Name</key><string>Ole Slew-Foot</string>
 			<key>Artist</key><string>Bill Monroe</string>
 			<key>Album Artist</key><string>Bill Monroe</string>
@@ -274,15 +315,17 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T19:05:43Z</date>
 			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>58A6CD35055ED65D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/Bean%20Blossom/Ole%20Slew-Foot.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9582</key>
+		<key>9657</key>
 		<dict>
-			<key>Track ID</key><integer>9582</integer>
+			<key>Track ID</key><integer>9657</integer>
 			<key>Name</key><string>Little Birdie</string>
 			<key>Artist</key><string>Jim &#38; Jennie And The Pinetops</string>
 			<key>Album</key><string>Little Birdie</string>
@@ -311,9 +354,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9590</key>
+		<key>9665</key>
 		<dict>
-			<key>Track ID</key><integer>9590</integer>
+			<key>Track ID</key><integer>9665</integer>
 			<key>Name</key><string>The Old Wood Mill</string>
 			<key>Artist</key><string>Jim &#38; Jennie And The Pinetops</string>
 			<key>Album</key><string>Little Birdie</string>
@@ -343,9 +386,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9596</key>
+		<key>9671</key>
 		<dict>
-			<key>Track ID</key><integer>9596</integer>
+			<key>Track ID</key><integer>9671</integer>
 			<key>Name</key><string>Dark Hollow</string>
 			<key>Artist</key><string>Muleskinner</string>
 			<key>Album</key><string>Potpourri Of Bluegrass Jam</string>
@@ -374,9 +417,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9616</key>
+		<key>9691</key>
 		<dict>
-			<key>Track ID</key><integer>9616</integer>
+			<key>Track ID</key><integer>9691</integer>
 			<key>Name</key><string>'Til The End Of The World Rolls 'Round</string>
 			<key>Artist</key><string>Old &#38; In The Way</string>
 			<key>Album</key><string>Breakdown</string>
@@ -407,9 +450,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9624</key>
+		<key>9699</key>
 		<dict>
-			<key>Track ID</key><integer>9624</integer>
+			<key>Track ID</key><integer>9699</integer>
 			<key>Name</key><string>Home Is Where The Heart Is</string>
 			<key>Artist</key><string>Old &#38; In The Way</string>
 			<key>Album</key><string>Breakdown</string>
@@ -440,9 +483,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9666</key>
+		<key>9741</key>
 		<dict>
-			<key>Track ID</key><integer>9666</integer>
+			<key>Track ID</key><integer>9741</integer>
 			<key>Name</key><string>Orange Blossom Special</string>
 			<key>Artist</key><string>Old &#38; In The Way</string>
 			<key>Album</key><string>That High Lonesome Sound (Live)</string>
@@ -470,9 +513,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9794</key>
+		<key>9863</key>
 		<dict>
-			<key>Track ID</key><integer>9794</integer>
+			<key>Track ID</key><integer>9863</integer>
 			<key>Name</key><string>Take Me Out To The Ballgame</string>
 			<key>Artist</key><string>Steve Goodman</string>
 			<key>Album</key><string>Best Of The Land Of Nod Store Music - Volume 1</string>
@@ -489,6 +532,8 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T07:11:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>1262</integer>
 			<key>Compilation</key><true/>
 			<key>Persistent ID</key><string>7833DA23C4752720</string>
@@ -497,9 +542,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10092</key>
+		<key>10127</key>
 		<dict>
-			<key>Track ID</key><integer>10092</integer>
+			<key>Track ID</key><integer>10127</integer>
 			<key>Name</key><string>Black Mountain Rag</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -529,9 +574,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10094</key>
+		<key>10129</key>
 		<dict>
-			<key>Track ID</key><integer>10094</integer>
+			<key>Track ID</key><integer>10129</integer>
 			<key>Name</key><string>My Walkin' Shoes</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -559,9 +604,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10096</key>
+		<key>10131</key>
 		<dict>
-			<key>Track ID</key><integer>10096</integer>
+			<key>Track ID</key><integer>10131</integer>
 			<key>Name</key><string>Orange Blosson Special</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -591,9 +636,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10098</key>
+		<key>10133</key>
 		<dict>
-			<key>Track ID</key><integer>10098</integer>
+			<key>Track ID</key><integer>10133</integer>
 			<key>Name</key><string>Will The Circle Be Unbroken</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -624,9 +669,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10100</key>
+		<key>10135</key>
 		<dict>
-			<key>Track ID</key><integer>10100</integer>
+			<key>Track ID</key><integer>10135</integer>
 			<key>Name</key><string>Turkey in the Straw</string>
 			<key>Artist</key><string>The Bottle Let Me Down</string>
 			<key>Album</key><string>The Bottle Let Me Down</string>
@@ -644,8 +689,8 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3430473589</integer>
 			<key>Play Date UTC</key><date>2012-09-14T20:19:49Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-02-01T20:55:39Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-02-24T02:22:24Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -658,9 +703,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10102</key>
+		<key>10137</key>
 		<dict>
-			<key>Track ID</key><integer>10102</integer>
+			<key>Track ID</key><integer>10137</integer>
 			<key>Name</key><string>I Shall Not Be Moved</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>Division Street</string>
@@ -687,82 +732,515 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>14399</key>
+		<dict>
+			<key>Track ID</key><integer>14399</integer>
+			<key>Name</key><string>Bringing In The Georgia Mail</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Laps In Seven</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9622323</integer>
+			<key>Total Time</key><integer>237871</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-02-27T06:44:12Z</date>
+			<key>Date Added</key><date>2017-02-27T06:43:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32E14C0C1CEBC656</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2006%20-%20Laps%20In%20Seven/02%20-%20Bringing%20In%20The%20Georgia%20Mail.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14433</key>
+		<dict>
+			<key>Track ID</key><integer>14433</integer>
+			<key>Name</key><string>Roll On Buddy, Roll On</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Circles Around Me</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6518350</integer>
+			<key>Total Time</key><integer>161253</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-02-27T06:49:05Z</date>
+			<key>Date Added</key><date>2017-02-27T06:48:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3571932382</integer>
+			<key>Play Date UTC</key><date>2017-03-10T03:26:22Z</date>
+			<key>Release Date</key><date>2009-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7D6E5E169F73376</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2009%20-%20Circles%20Around%20Me/05%20-%20Roll%20On%20Buddy,%20Roll%20On.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14437</key>
+		<dict>
+			<key>Track ID</key><integer>14437</integer>
+			<key>Name</key><string>Blue Mountain</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Circles Around Me</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14834684</integer>
+			<key>Total Time</key><integer>369162</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-02-27T06:49:06Z</date>
+			<key>Date Added</key><date>2017-02-27T06:48:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571837699</integer>
+			<key>Play Date UTC</key><date>2017-03-09T01:08:19Z</date>
+			<key>Release Date</key><date>2009-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F18889DD0451AB28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2009%20-%20Circles%20Around%20Me/07%20-%20Blue%20Mountain.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14813</key>
+		<dict>
+			<key>Track ID</key><integer>14813</integer>
+			<key>Name</key><string>01 - Puppies 'N Knapsacks</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>King of My World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4529165</integer>
+			<key>Total Time</key><integer>187480</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2017-03-10T03:18:54Z</date>
+			<key>Date Added</key><date>2017-03-04T00:10:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571932122</integer>
+			<key>Play Date UTC</key><date>2017-03-10T03:22:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>King of My World</string>
+			<key>Persistent ID</key><string>90BCA0637302E75A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2004%20-%20King%20of%20My%20World/Sam%20Bush%20-%2001%20-%20Puppies%20'N%20Knapsacks.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14839</key>
+		<dict>
+			<key>Track ID</key><integer>14839</integer>
+			<key>Name</key><string>04 - Greenbrier</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Storyman</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7131135</integer>
+			<key>Total Time</key><integer>288496</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-03-04T00:15:55Z</date>
+			<key>Date Added</key><date>2017-03-04T00:10:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD16CB3CD7AE2261</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2016%20-%20Storyman/Sam%20Bush%20-%2004%20-%20Greenbrier.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14867</key>
+		<dict>
+			<key>Track ID</key><integer>14867</integer>
+			<key>Name</key><string>01 - Hartford's Real</string>
+			<key>Artist</key><string>Sam Bush &#38; David Grisman</string>
+			<key>Album</key><string>Hold On, We're Strummin'</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8780641</integer>
+			<key>Total Time</key><integer>361142</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-03-04T06:30:45Z</date>
+			<key>Date Added</key><date>2017-03-04T06:27:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3571832193</integer>
+			<key>Play Date UTC</key><date>2017-03-08T23:36:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B37EF64F60EF585</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush%20&#38;%20David%20Grisman/2003%20-%20Hold%20On,%20We're%20Strummin'/Sam%20Bush%20&#38;%20David%20Grisman%20-%2001%20-%20Hartford's%20Real.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14879</key>
+		<dict>
+			<key>Track ID</key><integer>14879</integer>
+			<key>Name</key><string>09 - Crusher And Hoss</string>
+			<key>Artist</key><string>Sam Bush &#38; David Grisman</string>
+			<key>Album</key><string>Hold On, We're Strummin'</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4402102</integer>
+			<key>Total Time</key><integer>178703</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-03-04T06:30:47Z</date>
+			<key>Date Added</key><date>2017-03-04T06:27:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571832546</integer>
+			<key>Play Date UTC</key><date>2017-03-08T23:42:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>135E3140873EBCEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush%20&#38;%20David%20Grisman/2003%20-%20Hold%20On,%20We're%20Strummin'/Sam%20Bush%20&#38;%20David%20Grisman%20-%2009%20-%20Crusher%20And%20Hoss.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14883</key>
+		<dict>
+			<key>Track ID</key><integer>14883</integer>
+			<key>Name</key><string>12 - Ralph's Banjo Special</string>
+			<key>Artist</key><string>Sam Bush &#38; David Grisman</string>
+			<key>Album</key><string>Hold On, We're Strummin'</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4549437</integer>
+			<key>Total Time</key><integer>184842</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-03-04T06:30:47Z</date>
+			<key>Date Added</key><date>2017-03-04T06:27:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>115BE6985A4AE1C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush%20&#38;%20David%20Grisman/2003%20-%20Hold%20On,%20We're%20Strummin'/Sam%20Bush%20&#38;%20David%20Grisman%20-%2012%20-%20Ralph's%20Banjo%20Special.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14893</key>
+		<dict>
+			<key>Track ID</key><integer>14893</integer>
+			<key>Name</key><string>02 - Howlin' At The Moon</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Howlin' at the Moon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4378109</integer>
+			<key>Total Time</key><integer>179200</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2017-03-04T06:49:55Z</date>
+			<key>Date Added</key><date>2017-03-04T06:48:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3571632538</integer>
+			<key>Play Date UTC</key><date>2017-03-06T16:08:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3A45098D32520A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/1999%20-%20Howlin'%20at%20the%20Moon/Sam%20Bush%20-%2002%20-%20Howlin'%20At%20The%20Moon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15097</key>
+		<dict>
+			<key>Track ID</key><integer>15097</integer>
+			<key>Name</key><string>03 - Big Mon</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Ice Caps: Peaks Of Telluride</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3418309</integer>
+			<key>Total Time</key><integer>140460</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-03-06T06:02:55Z</date>
+			<key>Date Added</key><date>2017-03-06T06:02:01Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571634406</integer>
+			<key>Play Date UTC</key><date>2017-03-06T16:40:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BAC0C8BCA94F4EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2000%20-%20Ice%20Caps-%20Peaks%20Of%20Telluride/Sam%20Bush%20-%2003%20-%20Big%20Mon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15109</key>
+		<dict>
+			<key>Track ID</key><integer>15109</integer>
+			<key>Name</key><string>09 - Lee Highway Blues</string>
+			<key>Artist</key><string>Sam Bush</string>
+			<key>Album</key><string>Ice Caps: Peaks Of Telluride</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3806395</integer>
+			<key>Total Time</key><integer>156630</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-03-06T06:02:57Z</date>
+			<key>Date Added</key><date>2017-03-06T06:02:01Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3571734311</integer>
+			<key>Play Date UTC</key><date>2017-03-07T20:25:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-06T18:18:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>284EF445FB6E328F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sam%20Bush/2000%20-%20Ice%20Caps-%20Peaks%20Of%20Telluride/Sam%20Bush%20-%2009%20-%20Lee%20Highway%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15119</key>
+		<dict>
+			<key>Track ID</key><integer>15119</integer>
+			<key>Name</key><string>Old Joe Clark</string>
+			<key>Artist</key><string>Ensemble, Del McCoury</string>
+			<key>Album</key><string>Bluegrass Mandolin Extravaganza</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12662219</integer>
+			<key>Total Time</key><integer>314174</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2017-03-06T06:16:10Z</date>
+			<key>Date Added</key><date>2017-03-06T06:15:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CA9A01B0D7BBB43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bluegrass%20Mandolin%20Extravaganza/02%20-%20Old%20Joe%20Clark%20-%20Ensemble,%20Del%20McCoury.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15123</key>
+		<dict>
+			<key>Track ID</key><integer>15123</integer>
+			<key>Name</key><string>I'm Going Back To Old Kentucky</string>
+			<key>Artist</key><string>Sam Bush, Del McCoury</string>
+			<key>Album</key><string>Bluegrass Mandolin Extravaganza</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3865240</integer>
+			<key>Total Time</key><integer>94249</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2017-03-06T06:16:11Z</date>
+			<key>Date Added</key><date>2017-03-06T06:15:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3571662017</integer>
+			<key>Play Date UTC</key><date>2017-03-07T00:20:17Z</date>
+			<key>Release Date</key><date>1999-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B40CF3A83BC8721</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bluegrass%20Mandolin%20Extravaganza/05%20-%20I'm%20Going%20Back%20To%20Old%20Kentucky%20-%20Sam%20Bush,%20Del%20McCoury.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15135</key>
+		<dict>
+			<key>Track ID</key><integer>15135</integer>
+			<key>Name</key><string>Boston Boy</string>
+			<key>Artist</key><string>Ricky Skaggs, David Grisman, Ronnie McCoury</string>
+			<key>Album</key><string>Bluegrass Mandolin Extravaganza</string>
+			<key>Genre</key><string>Bluegrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7451300</integer>
+			<key>Total Time</key><integer>183902</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2017-03-06T06:16:18Z</date>
+			<key>Date Added</key><date>2017-03-06T06:15:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>208352662A64A388</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bluegrass%20Mandolin%20Extravaganza/31%20-%20Boston%20Boy%20-%20Ricky%20Skaggs,%20David%20Grisman,%20Ronnie%20McCoury.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Bluegrass Fun</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>24971</integer>
-			<key>Playlist Persistent ID</key><string>F19735182D96681B</string>
+			<key>Playlist ID</key><integer>32258</integer>
+			<key>Playlist Persistent ID</key><string>FA87E49F595EEC9C</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10092</integer>
+					<key>Track ID</key><integer>10127</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8972</integer>
+					<key>Track ID</key><integer>9087</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9596</integer>
+					<key>Track ID</key><integer>9671</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9548</integer>
+					<key>Track ID</key><integer>9623</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9624</integer>
+					<key>Track ID</key><integer>9699</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10102</integer>
+					<key>Track ID</key><integer>10137</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7374</integer>
+					<key>Track ID</key><integer>7537</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9582</integer>
+					<key>Track ID</key><integer>9657</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10094</integer>
+					<key>Track ID</key><integer>10129</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9590</integer>
+					<key>Track ID</key><integer>9665</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9552</integer>
+					<key>Track ID</key><integer>9627</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9666</integer>
+					<key>Track ID</key><integer>9741</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10096</integer>
+					<key>Track ID</key><integer>10131</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9488</integer>
+					<key>Track ID</key><integer>9565</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9114</integer>
+					<key>Track ID</key><integer>9229</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9794</integer>
+					<key>Track ID</key><integer>9863</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9616</integer>
+					<key>Track ID</key><integer>9691</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10100</integer>
+					<key>Track ID</key><integer>10135</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9528</integer>
+					<key>Track ID</key><integer>9603</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9116</integer>
+					<key>Track ID</key><integer>9231</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9008</integer>
+					<key>Track ID</key><integer>9123</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10098</integer>
+					<key>Track ID</key><integer>10133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15135</integer>
 				</dict>
 			</array>
 		</dict>
