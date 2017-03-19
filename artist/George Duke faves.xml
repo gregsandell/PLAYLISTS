@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-02-01T03:00:44Z</date>
+	<key>Date</key><date>2017-03-19T20:18:06Z</date>
 	<key>Application Version</key><string>12.5.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,73 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7621</key>
+		<key>8112</key>
 		<dict>
-			<key>Track ID</key><integer>7621</integer>
+			<key>Track ID</key><integer>8112</integer>
+			<key>Name</key><string>Uncle Remus</string>
+			<key>Artist</key><string>George Duke</string>
+			<key>Album</key><string>The Aura Will Prevail</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12693015</integer>
+			<key>Total Time</key><integer>311875</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-01-05T04:51:04Z</date>
+			<key>Date Added</key><date>2017-02-01T06:05:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3566680780</integer>
+			<key>Play Date UTC</key><date>2017-01-08T08:39:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-02T02:08:48Z</date>
+			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Aura Will Prevail</string>
+			<key>Persistent ID</key><string>9070264419C79FDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/08%20-%20Uncle%20Remus.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8136</key>
+		<dict>
+			<key>Track ID</key><integer>8136</integer>
+			<key>Name</key><string>Party Down</string>
+			<key>Artist</key><string>George Duke</string>
+			<key>Album Artist</key><string>George Duke</string>
+			<key>Album</key><string>Follow The Rainbow</string>
+			<key>Genre</key><string>Jazz+Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8112359</integer>
+			<key>Total Time</key><integer>189413</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-01-05T04:53:18Z</date>
+			<key>Date Added</key><date>2017-02-01T06:17:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3572290973</integer>
+			<key>Play Date UTC</key><date>2017-03-14T06:02:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-01-01T00:42:45Z</date>
+			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>233EF5DE9A2A62C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/01%20-%20Party%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12072</key>
+		<dict>
+			<key>Track ID</key><integer>12072</integer>
 			<key>Name</key><string>Au-Right</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Inner Source</string>
@@ -25,7 +89,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:11Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -36,15 +100,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Inner Source</string>
-			<key>Persistent ID</key><string>8CE16EACF52C61B7</string>
+			<key>Persistent ID</key><string>B16BE99A26995041</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1973%20-%20The%20Inner%20Source/01%20-%20Au-Right.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7623</key>
+		<key>12074</key>
 		<dict>
-			<key>Track ID</key><integer>7623</integer>
+			<key>Track ID</key><integer>12074</integer>
 			<key>Name</key><string>Love Reborn</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Inner Source</string>
@@ -55,7 +119,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:11Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -66,15 +130,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Inner Source</string>
-			<key>Persistent ID</key><string>8EE8E20C9126E24E</string>
+			<key>Persistent ID</key><string>7F956AF5E5B179FB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1973%20-%20The%20Inner%20Source/02%20-%20Love%20Reborn.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7625</key>
+		<key>12076</key>
 		<dict>
-			<key>Track ID</key><integer>7625</integer>
+			<key>Track ID</key><integer>12076</integer>
 			<key>Name</key><string>The Followers</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Inner Source</string>
@@ -85,7 +149,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:12Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -94,15 +158,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Inner Source</string>
 			<key>Sort Name</key><string>Followers</string>
-			<key>Persistent ID</key><string>2D12FFD37D5A747A</string>
+			<key>Persistent ID</key><string>0A6B07B414D6BE6F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1973%20-%20The%20Inner%20Source/05%20-%20The%20Followers.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7627</key>
+		<key>12078</key>
 		<dict>
-			<key>Track ID</key><integer>7627</integer>
+			<key>Track ID</key><integer>12078</integer>
 			<key>Name</key><string>Solus</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Inner Source</string>
@@ -113,7 +177,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:12Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -121,15 +185,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Inner Source</string>
-			<key>Persistent ID</key><string>2A4123DC079B78FF</string>
+			<key>Persistent ID</key><string>099FDAD10FF81718</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1973%20-%20The%20Inner%20Source/06%20-%20Solus.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7629</key>
+		<key>12080</key>
 		<dict>
-			<key>Track ID</key><integer>7629</integer>
+			<key>Track ID</key><integer>12080</integer>
 			<key>Name</key><string>Life</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Inner Source</string>
@@ -140,7 +204,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:12Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -148,15 +212,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Inner Source</string>
-			<key>Persistent ID</key><string>ADB715CC44AAACF3</string>
+			<key>Persistent ID</key><string>FD9F615EBDC0731F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1973%20-%20The%20Inner%20Source/10%20-%20Life.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7631</key>
+		<key>12082</key>
 		<dict>
-			<key>Track ID</key><integer>7631</integer>
+			<key>Track ID</key><integer>12082</integer>
 			<key>Name</key><string>Always Constant</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Inner Source</string>
@@ -167,23 +231,26 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:11Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572287386</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:03:06Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Inner Source</string>
-			<key>Persistent ID</key><string>72CAA778FAC234DB</string>
+			<key>Persistent ID</key><string>437D22F1C6DD6150</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1973%20-%20The%20Inner%20Source/16%20-%20Always%20Constant.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7633</key>
+		<key>12084</key>
 		<dict>
-			<key>Track ID</key><integer>7633</integer>
+			<key>Track ID</key><integer>12084</integer>
 			<key>Name</key><string>The Opening</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Faces in Reflection</string>
@@ -194,7 +261,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -203,15 +270,15 @@
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Faces in Reflection</string>
 			<key>Sort Name</key><string>Opening</string>
-			<key>Persistent ID</key><string>9E87F725E8D5440B</string>
+			<key>Persistent ID</key><string>0558CDD379F1A7E1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Faces%20in%20Reflection/04%20-%20The%20Opening.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7635</key>
+		<key>12086</key>
 		<dict>
-			<key>Track ID</key><integer>7635</integer>
+			<key>Track ID</key><integer>12086</integer>
 			<key>Name</key><string>Psychocomatic Dung</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Faces in Reflection</string>
@@ -222,23 +289,26 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:47Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572245323</integer>
+			<key>Play Date UTC</key><date>2017-03-13T17:22:03Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Faces in Reflection</string>
-			<key>Persistent ID</key><string>C53FA1441758ECF9</string>
+			<key>Persistent ID</key><string>DB839B7BB9DAE03A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Faces%20in%20Reflection/08%20-%20Psychocomatic%20Dung.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7637</key>
+		<key>12088</key>
 		<dict>
-			<key>Track ID</key><integer>7637</integer>
+			<key>Track ID</key><integer>12088</integer>
 			<key>Name</key><string>Faces In Reflection No 1</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Faces in Reflection</string>
@@ -249,7 +319,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:47Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -260,15 +330,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Faces in Reflection</string>
-			<key>Persistent ID</key><string>93519C1B8FDFC6F6</string>
+			<key>Persistent ID</key><string>93FC2E95A5EB2E0C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Faces%20in%20Reflection/09%20-%20Faces%20In%20Reflection%20No%201.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7639</key>
+		<key>12090</key>
 		<dict>
-			<key>Track ID</key><integer>7639</integer>
+			<key>Track ID</key><integer>12090</integer>
 			<key>Name</key><string>Da Somba</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Faces in Reflection</string>
@@ -279,7 +349,7 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:47Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -287,46 +357,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Faces in Reflection</string>
-			<key>Persistent ID</key><string>C24ADEE96FEB0049</string>
+			<key>Persistent ID</key><string>8D8761D46458D4FE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Faces%20in%20Reflection/12%20-%20Da%20Somba.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7641</key>
+		<key>12092</key>
 		<dict>
-			<key>Track ID</key><integer>7641</integer>
-			<key>Name</key><string>The Once Over</string>
-			<key>Artist</key><string>George Duke</string>
-			<key>Album</key><string>Feel</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11369520</integer>
-			<key>Total Time</key><integer>283376</integer>
-			<key>Track Number</key><integer>16</integer>
-			<key>Year</key><integer>1974</integer>
-			<key>Date Modified</key><date>2017-01-05T04:53:02Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3565933936</integer>
-			<key>Play Date UTC</key><date>2016-12-30T17:12:16Z</date>
-			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Feel</string>
-			<key>Sort Name</key><string>Once Over</string>
-			<key>Persistent ID</key><string>F91A0E8B964F04B0</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Feel/00c%20-%20The%20Once%20Over.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>7643</key>
-		<dict>
-			<key>Track ID</key><integer>7643</integer>
+			<key>Track ID</key><integer>12092</integer>
 			<key>Name</key><string>Cora Jobege</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Feel</string>
@@ -337,26 +376,26 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:02Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3566308908</integer>
-			<key>Play Date UTC</key><date>2017-01-04T01:21:48Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3572244464</integer>
+			<key>Play Date UTC</key><date>2017-03-13T17:07:44Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Feel</string>
-			<key>Persistent ID</key><string>0DF675BA67B06631</string>
+			<key>Persistent ID</key><string>EBE1B0D53D728D98</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Feel/02%20-%20Cora%20Jobege.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7645</key>
+		<key>12094</key>
 		<dict>
-			<key>Track ID</key><integer>7645</integer>
+			<key>Track ID</key><integer>12094</integer>
 			<key>Name</key><string>Old Slippers</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Feel</string>
@@ -367,26 +406,26 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:02Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3566309129</integer>
-			<key>Play Date UTC</key><date>2017-01-04T01:25:29Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572286977</integer>
+			<key>Play Date UTC</key><date>2017-03-14T04:56:17Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Feel</string>
-			<key>Persistent ID</key><string>B70662C1C5E07EC9</string>
+			<key>Persistent ID</key><string>43B2595517C262B5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Feel/03%20-%20Old%20Slippers.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7647</key>
+		<key>12096</key>
 		<dict>
-			<key>Track ID</key><integer>7647</integer>
+			<key>Track ID</key><integer>12096</integer>
 			<key>Name</key><string>Yana Aminah</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Feel</string>
@@ -397,7 +436,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:02Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -408,15 +447,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Feel</string>
-			<key>Persistent ID</key><string>C4DB69D24873B951</string>
+			<key>Persistent ID</key><string>3E8043C22F8F40C4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Feel/05%20-%20Yana%20Aminah.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7649</key>
+		<key>12098</key>
 		<dict>
-			<key>Track ID</key><integer>7649</integer>
+			<key>Track ID</key><integer>12098</integer>
 			<key>Name</key><string>Rashid</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Feel</string>
@@ -427,7 +466,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1974</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:02Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -438,15 +477,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Feel</string>
-			<key>Persistent ID</key><string>63C467557712C96C</string>
+			<key>Persistent ID</key><string>D7180BD9C11E4688</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1974%20-%20Feel/06%20-%20Rashid.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7651</key>
+		<key>12100</key>
 		<dict>
-			<key>Track ID</key><integer>7651</integer>
+			<key>Track ID</key><integer>12100</integer>
 			<key>Name</key><string>Look Into Her Eyes</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>I Love the Blues, She Heard My Cry</string>
@@ -457,7 +496,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -465,15 +504,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>I Love the Blues, She Heard My Cry</string>
-			<key>Persistent ID</key><string>1BD694902B4971A2</string>
+			<key>Persistent ID</key><string>E727BFAA8DB71BEB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20I%20Love%20the%20Blues,%20She%20Heard%20My%20Cry/09%20-%20Look%20Into%20Her%20Eyes.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7653</key>
+		<key>12102</key>
 		<dict>
-			<key>Track ID</key><integer>7653</integer>
+			<key>Track ID</key><integer>12102</integer>
 			<key>Name</key><string>Sister Serene</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>I Love the Blues, She Heard My Cry</string>
@@ -484,7 +523,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -492,15 +531,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>I Love the Blues, She Heard My Cry</string>
-			<key>Persistent ID</key><string>27933F0FEBCD1676</string>
+			<key>Persistent ID</key><string>1EF1289E816A584E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20I%20Love%20the%20Blues,%20She%20Heard%20My%20Cry/10%20-%20Sister%20Serene.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7655</key>
+		<key>12104</key>
 		<dict>
-			<key>Track ID</key><integer>7655</integer>
+			<key>Track ID</key><integer>12104</integer>
 			<key>Name</key><string>That's What She Said</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>I Love the Blues, She Heard My Cry</string>
@@ -511,7 +550,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -519,15 +558,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>I Love the Blues, She Heard My Cry</string>
-			<key>Persistent ID</key><string>415645BD2FF03C03</string>
+			<key>Persistent ID</key><string>C210C874A2696989</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20I%20Love%20the%20Blues,%20She%20Heard%20My%20Cry/11%20-%20That's%20What%20She%20Said.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7657</key>
+		<key>12106</key>
 		<dict>
-			<key>Track ID</key><integer>7657</integer>
+			<key>Track ID</key><integer>12106</integer>
 			<key>Name</key><string>Rokkinrowl, I Don't Know</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>I Love the Blues, She Heard My Cry</string>
@@ -538,7 +577,7 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -549,15 +588,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>I Love the Blues, She Heard My Cry</string>
-			<key>Persistent ID</key><string>4DB7FD60CEFBE193</string>
+			<key>Persistent ID</key><string>F09A119B8B6E4A08</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20I%20Love%20the%20Blues,%20She%20Heard%20My%20Cry/13%20-%20Rokkinrowl,%20I%20Don't%20Know.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7659</key>
+		<key>12108</key>
 		<dict>
-			<key>Track ID</key><integer>7659</integer>
+			<key>Track ID</key><integer>12108</integer>
 			<key>Name</key><string>Prepare Yourself</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>I Love the Blues, She Heard My Cry</string>
@@ -568,7 +607,7 @@
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -579,15 +618,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>I Love the Blues, She Heard My Cry</string>
-			<key>Persistent ID</key><string>C2A1D9B7DDAF5AAA</string>
+			<key>Persistent ID</key><string>4CCC6B85219835CA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20I%20Love%20the%20Blues,%20She%20Heard%20My%20Cry/14%20-%20Prepare%20Yourself.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7661</key>
+		<key>12110</key>
 		<dict>
-			<key>Track ID</key><integer>7661</integer>
+			<key>Track ID</key><integer>12110</integer>
 			<key>Name</key><string>Giant Child Within Us--Ego</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>I Love the Blues, She Heard My Cry</string>
@@ -598,7 +637,7 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:46Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -606,15 +645,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>I Love the Blues, She Heard My Cry</string>
-			<key>Persistent ID</key><string>F20513655415E355</string>
+			<key>Persistent ID</key><string>387B1CAA507E3008</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20I%20Love%20the%20Blues,%20She%20Heard%20My%20Cry/15%20-%20Giant%20Child%20Within%20Us--Ego.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7663</key>
+		<key>12112</key>
 		<dict>
-			<key>Track ID</key><integer>7663</integer>
+			<key>Track ID</key><integer>12112</integer>
 			<key>Name</key><string>For Love (I Come Your Friend)</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Aura Will Prevail</string>
@@ -625,7 +664,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:03Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -638,15 +677,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aura Will Prevail</string>
-			<key>Persistent ID</key><string>F35845FC88CA8CA7</string>
+			<key>Persistent ID</key><string>BAC0AAE0C25296D4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/02%20-%20For%20Love%20(I%20Come%20Your%20Friend).mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7665</key>
+		<key>12114</key>
 		<dict>
-			<key>Track ID</key><integer>7665</integer>
+			<key>Track ID</key><integer>12114</integer>
 			<key>Name</key><string>Foosh</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Aura Will Prevail</string>
@@ -657,7 +696,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:03Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -668,15 +707,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aura Will Prevail</string>
-			<key>Persistent ID</key><string>DD977AE42C83AE32</string>
+			<key>Persistent ID</key><string>72139279BF961FBC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/03%20-%20Foosh.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7667</key>
+		<key>12116</key>
 		<dict>
-			<key>Track ID</key><integer>7667</integer>
+			<key>Track ID</key><integer>12116</integer>
 			<key>Name</key><string>Floop De Loop</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Aura Will Prevail</string>
@@ -687,7 +726,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:03Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -695,15 +734,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aura Will Prevail</string>
-			<key>Persistent ID</key><string>727EAA854FE677F3</string>
+			<key>Persistent ID</key><string>BEA2FEB009390124</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/04%20-%20Floop%20De%20Loop.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7669</key>
+		<key>12118</key>
 		<dict>
-			<key>Track ID</key><integer>7669</integer>
+			<key>Track ID</key><integer>12118</integer>
 			<key>Name</key><string>Malib</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Aura Will Prevail</string>
@@ -714,7 +753,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:04Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -725,15 +764,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aura Will Prevail</string>
-			<key>Persistent ID</key><string>FC1A99ED5C38EF61</string>
+			<key>Persistent ID</key><string>C7E9F6B03DA0664C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/05%20-%20Malib.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7671</key>
+		<key>12120</key>
 		<dict>
-			<key>Track ID</key><integer>7671</integer>
+			<key>Track ID</key><integer>12120</integer>
 			<key>Name</key><string>Echidna's Arf</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Aura Will Prevail</string>
@@ -744,7 +783,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:04Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -755,45 +794,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aura Will Prevail</string>
-			<key>Persistent ID</key><string>3B470A34B02DB8F0</string>
+			<key>Persistent ID</key><string>AFD3B07318ECBEC8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/07%20-%20Echidna's%20Arf.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7673</key>
+		<key>12122</key>
 		<dict>
-			<key>Track ID</key><integer>7673</integer>
-			<key>Name</key><string>Uncle Remus</string>
-			<key>Artist</key><string>George Duke</string>
-			<key>Album</key><string>The Aura Will Prevail</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12693015</integer>
-			<key>Total Time</key><integer>311875</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>1975</integer>
-			<key>Date Modified</key><date>2017-01-05T04:51:04Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3566680780</integer>
-			<key>Play Date UTC</key><date>2017-01-08T08:39:40Z</date>
-			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Aura Will Prevail</string>
-			<key>Persistent ID</key><string>8B34AA1F2A5B2966</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/08%20-%20Uncle%20Remus.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>7675</key>
-		<dict>
-			<key>Track ID</key><integer>7675</integer>
+			<key>Track ID</key><integer>12122</integer>
 			<key>Name</key><string>The Aura</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Aura Will Prevail</string>
@@ -804,9 +813,12 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1975</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:04Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572288130</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:15:30Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2017-01-19T02:24:40Z</date>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -815,15 +827,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aura Will Prevail</string>
 			<key>Sort Name</key><string>Aura</string>
-			<key>Persistent ID</key><string>B303D29B1C5D7545</string>
+			<key>Persistent ID</key><string>906BC8184C499AD3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1975%20-%20The%20Aura%20Will%20Prevail/09%20-%20The%20Aura.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7677</key>
+		<key>12124</key>
 		<dict>
-			<key>Track ID</key><integer>7677</integer>
+			<key>Track ID</key><integer>12124</integer>
 			<key>Name</key><string>Don't Be Shy</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Liberated Fantasies</string>
@@ -834,7 +846,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:38Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -845,15 +857,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Liberated Fantasies</string>
-			<key>Persistent ID</key><string>282FDC85BBAB186B</string>
+			<key>Persistent ID</key><string>1987651C19A8037E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Liberated%20Fantasies/10%20-%20Don't%20Be%20Shy.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7679</key>
+		<key>12126</key>
 		<dict>
-			<key>Track ID</key><integer>7679</integer>
+			<key>Track ID</key><integer>12126</integer>
 			<key>Name</key><string>Back To Where We Never Left</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Liberated Fantasies</string>
@@ -864,7 +876,7 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:38Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -872,15 +884,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Liberated Fantasies</string>
-			<key>Persistent ID</key><string>A5B927BD9D531008</string>
+			<key>Persistent ID</key><string>586C86DBAF534571</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Liberated%20Fantasies/12%20-%20Back%20To%20Where%20We%20Never%20Left.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7681</key>
+		<key>12128</key>
 		<dict>
-			<key>Track ID</key><integer>7681</integer>
+			<key>Track ID</key><integer>12128</integer>
 			<key>Name</key><string>Tryin' And Cryin'</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Liberated Fantasies</string>
@@ -891,7 +903,7 @@
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:38Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -899,15 +911,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Liberated Fantasies</string>
-			<key>Persistent ID</key><string>EF2879D9A4E0E2DA</string>
+			<key>Persistent ID</key><string>8D7A33710383E88C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Liberated%20Fantasies/14%20-%20Tryin'%20And%20Cryin'.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7683</key>
+		<key>12130</key>
 		<dict>
-			<key>Track ID</key><integer>7683</integer>
+			<key>Track ID</key><integer>12130</integer>
 			<key>Name</key><string>I C'n Hear That</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Liberated Fantasies</string>
@@ -918,7 +930,7 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:38Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -928,15 +940,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Liberated Fantasies</string>
-			<key>Persistent ID</key><string>4CCBD89350DE1BE4</string>
+			<key>Persistent ID</key><string>370FFFCD320682FB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Liberated%20Fantasies/15%20-%20I%20C'n%20Hear%20That.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7685</key>
+		<key>12132</key>
 		<dict>
-			<key>Track ID</key><integer>7685</integer>
+			<key>Track ID</key><integer>12132</integer>
 			<key>Name</key><string>Liberated Fantasies</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Liberated Fantasies</string>
@@ -947,7 +959,7 @@
 			<key>Track Number</key><integer>18</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:38Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2008-01-01T12:00:00Z</date>
@@ -955,15 +967,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Liberated Fantasies</string>
-			<key>Persistent ID</key><string>D6F0CABD5A32147A</string>
+			<key>Persistent ID</key><string>574F389AC87FF724</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Liberated%20Fantasies/18%20-%20Liberated%20Fantasies.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7687</key>
+		<key>12134</key>
 		<dict>
-			<key>Track ID</key><integer>7687</integer>
+			<key>Track ID</key><integer>12134</integer>
 			<key>Name</key><string>'Scuse Me Miss</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -975,22 +987,25 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:34Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572287603</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:06:43Z</date>
 			<key>Release Date</key><date>1977-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>64E3C29A1A09FEA0</string>
+			<key>Persistent ID</key><string>50968480CB321D55</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20From%20Me%20To%20You/04%20-%20'Scuse%20Me%20Miss.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7689</key>
+		<key>12136</key>
 		<dict>
-			<key>Track ID</key><integer>7689</integer>
+			<key>Track ID</key><integer>12136</integer>
 			<key>Name</key><string>Up On It</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1002,7 +1017,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:35Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1012,15 +1027,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2E5EF6DD0997019B</string>
+			<key>Persistent ID</key><string>5D5CFFC956B04B3B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20From%20Me%20To%20You/07%20-%20Up%20On%20It.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7691</key>
+		<key>12138</key>
 		<dict>
-			<key>Track ID</key><integer>7691</integer>
+			<key>Track ID</key><integer>12138</integer>
 			<key>Name</key><string>Seasons</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1032,25 +1047,25 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:35Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3566244945</integer>
-			<key>Play Date UTC</key><date>2017-01-03T07:35:45Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572245740</integer>
+			<key>Play Date UTC</key><date>2017-03-13T17:29:00Z</date>
 			<key>Release Date</key><date>1977-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B24089AE2C657F13</string>
+			<key>Persistent ID</key><string>7C307A670EC0B141</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20From%20Me%20To%20You/08%20-%20Seasons.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7693</key>
+		<key>12140</key>
 		<dict>
-			<key>Track ID</key><integer>7693</integer>
+			<key>Track ID</key><integer>12140</integer>
 			<key>Name</key><string>Lemme At It</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1062,7 +1077,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:52Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1072,15 +1087,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>5F2267B2A7C4EA50</string>
+			<key>Persistent ID</key><string>B167A020EA91823B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/02%20-%20Lemme%20At%20It.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7695</key>
+		<key>12142</key>
 		<dict>
-			<key>Track ID</key><integer>7695</integer>
+			<key>Track ID</key><integer>12142</integer>
 			<key>Name</key><string>Hot Fire</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1092,22 +1107,22 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1977-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F6B38DA21B4121A5</string>
+			<key>Persistent ID</key><string>D6A94E3E189D36AA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/03%20-%20Hot%20Fire.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7697</key>
+		<key>12144</key>
 		<dict>
-			<key>Track ID</key><integer>7697</integer>
+			<key>Track ID</key><integer>12144</integer>
 			<key>Name</key><string>Reach For It</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1119,7 +1134,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1129,15 +1144,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>98138F185B5ECAC3</string>
+			<key>Persistent ID</key><string>6FB44A5108247343</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/04%20-%20Reach%20For%20It.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7699</key>
+		<key>12146</key>
 		<dict>
-			<key>Track ID</key><integer>7699</integer>
+			<key>Track ID</key><integer>12146</integer>
 			<key>Name</key><string>Omi (Fresh Water)</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1149,7 +1164,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1159,15 +1174,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>021E09A031CE688B</string>
+			<key>Persistent ID</key><string>DD63F919066EB4C8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/06%20-%20Omi%20(Fresh%20Water).mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7701</key>
+		<key>12148</key>
 		<dict>
-			<key>Track ID</key><integer>7701</integer>
+			<key>Track ID</key><integer>12148</integer>
 			<key>Name</key><string>Watch Out Baby!</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1179,7 +1194,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -1188,15 +1203,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>72A46F7783354B13</string>
+			<key>Persistent ID</key><string>8CD1787283D49747</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/08%20-%20Watch%20Out%20Baby!.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7703</key>
+		<key>12150</key>
 		<dict>
-			<key>Track ID</key><integer>7703</integer>
+			<key>Track ID</key><integer>12150</integer>
 			<key>Name</key><string>Diamonds</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1208,22 +1223,25 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572289455</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:37:35Z</date>
 			<key>Release Date</key><date>1977-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2FE8F2FC7F6E269F</string>
+			<key>Persistent ID</key><string>9EFEFBA8C10F6DB0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/09%20-%20Diamonds.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7705</key>
+		<key>12152</key>
 		<dict>
-			<key>Track ID</key><integer>7705</integer>
+			<key>Track ID</key><integer>12152</integer>
 			<key>Name</key><string>Bring It On Home</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1235,22 +1253,25 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1977</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572244728</integer>
+			<key>Play Date UTC</key><date>2017-03-13T17:12:08Z</date>
 			<key>Release Date</key><date>1977-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>05E61401F1916A0D</string>
+			<key>Persistent ID</key><string>1DE656C19652E9A1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1977%20-%20Reach%20For%20It/11%20-%20Bring%20It%20On%20Home.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7707</key>
+		<key>12154</key>
 		<dict>
-			<key>Track ID</key><integer>7707</integer>
+			<key>Track ID</key><integer>12154</integer>
 			<key>Name</key><string>We Give Our Love</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>Unknown Artist</string>
@@ -1262,7 +1283,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1272,15 +1293,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>709ADDACF478C18F</string>
+			<key>Persistent ID</key><string>EE550481BC99B31D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1978%20-%20Don't%20Let%20Go/01%20-%20We%20Give%20Our%20Love.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7709</key>
+		<key>12156</key>
 		<dict>
-			<key>Track ID</key><integer>7709</integer>
+			<key>Track ID</key><integer>12156</integer>
 			<key>Name</key><string>Morning Sun</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>Unknown Artist</string>
@@ -1292,22 +1313,25 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572277956</integer>
+			<key>Play Date UTC</key><date>2017-03-14T02:25:56Z</date>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F61F218CEF103E86</string>
+			<key>Persistent ID</key><string>143C0E98F3D7772B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1978%20-%20Don't%20Let%20Go/02%20-%20Morning%20Sun.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7711</key>
+		<key>12158</key>
 		<dict>
-			<key>Track ID</key><integer>7711</integer>
+			<key>Track ID</key><integer>12158</integer>
 			<key>Name</key><string>Percussion Interlude</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>Unknown Artist</string>
@@ -1319,7 +1343,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1331,15 +1355,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>926FFD12F97A7BD3</string>
+			<key>Persistent ID</key><string>437EC3A9ABD3D2BE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1978%20-%20Don't%20Let%20Go/03%20-%20Percussion%20Interlude.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7713</key>
+		<key>12160</key>
 		<dict>
-			<key>Track ID</key><integer>7713</integer>
+			<key>Track ID</key><integer>12160</integer>
 			<key>Name</key><string>Dukey Stick</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>Unknown Artist</string>
@@ -1351,22 +1375,22 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DC870CC6AD1FE359</string>
+			<key>Persistent ID</key><string>E2E9A767EE6C98FA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1978%20-%20Don't%20Let%20Go/04%20-%20Dukey%20Stick.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7715</key>
+		<key>12162</key>
 		<dict>
-			<key>Track ID</key><integer>7715</integer>
+			<key>Track ID</key><integer>12162</integer>
 			<key>Name</key><string>Movin' On</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>Unknown Artist</string>
@@ -1378,22 +1402,22 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8567161C2C8AAEDF</string>
+			<key>Persistent ID</key><string>A191CB3972E95EDE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1978%20-%20Don't%20Let%20Go/08%20-%20Movin'%20On.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7717</key>
+		<key>12164</key>
 		<dict>
-			<key>Track ID</key><integer>7717</integer>
+			<key>Track ID</key><integer>12164</integer>
 			<key>Name</key><string>Don't Let Go</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>Unknown Artist</string>
@@ -1405,22 +1429,22 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>00090619AF6DBF7B</string>
+			<key>Persistent ID</key><string>B1E6870AEA1C5255</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1978%20-%20Don't%20Let%20Go/09%20-%20Don't%20Let%20Go.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7719</key>
+		<key>12166</key>
 		<dict>
-			<key>Track ID</key><integer>7719</integer>
+			<key>Track ID</key><integer>12166</integer>
 			<key>Name</key><string>Alone - 6 AM</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1432,7 +1456,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:27Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1445,15 +1469,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Brazillian Love Affair</string>
-			<key>Persistent ID</key><string>761B5B35DA81B4C7</string>
+			<key>Persistent ID</key><string>5DE4320A07A9BF49</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20A%20Brazilian%20Love%20Affair/04%20-%20Alone%20-%206%20AM.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7721</key>
+		<key>12168</key>
 		<dict>
-			<key>Track ID</key><integer>7721</integer>
+			<key>Track ID</key><integer>12168</integer>
 			<key>Name</key><string>Sugar Loaf Mountain</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1465,23 +1489,26 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:28Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572277480</integer>
+			<key>Play Date UTC</key><date>2017-03-14T02:18:00Z</date>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Brazillian Love Affair</string>
-			<key>Persistent ID</key><string>421EE86838F73946</string>
+			<key>Persistent ID</key><string>113DD5924E9FAD47</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20A%20Brazilian%20Love%20Affair/06%20-%20Sugar%20Loaf%20Mountain.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7723</key>
+		<key>12170</key>
 		<dict>
-			<key>Track ID</key><integer>7723</integer>
+			<key>Track ID</key><integer>12170</integer>
 			<key>Name</key><string>Love Reborn</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1493,23 +1520,25 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:28Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-13T17:04:46Z</date>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Brazillian Love Affair</string>
-			<key>Persistent ID</key><string>DF1602764B38884D</string>
+			<key>Persistent ID</key><string>C5C4302CE0BD233C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20A%20Brazilian%20Love%20Affair/07%20-%20Love%20Reborn.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7725</key>
+		<key>12172</key>
 		<dict>
-			<key>Track ID</key><integer>7725</integer>
+			<key>Track ID</key><integer>12172</integer>
 			<key>Name</key><string>Up From The Sea It Arose</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1521,55 +1550,26 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:28Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572231889</integer>
+			<key>Play Date UTC</key><date>2017-03-13T13:38:09Z</date>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Brazillian Love Affair</string>
-			<key>Persistent ID</key><string>7A47F24F6DB54005</string>
+			<key>Persistent ID</key><string>08D931B25A59C34B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20A%20Brazilian%20Love%20Affair/08%20-%20Up%20From%20The%20Sea%20It%20Arose.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7727</key>
+		<key>12174</key>
 		<dict>
-			<key>Track ID</key><integer>7727</integer>
-			<key>Name</key><string>Party Down</string>
-			<key>Artist</key><string>George Duke</string>
-			<key>Album Artist</key><string>George Duke</string>
-			<key>Album</key><string>Follow The Rainbow</string>
-			<key>Genre</key><string>Jazz+Funk</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8112359</integer>
-			<key>Total Time</key><integer>189413</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1979</integer>
-			<key>Date Modified</key><date>2017-01-05T04:53:18Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3566062003</integer>
-			<key>Play Date UTC</key><date>2017-01-01T04:46:43Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-01-01T00:42:45Z</date>
-			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>701470650EF62B0F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/01%20-%20Party%20Down.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>7729</key>
-		<dict>
-			<key>Track ID</key><integer>7729</integer>
+			<key>Track ID</key><integer>12174</integer>
 			<key>Name</key><string>Say That You Will</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1581,7 +1581,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:18Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1593,15 +1593,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E2D54BDEB3D68C04</string>
+			<key>Persistent ID</key><string>856E10564493565C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/02%20-%20Say%20That%20You%20Will.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7731</key>
+		<key>12176</key>
 		<dict>
-			<key>Track ID</key><integer>7731</integer>
+			<key>Track ID</key><integer>12176</integer>
 			<key>Name</key><string>Funkin' For The Thrill</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1613,22 +1613,22 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:18Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>30555B98B8A46E96</string>
+			<key>Persistent ID</key><string>5C054A137C6BF34D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/03%20-%20Funkin'%20For%20The%20Thrill.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7733</key>
+		<key>12178</key>
 		<dict>
-			<key>Track ID</key><integer>7733</integer>
+			<key>Track ID</key><integer>12178</integer>
 			<key>Name</key><string>Sunrise</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1640,22 +1640,22 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:18Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DA6D843E5BD43FAA</string>
+			<key>Persistent ID</key><string>5D1BA28D6ADE7A0D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/04%20-%20Sunrise.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7735</key>
+		<key>12180</key>
 		<dict>
-			<key>Track ID</key><integer>7735</integer>
+			<key>Track ID</key><integer>12180</integer>
 			<key>Name</key><string>Festival</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1667,22 +1667,22 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:19Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F32D3BD8895C185A</string>
+			<key>Persistent ID</key><string>6D14A676D9098E6E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/05%20-%20Festival.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7737</key>
+		<key>12182</key>
 		<dict>
-			<key>Track ID</key><integer>7737</integer>
+			<key>Track ID</key><integer>12182</integer>
 			<key>Name</key><string>I Am For Real</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1694,22 +1694,25 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:19Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572291292</integer>
+			<key>Play Date UTC</key><date>2017-03-14T06:08:12Z</date>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7102029EC4121D38</string>
+			<key>Persistent ID</key><string>9F987F6CF7CF13A9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/06%20-%20I%20Am%20For%20Real.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7739</key>
+		<key>12184</key>
 		<dict>
-			<key>Track ID</key><integer>7739</integer>
+			<key>Track ID</key><integer>12184</integer>
 			<key>Name</key><string>Straight From The Heart</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1721,22 +1724,22 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:19Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0F0624F58D1CC58C</string>
+			<key>Persistent ID</key><string>7EB3DDE6772BC562</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/07%20-%20Straight%20From%20The%20Heart.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7741</key>
+		<key>12186</key>
 		<dict>
-			<key>Track ID</key><integer>7741</integer>
+			<key>Track ID</key><integer>12186</integer>
 			<key>Name</key><string>Pluck</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album Artist</key><string>George Duke</string>
@@ -1748,24 +1751,27 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1979</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:19Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572231399</integer>
+			<key>Play Date UTC</key><date>2017-03-13T13:29:59Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-01-11T01:42:40Z</date>
 			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>31FB4F78B8C39093</string>
+			<key>Persistent ID</key><string>892E17713C994D56</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1979%20-%20Follow%20The%20Rainbow/09%20-%20Pluck.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7743</key>
+		<key>12188</key>
 		<dict>
-			<key>Track ID</key><integer>7743</integer>
+			<key>Track ID</key><integer>12188</integer>
 			<key>Name</key><string>We Give Our Love</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Don't Let Go</string>
@@ -1776,22 +1782,22 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>93CEBF80E4C52A3D</string>
+			<key>Persistent ID</key><string>855B8E3107A1FCE7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1990%20-%20Don't%20Let%20Go/01.%20George%20Duke%20%E2%80%93%20We%20Give%20Our%20Love.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7745</key>
+		<key>12190</key>
 		<dict>
-			<key>Track ID</key><integer>7745</integer>
+			<key>Track ID</key><integer>12190</integer>
 			<key>Name</key><string>Morning Sun</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Don't Let Go</string>
@@ -1802,22 +1808,22 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DACD8DFFB844FE01</string>
+			<key>Persistent ID</key><string>B5706E0C2F236EB4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1990%20-%20Don't%20Let%20Go/02.%20George%20Duke%20%E2%80%93%20Morning%20Sun.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7747</key>
+		<key>12192</key>
 		<dict>
-			<key>Track ID</key><integer>7747</integer>
+			<key>Track ID</key><integer>12192</integer>
 			<key>Name</key><string>Percussion Interlude</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Don't Let Go</string>
@@ -1828,22 +1834,22 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E73C2CAD56DAECB6</string>
+			<key>Persistent ID</key><string>386D9899553954AE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1990%20-%20Don't%20Let%20Go/03.%20George%20Duke%20%E2%80%93%20Percussion%20Interlude.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7749</key>
+		<key>12194</key>
 		<dict>
-			<key>Track ID</key><integer>7749</integer>
+			<key>Track ID</key><integer>12194</integer>
 			<key>Name</key><string>Yeah, We Going</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Don't Let Go</string>
@@ -1854,22 +1860,22 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>527F1B306936FE60</string>
+			<key>Persistent ID</key><string>C4C0E7EAD41B0F70</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1990%20-%20Don't%20Let%20Go/06.%20George%20Duke%20%E2%80%93%20Yeah,%20We%20Going.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7751</key>
+		<key>12196</key>
 		<dict>
-			<key>Track ID</key><integer>7751</integer>
+			<key>Track ID</key><integer>12196</integer>
 			<key>Name</key><string>Movin' On</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Don't Let Go</string>
@@ -1880,7 +1886,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1890,15 +1896,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>29DE0B6A158F557A</string>
+			<key>Persistent ID</key><string>B83E750608479BC2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1990%20-%20Don't%20Let%20Go/08.%20George%20Duke%20%E2%80%93%20Movin'%20On.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7753</key>
+		<key>12198</key>
 		<dict>
-			<key>Track ID</key><integer>7753</integer>
+			<key>Track ID</key><integer>12198</integer>
 			<key>Name</key><string>Don't Let Go</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Don't Let Go</string>
@@ -1909,22 +1915,22 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1978</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1978-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>68493A3BC1D83325</string>
+			<key>Persistent ID</key><string>44874FA728C7EA48</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1990%20-%20Don't%20Let%20Go/09.%20George%20Duke%20%E2%80%93%20Don't%20Let%20Go.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7755</key>
+		<key>12200</key>
 		<dict>
-			<key>Track ID</key><integer>7755</integer>
+			<key>Track ID</key><integer>12200</integer>
 			<key>Name</key><string>Fame</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Snapshot</string>
@@ -1935,22 +1941,25 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1992</integer>
 			<key>Date Modified</key><date>2017-01-05T04:55:04Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572288477</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:21:17Z</date>
 			<key>Release Date</key><date>1992-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2D7EA08D3EC5ED38</string>
+			<key>Persistent ID</key><string>5E847B1DD626A0C9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1992%20-%20Snapshot/07%20-%20Fame.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7757</key>
+		<key>12202</key>
 		<dict>
-			<key>Track ID</key><integer>7757</integer>
+			<key>Track ID</key><integer>12202</integer>
 			<key>Name</key><string>Bus Tours</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Snapshot</string>
@@ -1961,22 +1970,22 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>1992</integer>
 			<key>Date Modified</key><date>2017-01-05T04:55:05Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1992-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>76E7CB8477ACA25E</string>
+			<key>Persistent ID</key><string>B7952A89FEEF713E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1992%20-%20Snapshot/12%20-%20Bus%20Tours.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7759</key>
+		<key>12204</key>
 		<dict>
-			<key>Track ID</key><integer>7759</integer>
+			<key>Track ID</key><integer>12204</integer>
 			<key>Name</key><string>Buffalo Soldiers</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Illusions</string>
@@ -1987,22 +1996,22 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:57Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8B9541D77FBF4085</string>
+			<key>Persistent ID</key><string>8C9E5D1997709489</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1995%20-%20Illusions/10%20-%20Buffalo%20Soldiers.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7761</key>
+		<key>12206</key>
 		<dict>
-			<key>Track ID</key><integer>7761</integer>
+			<key>Track ID</key><integer>12206</integer>
 			<key>Name</key><string>Money</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Illusions</string>
@@ -2013,22 +2022,25 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2017-01-05T04:53:57Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572288809</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:26:49Z</date>
 			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>266F3E1B242B881F</string>
+			<key>Persistent ID</key><string>6B7F8CF59107B3BF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1995%20-%20Illusions/11%20-%20Money.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7763</key>
+		<key>12208</key>
 		<dict>
-			<key>Track ID</key><integer>7763</integer>
+			<key>Track ID</key><integer>12208</integer>
 			<key>Name</key><string>Back in the Day</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Is Love Enough?</string>
@@ -2039,22 +2051,24 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:25Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-13T17:04:40Z</date>
 			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4FE7572A2876CD23</string>
+			<key>Persistent ID</key><string>80FF28F707E49515</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1997%20-%20Is%20Love%20Enough/09%20-%20Back%20in%20the%20Day.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7765</key>
+		<key>12210</key>
 		<dict>
-			<key>Track ID</key><integer>7765</integer>
+			<key>Track ID</key><integer>12210</integer>
 			<key>Name</key><string>This Place I Call Home</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Is Love Enough?</string>
@@ -2065,7 +2079,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2017-01-05T04:54:25Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:26Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -2077,15 +2091,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D4C5979D066C9453</string>
+			<key>Persistent ID</key><string>DE885CFE19AF1BEF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1997%20-%20Is%20Love%20Enough/10%20-%20This%20Place%20I%20Call%20Home.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7767</key>
+		<key>12212</key>
 		<dict>
-			<key>Track ID</key><integer>7767</integer>
+			<key>Track ID</key><integer>12212</integer>
 			<key>Name</key><string>Rush Hour/Road Rage</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>After Hours</string>
@@ -2096,7 +2110,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2017-01-05T04:50:50Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2106,15 +2120,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3182093D4FF76601</string>
+			<key>Persistent ID</key><string>759E5AA8776B7848</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1998%20-%20After%20Hours/01%20-%20Rush%20Hour-Road%20Rage.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7769</key>
+		<key>12214</key>
 		<dict>
-			<key>Track ID</key><integer>7769</integer>
+			<key>Track ID</key><integer>12214</integer>
 			<key>Name</key><string>Anticipation</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>After Hours</string>
@@ -2125,7 +2139,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2017-01-05T04:50:50Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -2135,15 +2149,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8A6C57C7148B5406</string>
+			<key>Persistent ID</key><string>654874F001C3727D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1998%20-%20After%20Hours/03%20-%20Anticipation.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7771</key>
+		<key>12216</key>
 		<dict>
-			<key>Track ID</key><integer>7771</integer>
+			<key>Track ID</key><integer>12216</integer>
 			<key>Name</key><string>It's On</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>After Hours</string>
@@ -2154,22 +2168,22 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2017-01-05T04:50:50Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1998-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0A2F489B96CD4B51</string>
+			<key>Persistent ID</key><string>58BF09C85F464AA7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1998%20-%20After%20Hours/05%20-%20It's%20On.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7773</key>
+		<key>12218</key>
 		<dict>
-			<key>Track ID</key><integer>7773</integer>
+			<key>Track ID</key><integer>12218</integer>
 			<key>Name</key><string>Together as One</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>After Hours</string>
@@ -2180,22 +2194,25 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2017-01-05T04:50:50Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572289801</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:43:21Z</date>
 			<key>Release Date</key><date>1998-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>63CE44F4E82F6F57</string>
+			<key>Persistent ID</key><string>B8B14E862D61C0F2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1998%20-%20After%20Hours/06%20-%20Together%20as%20One.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7775</key>
+		<key>12220</key>
 		<dict>
-			<key>Track ID</key><integer>7775</integer>
+			<key>Track ID</key><integer>12220</integer>
 			<key>Name</key><string>Sweet Dreams</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>After Hours</string>
@@ -2206,7 +2223,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2017-01-05T04:50:50Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2216,15 +2233,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D8B91FA354866FD3</string>
+			<key>Persistent ID</key><string>3815B3FE3AB90301</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1998%20-%20After%20Hours/09%20-%20Sweet%20Dreams.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7777</key>
+		<key>12222</key>
 		<dict>
-			<key>Track ID</key><integer>7777</integer>
+			<key>Track ID</key><integer>12222</integer>
 			<key>Name</key><string>Whatever It Takes</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Cool</string>
@@ -2235,22 +2252,25 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2000</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:40Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572291518</integer>
+			<key>Play Date UTC</key><date>2017-03-14T06:11:58Z</date>
 			<key>Release Date</key><date>2000-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6F25B1B40178FC68</string>
+			<key>Persistent ID</key><string>7B8C3CB59CBED9EC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2000%20-%20Cool/11%20-%20Whatever%20It%20Takes.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7779</key>
+		<key>12224</key>
 		<dict>
-			<key>Track ID</key><integer>7779</integer>
+			<key>Track ID</key><integer>12224</integer>
 			<key>Name</key><string>Every Little Step I Take</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2261,22 +2281,22 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:30Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>01DACF8CA3992E4E</string>
+			<key>Persistent ID</key><string>F984A1EAAFE1C3BF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/13%20-%20Every%20Little%20Step%20I%20Take.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7781</key>
+		<key>12226</key>
 		<dict>
-			<key>Track ID</key><integer>7781</integer>
+			<key>Track ID</key><integer>12226</integer>
 			<key>Name</key><string>Sweet Baby</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2287,22 +2307,22 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:31Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>8F30FB0312E2FA01</string>
+			<key>Persistent ID</key><string>7E3DD3EA2C9513D3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/15%20-%20Sweet%20Baby.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7783</key>
+		<key>12228</key>
 		<dict>
-			<key>Track ID</key><integer>7783</integer>
+			<key>Track ID</key><integer>12228</integer>
 			<key>Name</key><string>I Just Want to Love You</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2313,22 +2333,22 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:31Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>B06F3309AAA0C9EA</string>
+			<key>Persistent ID</key><string>8853C9769974148B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/16%20-%20I%20Just%20Want%20to%20Love%20You.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7785</key>
+		<key>12230</key>
 		<dict>
-			<key>Track ID</key><integer>7785</integer>
+			<key>Track ID</key><integer>12230</integer>
 			<key>Name</key><string>Son of Reach for It</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2339,7 +2359,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:27Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2349,15 +2369,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>C8ED07348C955858</string>
+			<key>Persistent ID</key><string>BE96A1677916F65C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/20%20-%20Son%20of%20Reach%20for%20It.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7787</key>
+		<key>12232</key>
 		<dict>
-			<key>Track ID</key><integer>7787</integer>
+			<key>Track ID</key><integer>12232</integer>
 			<key>Name</key><string>Every Reason to Smile</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2368,22 +2388,22 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:27Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>B9E0A601654084FC</string>
+			<key>Persistent ID</key><string>60ABDC721B873E0B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/21%20-%20Every%20Reason%20to%20Smile.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7789</key>
+		<key>12234</key>
 		<dict>
-			<key>Track ID</key><integer>7789</integer>
+			<key>Track ID</key><integer>12234</integer>
 			<key>Name</key><string>Heroes</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2394,7 +2414,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:27Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2404,15 +2424,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>857C628230106B52</string>
+			<key>Persistent ID</key><string>40DED4D7A5C5CC55</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/22%20-%20Heroes.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7791</key>
+		<key>12236</key>
 		<dict>
-			<key>Track ID</key><integer>7791</integer>
+			<key>Track ID</key><integer>12236</integer>
 			<key>Name</key><string>Reach Out</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2423,22 +2443,22 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:28Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:27Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>2A30029FDB2DAB0D</string>
+			<key>Persistent ID</key><string>333171CBAEDCA57C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/25%20-%20Reach%20Out.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7793</key>
+		<key>12238</key>
 		<dict>
-			<key>Track ID</key><integer>7793</integer>
+			<key>Track ID</key><integer>12238</integer>
 			<key>Name</key><string>Give Me Your Love</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2449,48 +2469,25 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:28Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572290061</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:47:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>69F842D49B8A1F0F</string>
+			<key>Persistent ID</key><string>4F74C28469223DFC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/26%20-%20Give%20Me%20Your%20Love.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7795</key>
+		<key>12240</key>
 		<dict>
-			<key>Track ID</key><integer>7795</integer>
-			<key>Name</key><string>Got to Get Back to Love</string>
-			<key>Artist</key><string>George Duke</string>
-			<key>Album</key><string>The Essential George Duke</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>15223434</integer>
-			<key>Total Time</key><integer>329900</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2017-01-05T04:52:29Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>06513C1EEE26A8C0</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/28%20-%20Got%20to%20Get%20Back%20to%20Love.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>7797</key>
-		<dict>
-			<key>Track ID</key><integer>7797</integer>
+			<key>Track ID</key><integer>12240</integer>
 			<key>Name</key><string>She Can Wait Forever</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2501,22 +2498,25 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:29Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572289050</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:30:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>6F5251EE303C7372</string>
+			<key>Persistent ID</key><string>32E3698CDB114463</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/29%20-%20She%20Can%20Wait%20Forever.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7799</key>
+		<key>12242</key>
 		<dict>
-			<key>Track ID</key><integer>7799</integer>
+			<key>Track ID</key><integer>12242</integer>
 			<key>Name</key><string>Mothership Connection</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2527,7 +2527,7 @@
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:30Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2537,15 +2537,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>8A13305C7B4D9537</string>
+			<key>Persistent ID</key><string>85178BF8DF5CC57B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/31%20-%20Mothership%20Connection.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7801</key>
+		<key>12244</key>
 		<dict>
-			<key>Track ID</key><integer>7801</integer>
+			<key>Track ID</key><integer>12244</integer>
 			<key>Name</key><string>Reach Out! 12'</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>The Essential George Duke</string>
@@ -2556,22 +2556,22 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-01-05T04:52:32Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential George Duke</string>
-			<key>Persistent ID</key><string>1CF19856C7F5ACBC</string>
+			<key>Persistent ID</key><string>0C1C2F8A5FE1F247</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2004%20-%20The%20Essential%20George%20Duke/33%20-%20Reach%20Out!%2012'.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7803</key>
+		<key>12246</key>
 		<dict>
-			<key>Track ID</key><integer>7803</integer>
+			<key>Track ID</key><integer>12246</integer>
 			<key>Name</key><string>Reach For It</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Ultimate George Duke</string>
@@ -2581,24 +2581,27 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:08Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572291812</integer>
+			<key>Play Date UTC</key><date>2017-03-14T06:16:52Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2016-12-31T21:50:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>99937001A39CC320</string>
+			<key>Persistent ID</key><string>B1D36A65DE9F534A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2007%20-%20Ultimate%20George%20Duke/George%20Duke%20-%20Ultimate%20George%20Duke%20-%2001%20-%20Reach%20For%20It.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7805</key>
+		<key>12248</key>
 		<dict>
-			<key>Track ID</key><integer>7805</integer>
+			<key>Track ID</key><integer>12248</integer>
 			<key>Name</key><string>What Goes Around Comes Around</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Deja Vu</string>
@@ -2609,22 +2612,22 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>926883F999C1259D</string>
+			<key>Persistent ID</key><string>6A3CAE7203C2B8CF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2010%20-%20Deja%20Vu/03.%20George%20Duke%20-%20What%20Goes%20Around%20Comes%20Around.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7807</key>
+		<key>12250</key>
 		<dict>
-			<key>Track ID</key><integer>7807</integer>
+			<key>Track ID</key><integer>12250</integer>
 			<key>Name</key><string>Ripple in Time</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Deja Vu</string>
@@ -2635,25 +2638,25 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3566812754</integer>
-			<key>Play Date UTC</key><date>2017-01-09T21:19:14Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3572290454</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:54:14Z</date>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6F250E49CAB6E6AB</string>
+			<key>Persistent ID</key><string>50DCC4590909B82B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2010%20-%20Deja%20Vu/05.%20George%20Duke%20-%20Ripple%20in%20Time.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7809</key>
+		<key>12252</key>
 		<dict>
-			<key>Track ID</key><integer>7809</integer>
+			<key>Track ID</key><integer>12252</integer>
 			<key>Name</key><string>Stupid is as Stupid Does</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Deja Vu</string>
@@ -2664,22 +2667,22 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:53Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C80BDD515D3B8EE8</string>
+			<key>Persistent ID</key><string>5511832855E3060B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2010%20-%20Deja%20Vu/09.%20George%20Duke%20-%20Stupid%20is%20as%20Stupid%20Does.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7811</key>
+		<key>12254</key>
 		<dict>
-			<key>Track ID</key><integer>7811</integer>
+			<key>Track ID</key><integer>12254</integer>
 			<key>Name</key><string>Deja Vu</string>
 			<key>Artist</key><string>George Duke</string>
 			<key>Album</key><string>Deja Vu</string>
@@ -2690,22 +2693,22 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2017-01-05T04:51:54Z</date>
-			<key>Date Added</key><date>2016-12-29T04:35:55Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8EAA2800E271AEA0</string>
+			<key>Persistent ID</key><string>1CB2581D7F910AC9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/2010%20-%20Deja%20Vu/10.%20George%20Duke%20-%20Deja%20Vu.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8739</key>
+		<key>12256</key>
 		<dict>
-			<key>Track ID</key><integer>8739</integer>
+			<key>Track ID</key><integer>12256</integer>
 			<key>Name</key><string>Hip Pockets</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2716,7 +2719,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2724,15 +2727,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>8C83CEC31CCB831C</string>
+			<key>Persistent ID</key><string>9A56E55CF205D161</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/01%20-%20Hip%20Pockets.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8741</key>
+		<key>12258</key>
 		<dict>
-			<key>Track ID</key><integer>8741</integer>
+			<key>Track ID</key><integer>12258</integer>
 			<key>Name</key><string>Ivory Tattoo</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2743,7 +2746,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2751,42 +2754,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>89F6022ADD205A30</string>
+			<key>Persistent ID</key><string>18A5A6D4DEA25BA0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/02%20-%20Ivory%20Tattoo.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8743</key>
+		<key>12260</key>
 		<dict>
-			<key>Track ID</key><integer>8743</integer>
-			<key>Name</key><string>Space Lady</string>
-			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
-			<key>Album</key><string>'Live' - On Tour In Europe</string>
-			<key>Genre</key><string>Jazz+Funk</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11239408</integer>
-			<key>Total Time</key><integer>279275</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1976</integer>
-			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>B569401A898B4D15</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/03%20-%20Space%20Lady.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>8745</key>
-		<dict>
-			<key>Track ID</key><integer>8745</integer>
+			<key>Track ID</key><integer>12260</integer>
 			<key>Name</key><string>Almustafa The Beloved</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2797,7 +2773,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2805,15 +2781,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>B70DC7321D023215</string>
+			<key>Persistent ID</key><string>CB2011967E2DCE3F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/04%20-%20Almustafa%20The%20Beloved.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8747</key>
+		<key>12262</key>
 		<dict>
-			<key>Track ID</key><integer>8747</integer>
+			<key>Track ID</key><integer>12262</integer>
 			<key>Name</key><string>Do What Cha Wanna</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2824,7 +2800,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2832,15 +2808,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>02C6BBA4385B7D17</string>
+			<key>Persistent ID</key><string>12DAB6A76B66D81D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/05%20-%20Do%20What%20Cha%20Wanna.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8749</key>
+		<key>12264</key>
 		<dict>
-			<key>Track ID</key><integer>8749</integer>
+			<key>Track ID</key><integer>12264</integer>
 			<key>Name</key><string>Frankenstein Goes To The Disco</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2851,7 +2827,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2862,15 +2838,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>C9388740FE61CB23</string>
+			<key>Persistent ID</key><string>74722A9257564E17</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/06%20-%20Frankenstein%20Goes%20To%20The%20Disco.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8751</key>
+		<key>12266</key>
 		<dict>
-			<key>Track ID</key><integer>8751</integer>
+			<key>Track ID</key><integer>12266</integer>
 			<key>Name</key><string>Sweet Wine</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2881,7 +2857,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:28Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2892,15 +2868,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>DCDB4BCC16A6F551</string>
+			<key>Persistent ID</key><string>911CCFDF8C01B686</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/07%20-%20Sweet%20Wine.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8753</key>
+		<key>12268</key>
 		<dict>
-			<key>Track ID</key><integer>8753</integer>
+			<key>Track ID</key><integer>12268</integer>
 			<key>Name</key><string>Juicy</string>
 			<key>Artist</key><string>The Billy Cobham - George Duke Band</string>
 			<key>Album</key><string>'Live' - On Tour In Europe</string>
@@ -2911,15 +2887,18 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1976</integer>
 			<key>Date Modified</key><date>2017-01-04T06:56:11Z</date>
-			<key>Date Added</key><date>2017-01-06T03:23:40Z</date>
+			<key>Date Added</key><date>2017-03-13T04:03:29Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3572288043</integer>
+			<key>Play Date UTC</key><date>2017-03-14T05:14:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Billy Cobham - George Duke Band</string>
-			<key>Persistent ID</key><string>F4F044E67C3DFF64</string>
+			<key>Persistent ID</key><string>EEF2B021CCF8E227</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Duke/1976%20-%20Billy%20Cobham%20&#38;%20George%20Duke%20Band%20-%20%20Live%20On%20Tour%20In%20Europe/08%20-%20Juicy.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
@@ -2931,322 +2910,313 @@
 		<dict>
 			<key>Name</key><string>George Duke faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>20540</integer>
-			<key>Playlist Persistent ID</key><string>2B0697BC449C55E7</string>
+			<key>Playlist ID</key><integer>34075</integer>
+			<key>Playlist Persistent ID</key><string>34949FD1FBF579A1</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8745</integer>
+					<key>Track ID</key><integer>12260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7719</integer>
+					<key>Track ID</key><integer>12166</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7631</integer>
+					<key>Track ID</key><integer>12082</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7769</integer>
+					<key>Track ID</key><integer>12214</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7621</integer>
+					<key>Track ID</key><integer>12072</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7675</integer>
+					<key>Track ID</key><integer>12122</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7763</integer>
+					<key>Track ID</key><integer>12208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7679</integer>
+					<key>Track ID</key><integer>12126</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7705</integer>
+					<key>Track ID</key><integer>12152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7759</integer>
+					<key>Track ID</key><integer>12204</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7757</integer>
+					<key>Track ID</key><integer>12202</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7643</integer>
+					<key>Track ID</key><integer>12092</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7639</integer>
+					<key>Track ID</key><integer>12090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7811</integer>
+					<key>Track ID</key><integer>12254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7703</integer>
+					<key>Track ID</key><integer>12150</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8747</integer>
+					<key>Track ID</key><integer>12262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7677</integer>
+					<key>Track ID</key><integer>12124</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7717</integer>
+					<key>Track ID</key><integer>12164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7753</integer>
+					<key>Track ID</key><integer>12198</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7713</integer>
+					<key>Track ID</key><integer>12160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7671</integer>
+					<key>Track ID</key><integer>12120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7779</integer>
+					<key>Track ID</key><integer>12224</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7787</integer>
+					<key>Track ID</key><integer>12232</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7637</integer>
+					<key>Track ID</key><integer>12088</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7755</integer>
+					<key>Track ID</key><integer>12200</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7735</integer>
+					<key>Track ID</key><integer>12180</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7667</integer>
+					<key>Track ID</key><integer>12116</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7625</integer>
+					<key>Track ID</key><integer>12076</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7665</integer>
+					<key>Track ID</key><integer>12114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7663</integer>
+					<key>Track ID</key><integer>12112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8749</integer>
+					<key>Track ID</key><integer>12264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7731</integer>
+					<key>Track ID</key><integer>12176</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7661</integer>
+					<key>Track ID</key><integer>12110</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7793</integer>
+					<key>Track ID</key><integer>12238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7795</integer>
+					<key>Track ID</key><integer>12234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7789</integer>
+					<key>Track ID</key><integer>12256</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8739</integer>
+					<key>Track ID</key><integer>12142</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7695</integer>
+					<key>Track ID</key><integer>12182</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7737</integer>
+					<key>Track ID</key><integer>12130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7683</integer>
+					<key>Track ID</key><integer>12228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7783</integer>
+					<key>Track ID</key><integer>12216</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7771</integer>
+					<key>Track ID</key><integer>12258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8741</integer>
+					<key>Track ID</key><integer>12268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8753</integer>
+					<key>Track ID</key><integer>12140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7693</integer>
+					<key>Track ID</key><integer>12132</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7685</integer>
+					<key>Track ID</key><integer>12080</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7629</integer>
+					<key>Track ID</key><integer>12100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7651</integer>
+					<key>Track ID</key><integer>12170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7723</integer>
+					<key>Track ID</key><integer>12074</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7623</integer>
+					<key>Track ID</key><integer>12118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7669</integer>
+					<key>Track ID</key><integer>12206</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7761</integer>
+					<key>Track ID</key><integer>12156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7709</integer>
+					<key>Track ID</key><integer>12190</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7745</integer>
+					<key>Track ID</key><integer>12242</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7799</integer>
+					<key>Track ID</key><integer>12162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7715</integer>
+					<key>Track ID</key><integer>12196</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7751</integer>
+					<key>Track ID</key><integer>12094</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7645</integer>
+					<key>Track ID</key><integer>12146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7699</integer>
+					<key>Track ID</key><integer>12084</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7641</integer>
+					<key>Track ID</key><integer>8136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7633</integer>
+					<key>Track ID</key><integer>12158</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7727</integer>
+					<key>Track ID</key><integer>12192</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7711</integer>
+					<key>Track ID</key><integer>12186</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7747</integer>
+					<key>Track ID</key><integer>12108</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7741</integer>
+					<key>Track ID</key><integer>12086</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7659</integer>
+					<key>Track ID</key><integer>12098</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7635</integer>
+					<key>Track ID</key><integer>12144</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7649</integer>
+					<key>Track ID</key><integer>12246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7697</integer>
+					<key>Track ID</key><integer>12236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7803</integer>
+					<key>Track ID</key><integer>12244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7791</integer>
+					<key>Track ID</key><integer>12250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7801</integer>
+					<key>Track ID</key><integer>12106</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7807</integer>
+					<key>Track ID</key><integer>12212</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7657</integer>
+					<key>Track ID</key><integer>12174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7767</integer>
+					<key>Track ID</key><integer>12134</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7729</integer>
+					<key>Track ID</key><integer>12138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7687</integer>
+					<key>Track ID</key><integer>12240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7691</integer>
+					<key>Track ID</key><integer>12102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7797</integer>
+					<key>Track ID</key><integer>12078</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7653</integer>
+					<key>Track ID</key><integer>12230</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7627</integer>
+					<key>Track ID</key><integer>12184</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7785</integer>
+					<key>Track ID</key><integer>12252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8743</integer>
+					<key>Track ID</key><integer>12168</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7739</integer>
+					<key>Track ID</key><integer>12178</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7809</integer>
+					<key>Track ID</key><integer>12226</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7721</integer>
+					<key>Track ID</key><integer>12220</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7733</integer>
+					<key>Track ID</key><integer>12266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7781</integer>
+					<key>Track ID</key><integer>12104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7775</integer>
+					<key>Track ID</key><integer>12210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8751</integer>
+					<key>Track ID</key><integer>12218</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7655</integer>
+					<key>Track ID</key><integer>12128</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7765</integer>
+					<key>Track ID</key><integer>8112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7773</integer>
+					<key>Track ID</key><integer>12172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7681</integer>
+					<key>Track ID</key><integer>12136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7673</integer>
+					<key>Track ID</key><integer>12148</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7725</integer>
+					<key>Track ID</key><integer>12188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7689</integer>
+					<key>Track ID</key><integer>12154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7701</integer>
+					<key>Track ID</key><integer>12248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7743</integer>
+					<key>Track ID</key><integer>12222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7707</integer>
+					<key>Track ID</key><integer>12096</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7805</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7777</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7647</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7749</integer>
+					<key>Track ID</key><integer>12194</integer>
 				</dict>
 			</array>
 		</dict>
