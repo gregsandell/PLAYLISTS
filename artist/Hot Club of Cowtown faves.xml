@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-03-27T05:40:53Z</date>
+	<key>Date</key><date>2017-04-09T06:10:18Z</date>
 	<key>Application Version</key><string>12.6.0.100</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>15406</key>
+		<key>13101</key>
 		<dict>
-			<key>Track ID</key><integer>15406</integer>
+			<key>Track ID</key><integer>13101</integer>
 			<key>Name</key><string>Blue Bonnet Lane</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -38,9 +38,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15408</key>
+		<key>13103</key>
 		<dict>
-			<key>Track ID</key><integer>15408</integer>
+			<key>Track ID</key><integer>13103</integer>
 			<key>Name</key><string>Call of the Canyon</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -61,9 +61,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15410</key>
+		<key>13105</key>
 		<dict>
-			<key>Track ID</key><integer>15410</integer>
+			<key>Track ID</key><integer>13105</integer>
 			<key>Name</key><string>Cotton Eyed Joe</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -84,9 +84,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15412</key>
+		<key>13107</key>
 		<dict>
-			<key>Track ID</key><integer>15412</integer>
+			<key>Track ID</key><integer>13107</integer>
 			<key>Name</key><string>I'm an Old Cowhand (From the Rio Grande)</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -98,6 +98,8 @@
 			<key>Date Added</key><date>2017-03-25T05:32:27Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-07T07:18:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
@@ -107,9 +109,35 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15416</key>
+		<key>13109</key>
 		<dict>
-			<key>Track ID</key><integer>15416</integer>
+			<key>Track ID</key><integer>13109</integer>
+			<key>Name</key><string>I've Got the Wonder Where She'd Gone</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Midnight on the Trail</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4132614</integer>
+			<key>Total Time</key><integer>172016</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-03-25T05:33:05Z</date>
+			<key>Date Added</key><date>2017-03-25T05:32:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573873025</integer>
+			<key>Play Date UTC</key><date>2017-04-01T13:30:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>2B76E1D1577ADB3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2016%20-%20Midnight%20on%20the%20Trail/The%20Hot%20Club%20of%20Cowtown%20-%20I've%20Got%20the%20Wonder%20Where%20She'd%20Gone.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13111</key>
+		<dict>
+			<key>Track ID</key><integer>13111</integer>
 			<key>Name</key><string>Next to the Soil</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -133,9 +161,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15418</key>
+		<key>13113</key>
 		<dict>
-			<key>Track ID</key><integer>15418</integer>
+			<key>Track ID</key><integer>13113</integer>
 			<key>Name</key><string>Oh, Mona</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -156,9 +184,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15420</key>
+		<key>13115</key>
 		<dict>
-			<key>Track ID</key><integer>15420</integer>
+			<key>Track ID</key><integer>13115</integer>
 			<key>Name</key><string>Right or Wrong</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -179,9 +207,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15422</key>
+		<key>13117</key>
 		<dict>
-			<key>Track ID</key><integer>15422</integer>
+			<key>Track ID</key><integer>13117</integer>
 			<key>Name</key><string>Silver on the Sage</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -193,6 +221,9 @@
 			<key>Date Added</key><date>2017-03-25T05:32:27Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573902025</integer>
+			<key>Play Date UTC</key><date>2017-04-01T21:33:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
@@ -202,9 +233,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15424</key>
+		<key>13119</key>
 		<dict>
-			<key>Track ID</key><integer>15424</integer>
+			<key>Track ID</key><integer>13119</integer>
 			<key>Name</key><string>Take Me Back to Tulsa</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Midnight on the Trail</string>
@@ -216,6 +247,9 @@
 			<key>Date Added</key><date>2017-03-25T05:32:27Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3574369575</integer>
+			<key>Play Date UTC</key><date>2017-04-07T07:26:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
@@ -225,9 +259,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15428</key>
+		<key>13121</key>
 		<dict>
-			<key>Track ID</key><integer>15428</integer>
+			<key>Track ID</key><integer>13121</integer>
 			<key>Name</key><string>Dev'lish Mary</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -242,7 +276,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>BF2E46ABAF0EB485</string>
@@ -251,9 +284,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15430</key>
+		<key>13123</key>
 		<dict>
-			<key>Track ID</key><integer>15430</integer>
+			<key>Track ID</key><integer>13123</integer>
 			<key>Name</key><string>When Day Is Done</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -268,7 +301,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>B2077AD0E27A0181</string>
@@ -277,9 +309,36 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15434</key>
+		<key>13125</key>
 		<dict>
-			<key>Track ID</key><integer>15434</integer>
+			<key>Track ID</key><integer>13125</integer>
+			<key>Name</key><string>Stardust</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Dev'lish Mary</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4325654</integer>
+			<key>Total Time</key><integer>257828</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-03-25T05:50:53Z</date>
+			<key>Date Added</key><date>2017-03-25T05:50:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-28T14:35:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>69B5FA22EE6B011B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2000%20-%20Dev'lish%20Mary/05%20Stardust.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13127</key>
+		<dict>
+			<key>Track ID</key><integer>13127</integer>
 			<key>Name</key><string>Exactly Like You</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -297,7 +356,6 @@
 			<key>Play Date UTC</key><date>2017-03-26T01:49:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>BAF538CC9172E943</string>
@@ -306,9 +364,87 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15442</key>
+		<key>13129</key>
 		<dict>
-			<key>Track ID</key><integer>15442</integer>
+			<key>Track ID</key><integer>13129</integer>
+			<key>Name</key><string>Tchavolo Swing</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Dev'lish Mary</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3446692</integer>
+			<key>Total Time</key><integer>202893</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-03-25T05:50:54Z</date>
+			<key>Date Added</key><date>2017-03-25T05:50:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>93E94D3D9CC35963</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2000%20-%20Dev'lish%20Mary/08%20Tchavolo%20Swing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13131</key>
+		<dict>
+			<key>Track ID</key><integer>13131</integer>
+			<key>Name</key><string>I'd Understand Why</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Dev'lish Mary</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2535962</integer>
+			<key>Total Time</key><integer>145972</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-03-25T05:50:54Z</date>
+			<key>Date Added</key><date>2017-03-25T05:50:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>AFF13F91CBD33631</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2000%20-%20Dev'lish%20Mary/09%20I'd%20Understand%20Why.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13133</key>
+		<dict>
+			<key>Track ID</key><integer>13133</integer>
+			<key>Name</key><string>More Than a Dream</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Dev'lish Mary</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3751387</integer>
+			<key>Total Time</key><integer>221936</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-03-25T05:50:54Z</date>
+			<key>Date Added</key><date>2017-03-25T05:50:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573405989</integer>
+			<key>Play Date UTC</key><date>2017-03-27T03:46:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>4BF528B96F5C4E4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2000%20-%20Dev'lish%20Mary/11%20More%20Than%20a%20Dream.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13135</key>
+		<dict>
+			<key>Track ID</key><integer>13135</integer>
 			<key>Name</key><string>Wild Dog</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -323,7 +459,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>E12D7C25DCB75461</string>
@@ -332,9 +467,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15444</key>
+		<key>13137</key>
 		<dict>
-			<key>Track ID</key><integer>15444</integer>
+			<key>Track ID</key><integer>13137</integer>
 			<key>Name</key><string>You Don't Care What Happens to Me</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -349,7 +484,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>377FA915F2710C58</string>
@@ -358,9 +492,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15448</key>
+		<key>13139</key>
 		<dict>
-			<key>Track ID</key><integer>15448</integer>
+			<key>Track ID</key><integer>13139</integer>
 			<key>Name</key><string>My Life's Been a Pleasure</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -378,7 +512,6 @@
 			<key>Play Date UTC</key><date>2017-03-27T04:58:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>975230F0D56D0437</string>
@@ -387,9 +520,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15450</key>
+		<key>13141</key>
 		<dict>
-			<key>Track ID</key><integer>15450</integer>
+			<key>Track ID</key><integer>13141</integer>
 			<key>Name</key><string>Li'l Liza Jane</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Dev'lish Mary</string>
@@ -407,7 +540,6 @@
 			<key>Play Date UTC</key><date>2017-03-25T22:11:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>D36E508ED361641B</string>
@@ -416,9 +548,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15452</key>
+		<key>13143</key>
 		<dict>
-			<key>Track ID</key><integer>15452</integer>
+			<key>Track ID</key><integer>13143</integer>
 			<key>Name</key><string>Can't Go On this Way</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -435,7 +567,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>AD3C051D71DD9304</string>
@@ -444,9 +575,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15454</key>
+		<key>13145</key>
 		<dict>
-			<key>Track ID</key><integer>15454</integer>
+			<key>Track ID</key><integer>13145</integer>
 			<key>Name</key><string>Reunion</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -463,7 +594,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>F07DFE0BA01223B5</string>
@@ -472,9 +602,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15456</key>
+		<key>13147</key>
 		<dict>
-			<key>Track ID</key><integer>15456</integer>
+			<key>Track ID</key><integer>13147</integer>
 			<key>Name</key><string>Heart Of Romain</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -491,7 +621,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>E8EDE157D6A5988C</string>
@@ -500,9 +629,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15458</key>
+		<key>13149</key>
 		<dict>
-			<key>Track ID</key><integer>15458</integer>
+			<key>Track ID</key><integer>13149</integer>
 			<key>Name</key><string>The Long Way Home</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -519,7 +648,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Sort Name</key><string>Long Way Home</string>
@@ -529,9 +657,104 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15466</key>
+		<key>13151</key>
 		<dict>
-			<key>Track ID</key><integer>15466</integer>
+			<key>Track ID</key><integer>13151</integer>
+			<key>Name</key><string>The Magic Violin</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Wishful Thinking</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3522009</integer>
+			<key>Total Time</key><integer>166582</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-03-25T05:53:36Z</date>
+			<key>Date Added</key><date>2017-03-25T05:53:14Z</date>
+			<key>Bit Rate</key><integer>165</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3573719528</integer>
+			<key>Play Date UTC</key><date>2017-03-30T18:52:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-28T14:08:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Sort Name</key><string>Magic Violin</string>
+			<key>Persistent ID</key><string>3AD0C84BEE345F17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2009%20-%20Wishful%20Thinking/10%20-%20The%20Magic%20Violin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13153</key>
+		<dict>
+			<key>Track ID</key><integer>13153</integer>
+			<key>Name</key><string>(Intro) One Step Closer</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Wishful Thinking</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1057307</integer>
+			<key>Total Time</key><integer>43990</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-03-25T05:53:36Z</date>
+			<key>Date Added</key><date>2017-03-25T05:53:14Z</date>
+			<key>Bit Rate</key><integer>178</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573537658</integer>
+			<key>Play Date UTC</key><date>2017-03-28T16:20:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-28T14:09:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>32034CA84D99FC3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2009%20-%20Wishful%20Thinking/11%20-%20(Intro)%20One%20Step%20Closer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13155</key>
+		<dict>
+			<key>Track ID</key><integer>13155</integer>
+			<key>Name</key><string>One Step Closer</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Wishful Thinking</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4934016</integer>
+			<key>Total Time</key><integer>220995</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-03-25T05:53:36Z</date>
+			<key>Date Added</key><date>2017-03-25T05:53:14Z</date>
+			<key>Bit Rate</key><integer>175</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573628240</integer>
+			<key>Play Date UTC</key><date>2017-03-29T17:30:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>08F73F5EC97938EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2009%20-%20Wishful%20Thinking/12%20-%20One%20Step%20Closer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13157</key>
+		<dict>
+			<key>Track ID</key><integer>13157</integer>
 			<key>Name</key><string>Columbus Stockade Blues</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -548,7 +771,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>DB2C3C83FE8F2F26</string>
@@ -557,9 +779,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15468</key>
+		<key>13159</key>
 		<dict>
-			<key>Track ID</key><integer>15468</integer>
+			<key>Track ID</key><integer>13159</integer>
 			<key>Name</key><string>Someone to Watch Over Me</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -574,14 +796,1062 @@
 			<key>Date Added</key><date>2017-03-25T05:53:14Z</date>
 			<key>Bit Rate</key><integer>162</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573869813</integer>
+			<key>Play Date UTC</key><date>2017-04-01T12:36:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
 			<key>Persistent ID</key><string>9C5736DF0C49105E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2009%20-%20Wishful%20Thinking/14%20-%20Someone%20To%20Watch%20Over%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13179</key>
+		<dict>
+			<key>Track ID</key><integer>13179</integer>
+			<key>Name</key><string>Along the Navajo Trail</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4527780</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:23Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573411475</integer>
+			<key>Play Date UTC</key><date>2017-03-27T05:17:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>94333C31DEED86CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Along%20the%20Navajo%20Trail.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13181</key>
+		<dict>
+			<key>Track ID</key><integer>13181</integer>
+			<key>Name</key><string>Big Ball in Cowtown</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3762285</integer>
+			<key>Total Time</key><integer>153913</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:23Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573411290</integer>
+			<key>Play Date UTC</key><date>2017-03-27T05:14:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>0BD3FD81E6B3C1BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Big%20Ball%20in%20Cowtown.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13183</key>
+		<dict>
+			<key>Track ID</key><integer>13183</integer>
+			<key>Name</key><string>Faded Love</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5176650</integer>
+			<key>Total Time</key><integer>212845</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:23Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573955390</integer>
+			<key>Play Date UTC</key><date>2017-04-02T12:23:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>FCCB3D4A9D27302E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Faded%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13185</key>
+		<dict>
+			<key>Track ID</key><integer>13185</integer>
+			<key>Name</key><string>Keeper of My Heart</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5668178</integer>
+			<key>Total Time</key><integer>233325</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:23Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573638452</integer>
+			<key>Play Date UTC</key><date>2017-03-29T20:20:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>8BB99587D9D9439D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Keeper%20of%20My%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13187</key>
+		<dict>
+			<key>Track ID</key><integer>13187</integer>
+			<key>Name</key><string>Oklahoma Hills</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4738424</integer>
+			<key>Total Time</key><integer>194586</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:24Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>DFE6EFB8455FDE0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Oklahoma%20Hills.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13189</key>
+		<dict>
+			<key>Track ID</key><integer>13189</integer>
+			<key>Name</key><string>Osage Stomp</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4088285</integer>
+			<key>Total Time</key><integer>167497</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:24Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>F4E407FA19A3A980</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Osage%20Stomp.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13191</key>
+		<dict>
+			<key>Track ID</key><integer>13191</integer>
+			<key>Name</key><string>She's Killing Me</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4082021</integer>
+			<key>Total Time</key><integer>167235</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:24Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3574347281</integer>
+			<key>Play Date UTC</key><date>2017-04-07T01:14:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>00C0592A1B4D752A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20She's%20Killing%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13193</key>
+		<dict>
+			<key>Track ID</key><integer>13193</integer>
+			<key>Name</key><string>Smith's Reel</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2789269</integer>
+			<key>Total Time</key><integer>113371</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:24Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3574370547</integer>
+			<key>Play Date UTC</key><date>2017-04-07T07:42:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>6C76A698977E4156</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Smith's%20Reel.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13195</key>
+		<dict>
+			<key>Track ID</key><integer>13195</integer>
+			<key>Name</key><string>The Devil Ain't Lazy</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3795514</integer>
+			<key>Total Time</key><integer>155297</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:25Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Sort Name</key><string>Devil Ain't Lazy</string>
+			<key>Persistent ID</key><string>84663590AB741F13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20The%20Devil%20Ain't%20Lazy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13197</key>
+		<dict>
+			<key>Track ID</key><integer>13197</integer>
+			<key>Name</key><string>What's the Matter With the Mill</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3757908</integer>
+			<key>Total Time</key><integer>153730</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:15:25Z</date>
+			<key>Date Added</key><date>2017-03-25T21:14:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573388770</integer>
+			<key>Play Date UTC</key><date>2017-03-26T22:59:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>5AF65566495EA551</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20What's%20the%20Matter%20With%20the%20Mill.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13199</key>
+		<dict>
+			<key>Track ID</key><integer>13199</integer>
+			<key>Name</key><string>Stay A Little Longer</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>What Makes Bob Holler</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4497685</integer>
+			<key>Total Time</key><integer>184555</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-03-25T21:18:17Z</date>
+			<key>Date Added</key><date>2017-03-25T21:17:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>0D61F19EE26A6B72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2011%20-%20What%20Makes%20Bob%20Holler/The%20Hot%20Club%20of%20Cowtown%20-%20Stay%20A%20Little%20Longer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13201</key>
+		<dict>
+			<key>Track ID</key><integer>13201</integer>
+			<key>Name</key><string>Always And Always</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5094844</integer>
+			<key>Total Time</key><integer>210912</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:53Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>86247AED6F3CF5FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Always%20And%20Always.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13203</key>
+		<dict>
+			<key>Track ID</key><integer>13203</integer>
+			<key>Name</key><string>Bonaparte's Retreat</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3469194</integer>
+			<key>Total Time</key><integer>143177</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573718325</integer>
+			<key>Play Date UTC</key><date>2017-03-30T18:32:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>1F39261116ADEF35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20hot%20Club%20of%20Cowtown%20-%20Bonaparte's%20Retreat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13205</key>
+		<dict>
+			<key>Track ID</key><integer>13205</integer>
+			<key>Name</key><string>Darling You and I Are Through</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3985802</integer>
+			<key>Total Time</key><integer>164702</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>6CE6577C00042E83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Darling%20You%20and%20I%20Are%20Through.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13207</key>
+		<dict>
+			<key>Track ID</key><integer>13207</integer>
+			<key>Name</key><string>Draggin' the Bow</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3185188</integer>
+			<key>Total Time</key><integer>131343</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>DD43749D7C44D14B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Draggin'%20the%20Bow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13209</key>
+		<dict>
+			<key>Track ID</key><integer>13209</integer>
+			<key>Name</key><string>Emily</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3946280</integer>
+			<key>Total Time</key><integer>163056</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>588A40142CAF1F14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Emily.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13211</key>
+		<dict>
+			<key>Track ID</key><integer>13211</integer>
+			<key>Name</key><string>I Can't Tame Wild Women</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3611513</integer>
+			<key>Total Time</key><integer>149106</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>93C73D98D12B6C43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20I%20Can't%20Tame%20Wild%20Women.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13213</key>
+		<dict>
+			<key>Track ID</key><integer>13213</integer>
+			<key>Name</key><string>I Laugh When I Think I Cried Over You</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3840360</integer>
+			<key>Total Time</key><integer>158641</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-31T00:07:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>5E7F9BB6715AF9B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20I%20Laugh%20When%20I%20Think%20I%20Cried%20Over%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13215</key>
+		<dict>
+			<key>Track ID</key><integer>13215</integer>
+			<key>Name</key><string>Joe-Bob Rag</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2909330</integer>
+			<key>Total Time</key><integer>119849</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:54Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3574345554</integer>
+			<key>Play Date UTC</key><date>2017-04-07T00:45:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>29A9E753E3FC5404</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Joe-Bob%20Rag.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13217</key>
+		<dict>
+			<key>Track ID</key><integer>13217</integer>
+			<key>Name</key><string>Red Hot Mama</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4243456</integer>
+			<key>Total Time</key><integer>175438</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:55Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>340D2A44DABCCE6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Red%20Hot%20Mama.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13219</key>
+		<dict>
+			<key>Track ID</key><integer>13219</integer>
+			<key>Name</key><string>Sally Goodin</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3671688</integer>
+			<key>Total Time</key><integer>151614</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:55Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>30E5E3828AEFC64B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Sally%20Goodin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13221</key>
+		<dict>
+			<key>Track ID</key><integer>13221</integer>
+			<key>Name</key><string>There'll Be Some Changes Made</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4973857</integer>
+			<key>Total Time</key><integer>205871</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:55Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573412145</integer>
+			<key>Play Date UTC</key><date>2017-03-27T05:29:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>07851F68A03ED1C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20There'll%20Be%20Some%20Changes%20Made.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13223</key>
+		<dict>
+			<key>Track ID</key><integer>13223</integer>
+			<key>Name</key><string>Wildcat</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Tall Tales</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3440970</integer>
+			<key>Total Time</key><integer>142001</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-03-26T05:57:55Z</date>
+			<key>Date Added</key><date>2017-03-26T05:57:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573411761</integer>
+			<key>Play Date UTC</key><date>2017-03-27T05:22:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>C530EEAA399FB466</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/1999%20-%20Tall%20Tales/The%20Hot%20Club%20of%20Cowtown%20-%20Wildcat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13255</key>
+		<dict>
+			<key>Track ID</key><integer>13255</integer>
+			<key>Name</key><string>Dark Eyes / "Ochi Chornye"</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9496502</integer>
+			<key>Total Time</key><integer>235728</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:43Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>779135C9C54AD242</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/01%20Dark%20Eyes%20%EF%BC%8F%20%22Ochi%20Chornye%22.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13257</key>
+		<dict>
+			<key>Track ID</key><integer>13257</integer>
+			<key>Name</key><string>Avalon</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Composer</key><string>Vincent Rose, Al Jolson, Buddy DeSylva</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7232215</integer>
+			<key>Total Time</key><integer>179121</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:44Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573718181</integer>
+			<key>Play Date UTC</key><date>2017-03-30T18:29:41Z</date>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>E5FE31D11525C776</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/04%20Avalon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13259</key>
+		<dict>
+			<key>Track ID</key><integer>13259</integer>
+			<key>Name</key><string>If I Had You</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Composer</key><string>Irving Berlin</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9675167</integer>
+			<key>Total Time</key><integer>240195</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:44Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>F416CAFD9AE9752E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/05%20If%20I%20Had%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13261</key>
+		<dict>
+			<key>Track ID</key><integer>13261</integer>
+			<key>Name</key><string>Minor Swing</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Composer</key><string>Django Reinhardt &#38; Stéphane Grappelli</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9277085</integer>
+			<key>Total Time</key><integer>230243</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:44Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>143121DC6015B542</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/07%20Minor%20Swing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13263</key>
+		<dict>
+			<key>Track ID</key><integer>13263</integer>
+			<key>Name</key><string>Melancholy Baby</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Composer</key><string>G. Norton/E. Burnett</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9634426</integer>
+			<key>Total Time</key><integer>239177</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:44Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>37BC836AE527BF45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/08%20Melancholy%20Baby.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13265</key>
+		<dict>
+			<key>Track ID</key><integer>13265</integer>
+			<key>Name</key><string>I'm Confessin'</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Composer</key><string>Henry Creamer</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9526794</integer>
+			<key>Total Time</key><integer>236486</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:44Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>AC348566D26C0A11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/09%20I'm%20Confessin'.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13267</key>
+		<dict>
+			<key>Track ID</key><integer>13267</integer>
+			<key>Name</key><string>Slow Boat To China</string>
+			<key>Artist</key><string>The Hot Club Of Cowtown</string>
+			<key>Composer</key><string>Frank Loesser</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9382603</integer>
+			<key>Total Time</key><integer>232881</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:31:04Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club Of Cowtown</string>
+			<key>Persistent ID</key><string>8582B167CC196988</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/11%20Slow%20Boat%20To%20China.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13269</key>
+		<dict>
+			<key>Track ID</key><integer>13269</integer>
+			<key>Name</key><string>Douce Ambiance</string>
+			<key>Artist</key><string>The Hot Club Of Cowtown</string>
+			<key>Composer</key><string>Django Reinhardt, J. Larue</string>
+			<key>Album</key><string>Rendezvous In Rhythm</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8153812</integer>
+			<key>Total Time</key><integer>202161</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-03-29T06:31:05Z</date>
+			<key>Date Added</key><date>2017-03-27T01:46:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club Of Cowtown</string>
+			<key>Persistent ID</key><string>52C4E0EA6BE5A9A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2012%20-%20Rendezvous%20in%20Rhythm/14%20Douce%20Ambiance.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13477</key>
+		<dict>
+			<key>Track ID</key><integer>13477</integer>
+			<key>Name</key><string>Before You</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6325438</integer>
+			<key>Total Time</key><integer>258194</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:24Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>41594D5AFA72332F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Before%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13479</key>
+		<dict>
+			<key>Track ID</key><integer>13479</integer>
+			<key>Name</key><string>Cherokee Shuffle</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3491681</integer>
+			<key>Total Time</key><integer>140120</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:25Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>270505016F541C50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Cherokee%20Shuffle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13481</key>
+		<dict>
+			<key>Track ID</key><integer>13481</integer>
+			<key>Name</key><string>Forget Me Nots</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4956208</integer>
+			<key>Total Time</key><integer>201142</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:25Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>CB5B1F4D5ADCAFD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Forget%20Me%20Nots.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13483</key>
+		<dict>
+			<key>Track ID</key><integer>13483</integer>
+			<key>Name</key><string>Home</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4708557</integer>
+			<key>Total Time</key><integer>190824</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:25Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573720450</integer>
+			<key>Play Date UTC</key><date>2017-03-30T19:07:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>0CB7ECD9C85138F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13485</key>
+		<dict>
+			<key>Track ID</key><integer>13485</integer>
+			<key>Name</key><string>It Stops With Me</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6489075</integer>
+			<key>Total Time</key><integer>265012</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:25Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573720259</integer>
+			<key>Play Date UTC</key><date>2017-03-30T19:04:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>EDEA0BC8A1705BF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20It%20Stops%20With%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13487</key>
+		<dict>
+			<key>Track ID</key><integer>13487</integer>
+			<key>Name</key><string>Pray for the Lights to Go Out</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5129885</integer>
+			<key>Total Time</key><integer>208378</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:26Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>2C23B60C5E71A740</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Pray%20for%20the%20Lights%20to%20Go%20Out.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13489</key>
+		<dict>
+			<key>Track ID</key><integer>13489</integer>
+			<key>Name</key><string>Secret Of Mine</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4309207</integer>
+			<key>Total Time</key><integer>174184</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:26Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573739203</integer>
+			<key>Play Date UTC</key><date>2017-03-31T00:20:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>65865F00D65C04EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Secret%20Of%20Mine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13491</key>
+		<dict>
+			<key>Track ID</key><integer>13491</integer>
+			<key>Name</key><string>You Took Advantage of Me</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5031451</integer>
+			<key>Total Time</key><integer>204277</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:27Z</date>
+			<key>Date Added</key><date>2017-03-29T06:29:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573736548</integer>
+			<key>Play Date UTC</key><date>2017-03-30T23:35:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>6917AA3B10AD4DE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20You%20Took%20Advantage%20of%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13931</key>
+		<dict>
+			<key>Track ID</key><integer>13931</integer>
+			<key>Name</key><string>Fuli Tschai (Bad Girl)</string>
+			<key>Artist</key><string>The Hot Club of Cowtown</string>
+			<key>Album</key><string>Ghost Trains</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4469712</integer>
+			<key>Total Time</key><integer>180871</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-03-29T06:30:25Z</date>
+			<key>Date Added</key><date>2017-04-01T05:19:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573713198</integer>
+			<key>Play Date UTC</key><date>2017-03-30T17:06:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Hot Club of Cowtown</string>
+			<key>Persistent ID</key><string>914833BF80910292</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/2002%20-%20Ghost%20Train/The%20Hot%20Club%20of%20Cowtown%20-%20Fuli%20Tschai%20(Bad%20Girl).mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -591,76 +1861,220 @@
 		<dict>
 			<key>Name</key><string>Hot Club of Cowtown faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>36322</integer>
-			<key>Playlist Persistent ID</key><string>81C87F4E355892F8</string>
+			<key>Playlist ID</key><integer>30574</integer>
+			<key>Playlist Persistent ID</key><string>F2B4C5E9EFA63DEA</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15468</integer>
+					<key>Track ID</key><integer>13159</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15466</integer>
+					<key>Track ID</key><integer>13157</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15458</integer>
+					<key>Track ID</key><integer>13149</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15456</integer>
+					<key>Track ID</key><integer>13147</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15454</integer>
+					<key>Track ID</key><integer>13145</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15452</integer>
+					<key>Track ID</key><integer>13143</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15424</integer>
+					<key>Track ID</key><integer>13119</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15422</integer>
+					<key>Track ID</key><integer>13117</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15420</integer>
+					<key>Track ID</key><integer>13115</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15418</integer>
+					<key>Track ID</key><integer>13113</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15416</integer>
+					<key>Track ID</key><integer>13111</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15412</integer>
+					<key>Track ID</key><integer>13107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15410</integer>
+					<key>Track ID</key><integer>13105</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15408</integer>
+					<key>Track ID</key><integer>13103</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15406</integer>
+					<key>Track ID</key><integer>13101</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15444</integer>
+					<key>Track ID</key><integer>13137</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15442</integer>
+					<key>Track ID</key><integer>13135</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15430</integer>
+					<key>Track ID</key><integer>13123</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15428</integer>
+					<key>Track ID</key><integer>13121</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15434</integer>
+					<key>Track ID</key><integer>13127</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15450</integer>
+					<key>Track ID</key><integer>13141</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15448</integer>
+					<key>Track ID</key><integer>13139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13931</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13269</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13185</integer>
 				</dict>
 			</array>
 		</dict>

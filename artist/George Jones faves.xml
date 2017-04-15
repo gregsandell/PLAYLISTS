@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-03-19T20:18:48Z</date>
-	<key>Application Version</key><string>12.5.5.5</string>
+	<key>Date</key><date>2017-04-01T04:43:13Z</date>
+	<key>Application Version</key><string>12.6.0.100</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10278</key>
+		<key>10280</key>
 		<dict>
-			<key>Track ID</key><integer>10278</integer>
+			<key>Track ID</key><integer>10280</integer>
 			<key>Name</key><string>Bartender's Blues</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -25,21 +25,68 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3572383368</integer>
-			<key>Play Date UTC</key><date>2017-03-15T07:42:48Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573570793</integer>
+			<key>Play Date UTC</key><date>2017-03-29T01:33:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>4ADF96799A99128F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Bartender's%20Blues.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>10282</key>
+		<dict>
+			<key>Track ID</key><integer>10282</integer>
+			<key>Name</key><string>He Stopped Loving Her Today</string>
+			<key>Artist</key><string>George Jones</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4763691</integer>
+			<key>Total Time</key><integer>197799</integer>
+			<key>Date Modified</key><date>2017-03-12T07:17:35Z</date>
+			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573480258</integer>
+			<key>Play Date UTC</key><date>2017-03-28T00:24:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>DA3647812AAE4C84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20He%20Stopped%20Loving%20Her%20Today.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 		<key>10284</key>
 		<dict>
 			<key>Track ID</key><integer>10284</integer>
+			<key>Name</key><string>Honky Tonk Song</string>
+			<key>Artist</key><string>George Jones</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4373986</integer>
+			<key>Total Time</key><integer>182073</integer>
+			<key>Date Modified</key><date>2017-03-12T07:17:35Z</date>
+			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572178368</integer>
+			<key>Play Date UTC</key><date>2017-03-12T22:46:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>AF4342E887C7FCFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Honky%20Tonk%20Song.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10286</key>
+		<dict>
+			<key>Track ID</key><integer>10286</integer>
 			<key>Name</key><string>I Don't Need Your Rockin Chair</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -50,18 +97,19 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-30T01:13:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>97C798F93380887D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20I%20Don't%20Need%20Your%20Rockin%20Chair.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10286</key>
+		<key>10288</key>
 		<dict>
-			<key>Track ID</key><integer>10286</integer>
+			<key>Track ID</key><integer>10288</integer>
 			<key>Name</key><string>I Just Don't Give a Damn</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -72,21 +120,20 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3572436488</integer>
-			<key>Play Date UTC</key><date>2017-03-15T22:28:08Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3573570959</integer>
+			<key>Play Date UTC</key><date>2017-03-29T01:35:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>5B4E17D30A4C34AF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20I%20Just%20Don't%20Give%20a%20Damn.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10288</key>
+		<key>10290</key>
 		<dict>
-			<key>Track ID</key><integer>10288</integer>
+			<key>Track ID</key><integer>10290</integer>
 			<key>Name</key><string>If Drinking Don't Kill Me Her Memory Will</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -99,16 +146,15 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>C8B13D54455E44C8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20If%20Drinking%20Don't%20Kill%20Me%20Her%20Memory%20Will.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10290</key>
+		<key>10292</key>
 		<dict>
-			<key>Track ID</key><integer>10290</integer>
+			<key>Track ID</key><integer>10292</integer>
 			<key>Name</key><string>It's Finally Friday</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -124,16 +170,15 @@
 			<key>Play Date UTC</key><date>2017-03-12T19:10:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>D13A93BABCF965B1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20It's%20Finally%20Friday.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10292</key>
+		<key>10294</key>
 		<dict>
-			<key>Track ID</key><integer>10292</integer>
+			<key>Track ID</key><integer>10294</integer>
 			<key>Name</key><string>Mansion on the Hill</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -149,7 +194,6 @@
 			<key>Play Date UTC</key><date>2017-03-15T23:21:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>0952E8ED49874D3C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Mansion%20on%20the%20Hill.mp3</string>
@@ -159,6 +203,30 @@
 		<key>10296</key>
 		<dict>
 			<key>Track ID</key><integer>10296</integer>
+			<key>Name</key><string>Ol' George Stopped Drinkin' Today</string>
+			<key>Artist</key><string>George Jones</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4100641</integer>
+			<key>Total Time</key><integer>170684</integer>
+			<key>Date Modified</key><date>2017-03-12T07:17:36Z</date>
+			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572374739</integer>
+			<key>Play Date UTC</key><date>2017-03-15T05:18:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>849184C30585E144</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Ol'%20George%20Stopped%20Drinkin'%20Today.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10298</key>
+		<dict>
+			<key>Track ID</key><integer>10298</integer>
 			<key>Name</key><string>Same Ole Me</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -169,18 +237,19 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-03-30T01:21:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>EF235B18AF6BD6AF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Same%20Ole%20Me.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10298</key>
+		<key>10300</key>
 		<dict>
-			<key>Track ID</key><integer>10298</integer>
+			<key>Track ID</key><integer>10300</integer>
 			<key>Name</key><string>She Thinks I Still Care (1963)</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -196,16 +265,15 @@
 			<key>Play Date UTC</key><date>2017-03-12T19:02:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>5C46965E15E6065D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20She%20Thinks%20I%20Still%20Care%20(1963).mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10300</key>
+		<key>10302</key>
 		<dict>
-			<key>Track ID</key><integer>10300</integer>
+			<key>Track ID</key><integer>10302</integer>
 			<key>Name</key><string>Still Doing Time</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -216,21 +284,20 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3572422423</integer>
-			<key>Play Date UTC</key><date>2017-03-15T18:33:43Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572965532</integer>
+			<key>Play Date UTC</key><date>2017-03-22T01:25:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>C2272FAE6D0AAA90</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Still%20Doing%20Time.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10302</key>
+		<key>10304</key>
 		<dict>
-			<key>Track ID</key><integer>10302</integer>
+			<key>Track ID</key><integer>10304</integer>
 			<key>Name</key><string>The Cold Hard Truth</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -243,7 +310,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Name</key><string>Cold Hard Truth</string>
 			<key>Persistent ID</key><string>50DBB49AE7C92FEB</string>
 			<key>Track Type</key><string>File</string>
@@ -251,9 +317,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10304</key>
+		<key>10306</key>
 		<dict>
-			<key>Track ID</key><integer>10304</integer>
+			<key>Track ID</key><integer>10306</integer>
 			<key>Name</key><string>The Corvette Song</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -266,7 +332,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Name</key><string>Corvette Song</string>
 			<key>Persistent ID</key><string>A11083575EFB375D</string>
 			<key>Track Type</key><string>File</string>
@@ -274,9 +339,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10306</key>
+		<key>10308</key>
 		<dict>
-			<key>Track ID</key><integer>10306</integer>
+			<key>Track ID</key><integer>10308</integer>
 			<key>Name</key><string>The Grand Tour</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -287,12 +352,11 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3572422057</integer>
-			<key>Play Date UTC</key><date>2017-03-15T18:27:37Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3573571150</integer>
+			<key>Play Date UTC</key><date>2017-03-29T01:39:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Name</key><string>Grand Tour</string>
 			<key>Persistent ID</key><string>A9C725BD57624713</string>
 			<key>Track Type</key><string>File</string>
@@ -300,9 +364,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10308</key>
+		<key>10310</key>
 		<dict>
-			<key>Track ID</key><integer>10308</integer>
+			<key>Track ID</key><integer>10310</integer>
 			<key>Name</key><string>The Love In Your Eyes</string>
 			<key>Artist</key><string>George Jones</string>
 			<key>Album</key><string>YouTube</string>
@@ -313,18 +377,42 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3572357306</integer>
-			<key>Play Date UTC</key><date>2017-03-15T00:28:26Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3572965703</integer>
+			<key>Play Date UTC</key><date>2017-03-22T01:28:23Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-03-15T03:44:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Name</key><string>Love In Your Eyes</string>
 			<key>Persistent ID</key><string>C97F6FDC35EA1239</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20The%20Love%20In%20Your%20Eyes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10312</key>
+		<dict>
+			<key>Track ID</key><integer>10312</integer>
+			<key>Name</key><string>The Race Is On</string>
+			<key>Artist</key><string>George Jones</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3120380</integer>
+			<key>Total Time</key><integer>129541</integer>
+			<key>Date Modified</key><date>2017-03-12T07:17:36Z</date>
+			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3572381588</integer>
+			<key>Play Date UTC</key><date>2017-03-15T07:13:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Name</key><string>Race Is On</string>
+			<key>Persistent ID</key><string>5C8B1A152EF17DF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20The%20Race%20Is%20On.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -348,7 +436,6 @@
 			<key>Skip Date</key><date>2017-03-12T19:35:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>61F91922CB60588C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Where%20Grass%20Won't%20Grow.mp3</string>
@@ -368,9 +455,11 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573571311</integer>
+			<key>Play Date UTC</key><date>2017-03-29T01:41:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>A801513ED839B980</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20White%20Lightning.mp3</string>
@@ -390,9 +479,11 @@
 			<key>Date Added</key><date>2017-03-12T07:17:15Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3573480648</integer>
+			<key>Play Date UTC</key><date>2017-03-28T00:30:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>D057B726A591A665</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Jones/YouTube/George%20Jones%20-%20Wrong's%20What%20I%20Do%20Best.mp3</string>
@@ -427,16 +518,13 @@
 		<dict>
 			<key>Name</key><string>George Jones faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>91326</integer>
+			<key>Playlist ID</key><integer>34409</integer>
 			<key>Playlist Persistent ID</key><string>9CA6531A64AA875F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10278</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10302</integer>
+					<key>Track ID</key><integer>10280</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10304</integer>
@@ -445,7 +533,7 @@
 					<key>Track ID</key><integer>10306</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10284</integer>
+					<key>Track ID</key><integer>10308</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10286</integer>
@@ -457,19 +545,22 @@
 					<key>Track ID</key><integer>10290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10308</integer>
-				</dict>
-				<dict>
 					<key>Track ID</key><integer>10292</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10296</integer>
+					<key>Track ID</key><integer>10310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10294</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10298</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10302</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10314</integer>
@@ -482,6 +573,18 @@
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10312</integer>
 				</dict>
 			</array>
 		</dict>
