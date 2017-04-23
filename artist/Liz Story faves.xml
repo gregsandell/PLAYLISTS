@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-04-23T00:04:03Z</date>
+	<key>Application Version</key><string>12.6.0.100</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14216</key>
+		<dict>
+			<key>Track ID</key><integer>14216</integer>
+			<key>Name</key><string>Things With Wings</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4128104</integer>
+			<key>Total Time</key><integer>171389</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-21T06:48:22Z</date>
+			<key>Date Added</key><date>2017-04-19T06:02:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-19T15:22:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0146960764E18DB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Things%20With%20Wings.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14310</key>
+		<dict>
+			<key>Track ID</key><integer>14310</integer>
+			<key>Name</key><string>Bradley's Dream</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6811380</integer>
+			<key>Total Time</key><integer>283193</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-21T06:48:21Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D90A6DB230443241</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Bradley's%20Dream.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14318</key>
+		<dict>
+			<key>Track ID</key><integer>14318</integer>
+			<key>Name</key><string>Solid Colors</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6711067</integer>
+			<key>Total Time</key><integer>279013</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-21T06:48:22Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4CD8F9600A209D28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Solid%20Colors.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Liz Story faves</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>70712</integer>
+			<key>Playlist Persistent ID</key><string>0C60CA4882FA3465</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14310</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
