@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-04-23T00:04:03Z</date>
+	<key>Date</key><date>2017-05-07T02:00:44Z</date>
 	<key>Application Version</key><string>12.6.0.100</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>14216</key>
+		<key>14210</key>
 		<dict>
-			<key>Track ID</key><integer>14216</integer>
+			<key>Track ID</key><integer>14210</integer>
 			<key>Name</key><string>Things With Wings</string>
 			<key>Artist</key><string>Liz Story</string>
 			<key>Album</key><string>Solid Colors</string>
@@ -22,15 +22,18 @@
 			<key>Size</key><integer>4128104</integer>
 			<key>Total Time</key><integer>171389</integer>
 			<key>Year</key><integer>1983</integer>
-			<key>Date Modified</key><date>2017-04-21T06:48:22Z</date>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
 			<key>Date Added</key><date>2017-04-19T06:02:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-19T15:22:33Z</date>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3576908653</integer>
+			<key>Play Date UTC</key><date>2017-05-06T16:44:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-05-01T17:48:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0146960764E18DB4</string>
 			<key>Track Type</key><string>File</string>
@@ -38,9 +41,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14310</key>
+		<key>14270</key>
 		<dict>
-			<key>Track ID</key><integer>14310</integer>
+			<key>Track ID</key><integer>14270</integer>
 			<key>Name</key><string>Bradley's Dream</string>
 			<key>Artist</key><string>Liz Story</string>
 			<key>Album</key><string>Solid Colors</string>
@@ -48,13 +51,15 @@
 			<key>Size</key><integer>6811380</integer>
 			<key>Total Time</key><integer>283193</integer>
 			<key>Year</key><integer>1983</integer>
-			<key>Date Modified</key><date>2017-04-21T06:48:21Z</date>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
 			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-25T02:06:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D90A6DB230443241</string>
 			<key>Track Type</key><string>File</string>
@@ -62,9 +67,57 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14318</key>
+		<key>14272</key>
 		<dict>
-			<key>Track ID</key><integer>14318</integer>
+			<key>Track ID</key><integer>14272</integer>
+			<key>Name</key><string>Hymn</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6206373</integer>
+			<key>Total Time</key><integer>257985</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3CFBB78580B2361</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Hymn.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14274</key>
+		<dict>
+			<key>Track ID</key><integer>14274</integer>
+			<key>Name</key><string>Pacheco Pass</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4484180</integer>
+			<key>Total Time</key><integer>186226</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DEAF396FEDA95F57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Pacheco%20Pass.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14276</key>
+		<dict>
+			<key>Track ID</key><integer>14276</integer>
 			<key>Name</key><string>Solid Colors</string>
 			<key>Artist</key><string>Liz Story</string>
 			<key>Album</key><string>Solid Colors</string>
@@ -72,17 +125,433 @@
 			<key>Size</key><integer>6711067</integer>
 			<key>Total Time</key><integer>279013</integer>
 			<key>Year</key><integer>1983</integer>
-			<key>Date Modified</key><date>2017-04-21T06:48:22Z</date>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
 			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
 			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4CD8F9600A209D28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Solid%20Colors.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14278</key>
+		<dict>
+			<key>Track ID</key><integer>14278</integer>
+			<key>Name</key><string>Water Caves</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4591386</integer>
+			<key>Total Time</key><integer>190693</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>77E4DED5369F32AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Water%20Caves.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14280</key>
+		<dict>
+			<key>Track ID</key><integer>14280</integer>
+			<key>Name</key><string>White Heart</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3207105</integer>
+			<key>Total Time</key><integer>133015</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3576565064</integer>
+			<key>Play Date UTC</key><date>2017-05-02T17:17:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-04-24T06:08:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F9C18CF66C1C218</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/White%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14282</key>
+		<dict>
+			<key>Track ID</key><integer>14282</integer>
+			<key>Name</key><string>Without You</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Solid Colors</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6480352</integer>
+			<key>Total Time</key><integer>269400</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
+			<key>Date Added</key><date>2017-04-21T06:47:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3576039387</integer>
+			<key>Play Date UTC</key><date>2017-04-26T15:16:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-04-26T15:12:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88B1DF26719C1C16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Without%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14284</key>
+		<dict>
+			<key>Track ID</key><integer>14284</integer>
+			<key>Name</key><string>Aquarius</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Night Sky Essays</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6897602</integer>
+			<key>Total Time</key><integer>283689</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-04-21T06:59:14Z</date>
+			<key>Date Added</key><date>2017-04-21T06:58:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-04-27T00:41:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4AF9D55A08B81D41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/2011%20-%20Night%20Sky%20Essays/Aquarius.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14286</key>
+		<dict>
+			<key>Track ID</key><integer>14286</integer>
+			<key>Name</key><string>Aries</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Night Sky Essays</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7384103</integer>
+			<key>Total Time</key><integer>303960</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-04-21T06:59:14Z</date>
+			<key>Date Added</key><date>2017-04-21T06:58:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3576171436</integer>
+			<key>Play Date UTC</key><date>2017-04-28T03:57:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-05-03T22:41:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9B1BC29D752A634</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/2011%20-%20Night%20Sky%20Essays/Aries.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14288</key>
+		<dict>
+			<key>Track ID</key><integer>14288</integer>
+			<key>Name</key><string>Gemini</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Night Sky Essays</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4013681</integer>
+			<key>Total Time</key><integer>163526</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-04-21T06:59:14Z</date>
+			<key>Date Added</key><date>2017-04-21T06:58:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A24D155BB87F3F9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/2011%20-%20Night%20Sky%20Essays/Gemini.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14292</key>
+		<dict>
+			<key>Track ID</key><integer>14292</integer>
+			<key>Name</key><string>My Foolish Heart</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Composer</key><string>Ned Washington/Victor Young</string>
+			<key>Album</key><string>My Foolish Heart</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9987346</integer>
+			<key>Total Time</key><integer>248189</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-04-21T07:00:55Z</date>
+			<key>Date Added</key><date>2017-04-21T06:59:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3576646540</integer>
+			<key>Play Date UTC</key><date>2017-05-03T15:55:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-04-25T01:06:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0970AA3374D485C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1992%20-%20My%20Foolish%20Heart/01%20My%20Foolish%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14294</key>
+		<dict>
+			<key>Track ID</key><integer>14294</integer>
+			<key>Name</key><string>Spring Can Really Hang You up the Most</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Composer</key><string>Fran Landesman/Tommy Wolf</string>
+			<key>Album</key><string>My Foolish Heart</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9903846</integer>
+			<key>Total Time</key><integer>246099</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-04-21T07:00:55Z</date>
+			<key>Date Added</key><date>2017-04-21T06:59:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4CD8F9600A209D28</string>
+			<key>Persistent ID</key><string>4175173F9128C8F7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1983%20-%20Solid%20Colors/Solid%20Colors.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1992%20-%20My%20Foolish%20Heart/02%20Spring%20Can%20Really%20Hang%20You%20up%20the%20Most.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14296</key>
+		<dict>
+			<key>Track ID</key><integer>14296</integer>
+			<key>Name</key><string>My One and Only Love</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Composer</key><string>Guy Wood/Robert Mellin</string>
+			<key>Album</key><string>My Foolish Heart</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6835509</integer>
+			<key>Total Time</key><integer>169325</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-04-21T07:00:56Z</date>
+			<key>Date Added</key><date>2017-04-21T06:59:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9573932248A9FFAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1992%20-%20My%20Foolish%20Heart/04%20My%20One%20and%20Only%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14298</key>
+		<dict>
+			<key>Track ID</key><integer>14298</integer>
+			<key>Name</key><string>My Ship</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Composer</key><string>Ira Gershwin/Kurt Weill</string>
+			<key>Album</key><string>My Foolish Heart</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8425509</integer>
+			<key>Total Time</key><integer>209110</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-04-21T07:00:56Z</date>
+			<key>Date Added</key><date>2017-04-21T06:59:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50C97FEB24766A21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1992%20-%20My%20Foolish%20Heart/06%20My%20Ship.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14486</key>
+		<dict>
+			<key>Track ID</key><integer>14486</integer>
+			<key>Name</key><string>Forgiveness</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Speechless</string>
+			<key>Genre</key><string>New Age</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21540939</integer>
+			<key>Total Time</key><integer>537991</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:47Z</date>
+			<key>Date Added</key><date>2017-04-23T19:05:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD83CF7E2326CEA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1988%20-%20Speechless/01%20Forgiveness.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14488</key>
+		<dict>
+			<key>Track ID</key><integer>14488</integer>
+			<key>Name</key><string>Frog Park</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Speechless</string>
+			<key>Genre</key><string>New Age</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7565953</integer>
+			<key>Total Time</key><integer>188316</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:50Z</date>
+			<key>Date Added</key><date>2017-04-23T19:05:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8E600FC32031007</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1988%20-%20Speechless/02%20Frog%20Park.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14490</key>
+		<dict>
+			<key>Track ID</key><integer>14490</integer>
+			<key>Name</key><string>Welcome Home</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Composer</key><string>Liz Story</string>
+			<key>Album</key><string>Speechless</string>
+			<key>Genre</key><string>New Age</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16688448</integer>
+			<key>Total Time</key><integer>416574</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:52Z</date>
+			<key>Date Added</key><date>2017-04-23T19:05:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8267547A8DF3FEAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1988%20-%20Speechless/03%20Welcome%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14492</key>
+		<dict>
+			<key>Track ID</key><integer>14492</integer>
+			<key>Name</key><string>Hermes Dance</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Speechless</string>
+			<key>Genre</key><string>New Age</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17127952</integer>
+			<key>Total Time</key><integer>427572</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:54Z</date>
+			<key>Date Added</key><date>2017-04-23T19:05:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCEAAC13593AAC2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1988%20-%20Speechless/04%20Hermes%20Dance.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14494</key>
+		<dict>
+			<key>Track ID</key><integer>14494</integer>
+			<key>Name</key><string>Back Porch</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album Artist</key><string>Liz Story</string>
+			<key>Album</key><string>Speechless</string>
+			<key>Genre</key><string>New Age</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9684230</integer>
+			<key>Total Time</key><integer>241319</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-04-25T02:06:57Z</date>
+			<key>Date Added</key><date>2017-04-23T19:05:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3575954578</integer>
+			<key>Play Date UTC</key><date>2017-04-25T15:42:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-27T15:22:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF27C7420D86FC59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1988%20-%20Speechless/06%20Back%20Porch.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -92,19 +561,70 @@
 		<dict>
 			<key>Name</key><string>Liz Story faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>70712</integer>
+			<key>Playlist ID</key><integer>32960</integer>
 			<key>Playlist Persistent ID</key><string>0C60CA4882FA3465</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14216</integer>
+					<key>Track ID</key><integer>14210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14318</integer>
+					<key>Track ID</key><integer>14276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14310</integer>
+					<key>Track ID</key><integer>14270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14286</integer>
 				</dict>
 			</array>
 		</dict>
