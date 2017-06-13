@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-05-07T02:06:54Z</date>
-	<key>Application Version</key><string>12.6.0.100</string>
+	<key>Date</key><date>2017-06-13T02:06:04Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>13570</key>
+		<key>13402</key>
 		<dict>
-			<key>Track ID</key><integer>13570</integer>
+			<key>Track ID</key><integer>13402</integer>
 			<key>Name</key><string>A Forgotten Hero</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Irish Times</string>
@@ -31,6 +31,8 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3575375428</integer>
 			<key>Play Date UTC</key><date>2017-04-18T22:50:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-17T00:34:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -39,12 +41,12 @@
 			<key>Persistent ID</key><string>EBE078DD7DE0F079</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1990%20-%20Irish%20Times/A%20Forgotten%20Hero.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13572</key>
+		<key>13404</key>
 		<dict>
-			<key>Track ID</key><integer>13572</integer>
+			<key>Track ID</key><integer>13404</integer>
 			<key>Name</key><string>Boston O'Connor/John Gaffney's Fling/The Kerryman's Fling</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Irish Times</string>
@@ -68,12 +70,12 @@
 			<key>Persistent ID</key><string>759FC9EF625B171C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1990%20-%20Irish%20Times/Boston%20O'Connor_John%20Gaffney's%20Fling.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13574</key>
+		<key>13406</key>
 		<dict>
-			<key>Track ID</key><integer>13574</integer>
+			<key>Track ID</key><integer>13406</integer>
 			<key>Name</key><string>Brian O'Lynn/The Woods of Old Limerick</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Irish Times</string>
@@ -94,12 +96,12 @@
 			<key>Persistent ID</key><string>ABE8EA84D8D55CEA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1990%20-%20Irish%20Times/Brian%20O'Lynn_The%20Woods%20of%20Old%20Limeri.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13576</key>
+		<key>13408</key>
 		<dict>
-			<key>Track ID</key><integer>13576</integer>
+			<key>Track ID</key><integer>13408</integer>
 			<key>Name</key><string>Doorus Mill/The Rolling Reel/The Ballygow Reel/Dennis Murphy's Reel</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Irish Times</string>
@@ -123,12 +125,12 @@
 			<key>Persistent ID</key><string>8B7FDA394BC6517F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1990%20-%20Irish%20Times/Doorus%20Mill_The%20Rolling%20Reel_The%20Bal.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13580</key>
+		<key>13412</key>
 		<dict>
-			<key>Track ID</key><integer>13580</integer>
+			<key>Track ID</key><integer>13412</integer>
 			<key>Name</key><string>The Humours of the King of Ballyhooley</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Irish Times</string>
@@ -153,12 +155,12 @@
 			<key>Persistent ID</key><string>A0864740D36E08F0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1990%20-%20Irish%20Times/The%20Humours%20of%20the%20King%20of%20Ballyhool.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13688</key>
+		<key>13518</key>
 		<dict>
-			<key>Track ID</key><integer>13688</integer>
+			<key>Track ID</key><integer>13518</integer>
 			<key>Name</key><string>The Braes of Moneymore</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -170,7 +172,7 @@
 			<key>Total Time</key><integer>231575</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1988</integer>
-			<key>Date Modified</key><date>2017-04-15T21:48:18Z</date>
+			<key>Date Modified</key><date>2017-04-15T21:49:49Z</date>
 			<key>Date Added</key><date>2017-04-15T21:47:30Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -186,12 +188,12 @@
 			<key>Persistent ID</key><string>11214869D5864DC5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/02%20The%20Braes%20of%20Moneymore.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13690</key>
+		<key>13520</key>
 		<dict>
-			<key>Track ID</key><integer>13690</integer>
+			<key>Track ID</key><integer>13520</integer>
 			<key>Name</key><string>Hard by Seifin/Woodcock Hill</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -218,12 +220,12 @@
 			<key>Persistent ID</key><string>CB34A4AE764213B2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/03%20Hard%20by%20Seifin:Woodcock%20Hill.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13692</key>
+		<key>13522</key>
 		<dict>
-			<key>Track ID</key><integer>13692</integer>
+			<key>Track ID</key><integer>13522</integer>
 			<key>Name</key><string>Tom Joad</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -250,12 +252,12 @@
 			<key>Persistent ID</key><string>37BA14E166C809D9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/04%20Tom%20Joad.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13694</key>
+		<key>13524</key>
 		<dict>
-			<key>Track ID</key><integer>13694</integer>
+			<key>Track ID</key><integer>13524</integer>
 			<key>Name</key><string>Benton's Jig/Benton's Dream</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -267,7 +269,7 @@
 			<key>Total Time</key><integer>222693</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1988</integer>
-			<key>Date Modified</key><date>2017-04-15T21:48:20Z</date>
+			<key>Date Modified</key><date>2017-04-15T21:49:49Z</date>
 			<key>Date Added</key><date>2017-04-15T21:47:30Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -282,12 +284,12 @@
 			<key>Persistent ID</key><string>D471E62C7CA2B883</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/05%20Benton's%20Jig:Benton's%20Dream.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13696</key>
+		<key>13526</key>
 		<dict>
-			<key>Track ID</key><integer>13696</integer>
+			<key>Track ID</key><integer>13526</integer>
 			<key>Name</key><string>William Taylor</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -299,13 +301,13 @@
 			<key>Total Time</key><integer>189466</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1988</integer>
-			<key>Date Modified</key><date>2017-04-15T21:48:20Z</date>
+			<key>Date Modified</key><date>2017-04-15T21:49:49Z</date>
 			<key>Date Added</key><date>2017-04-15T21:47:30Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3575523692</integer>
-			<key>Play Date UTC</key><date>2017-04-20T16:01:32Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3577801074</integer>
+			<key>Play Date UTC</key><date>2017-05-17T00:37:54Z</date>
 			<key>Release Date</key><date>1988-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -314,12 +316,12 @@
 			<key>Persistent ID</key><string>A3347EA2AEEF5A21</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/06%20William%20Taylor.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13698</key>
+		<key>13528</key>
 		<dict>
-			<key>Track ID</key><integer>13698</integer>
+			<key>Track ID</key><integer>13528</integer>
 			<key>Name</key><string>Caherlistrane Jig/Gallowglass Jig/Kanturk Jig</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -348,12 +350,12 @@
 			<key>Persistent ID</key><string>EAB965723FADBBD4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/07%20Caherlistrane%20Jig:Gallowglass%20Jig:Kanturk%20Jig.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13700</key>
+		<key>13530</key>
 		<dict>
-			<key>Track ID</key><integer>13700</integer>
+			<key>Track ID</key><integer>13530</integer>
 			<key>Name</key><string>Jenny Picking Cockles/An Gabhrán/Jack Keane's Reel</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -380,12 +382,12 @@
 			<key>Persistent ID</key><string>B5744B181ADB8670</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/08%20Jenny%20Picking%20Cockles:An%20Gabhra%CC%81n:Jack%20Keane's%20Reel.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13702</key>
+		<key>13532</key>
 		<dict>
-			<key>Track ID</key><integer>13702</integer>
+			<key>Track ID</key><integer>13532</integer>
 			<key>Name</key><string>Facing the Chair</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -412,12 +414,12 @@
 			<key>Persistent ID</key><string>1D98E6D34E528497</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1988%20-%20No.%202%20Patrick%20Street/09%20Facing%20the%20Chair.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13730</key>
+		<key>13560</key>
 		<dict>
-			<key>Track ID</key><integer>13730</integer>
+			<key>Track ID</key><integer>13560</integer>
 			<key>Name</key><string>The Patrick Street/The Carraroe Jig</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -444,12 +446,12 @@
 			<key>Persistent ID</key><string>EEC895E498A97329</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/01%20The%20Patrick%20Street:The%20Carraroe%20Jig.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13732</key>
+		<key>13562</key>
 		<dict>
-			<key>Track ID</key><integer>13732</integer>
+			<key>Track ID</key><integer>13562</integer>
 			<key>Name</key><string>Walter Sammon's Grandmother/Concertina Reel/Brendan McMahon's</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -476,12 +478,12 @@
 			<key>Persistent ID</key><string>A30266DB02ECCA4F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/02%20Walter%20Sammon's%20Grandmother:Concertina%20Reel:Brendan%20McMahon's.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13734</key>
+		<key>13564</key>
 		<dict>
-			<key>Track ID</key><integer>13734</integer>
+			<key>Track ID</key><integer>13564</integer>
 			<key>Name</key><string>The Holy Ground</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -509,12 +511,12 @@
 			<key>Persistent ID</key><string>57E0634C9C85B26D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/03%20The%20Holy%20Ground.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13736</key>
+		<key>13566</key>
 		<dict>
-			<key>Track ID</key><integer>13736</integer>
+			<key>Track ID</key><integer>13566</integer>
 			<key>Name</key><string>The Shores of Lough Gowna/Contentment Is Wealth/Have a Drink With Me</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -542,12 +544,12 @@
 			<key>Persistent ID</key><string>C7ABD987D51A70E5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/04%20The%20Shores%20of%20Lough%20Gowna:Contentment%20Is%20Wealth:Have%20a%20Drink%20With%20Me.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13738</key>
+		<key>13568</key>
 		<dict>
-			<key>Track ID</key><integer>13738</integer>
+			<key>Track ID</key><integer>13568</integer>
 			<key>Name</key><string>Martin Rochford's Reel/Roll out the Barrell/The Earl's Chair</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -574,12 +576,12 @@
 			<key>Persistent ID</key><string>28287738F7543F45</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/08%20Martin%20Rochford's%20Reel:Roll%20out%20the%20Barrell:The%20Earl's%20Chair.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13740</key>
+		<key>13570</key>
 		<dict>
-			<key>Track ID</key><integer>13740</integer>
+			<key>Track ID</key><integer>13570</integer>
 			<key>Name</key><string>Mrs. O'Sullivan's Jig/Caliope House</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -606,12 +608,12 @@
 			<key>Persistent ID</key><string>6404FCA6F77F36D7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/09%20Mrs.%20O'Sullivan's%20Jig:Caliope%20House.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13742</key>
+		<key>13572</key>
 		<dict>
-			<key>Track ID</key><integer>13742</integer>
+			<key>Track ID</key><integer>13572</integer>
 			<key>Name</key><string>The Man With the Cap</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album Artist</key><string>Patrick Street</string>
@@ -641,12 +643,12 @@
 			<key>Persistent ID</key><string>B88CDDA149E61EE5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1986%20-%20Patrick%20Street/10%20The%20Man%20With%20the%20Cap.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14152</key>
+		<key>13978</key>
 		<dict>
-			<key>Track ID</key><integer>14152</integer>
+			<key>Track ID</key><integer>13978</integer>
 			<key>Name</key><string>Ar a Ghabháil Go Baile Átha Cliath Domh</string>
 			<key>Artist</key><string>Kevin Burke &#38; Mícheál Ó Domhnaill</string>
 			<key>Album Artist</key><string>Kevin Burke &#38; Mícheál Ó Domhnaill</string>
@@ -680,12 +682,12 @@
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1979%20-%20Promenade/06%20Ar%20a%20Ghabha%CC%81il%20Go%20Baile%20A%CC%81tha%20Cliath%20Domh.m4a</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14644</key>
+		<key>14462</key>
 		<dict>
-			<key>Track ID</key><integer>14644</integer>
+			<key>Track ID</key><integer>14462</integer>
 			<key>Name</key><string>A Prince Among Men (Only A Miner)</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>All in Good Time</string>
@@ -707,12 +709,12 @@
 			<key>Persistent ID</key><string>19803CE9A38F93E6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1993%20-%20All%20in%20Good%20Time/A%20Prince%20Among%20Men%20(Only%20A%20Miner).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14646</key>
+		<key>14464</key>
 		<dict>
-			<key>Track ID</key><integer>14646</integer>
+			<key>Track ID</key><integer>14464</integer>
 			<key>Name</key><string>Carrowclare</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>All in Good Time</string>
@@ -730,12 +732,12 @@
 			<key>Persistent ID</key><string>7AFF88707EAA6E14</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1993%20-%20All%20in%20Good%20Time/Carrowclare.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14648</key>
+		<key>14466</key>
 		<dict>
-			<key>Track ID</key><integer>14648</integer>
+			<key>Track ID</key><integer>14466</integer>
 			<key>Name</key><string>Lintheads-Pride Of Springfield Road-Lawrence Commo</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>All in Good Time</string>
@@ -758,12 +760,12 @@
 			<key>Persistent ID</key><string>68CD503DCE11438E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1993%20-%20All%20in%20Good%20Time/Lintheads-Pride%20Of%20Springfield%20Road-Lawrence%20Commo.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14650</key>
+		<key>14468</key>
 		<dict>
-			<key>Track ID</key><integer>14650</integer>
+			<key>Track ID</key><integer>14468</integer>
 			<key>Name</key><string>The Girls Along The Road</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>All in Good Time</string>
@@ -782,12 +784,12 @@
 			<key>Persistent ID</key><string>5E5D56C5C0B35EFF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1993%20-%20All%20in%20Good%20Time/The%20Girls%20Along%20The%20Road.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14652</key>
+		<key>14470</key>
 		<dict>
-			<key>Track ID</key><integer>14652</integer>
+			<key>Track ID</key><integer>14470</integer>
 			<key>Name</key><string>The Mouth Of The Tobique - Billy Wilson</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>All in Good Time</string>
@@ -808,12 +810,12 @@
 			<key>Persistent ID</key><string>298AB27592B69E5A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1993%20-%20All%20in%20Good%20Time/The%20Mouth%20Of%20The%20Tobique%20-%20Billy%20Wilson.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15118</key>
+		<key>14908</key>
 		<dict>
-			<key>Track ID</key><integer>15118</integer>
+			<key>Track ID</key><integer>14908</integer>
 			<key>Name</key><string>Devanney's Goat-The Leitrim Rover-Michael Ryan's</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -825,6 +827,9 @@
 			<key>Date Added</key><date>2017-05-01T06:03:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3578022422</integer>
+			<key>Play Date UTC</key><date>2017-05-19T14:07:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -832,12 +837,12 @@
 			<key>Persistent ID</key><string>773F514124AFA927</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Devanney's%20Goat-The%20Leitrim%20Rover-Michael%20Ryan's.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15120</key>
+		<key>14910</key>
 		<dict>
-			<key>Track ID</key><integer>15120</integer>
+			<key>Track ID</key><integer>14910</integer>
 			<key>Name</key><string>Down By Greer's Grove</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -856,12 +861,12 @@
 			<key>Persistent ID</key><string>CB4CEB345EC5C7E1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Down%20By%20Greer's%20Grove.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15122</key>
+		<key>14912</key>
 		<dict>
-			<key>Track ID</key><integer>15122</integer>
+			<key>Track ID</key><integer>14912</integer>
 			<key>Name</key><string>Killanan's Fancy-The Dash To Portobello-Anna Macul</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -882,12 +887,12 @@
 			<key>Persistent ID</key><string>97961B697CED9921</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Killanan's%20Fancy-The%20Dash%20To%20Portobello-Anna%20Macul.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15124</key>
+		<key>14914</key>
 		<dict>
-			<key>Track ID</key><integer>15124</integer>
+			<key>Track ID</key><integer>14914</integer>
 			<key>Name</key><string>Pity The Poor Hare-On Yonder Hill-Merrily Trippin</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -908,12 +913,12 @@
 			<key>Persistent ID</key><string>2AFF5B61B64AD788</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Pity%20The%20Poor%20Hare-On%20Yonder%20Hill-Merrily%20Trippin.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15126</key>
+		<key>14916</key>
 		<dict>
-			<key>Track ID</key><integer>15126</integer>
+			<key>Track ID</key><integer>14916</integer>
 			<key>Name</key><string>Portarlington Jig-Billy McCormick's-Munster Butter</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -935,12 +940,12 @@
 			<key>Persistent ID</key><string>E5D2C88DC44D7F2D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Portarlington%20Jig-Billy%20McCormick's-Munster%20Butter.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15128</key>
+		<key>14918</key>
 		<dict>
-			<key>Track ID</key><integer>15128</integer>
+			<key>Track ID</key><integer>14918</integer>
 			<key>Name</key><string>Sweet Lisbweemore</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -959,12 +964,12 @@
 			<key>Persistent ID</key><string>CA4734777CF21D0D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Sweet%20Lisbweemore.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15130</key>
+		<key>14920</key>
 		<dict>
-			<key>Track ID</key><integer>15130</integer>
+			<key>Track ID</key><integer>14920</integer>
 			<key>Name</key><string>The White Petticoat-The Kerry Jig-Katy Is Waiting</string>
 			<key>Artist</key><string>Patrick Street</string>
 			<key>Album</key><string>Corner Boys</string>
@@ -987,8 +992,395 @@
 			<key>Persistent ID</key><string>F7600B580D3D1C18</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/The%20White%20Petticoat-The%20Kerry%20Jig-Katy%20Is%20Waiting.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15230</key>
+		<dict>
+			<key>Track ID</key><integer>15230</integer>
+			<key>Name</key><string>Bring Back The Child - Paidin O'Rafferty</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5602232</integer>
+			<key>Total Time</key><integer>228231</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:50Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>161FE66958F67A70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/Bring%20Back%20The%20Child%20-%20Paidin%20O'Rafferty.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15232</key>
+		<dict>
+			<key>Track ID</key><integer>15232</integer>
+			<key>Name</key><string>Her Mantle So Green</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7257329</integer>
+			<key>Total Time</key><integer>297195</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:50Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577042503</integer>
+			<key>Play Date UTC</key><date>2017-05-08T05:55:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>812220120B8E76F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/Her%20Mantle%20So%20Green.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15234</key>
+		<dict>
+			<key>Track ID</key><integer>15234</integer>
+			<key>Name</key><string>Spanking Maggie From The Ross</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6249222</integer>
+			<key>Total Time</key><integer>255190</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:52Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577004209</integer>
+			<key>Play Date UTC</key><date>2017-05-07T19:16:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B04CE5E18DFF82B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/Spanking%20Maggie%20From%20The%20Ross.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15236</key>
+		<dict>
+			<key>Track ID</key><integer>15236</integer>
+			<key>Name</key><string>The Coalminer - The Heather Breeze - Turf House</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4017337</integer>
+			<key>Total Time</key><integer>162194</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:50Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577042192</integer>
+			<key>Play Date UTC</key><date>2017-05-08T05:49:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Coalminer - The Heather Breeze - Turf House</string>
+			<key>Persistent ID</key><string>7E2B30F4804B2ACE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/The%20Coalminer%20-%20The%20Heather%20Breeze%20-%20Turf%20House.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15238</key>
+		<dict>
+			<key>Track ID</key><integer>15238</integer>
+			<key>Name</key><string>The Midnight Ramble-The Bogman-The Old Stage</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4724521</integer>
+			<key>Total Time</key><integer>191660</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:51Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577033341</integer>
+			<key>Play Date UTC</key><date>2017-05-08T03:22:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Midnight Ramble-The Bogman-The Old Stage</string>
+			<key>Persistent ID</key><string>DDEFA6FF61A77361</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/The%20Midnight%20Ramble-The%20Bogman-The%20Old%20Stage.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15240</key>
+		<dict>
+			<key>Track ID</key><integer>15240</integer>
+			<key>Name</key><string>The Winding Stairs - Ride A Mile</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3773443</integer>
+			<key>Total Time</key><integer>152032</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:52Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577041337</integer>
+			<key>Play Date UTC</key><date>2017-05-08T05:35:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Winding Stairs - Ride A Mile</string>
+			<key>Persistent ID</key><string>99EC93DEBC6D27CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/The%20Winding%20Stairs%20-%20Ride%20A%20Mile.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15242</key>
+		<dict>
+			<key>Track ID</key><integer>15242</integer>
+			<key>Name</key><string>Up To Your Neck In Sand-Coffey's Reel-John Brennan</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6123855</integer>
+			<key>Total Time</key><integer>249965</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:52Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577187314</integer>
+			<key>Play Date UTC</key><date>2017-05-09T22:08:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>538C638B6AD67EE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/Up%20To%20Your%20Neck%20In%20Sand-Coffey's%20Reel-John%20Brennan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15244</key>
+		<dict>
+			<key>Track ID</key><integer>15244</integer>
+			<key>Name</key><string>When Adams Was In Paradise</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Made in Cork</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3803530</integer>
+			<key>Total Time</key><integer>153286</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-05-07T01:23:52Z</date>
+			<key>Date Added</key><date>2017-05-07T01:23:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9F0A3B935BADE92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1997%20-%20Made%20in%20Cork/When%20Adams%20Was%20In%20Paradise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15652</key>
+		<dict>
+			<key>Track ID</key><integer>15652</integer>
+			<key>Name</key><string>Down the Broom-The Gatehouse Maid-Mulvihill's</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>On the Fly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5277181</integer>
+			<key>Total Time</key><integer>214230</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-13T04:42:37Z</date>
+			<key>Date Added</key><date>2017-05-13T04:41:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE695DEE2795A7EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/2007%20-%20On%20the%20Fly/Down%20the%20Broom-The%20Gatehouse%20Maid-Mulvihill's.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15654</key>
+		<dict>
+			<key>Track ID</key><integer>15654</integer>
+			<key>Name</key><string>Erin Go Bragh</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>On the Fly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6051418</integer>
+			<key>Total Time</key><integer>246491</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-13T04:42:37Z</date>
+			<key>Date Added</key><date>2017-05-13T04:41:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F8A783955DCF3F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/2007%20-%20On%20the%20Fly/Erin%20Go%20Bragh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15656</key>
+		<dict>
+			<key>Track ID</key><integer>15656</integer>
+			<key>Name</key><string>Martin Wynne's-Jackie Coleman's-Malynn's Fancy</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>On the Fly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4600088</integer>
+			<key>Total Time</key><integer>186017</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-13T04:42:38Z</date>
+			<key>Date Added</key><date>2017-05-13T04:41:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577482378</integer>
+			<key>Play Date UTC</key><date>2017-05-13T08:06:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9BA40DD4286A5DC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/2007%20-%20On%20the%20Fly/Martin%20Wynne's-Jackie%20Coleman's-Malynn's%20Fancy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15658</key>
+		<dict>
+			<key>Track ID</key><integer>15658</integer>
+			<key>Name</key><string>Na Ceannabhain Bhana - Paidin O Raifeartaigh</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>On the Fly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3603880</integer>
+			<key>Total Time</key><integer>144509</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-13T04:42:38Z</date>
+			<key>Date Added</key><date>2017-05-13T04:41:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577769698</integer>
+			<key>Play Date UTC</key><date>2017-05-16T15:54:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2C832F7FC2D627F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/2007%20-%20On%20the%20Fly/Na%20Ceannabhain%20Bhana%20-%20Paidin%20O%20Raifeartaigh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15660</key>
+		<dict>
+			<key>Track ID</key><integer>15660</integer>
+			<key>Name</key><string>Sergeant Small</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>On the Fly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6252039</integer>
+			<key>Total Time</key><integer>254850</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-13T04:42:40Z</date>
+			<key>Date Added</key><date>2017-05-13T04:41:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577862052</integer>
+			<key>Play Date UTC</key><date>2017-05-17T17:34:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5D105ED170BFB78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/2007%20-%20On%20the%20Fly/Sergeant%20Small.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16316</key>
+		<dict>
+			<key>Track ID</key><integer>16316</integer>
+			<key>Name</key><string>My Son In Amerikay</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Live From Patrick Street</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4935743</integer>
+			<key>Total Time</key><integer>201482</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-05-26T04:40:42Z</date>
+			<key>Date Added</key><date>2017-05-26T04:39:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BA08F6A79B52935</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1999%20-%20Live%20From%20Patrick%20Street/My%20Son%20In%20Amerikay.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16318</key>
+		<dict>
+			<key>Track ID</key><integer>16318</integer>
+			<key>Name</key><string>Slides: Unnamed-Johnny O'Leary-s-Micho Russell's</string>
+			<key>Artist</key><string>Patrick Street</string>
+			<key>Album</key><string>Live From Patrick Street</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5517573</integer>
+			<key>Total Time</key><integer>225724</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-05-26T04:40:42Z</date>
+			<key>Date Added</key><date>2017-05-26T04:39:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3579011151</integer>
+			<key>Play Date UTC</key><date>2017-05-31T00:45:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-28T22:24:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F171089BFFF13A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1999%20-%20Live%20From%20Patrick%20Street/Slides-%20Unnamed-Johnny%20O'Leary-s-Micho%20Russell's.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -996,109 +1388,154 @@
 		<dict>
 			<key>Name</key><string>Patrick Street faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>33949</integer>
+			<key>Playlist ID</key><integer>35912</integer>
 			<key>Playlist Persistent ID</key><string>A36945BAE4C0120C</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>13738</integer>
+					<key>Track ID</key><integer>13568</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13736</integer>
+					<key>Track ID</key><integer>13566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13734</integer>
+					<key>Track ID</key><integer>13564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13732</integer>
+					<key>Track ID</key><integer>13562</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13730</integer>
+					<key>Track ID</key><integer>13560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13700</integer>
+					<key>Track ID</key><integer>13530</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13692</integer>
+					<key>Track ID</key><integer>13522</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13580</integer>
+					<key>Track ID</key><integer>13412</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13572</integer>
+					<key>Track ID</key><integer>13404</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13574</integer>
+					<key>Track ID</key><integer>13406</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13576</integer>
+					<key>Track ID</key><integer>13408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13690</integer>
+					<key>Track ID</key><integer>13520</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14152</integer>
+					<key>Track ID</key><integer>13978</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13688</integer>
+					<key>Track ID</key><integer>13518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13694</integer>
+					<key>Track ID</key><integer>13524</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13696</integer>
+					<key>Track ID</key><integer>13526</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13698</integer>
+					<key>Track ID</key><integer>13528</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13702</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13740</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13742</integer>
+					<key>Track ID</key><integer>13532</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>13570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14646</integer>
+					<key>Track ID</key><integer>13572</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14650</integer>
+					<key>Track ID</key><integer>13402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14648</integer>
+					<key>Track ID</key><integer>14464</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14644</integer>
+					<key>Track ID</key><integer>14468</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14652</integer>
+					<key>Track ID</key><integer>14466</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15118</integer>
+					<key>Track ID</key><integer>14462</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15120</integer>
+					<key>Track ID</key><integer>14470</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15122</integer>
+					<key>Track ID</key><integer>14908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15124</integer>
+					<key>Track ID</key><integer>14910</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15126</integer>
+					<key>Track ID</key><integer>14912</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15128</integer>
+					<key>Track ID</key><integer>14914</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15130</integer>
+					<key>Track ID</key><integer>14916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14918</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15652</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15654</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16316</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16318</integer>
 				</dict>
 			</array>
 		</dict>

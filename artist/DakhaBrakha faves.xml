@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-05-07T01:56:33Z</date>
-	<key>Application Version</key><string>12.6.0.100</string>
+	<key>Date</key><date>2017-06-13T01:57:24Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>15180</key>
+		<key>14962</key>
 		<dict>
-			<key>Track ID</key><integer>15180</integer>
+			<key>Track ID</key><integer>14962</integer>
 			<key>Name</key><string>Karpatskyi Rep</string>
 			<key>Artist</key><string>DakhaBrakha</string>
 			<key>Album</key><string>Light</string>
@@ -26,18 +26,21 @@
 			<key>Date Added</key><date>2017-05-01T07:17:12Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577734413</integer>
+			<key>Play Date UTC</key><date>2017-05-16T06:06:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7C0F48643A434BB9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2010%20-%20Light/Karpatskyi%20Rep.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15182</key>
+		<key>14964</key>
 		<dict>
-			<key>Track ID</key><integer>15182</integer>
+			<key>Track ID</key><integer>14964</integer>
 			<key>Name</key><string>Tjolky</string>
 			<key>Artist</key><string>DakhaBrakha</string>
 			<key>Album</key><string>Light</string>
@@ -58,12 +61,12 @@
 			<key>Persistent ID</key><string>C361E433071FC42F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2010%20-%20Light/Tjolky.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15184</key>
+		<key>14966</key>
 		<dict>
-			<key>Track ID</key><integer>15184</integer>
+			<key>Track ID</key><integer>14966</integer>
 			<key>Name</key><string>Yanky</string>
 			<key>Artist</key><string>DakhaBrakha</string>
 			<key>Album</key><string>YouTube</string>
@@ -79,12 +82,12 @@
 			<key>Persistent ID</key><string>0D7A348B84297BBD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/YouTube/DakhaBrakha%20-%20Yanky.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15208</key>
+		<key>14990</key>
 		<dict>
-			<key>Track ID</key><integer>15208</integer>
+			<key>Track ID</key><integer>14990</integer>
 			<key>Name</key><string>Salgir Boyu</string>
 			<key>Artist</key><string>DakhaBrakha</string>
 			<key>Album</key><string>Шлях (Way)</string>
@@ -98,17 +101,16 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AD1174603E0AC5B3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2016%20-%20%D0%A8%D0%BB%D1%8F%D1%85%20(Way)/Salgir%20Boyu.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15214</key>
+		<key>14992</key>
 		<dict>
-			<key>Track ID</key><integer>15214</integer>
+			<key>Track ID</key><integer>14992</integer>
 			<key>Name</key><string>Чорна хмара</string>
 			<key>Artist</key><string>DakhaBrakha</string>
 			<key>Album</key><string>Шлях (Way)</string>
@@ -125,13 +127,523 @@
 			<key>Play Date UTC</key><date>2017-05-03T14:59:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F36C941B084557A6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2016%20-%20%D0%A8%D0%BB%D1%8F%D1%85%20(Way)/%D0%A7%D0%BE%D1%80%D0%BD%D0%B0%20%D1%85%D0%BC%D0%B0%D1%80%D0%B0.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15280</key>
+		<dict>
+			<key>Track ID</key><integer>15280</integer>
+			<key>Name</key><string>Divka Marusechka</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>На Межі (On the Verge)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8363594</integer>
+			<key>Total Time</key><integer>343797</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-05-07T23:23:26Z</date>
+			<key>Date Added</key><date>2017-05-07T23:21:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577041185</integer>
+			<key>Play Date UTC</key><date>2017-05-08T05:33:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2AFF026E02A8F5DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2009%20-%20%D0%9D%D0%B0%20%D0%9C%D0%B5%D0%B6%D1%96/Divka%20Marusechka.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15296</key>
+		<dict>
+			<key>Track ID</key><integer>15296</integer>
+			<key>Name</key><string>Dyado</string>
+			<key>Artist</key><string>DakhaBrakha &#38; Port Mone</string>
+			<key>Album</key><string>Khmeleva Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3938526</integer>
+			<key>Total Time</key><integer>159059</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-05-09T06:37:06Z</date>
+			<key>Date Added</key><date>2017-05-09T06:35:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F8AE22FE072DB62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2012%20-%20Khmeleva%20Project/Dyado.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15298</key>
+		<dict>
+			<key>Track ID</key><integer>15298</integer>
+			<key>Name</key><string>Kryvyi Tanets</string>
+			<key>Artist</key><string>DakhaBrakha &#38; Port Mone</string>
+			<key>Album</key><string>Khmeleva Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9076297</integer>
+			<key>Total Time</key><integer>373133</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-05-09T06:37:07Z</date>
+			<key>Date Added</key><date>2017-05-09T06:35:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B67679B683F4DFD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2012%20-%20Khmeleva%20Project/Kryvyi%20Tanets.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15300</key>
+		<dict>
+			<key>Track ID</key><integer>15300</integer>
+			<key>Name</key><string>Oi Upav Snizhok</string>
+			<key>Artist</key><string>DakhaBrakha &#38; Port Mone</string>
+			<key>Album</key><string>Khmeleva Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10117644</integer>
+			<key>Total Time</key><integer>416522</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-05-09T06:37:07Z</date>
+			<key>Date Added</key><date>2017-05-09T06:35:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F2FB4FDCB018551</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2012%20-%20Khmeleva%20Project/Oi%20Upav%20Snizhok.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15302</key>
+		<dict>
+			<key>Track ID</key><integer>15302</integer>
+			<key>Name</key><string>Tonke Derevo</string>
+			<key>Artist</key><string>DakhaBrakha &#38; Port Mone</string>
+			<key>Album</key><string>Khmeleva Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15541289</integer>
+			<key>Total Time</key><integer>642507</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-05-09T06:37:08Z</date>
+			<key>Date Added</key><date>2017-05-09T06:35:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577859922</integer>
+			<key>Play Date UTC</key><date>2017-05-17T16:58:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D0BD3854B616304B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2012%20-%20Khmeleva%20Project/Tonke%20Derevo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15304</key>
+		<dict>
+			<key>Track ID</key><integer>15304</integer>
+			<key>Name</key><string>Vesnyanky</string>
+			<key>Artist</key><string>DakhaBrakha &#38; Port Mone</string>
+			<key>Album</key><string>Khmeleva Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13437906</integer>
+			<key>Total Time</key><integer>554866</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-05-09T06:37:10Z</date>
+			<key>Date Added</key><date>2017-05-09T06:35:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577734907</integer>
+			<key>Play Date UTC</key><date>2017-05-16T06:15:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5923A54E712B72C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2012%20-%20Khmeleva%20Project/Vesnyanky.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15306</key>
+		<dict>
+			<key>Track ID</key><integer>15306</integer>
+			<key>Name</key><string>Yelena</string>
+			<key>Artist</key><string>DakhaBrakha &#38; Port Mone</string>
+			<key>Album</key><string>Khmeleva Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8512672</integer>
+			<key>Total Time</key><integer>349648</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-05-09T06:37:10Z</date>
+			<key>Date Added</key><date>2017-05-09T06:35:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CC8797E8CE65510</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2012%20-%20Khmeleva%20Project/Yelena.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15574</key>
+		<dict>
+			<key>Track ID</key><integer>15574</integer>
+			<key>Name</key><string>Pani</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Yahudky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5115271</integer>
+			<key>Total Time</key><integer>207830</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-12T23:45:15Z</date>
+			<key>Date Added</key><date>2017-05-12T23:43:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577535084</integer>
+			<key>Play Date UTC</key><date>2017-05-13T22:44:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F17B3691A04B52C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Pani.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15576</key>
+		<dict>
+			<key>Track ID</key><integer>15576</integer>
+			<key>Name</key><string>Rusalochky</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Yahudky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2756106</integer>
+			<key>Total Time</key><integer>109531</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-12T23:45:15Z</date>
+			<key>Date Added</key><date>2017-05-12T23:43:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577536423</integer>
+			<key>Play Date UTC</key><date>2017-05-13T23:07:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-13T22:44:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>779CD9EC15E12D0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Rusalochky.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15578</key>
+		<dict>
+			<key>Track ID</key><integer>15578</integer>
+			<key>Name</key><string>Sho Z-Pod Duba</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Yahudky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5606801</integer>
+			<key>Total Time</key><integer>228310</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-12T23:45:15Z</date>
+			<key>Date Added</key><date>2017-05-12T23:43:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E2CCADC00179399</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Sho%20Z-Pod%20Duba.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15580</key>
+		<dict>
+			<key>Track ID</key><integer>15580</integer>
+			<key>Name</key><string>Vesna Chilly</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Yahudky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13927530</integer>
+			<key>Total Time</key><integer>575007</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-12T23:45:16Z</date>
+			<key>Date Added</key><date>2017-05-12T23:43:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20C0523D8533E0AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Vesna%20Chilly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15582</key>
+		<dict>
+			<key>Track ID</key><integer>15582</integer>
+			<key>Name</key><string>Za Duby</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Yahudky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3480217</integer>
+			<key>Total Time</key><integer>139702</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-12T23:45:16Z</date>
+			<key>Date Added</key><date>2017-05-12T23:43:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FD391A9347F03A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Za%20Duby.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15808</key>
+		<dict>
+			<key>Track ID</key><integer>15808</integer>
+			<key>Name</key><string>Do sta lit</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3183728</integer>
+			<key>Total Time</key><integer>131160</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:40Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9CB78469901FA34E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Do%20sta%20lit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15810</key>
+		<dict>
+			<key>Track ID</key><integer>15810</integer>
+			<key>Name</key><string>Ivana Kupala</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8246261</integer>
+			<key>Total Time</key><integer>342099</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:40Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3578046971</integer>
+			<key>Play Date UTC</key><date>2017-05-19T20:56:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4ED2B3EE4102A0CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Ivana%20Kupala.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15812</key>
+		<dict>
+			<key>Track ID</key><integer>15812</integer>
+			<key>Name</key><string>Kozak</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6280801</integer>
+			<key>Total Time</key><integer>260205</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:41Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3578028043</integer>
+			<key>Play Date UTC</key><date>2017-05-19T15:40:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59B18F1A918932D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Kozak.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15814</key>
+		<dict>
+			<key>Track ID</key><integer>15814</integer>
+			<key>Name</key><string>Pani</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5027549</integer>
+			<key>Total Time</key><integer>207986</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:41Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6A58EE72CA8343E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Pani.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15816</key>
+		<dict>
+			<key>Track ID</key><integer>15816</integer>
+			<key>Name</key><string>Rusalochky</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2665250</integer>
+			<key>Total Time</key><integer>109557</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:42Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3578107525</integer>
+			<key>Play Date UTC</key><date>2017-05-20T13:45:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A06D7ED6803788C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Rusalochky.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15818</key>
+		<dict>
+			<key>Track ID</key><integer>15818</integer>
+			<key>Name</key><string>Tataryn</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4004388</integer>
+			<key>Total Time</key><integer>165355</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:42Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3CBB2595AE67985F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Tataryn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15820</key>
+		<dict>
+			<key>Track ID</key><integer>15820</integer>
+			<key>Name</key><string>Za duby</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3342341</integer>
+			<key>Total Time</key><integer>137769</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:46:42Z</date>
+			<key>Date Added</key><date>2017-05-19T04:45:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3578107141</integer>
+			<key>Play Date UTC</key><date>2017-05-20T13:39:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A476F93BF05810AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Za%20duby.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15822</key>
+		<dict>
+			<key>Track ID</key><integer>15822</integer>
+			<key>Name</key><string>Yelena</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Na Dobranich</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9351548</integer>
+			<key>Total Time</key><integer>388153</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-05-19T04:49:49Z</date>
+			<key>Date Added</key><date>2017-05-19T04:49:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-19T15:25:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>787800D7CF3F0D69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2005%20-%20Na%20Dobranich/Yelena.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -139,25 +651,85 @@
 		<dict>
 			<key>Name</key><string>DakhaBrakha faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>31412</integer>
+			<key>Playlist ID</key><integer>33205</integer>
 			<key>Playlist Persistent ID</key><string>A8F8666CABD7273B</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15180</integer>
+					<key>Track ID</key><integer>14962</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15184</integer>
+					<key>Track ID</key><integer>14966</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15214</integer>
+					<key>Track ID</key><integer>14992</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15182</integer>
+					<key>Track ID</key><integer>14964</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15208</integer>
+					<key>Track ID</key><integer>14990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15808</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15810</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15812</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15818</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15816</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15822</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15820</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15578</integer>
 				</dict>
 			</array>
 		</dict>

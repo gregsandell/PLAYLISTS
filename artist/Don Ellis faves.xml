@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-05-07T01:57:08Z</date>
-	<key>Application Version</key><string>12.6.0.100</string>
+	<key>Date</key><date>2017-06-13T01:58:36Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>14850</key>
+		<key>14664</key>
 		<dict>
-			<key>Track ID</key><integer>14850</integer>
+			<key>Track ID</key><integer>14664</integer>
 			<key>Name</key><string>Bulgarian Bulge</string>
 			<key>Artist</key><string>Don Ellis</string>
 			<key>Album</key><string>Tears of Joy</string>
@@ -29,17 +29,16 @@
 			<key>Volume Adjustment</key><integer>255</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>65B9AD1BB2E50861</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1971%20-%20Tears%20of%20Joy/Don%20Ellis%20-%20Bulgarian%20Bulge.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14854</key>
+		<key>14666</key>
 		<dict>
-			<key>Track ID</key><integer>14854</integer>
+			<key>Track ID</key><integer>14666</integer>
 			<key>Name</key><string>How's This For Openers</string>
 			<key>Artist</key><string>Don Ellis</string>
 			<key>Album</key><string>Tears of Joy</string>
@@ -54,17 +53,45 @@
 			<key>Volume Adjustment</key><integer>255</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BA9F407AD1670112</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1971%20-%20Tears%20of%20Joy/Don%20Ellis%20-%20How's%20This%20For%20Openers.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14858</key>
+		<key>14668</key>
 		<dict>
-			<key>Track ID</key><integer>14858</integer>
+			<key>Track ID</key><integer>14668</integer>
+			<key>Name</key><string>Strawberry Soup</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Tears of Joy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25333946</integer>
+			<key>Total Time</key><integer>1054850</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2017-04-28T01:41:53Z</date>
+			<key>Date Added</key><date>2017-04-27T04:20:01Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3576672445</integer>
+			<key>Play Date UTC</key><date>2017-05-03T23:07:25Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2017-05-08T03:25:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC32A9718C7135D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1971%20-%20Tears%20of%20Joy/Don%20Ellis%20-%20Strawberry%20Soup.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14670</key>
+		<dict>
+			<key>Track ID</key><integer>14670</integer>
 			<key>Name</key><string>Tears Of Joy</string>
 			<key>Artist</key><string>Don Ellis</string>
 			<key>Album</key><string>Tears of Joy</string>
@@ -81,17 +108,16 @@
 			<key>Skip Date</key><date>2017-05-01T17:29:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7A6200D259F2F204</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1971%20-%20Tears%20of%20Joy/Don%20Ellis%20-%20Tears%20Of%20Joy.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14944</key>
+		<key>14748</key>
 		<dict>
-			<key>Track ID</key><integer>14944</integer>
+			<key>Track ID</key><integer>14748</integer>
 			<key>Name</key><string>Sladka Pitka</string>
 			<key>Artist</key><string>Don Ellis</string>
 			<key>Album</key><string>Soaring</string>
@@ -110,12 +136,12 @@
 			<key>Persistent ID</key><string>485A4B20A999A13A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1973%20-%20Soaring/Don%20Ellis%20-%20Sladka%20Pitka.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15050</key>
+		<key>14840</key>
 		<dict>
-			<key>Track ID</key><integer>15050</integer>
+			<key>Track ID</key><integer>14840</integer>
 			<key>Name</key><string>01 - Put It Where You Want It</string>
 			<key>Artist</key><string>Don Ellis Orchestra</string>
 			<key>Album</key><string>Connection</string>
@@ -137,12 +163,12 @@
 			<key>Persistent ID</key><string>D28522F37E3139AA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1972%20-%20Connection/01%20-%20Put%20It%20Where%20You%20Want%20It.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15052</key>
+		<key>14842</key>
 		<dict>
-			<key>Track ID</key><integer>15052</integer>
+			<key>Track ID</key><integer>14842</integer>
 			<key>Name</key><string>03 - Superstar</string>
 			<key>Artist</key><string>Don Ellis Orchestra</string>
 			<key>Album</key><string>Connection</string>
@@ -161,12 +187,12 @@
 			<key>Persistent ID</key><string>E4F829540189528B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1972%20-%20Connection/03%20-%20Superstar.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15054</key>
+		<key>14844</key>
 		<dict>
-			<key>Track ID</key><integer>15054</integer>
+			<key>Track ID</key><integer>14844</integer>
 			<key>Name</key><string>Chain Reaction</string>
 			<key>Artist</key><string>Don Ellis Orchestra</string>
 			<key>Album</key><string>Connection</string>
@@ -185,12 +211,12 @@
 			<key>Persistent ID</key><string>AD2B0654D3A75CB3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1972%20-%20Connection/08%20-%20Chain%20Reaction.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15056</key>
+		<key>14846</key>
 		<dict>
-			<key>Track ID</key><integer>15056</integer>
+			<key>Track ID</key><integer>14846</integer>
 			<key>Name</key><string>Arcturus</string>
 			<key>Artist</key><string>Don Eliis</string>
 			<key>Album</key><string>Montreux Jazz Festival (video)</string>
@@ -207,16 +233,133 @@
 			<key>Play Date UTC</key><date>2017-05-02T19:53:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>31CD3ECC767F7882</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Arcturus.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15068</key>
+		<key>14848</key>
 		<dict>
-			<key>Track ID</key><integer>15068</integer>
+			<key>Track ID</key><integer>14848</integer>
+			<key>Name</key><string>Eros</string>
+			<key>Artist</key><string>Don Eliis</string>
+			<key>Album</key><string>Montreux Jazz Festival (video)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8812085</integer>
+			<key>Total Time</key><integer>366994</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-04-29T19:31:52Z</date>
+			<key>Date Added</key><date>2017-04-29T19:30:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>D9C040915F767AB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Eros.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14850</key>
+		<dict>
+			<key>Track ID</key><integer>14850</integer>
+			<key>Name</key><string>Future Feature</string>
+			<key>Artist</key><string>Don Eliis</string>
+			<key>Album</key><string>Montreux Jazz Festival (video)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12887188</integer>
+			<key>Total Time</key><integer>536790</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-04-29T19:31:52Z</date>
+			<key>Date Added</key><date>2017-04-29T19:30:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>5FD5FA577284B728</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Future%20Feature.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14852</key>
+		<dict>
+			<key>Track ID</key><integer>14852</integer>
+			<key>Name</key><string>Go No Go</string>
+			<key>Artist</key><string>Don Eliis</string>
+			<key>Album</key><string>Montreux Jazz Festival (video)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9389496</integer>
+			<key>Total Time</key><integer>391053</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-04-29T19:31:52Z</date>
+			<key>Date Added</key><date>2017-04-29T19:30:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>0A41FB78D23B1F09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Go%20No%20Go.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14854</key>
+		<dict>
+			<key>Track ID</key><integer>14854</integer>
+			<key>Name</key><string>Niner Two part 1</string>
+			<key>Artist</key><string>Don Eliis</string>
+			<key>Album</key><string>Montreux Jazz Festival (video)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10273480</integer>
+			<key>Total Time</key><integer>427885</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-04-29T19:31:52Z</date>
+			<key>Date Added</key><date>2017-04-29T19:30:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3576678148</integer>
+			<key>Play Date UTC</key><date>2017-05-04T00:42:28Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-05-05T22:21:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>C88833FA1A181480</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Niner%20Two%20part%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14856</key>
+		<dict>
+			<key>Track ID</key><integer>14856</integer>
+			<key>Name</key><string>Niner Two part 2</string>
+			<key>Artist</key><string>Don Eliis</string>
+			<key>Album</key><string>Montreux Jazz Festival (video)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12889068</integer>
+			<key>Total Time</key><integer>536868</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-04-29T19:31:52Z</date>
+			<key>Date Added</key><date>2017-04-29T19:30:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577005741</integer>
+			<key>Play Date UTC</key><date>2017-05-07T19:42:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>1795E6F7A6C2EDA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Niner%20Two%20part%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14858</key>
+		<dict>
+			<key>Track ID</key><integer>14858</integer>
 			<key>Name</key><string>Pussywiggle Stomp</string>
 			<key>Artist</key><string>Don Eliis</string>
 			<key>Album</key><string>Montreux Jazz Festival (video)</string>
@@ -230,12 +373,332 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>C24A66B77ABFB05E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Pussywiggle%20Stomp.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14860</key>
+		<dict>
+			<key>Track ID</key><integer>14860</integer>
+			<key>Name</key><string>Sporting Dance</string>
+			<key>Artist</key><string>Don Eliis</string>
+			<key>Album</key><string>Montreux Jazz Festival (video)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13479645</integer>
+			<key>Total Time</key><integer>561475</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-04-29T19:31:52Z</date>
+			<key>Date Added</key><date>2017-04-29T19:30:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3576914706</integer>
+			<key>Play Date UTC</key><date>2017-05-06T18:25:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>AAF956489EBDC101</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1977%20-%20Montreux%20Jazz%20Festival/Sporting%20Dance.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15308</key>
+		<dict>
+			<key>Track ID</key><integer>15308</integer>
+			<key>Name</key><string>01 - Final Analysis</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19964770</integer>
+			<key>Total Time</key><integer>830119</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:27Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E80BFD30C4F7D60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/01%20-%20Final%20Analysis.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15310</key>
+		<dict>
+			<key>Track ID</key><integer>15310</integer>
+			<key>Name</key><string>02 - Excursion II</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8274868</integer>
+			<key>Total Time</key><integer>343040</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:28Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C81ED568C592EAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/02%20-%20Excursion%20II.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15312</key>
+		<dict>
+			<key>Track ID</key><integer>15312</integer>
+			<key>Name</key><string>03 - The Magic Bus Ate My Doughnut</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3693216</integer>
+			<key>Total Time</key><integer>152137</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:28Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3577136064</integer>
+			<key>Play Date UTC</key><date>2017-05-09T07:54:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FFD1A9A90E90ADC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/03%20-%20The%20Magic%20Bus%20Ate%20My%20Doughnut.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15314</key>
+		<dict>
+			<key>Track ID</key><integer>15314</integer>
+			<key>Name</key><string>06 - Rock Odyssey</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14078440</integer>
+			<key>Total Time</key><integer>584855</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:28Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F74078B4BA7EB081</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/06%20-%20Rock%20Odyssey.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15316</key>
+		<dict>
+			<key>Track ID</key><integer>15316</integer>
+			<key>Name</key><string>07 - Hey Jude</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15225107</integer>
+			<key>Total Time</key><integer>632633</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:29Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E43DBFB21B1FBB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/07%20-%20Hey%20Jude.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15318</key>
+		<dict>
+			<key>Track ID</key><integer>15318</integer>
+			<key>Name</key><string>08 - Antea</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8665443</integer>
+			<key>Total Time</key><integer>359314</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:29Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E3BC26DADCD1C03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/08%20-%20Antea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15320</key>
+		<dict>
+			<key>Track ID</key><integer>15320</integer>
+			<key>Name</key><string>10 - Great Divide</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12408902</integer>
+			<key>Total Time</key><integer>515291</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:30Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0164166F90FD140</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/10%20-%20Great%20Divide.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15322</key>
+		<dict>
+			<key>Track ID</key><integer>15322</integer>
+			<key>Name</key><string>11 - Pussy Wiggle Stomp</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Don Ellis at Fillmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17105933</integer>
+			<key>Total Time</key><integer>711000</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2017-05-09T06:51:31Z</date>
+			<key>Date Added</key><date>2017-05-09T06:50:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-05-10T17:39:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18DE9C1FB33C91C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1970%20-%20Don%20Ellis%20at%20Fillmore/11%20-%20Pussy%20Wiggle%20Stomp.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15602</key>
+		<dict>
+			<key>Track ID</key><integer>15602</integer>
+			<key>Name</key><string>Forest</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Haiku</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5083422</integer>
+			<key>Total Time</key><integer>205949</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-05-13T00:14:45Z</date>
+			<key>Date Added</key><date>2017-05-13T00:12:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B5988F5BAED1820</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1973%20-%20Haiku/Forest.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15604</key>
+		<dict>
+			<key>Track ID</key><integer>15604</integer>
+			<key>Name</key><string>Summer Rain</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Haiku</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3623913</integer>
+			<key>Total Time</key><integer>145136</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-05-13T00:14:46Z</date>
+			<key>Date Added</key><date>2017-05-13T00:12:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3577767970</integer>
+			<key>Play Date UTC</key><date>2017-05-16T15:26:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29459CEAF8680580</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1973%20-%20Haiku/Summer%20Rain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15606</key>
+		<dict>
+			<key>Track ID</key><integer>15606</integer>
+			<key>Name</key><string>Two Autumns</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Haiku</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7333510</integer>
+			<key>Total Time</key><integer>299702</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-05-13T00:14:46Z</date>
+			<key>Date Added</key><date>2017-05-13T00:12:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>344948E5E427B14C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1973%20-%20Haiku/Two%20Autumns.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15608</key>
+		<dict>
+			<key>Track ID</key><integer>15608</integer>
+			<key>Name</key><string>Water Jewels</string>
+			<key>Artist</key><string>Don Ellis</string>
+			<key>Album</key><string>Haiku</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7912176</integer>
+			<key>Total Time</key><integer>323813</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-05-13T00:14:46Z</date>
+			<key>Date Added</key><date>2017-05-13T00:12:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>886DE9333A1505A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Don%20Ellis/1973%20-%20Haiku/Water%20Jewels.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -243,37 +706,94 @@
 		<dict>
 			<key>Name</key><string>Don Ellis faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>31499</integer>
+			<key>Playlist ID</key><integer>33327</integer>
 			<key>Playlist Persistent ID</key><string>74B199A5E3D5E04C</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14850</integer>
+					<key>Track ID</key><integer>14664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14854</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>15068</integer>
+					<key>Track ID</key><integer>14666</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>14858</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15054</integer>
+					<key>Track ID</key><integer>14670</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14944</integer>
+					<key>Track ID</key><integer>14844</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15052</integer>
+					<key>Track ID</key><integer>14748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15056</integer>
+					<key>Track ID</key><integer>14842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15050</integer>
+					<key>Track ID</key><integer>14846</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14848</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15308</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15316</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14852</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15322</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15604</integer>
 				</dict>
 			</array>
 		</dict>
