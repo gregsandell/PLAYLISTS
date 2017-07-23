@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-06-13T01:59:55Z</date>
-	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Date</key><date>2017-07-23T02:05:49Z</date>
+	<key>Application Version</key><string>12.6.2.20</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>16512</key>
+		<key>16154</key>
 		<dict>
-			<key>Track ID</key><integer>16512</integer>
+			<key>Track ID</key><integer>16154</integer>
 			<key>Name</key><string>CHORDS_solo_violin</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -24,18 +24,22 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3580127070</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:44:30Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3580211840</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:17:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-07-01T23:36:14Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>BEBBED737AD4DEB9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/CHORDS_solo_violin.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16514</key>
+		<key>16156</key>
 		<dict>
-			<key>Track ID</key><integer>16514</integer>
+			<key>Track ID</key><integer>16156</integer>
 			<key>Name</key><string>Contrapuntal_Study</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -45,18 +49,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3580127298</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:48:18Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3580240349</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:12:29Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>D00E46AD73ECE2E9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Contrapuntal_Study.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16516</key>
+		<key>16158</key>
 		<dict>
-			<key>Track ID</key><integer>16516</integer>
+			<key>Track ID</key><integer>16158</integer>
 			<key>Name</key><string>Duet_clarinet_viola</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -66,20 +72,22 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3580127283</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:48:03Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-06-10T04:04:39Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3580465173</integer>
+			<key>Play Date UTC</key><date>2017-06-16T20:39:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-07-02T22:26:56Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>DA77B8E02DF88536</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Duet_clarinet_viola.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16518</key>
+		<key>16160</key>
 		<dict>
-			<key>Track ID</key><integer>16518</integer>
+			<key>Track ID</key><integer>16160</integer>
 			<key>Name</key><string>Gavotte_for_piano</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -89,18 +97,22 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3580125325</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:15:25Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3580465143</integer>
+			<key>Play Date UTC</key><date>2017-06-16T20:39:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-07-01T23:14:37Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>34522E02DB1C7B30</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Gavotte_for_piano.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16520</key>
+		<key>16162</key>
 		<dict>
-			<key>Track ID</key><integer>16520</integer>
+			<key>Track ID</key><integer>16162</integer>
 			<key>Name</key><string>Jesse's_Pig</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -110,18 +122,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3580126032</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:27:12Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3580240334</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:12:14Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>C7A2018E48D39A54</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Jesse's_Pig.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16522</key>
+		<key>16164</key>
 		<dict>
-			<key>Track ID</key><integer>16522</integer>
+			<key>Track ID</key><integer>16164</integer>
 			<key>Name</key><string>Modal_Study_englhorn_strings</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -131,18 +145,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3580126102</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:28:22Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3580209573</integer>
+			<key>Play Date UTC</key><date>2017-06-13T21:39:33Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>0A32B02B76266521</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Modal_Study_englhorn_strings.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16524</key>
+		<key>16166</key>
 		<dict>
-			<key>Track ID</key><integer>16524</integer>
+			<key>Track ID</key><integer>16166</integer>
 			<key>Name</key><string>Pissing_Contest</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -152,18 +168,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3579886605</integer>
-			<key>Play Date UTC</key><date>2017-06-10T03:56:45Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3580240469</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:14:29Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>DD0988A95BBA7C0F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Pissing_Contest.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16526</key>
+		<key>16168</key>
 		<dict>
-			<key>Track ID</key><integer>16526</integer>
+			<key>Track ID</key><integer>16168</integer>
 			<key>Name</key><string>Pomona_College</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -176,15 +194,19 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3579882213</integer>
 			<key>Play Date UTC</key><date>2017-06-10T02:43:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-13T21:36:38Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>A0CEC492FE9DE2A6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Pomona_College.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16528</key>
+		<key>16170</key>
 		<dict>
-			<key>Track ID</key><integer>16528</integer>
+			<key>Track ID</key><integer>16170</integer>
 			<key>Name</key><string>Prelude_flute_sopsax_cello</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -194,39 +216,45 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3580126243</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:30:43Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3580212017</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:20:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-07-01T23:14:42Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>3A8934910D5266F0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Prelude_flute_sopsax_cello.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16530</key>
+		<key>16172</key>
 		<dict>
-			<key>Track ID</key><integer>16530</integer>
+			<key>Track ID</key><integer>16172</integer>
 			<key>Name</key><string>Quartet_vln_vlc_clar_pno</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1351918</integer>
+			<key>Size</key><integer>1341648</integer>
 			<key>Total Time</key><integer>83853</integer>
-			<key>Date Modified</key><date>2017-06-12T21:14:19Z</date>
+			<key>Date Modified</key><date>2017-07-05T17:36:50Z</date>
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3579880154</integer>
-			<key>Play Date UTC</key><date>2017-06-10T02:09:14Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580212623</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:30:23Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>E63B70267A742042</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Quartet_vln_vlc_clar_pno.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16532</key>
+		<key>16174</key>
 		<dict>
-			<key>Track ID</key><integer>16532</integer>
+			<key>Track ID</key><integer>16174</integer>
 			<key>Name</key><string>Study_in_Fifths</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -236,18 +264,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3579887191</integer>
-			<key>Play Date UTC</key><date>2017-06-10T04:06:31Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3580325527</integer>
+			<key>Play Date UTC</key><date>2017-06-15T05:52:07Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>ADE9C1893CA88532</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Fifths.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16534</key>
+		<key>16176</key>
 		<dict>
-			<key>Track ID</key><integer>16534</integer>
+			<key>Track ID</key><integer>16176</integer>
 			<key>Name</key><string>Study_in_Fourths</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -257,39 +287,45 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3580125414</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:16:54Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3581459198</integer>
+			<key>Play Date UTC</key><date>2017-06-28T08:46:38Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>AE31EAF4C62E8258</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Fourths.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16536</key>
+		<key>16178</key>
 		<dict>
-			<key>Track ID</key><integer>16536</integer>
+			<key>Track ID</key><integer>16178</integer>
 			<key>Name</key><string>Study_in_Stacked_Chords</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>708678</integer>
-			<key>Total Time</key><integer>43650</integer>
-			<key>Date Modified</key><date>2017-06-12T21:14:19Z</date>
+			<key>Size</key><integer>1177390</integer>
+			<key>Total Time</key><integer>73586</integer>
+			<key>Date Modified</key><date>2017-06-13T15:59:17Z</date>
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3579886945</integer>
-			<key>Play Date UTC</key><date>2017-06-10T04:02:25Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580212116</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:21:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-14T05:57:46Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>9F7B5D4BC80D48CE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Stacked_Chords.mp3</string>
-			<key>File Folder Count</key><integer>3</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16538</key>
+		<key>16180</key>
 		<dict>
-			<key>Track ID</key><integer>16538</integer>
+			<key>Track ID</key><integer>16180</integer>
 			<key>Name</key><string>Study_in_Triplets</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -299,18 +335,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3579887494</integer>
-			<key>Play Date UTC</key><date>2017-06-10T04:11:34Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3580212860</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:34:20Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>2E02BCD71D09F8A1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Triplets.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16540</key>
+		<key>16182</key>
 		<dict>
-			<key>Track ID</key><integer>16540</integer>
+			<key>Track ID</key><integer>16182</integer>
 			<key>Name</key><string>The_Guitar</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -320,18 +358,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3580125404</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:16:44Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3580325612</integer>
+			<key>Play Date UTC</key><date>2017-06-15T05:53:32Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>0266FD2890D106C5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/The_Guitar.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16542</key>
+		<key>16184</key>
 		<dict>
-			<key>Track ID</key><integer>16542</integer>
+			<key>Track ID</key><integer>16184</integer>
 			<key>Name</key><string>Trio_flute_clar_cello</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -341,18 +381,20 @@
 			<key>Date Added</key><date>2017-06-08T04:01:03Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3579714157</integer>
-			<key>Play Date UTC</key><date>2017-06-08T04:02:37Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3580209668</integer>
+			<key>Play Date UTC</key><date>2017-06-13T21:41:08Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>076B1FA386127A64</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Trio_flute_clar_cello.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16590</key>
+		<key>16230</key>
 		<dict>
-			<key>Track ID</key><integer>16590</integer>
+			<key>Track ID</key><integer>16230</integer>
 			<key>Name</key><string>Variations_on__Easter_Thursday</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -362,18 +404,20 @@
 			<key>Date Added</key><date>2017-06-11T21:57:29Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580126988</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:43:08Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3580209237</integer>
+			<key>Play Date UTC</key><date>2017-06-13T21:33:57Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>269ACE530CFC1F93</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Variations_on__Easter_Thursday.mp3</string>
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16592</key>
+		<key>16232</key>
 		<dict>
-			<key>Track ID</key><integer>16592</integer>
+			<key>Track ID</key><integer>16232</integer>
 			<key>Name</key><string>Easter Thursday</string>
 			<key>Artist</key><string>Bare Necessities</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -387,15 +431,17 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3580125812</integer>
 			<key>Play Date UTC</key><date>2017-06-12T22:23:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-13T21:39:39Z</date>
 			<key>Persistent ID</key><string>2778CA1301F2D59E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bare%20Necessities/1983%20-%20Bare%20Necessities/Bare%20Necessities%20-%20Easter%20Thursday.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16594</key>
+		<key>16234</key>
 		<dict>
-			<key>Track ID</key><integer>16594</integer>
+			<key>Track ID</key><integer>16234</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 1</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -406,18 +452,20 @@
 			<key>Date Added</key><date>2017-06-12T20:46:04Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580125452</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:17:32Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580239913</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:05:13Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>BEB0CF21F3A32321</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var1.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16596</key>
+		<key>16236</key>
 		<dict>
-			<key>Track ID</key><integer>16596</integer>
+			<key>Track ID</key><integer>16236</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Theme</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -428,15 +476,20 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3580213074</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:37:54Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>804D89994ABE1BFB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/theme.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16598</key>
+		<key>16238</key>
 		<dict>
-			<key>Track ID</key><integer>16598</integer>
+			<key>Track ID</key><integer>16238</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 2</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -447,15 +500,20 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3580212254</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:24:14Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>0E677A8A93788980</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var2.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16600</key>
+		<key>16240</key>
 		<dict>
-			<key>Track ID</key><integer>16600</integer>
+			<key>Track ID</key><integer>16240</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 3 (polka)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -466,18 +524,20 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580125259</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:14:19Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580465221</integer>
+			<key>Play Date UTC</key><date>2017-06-16T20:40:21Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>16C659330D70B3A2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var3.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16602</key>
+		<key>16242</key>
 		<dict>
-			<key>Track ID</key><integer>16602</integer>
+			<key>Track ID</key><integer>16242</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 4</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -491,15 +551,17 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3580127017</integer>
 			<key>Play Date UTC</key><date>2017-06-12T22:43:37Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>0B9983692C7784F8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var4.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16604</key>
+		<key>16244</key>
 		<dict>
-			<key>Track ID</key><integer>16604</integer>
+			<key>Track ID</key><integer>16244</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 5 (cantabile)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -510,18 +572,21 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580125210</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:13:30Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580240033</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:07:13Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>43A343B3C0389640</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var5.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16606</key>
+		<key>16246</key>
 		<dict>
-			<key>Track ID</key><integer>16606</integer>
+			<key>Track ID</key><integer>16246</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 6-7 (Presto-Gothic Hymn)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -532,15 +597,20 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3580213036</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:37:16Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>F822E9382BDAF510</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var6_and7.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16608</key>
+		<key>16248</key>
 		<dict>
-			<key>Track ID</key><integer>16608</integer>
+			<key>Track ID</key><integer>16248</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 8 (Larghetto)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -551,18 +621,22 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580127150</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:45:50Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580240113</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:08:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-28T08:46:50Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>5873485E3D6A4476</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var8.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16610</key>
+		<key>16250</key>
 		<dict>
-			<key>Track ID</key><integer>16610</integer>
+			<key>Track ID</key><integer>16250</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 9 (Allegro)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -573,18 +647,20 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580126149</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:29:09Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3580239960</integer>
+			<key>Play Date UTC</key><date>2017-06-14T06:06:00Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>E3D2BF07DFBBF50C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var9.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16612</key>
+		<key>16252</key>
 		<dict>
-			<key>Track ID</key><integer>16612</integer>
+			<key>Track ID</key><integer>16252</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 10 (Vivace)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -598,15 +674,17 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3580125525</integer>
 			<key>Play Date UTC</key><date>2017-06-12T22:18:45Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>369514875A59AD17</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var10.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16614</key>
+		<key>16254</key>
 		<dict>
-			<key>Track ID</key><integer>16614</integer>
+			<key>Track ID</key><integer>16254</integer>
 			<key>Name</key><string>Variations on Easter Thursday: Var. 10 (Jig + Reel)</string>
 			<key>Artist</key><string>Greg Sandell</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -617,13 +695,130 @@
 			<key>Date Added</key><date>2017-06-12T21:13:44Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580127253</integer>
-			<key>Play Date UTC</key><date>2017-06-12T22:47:33Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3580212467</integer>
+			<key>Play Date UTC</key><date>2017-06-13T22:27:47Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>5EE3C6480C76DF12</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Easter%20Thursday%20Variations/var11.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16306</key>
+		<dict>
+			<key>Track ID</key><integer>16306</integer>
+			<key>Name</key><string>Study_in_Fourths_2_String_Qt</string>
+			<key>Artist</key><string>Greg Sandell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>481727</integer>
+			<key>Total Time</key><integer>29466</integer>
+			<key>Date Modified</key><date>2017-06-14T06:00:57Z</date>
+			<key>Date Added</key><date>2017-06-14T06:00:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3581946660</integer>
+			<key>Play Date UTC</key><date>2017-07-04T00:11:00Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1583DCCE60A1ACBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Fourths_2_String_Qt.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16326</key>
+		<dict>
+			<key>Track ID</key><integer>16326</integer>
+			<key>Name</key><string>Study_in_Fifths_No_2</string>
+			<key>Artist</key><string>Greg Sandell</string>
+			<key>Composer</key><string>Greg Sandell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1913675</integer>
+			<key>Total Time</key><integer>118961</integer>
+			<key>Date Modified</key><date>2017-06-15T05:11:42Z</date>
+			<key>Date Added</key><date>2017-06-15T05:11:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3581459067</integer>
+			<key>Play Date UTC</key><date>2017-06-28T08:44:27Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>16F26E48478994F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Fifths_No_2.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16328</key>
+		<dict>
+			<key>Track ID</key><integer>16328</integer>
+			<key>Name</key><string>Study_in_Stacked_Chords_No_2</string>
+			<key>Artist</key><string>Greg Sandell</string>
+			<key>Composer</key><string>Greg Sandell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1073577</integer>
+			<key>Total Time</key><integer>66455</integer>
+			<key>Date Modified</key><date>2017-06-15T05:11:42Z</date>
+			<key>Date Added</key><date>2017-06-15T05:11:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-15T06:39:01Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0046C2BFDBA97CF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Study_in_Stacked_Chords_No_2.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16354</key>
+		<dict>
+			<key>Track ID</key><integer>16354</integer>
+			<key>Name</key><string>Refuge</string>
+			<key>Artist</key><string>Greg Sandell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>721635</integer>
+			<key>Total Time</key><integer>44460</integer>
+			<key>Date Modified</key><date>2017-06-16T20:37:33Z</date>
+			<key>Date Added</key><date>2017-06-16T20:37:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3581088814</integer>
+			<key>Play Date UTC</key><date>2017-06-24T01:53:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-07-03T05:39:09Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>BE9B168903224A60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Refuge.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16622</key>
+		<dict>
+			<key>Track ID</key><integer>16622</integer>
+			<key>Name</key><string>Cayman_Island_Dream</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1887920</integer>
+			<key>Total Time</key><integer>117995</integer>
+			<key>Date Modified</key><date>2017-06-28T00:20:00Z</date>
+			<key>Date Added</key><date>2017-06-28T08:42:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3581459188</integer>
+			<key>Play Date UTC</key><date>2017-06-28T08:46:28Z</date>
+			<key>Persistent ID</key><string>1BD447915180E92F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Greg%20Sandell/Cayman_Island_Dream.mp3</string>
+			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
@@ -632,97 +827,112 @@
 		<dict>
 			<key>Name</key><string>Greg Sandell</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>34387</integer>
+			<key>Playlist ID</key><integer>34834</integer>
 			<key>Playlist Persistent ID</key><string>11DD57F3FCB337F5</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>16512</integer>
+					<key>Track ID</key><integer>16154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16514</integer>
+					<key>Track ID</key><integer>16156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16596</integer>
+					<key>Track ID</key><integer>16236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16594</integer>
+					<key>Track ID</key><integer>16354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16598</integer>
+					<key>Track ID</key><integer>16234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16600</integer>
+					<key>Track ID</key><integer>16238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16602</integer>
+					<key>Track ID</key><integer>16240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16604</integer>
+					<key>Track ID</key><integer>16242</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16606</integer>
+					<key>Track ID</key><integer>16244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16608</integer>
+					<key>Track ID</key><integer>16246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16610</integer>
+					<key>Track ID</key><integer>16248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16612</integer>
+					<key>Track ID</key><integer>16250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16614</integer>
+					<key>Track ID</key><integer>16252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16516</integer>
+					<key>Track ID</key><integer>16254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16518</integer>
+					<key>Track ID</key><integer>16158</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16592</integer>
+					<key>Track ID</key><integer>16160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16590</integer>
+					<key>Track ID</key><integer>16232</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16520</integer>
+					<key>Track ID</key><integer>16230</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16522</integer>
+					<key>Track ID</key><integer>16162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16524</integer>
+					<key>Track ID</key><integer>16164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16526</integer>
+					<key>Track ID</key><integer>16166</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16528</integer>
+					<key>Track ID</key><integer>16168</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16530</integer>
+					<key>Track ID</key><integer>16170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16532</integer>
+					<key>Track ID</key><integer>16172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16534</integer>
+					<key>Track ID</key><integer>16622</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16536</integer>
+					<key>Track ID</key><integer>16326</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16538</integer>
+					<key>Track ID</key><integer>16306</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16540</integer>
+					<key>Track ID</key><integer>16328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16542</integer>
+					<key>Track ID</key><integer>16174</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16184</integer>
 				</dict>
 			</array>
 		</dict>
