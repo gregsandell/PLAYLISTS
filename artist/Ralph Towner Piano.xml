@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-07-23T02:12:21Z</date>
+	<key>Application Version</key><string>12.6.2.20</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16270</key>
+		<dict>
+			<key>Track ID</key><integer>16270</integer>
+			<key>Name</key><string>When the Fire Burns Low</string>
+			<key>Artist</key><string>Oregon</string>
+			<key>Album</key><string>Always, Never, and Forever</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5538445</integer>
+			<key>Total Time</key><integer>223294</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2017-06-13T01:08:49Z</date>
+			<key>Date Added</key><date>2017-06-13T01:07:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3580299270</integer>
+			<key>Play Date UTC</key><date>2017-06-14T22:34:30Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-06-14T01:42:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B7F2016A788DCB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Oregon/1991%20-%20Always,%20Never,%20and%20Forever/When%20the%20Fire%20Burns%20Low.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16398</key>
+		<dict>
+			<key>Track ID</key><integer>16398</integer>
+			<key>Name</key><string>Celeste</string>
+			<key>Artist</key><string>Oregon</string>
+			<key>Album</key><string>Troika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9730081</integer>
+			<key>Total Time</key><integer>399673</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-06-17T05:36:19Z</date>
+			<key>Date Added</key><date>2017-06-17T05:35:41Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7AD0B549F475AA72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Oregon/1994%20-%20Troika/Celeste.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Ralph Towner Piano</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>36540</integer>
+			<key>Playlist Persistent ID</key><string>1743D109BCF7ECD6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16398</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
