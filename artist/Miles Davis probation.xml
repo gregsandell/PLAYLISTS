@@ -4,334 +4,87 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-08-06T01:04:09Z</date>
-	<key>Application Version</key><string>10.6.3</string>
+	<key>Date</key><date>2017-10-09T18:03:56Z</date>
+	<key>Application Version</key><string>12.7.0.166</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4981</key>
+		<key>40004</key>
 		<dict>
-			<key>Track ID</key><integer>4981</integer>
-			<key>Name</key><string>Fran-Dance</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>At Newport 1958</string>
+			<key>Track ID</key><integer>40004</integer>
+			<key>Name</key><string>The Leap</string>
+			<key>Artist</key><string>Mile Davis Quartet</string>
+			<key>Album</key><string>Four</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9272020</integer>
-			<key>Total Time</key><integer>433789</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>7</integer>
-			<key>Year</key><integer>1958</integer>
-			<key>Date Modified</key><date>2011-03-19T22:20:36Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:50Z</date>
-			<key>Bit Rate</key><integer>170</integer>
+			<key>Size</key><integer>10911901</integer>
+			<key>Total Time</key><integer>272117</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2017-10-08T08:47:54Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3416837168</integer>
-			<key>Play Date UTC</key><date>2012-04-09T22:26:08Z</date>
 			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>843</integer>
-			<key>Persistent ID</key><string>EF64BC0E71E9338A</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Leap</string>
+			<key>Persistent ID</key><string>CE5FCE7BEBA544C7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/At%20Newport%201958/Fran-Dance.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Four%20@320/11%20The%20Leap.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4987</key>
+		<key>40163</key>
 		<dict>
-			<key>Track ID</key><integer>4987</integer>
-			<key>Name</key><string>Budo</string>
+			<key>Track ID</key><integer>40163</integer>
+			<key>Name</key><string>A Night In Tunisia</string>
 			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>Birth Of The Cool</string>
+			<key>Album</key><string>The Musings Of Miles</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3091413</integer>
-			<key>Total Time</key><integer>154462</integer>
+			<key>Size</key><integer>17969697</integer>
+			<key>Total Time</key><integer>444107</integer>
 			<key>Track Number</key><integer>5</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>1949</integer>
-			<key>Date Modified</key><date>2011-03-19T22:20:38Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:50Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>989</integer>
-			<key>Persistent ID</key><string>FEC7626F19557F55</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/Birth%20Of%20The%20Cool/Budo.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>4991</key>
-		<dict>
-			<key>Track ID</key><integer>4991</integer>
-			<key>Name</key><string>Move</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>Birth Of The Cool</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3108654</integer>
-			<key>Total Time</key><integer>155324</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>1949</integer>
-			<key>Date Modified</key><date>2011-03-19T22:20:38Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:50Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>1652</integer>
-			<key>Persistent ID</key><string>E94468258D15624C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/Birth%20Of%20The%20Cool/Move.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5019</key>
-		<dict>
-			<key>Track ID</key><integer>5019</integer>
-			<key>Name</key><string>Spanish Key / The Theme (Live)</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>Black Beauty - Miles Davis At Fillmore West</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>14690898</integer>
-			<key>Total Time</key><integer>734432</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Track Count</key><integer>9</integer>
-			<key>Year</key><integer>1970</integer>
-			<key>Date Modified</key><date>2011-03-19T22:20:54Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:51Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>1536</integer>
-			<key>Persistent ID</key><string>0C85FE114F043D5A</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/Black%20Beauty%20-%20Miles%20Davis%20At%20Fillmore%20West/Spanish%20Key%20_%20The%20Theme%20(Live).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5025</key>
-		<dict>
-			<key>Track ID</key><integer>5025</integer>
-			<key>Name</key><string>Freddie Freeloader</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>Kind of Blue</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11784972</integer>
-			<key>Total Time</key><integer>589139</integer>
-			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>6</integer>
-			<key>Year</key><integer>1959</integer>
-			<key>Date Modified</key><date>2011-03-19T22:20:58Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:51Z</date>
-			<key>Bit Rate</key><integer>160</integer>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-10-08T08:34:57Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3424265639</integer>
-			<key>Play Date UTC</key><date>2012-07-04T21:53:59Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>2500</integer>
-			<key>Persistent ID</key><string>AD3817B4772F1096</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/Kind%20of%20Blue/Freddie%20Freeloader.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5051</key>
-		<dict>
-			<key>Track ID</key><integer>5051</integer>
-			<key>Name</key><string>What It Is</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album Artist</key><string>Miles Davis</string>
-			<key>Composer</key><string>John Scofield/Miles Davis</string>
-			<key>Album</key><string>Miles Davis: The Columbia Years 1955-1985 Disc 4</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5501474</integer>
-			<key>Total Time</key><integer>274964</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>1956</integer>
-			<key>Date Modified</key><date>2012-03-23T21:22:39Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:51Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3416840519</integer>
-			<key>Play Date UTC</key><date>2012-04-09T23:21:59Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>023E3A4E83ECB14C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/Miles%20Davis_%20The%20Columbia%20Years/02%20What%20It%20Is.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5127</key>
-		<dict>
-			<key>Track ID</key><integer>5127</integer>
-			<key>Name</key><string>So What</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>The Columbia Years, 1955-1985 - Originals-Moods</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>14427515</integer>
-			<key>Total Time</key><integer>721266</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2011-03-19T22:21:34Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:52Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Sort Album</key><string>Columbia Years, 1955-1985 - Originals-Moods</string>
-			<key>Persistent ID</key><string>6811022F4FF6674C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/The%20Columbia%20Years,%201955-1985%20-/02%20So%20What.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5129</key>
-		<dict>
-			<key>Track ID</key><integer>5129</integer>
-			<key>Name</key><string>Eighty-One</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>The Columbia Years, 1955-1985 - Blues-Standards</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7536413</integer>
-			<key>Total Time</key><integer>376711</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2011-03-19T22:21:34Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:52Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Sort Album</key><string>Columbia Years, 1955-1985 - Blues-Standards</string>
-			<key>Persistent ID</key><string>366B9EAF96BB01EC</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/The%20Columbia%20Years,%201955-1985%20-/03%20Eighty-One.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5141</key>
-		<dict>
-			<key>Track ID</key><integer>5141</integer>
-			<key>Name</key><string>Straight, No Chaser</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>The Columbia Years, 1955-1985 - Blues-Standards</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10791792</integer>
-			<key>Total Time</key><integer>539480</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Date Modified</key><date>2011-03-19T22:21:38Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:53Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3416836734</integer>
-			<key>Play Date UTC</key><date>2012-04-09T22:18:54Z</date>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Sort Album</key><string>Columbia Years, 1955-1985 - Blues-Standards</string>
-			<key>Persistent ID</key><string>4E8918A2D35A2AA9</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Musings Of Miles</string>
+			<key>Sort Name</key><string>Night In Tunisia</string>
+			<key>Persistent ID</key><string>38451411547A7210</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/The%20Columbia%20Years,%201955-1985%20-/06%20Straight,%20No%20Chaser.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5147</key>
-		<dict>
-			<key>Track ID</key><integer>5147</integer>
-			<key>Name</key><string>Someday My Prince Will Come</string>
-			<key>Artist</key><string>Miles Davis</string>
-			<key>Album</key><string>The Columbia Years, 1955-1985 - Blues-Standards</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6856184</integer>
-			<key>Total Time</key><integer>342700</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-19T22:21:42Z</date>
-			<key>Date Added</key><date>2011-11-06T18:54:53Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3416838154</integer>
-			<key>Play Date UTC</key><date>2012-04-09T22:42:34Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-04-09T23:12:46Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Sort Album</key><string>Columbia Years, 1955-1985 - Blues-Standards</string>
-			<key>Persistent ID</key><string>F0239F59E6428441</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Miles%20Davis/The%20Columbia%20Years,%201955-1985%20-/10%20Someday%20My%20Prince%20Will%20C.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20Musings%20of%20Miles%20@320/05%20A%20Night%20In%20Tunisia.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Miles Davis probation</string>
-			<key>Playlist ID</key><integer>23311</integer>
-			<key>Playlist Persistent ID</key><string>8451BE3183EDE441</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>36939</integer>
+			<key>Playlist Persistent ID</key><string>2EED8E12B431AA34</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4991</integer>
+					<key>Track ID</key><integer>40004</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4987</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>4981</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5019</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5141</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5147</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5127</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5025</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5051</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5129</integer>
+					<key>Track ID</key><integer>40163</integer>
 				</dict>
 			</array>
 		</dict>
