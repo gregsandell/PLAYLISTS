@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-10-09T18:03:56Z</date>
+	<key>Date</key><date>2017-10-18T20:34:43Z</date>
 	<key>Application Version</key><string>12.7.0.166</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,167 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>40004</key>
+		<key>15051</key>
 		<dict>
-			<key>Track ID</key><integer>40004</integer>
+			<key>Track ID</key><integer>15051</integer>
+			<key>Name</key><string>Jeru</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The Complete Birth of The Cool</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7860847</integer>
+			<key>Total Time</key><integer>193985</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1948</integer>
+			<key>Date Modified</key><date>2017-10-08T08:45:15Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Birth of The Cool</string>
+			<key>Persistent ID</key><string>1134D1DBD8FF65B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1948%20The%20Complete%20Birth%20Of%20The%20Cool%20@320/02%20Jeru.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15061</key>
+		<dict>
+			<key>Track ID</key><integer>15061</integer>
+			<key>Name</key><string>Rocker</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The Complete Birth of The Cool</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7551559</integer>
+			<key>Total Time</key><integer>186253</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1948</integer>
+			<key>Date Modified</key><date>2017-10-08T08:45:13Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Birth of The Cool</string>
+			<key>Persistent ID</key><string>7F742B259C650152</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1948%20The%20Complete%20Birth%20Of%20The%20Cool%20@320/09%20Rocker.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15081</key>
+		<dict>
+			<key>Track ID</key><integer>15081</integer>
+			<key>Name</key><string>Dig</string>
+			<key>Artist</key><string>Miles Davis with Sonny Rollins</string>
+			<key>Album</key><string>Dig</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18850045</integer>
+			<key>Total Time</key><integer>457639</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-10-08T08:43:51Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7284A8A9716EC3BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1951%20Dig%20(with%20Sonny%20Rollins)/01%20Dig.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15089</key>
+		<dict>
+			<key>Track ID</key><integer>15089</integer>
+			<key>Name</key><string>Out Of The Blue</string>
+			<key>Artist</key><string>Miles Davis with Sonny Rollins</string>
+			<key>Album</key><string>Dig</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15707004</integer>
+			<key>Total Time</key><integer>379062</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-10-08T08:43:48Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9345223CED9C5D11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1951%20Dig%20(with%20Sonny%20Rollins)/05%20Out%20Of%20The%20Blue.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15113</key>
+		<dict>
+			<key>Track ID</key><integer>15113</integer>
+			<key>Name</key><string>When Lights are Low</string>
+			<key>Artist</key><string>Mile Davis Quartet</string>
+			<key>Album</key><string>Four</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8309070</integer>
+			<key>Total Time</key><integer>207046</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2017-10-08T08:47:57Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-10-11T21:34:58Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E59904648171825</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Four%20@320/04%20When%20Lights%20are%20Low.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15115</key>
+		<dict>
+			<key>Track ID</key><integer>15115</integer>
+			<key>Name</key><string>Tune Up</string>
+			<key>Artist</key><string>Mile Davis Quartet</string>
+			<key>Album</key><string>Four</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9394707</integer>
+			<key>Total Time</key><integer>234187</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2017-10-08T08:47:56Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0B5EBDA561CFAE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Four%20@320/05%20Tune%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15121</key>
+		<dict>
+			<key>Track ID</key><integer>15121</integer>
 			<key>Name</key><string>The Leap</string>
 			<key>Artist</key><string>Mile Davis Quartet</string>
 			<key>Album</key><string>Four</string>
@@ -31,18 +189,153 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Leap</string>
 			<key>Persistent ID</key><string>CE5FCE7BEBA544C7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Four%20@320/11%20The%20Leap.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>40163</key>
+		<key>15123</key>
 		<dict>
-			<key>Track ID</key><integer>40163</integer>
+			<key>Track ID</key><integer>15123</integer>
+			<key>Name</key><string>Weirdo</string>
+			<key>Artist</key><string>Mile Davis Quartet</string>
+			<key>Album</key><string>Four</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11413450</integer>
+			<key>Total Time</key><integer>284656</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2017-10-08T08:47:54Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF0B8E067A1BD839</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Four%20@320/12%20Weirdo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15127</key>
+		<dict>
+			<key>Track ID</key><integer>15127</integer>
+			<key>Name</key><string>You Don't Know What Love Is</string>
+			<key>Artist</key><string>Mile Davis Quartet</string>
+			<key>Album</key><string>Four</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10569193</integer>
+			<key>Total Time</key><integer>263549</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2017-10-08T08:47:53Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-10-11T21:33:08Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>71D00FBF7F7ABEEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Four%20@320/14%20You%20Don't%20Know%20What%20Love%20Is.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15137</key>
+		<dict>
+			<key>Track ID</key><integer>15137</integer>
+			<key>Name</key><string>For Adults Only</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Miles Davis and Horns</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13665588</integer>
+			<key>Total Time</key><integer>334837</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-10-08T08:35:36Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>06089C59FF65B7CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Miles%20Davis%20and%20Horns%20@320/04%20For%20Adults%20Only.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15143</key>
+		<dict>
+			<key>Track ID</key><integer>15143</integer>
+			<key>Name</key><string>The Blue Room</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Miles Davis and Horns</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7579055</integer>
+			<key>Total Time</key><integer>182674</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-10-08T08:35:34Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-10-11T21:37:15Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Blue Room</string>
+			<key>Persistent ID</key><string>921DA3EA1E10581C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20Miles%20Davis%20and%20Horns%20@320/07%20The%20Blue%20Room.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15203</key>
+		<dict>
+			<key>Track ID</key><integer>15203</integer>
+			<key>Name</key><string>I See Your Face Before Me</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The Musings Of Miles</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11670014</integer>
+			<key>Total Time</key><integer>286615</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-10-08T08:35:01Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Musings Of Miles</string>
+			<key>Persistent ID</key><string>EE32997F64730A4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20Musings%20of%20Miles%20@320/02%20I%20See%20Your%20Face%20Before%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15209</key>
+		<dict>
+			<key>Track ID</key><integer>15209</integer>
 			<key>Name</key><string>A Night In Tunisia</string>
 			<key>Artist</key><string>Miles Davis</string>
 			<key>Album</key><string>The Musings Of Miles</string>
@@ -59,13 +352,525 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Musings Of Miles</string>
 			<key>Sort Name</key><string>Night In Tunisia</string>
 			<key>Persistent ID</key><string>38451411547A7210</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20Musings%20of%20Miles%20@320/05%20A%20Night%20In%20Tunisia.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15213</key>
+		<dict>
+			<key>Track ID</key><integer>15213</integer>
+			<key>Name</key><string>Just Squeeze Me</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The New Miles Davis Quintet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18214625</integer>
+			<key>Total Time</key><integer>449802</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-10-08T08:34:13Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>New Miles Davis Quintet</string>
+			<key>Persistent ID</key><string>2B6B3131C126D236</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20The%20New%20Miles%20Davis%20Quintet%20@320/01%20Just%20Squeeze%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15217</key>
+		<dict>
+			<key>Track ID</key><integer>15217</integer>
+			<key>Name</key><string>How Am I To Know?</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The New Miles Davis Quintet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11490708</integer>
+			<key>Total Time</key><integer>281704</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-10-08T08:34:11Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-10-10T15:59:05Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>New Miles Davis Quintet</string>
+			<key>Persistent ID</key><string>1F7C8D0B3C0CC7ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20The%20New%20Miles%20Davis%20Quintet%20@320/03%20How%20Am%20I%20To%20Know_.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15219</key>
+		<dict>
+			<key>Track ID</key><integer>15219</integer>
+			<key>Name</key><string>S'posin</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The New Miles Davis Quintet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12912804</integer>
+			<key>Total Time</key><integer>317257</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-10-08T08:34:09Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>New Miles Davis Quintet</string>
+			<key>Persistent ID</key><string>A4449D3C53199B3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20The%20New%20Miles%20Davis%20Quintet%20@320/04%20S'posin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15223</key>
+		<dict>
+			<key>Track ID</key><integer>15223</integer>
+			<key>Name</key><string>Stablemates</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>The New Miles Davis Quintet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13058049</integer>
+			<key>Total Time</key><integer>320888</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1955</integer>
+			<key>Date Modified</key><date>2017-10-08T08:34:07Z</date>
+			<key>Date Added</key><date>2017-10-08T08:29:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>New Miles Davis Quintet</string>
+			<key>Persistent ID</key><string>FB553BAA85BAD355</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1955%20The%20New%20Miles%20Davis%20Quintet%20@320/06%20Stablemates.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15325</key>
+		<dict>
+			<key>Track ID</key><integer>15325</integer>
+			<key>Name</key><string>'Round Midnight</string>
+			<key>Artist</key><string>Miles Davis with the Lighthouse All-Stars</string>
+			<key>Composer</key><string>Bernie Hanighen/Cootie Williams/Thelonious Monk</string>
+			<key>Album</key><string>At Last</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5711889</integer>
+			<key>Total Time</key><integer>349022</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2017-10-13T18:41:00Z</date>
+			<key>Date Added</key><date>2017-10-13T18:40:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>E3D59E0D40A6E8BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1953%20%20-%20%20At%20Last%20(with%20The%20Lighthouse%20All-stars)/02%20-%20'Round%20Midnight%20%5B5.49%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15365</key>
+		<dict>
+			<key>Track ID</key><integer>15365</integer>
+			<key>Name</key><string>It Could Happen To You</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Relaxin' With The Miles Davis Quintet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16063901</integer>
+			<key>Total Time</key><integer>400875</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2017-10-13T18:47:17Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4FEFFBDBE483737</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1956%20Relaxin'%20With%20The%20Miles%20Davis%20Quintet%20@320/05%20It%20Could%20Happen%20To%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15381</key>
+		<dict>
+			<key>Track ID</key><integer>15381</integer>
+			<key>Name</key><string>Two Bass Hit</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>'Round About Midnight</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9084938</integer>
+			<key>Total Time</key><integer>224888</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2017-10-13T18:47:56Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3590950080</integer>
+			<key>Play Date UTC</key><date>2017-10-16T05:08:00Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F93D13A3E2B07FEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1956%20Round%20About%20Midnight%20@320/07%20Two%20Bass%20Hit.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15389</key>
+		<dict>
+			<key>Track ID</key><integer>15389</integer>
+			<key>Name</key><string>Salt Peanuts</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Steamin' With The Miles Davis Quintet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15022599</integer>
+			<key>Total Time</key><integer>370468</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2017-10-13T18:49:31Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>859370C127D148F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1956%20Steamin'%20With%20The%20Miles%20Davis%20Quintet%20@320/02%20Salt%20Peanuts.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15419</key>
+		<dict>
+			<key>Track ID</key><integer>15419</integer>
+			<key>Name</key><string>Miles Ahead</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Miles Ahead</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8428178</integer>
+			<key>Total Time</key><integer>210207</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2017-10-13T18:50:46Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B4924EB8C77588E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1957%20Miles%20Ahead%20@320/05%20Miles%20Ahead.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15493</key>
+		<dict>
+			<key>Track ID</key><integer>15493</integer>
+			<key>Name</key><string>Miles Davis - All Blues</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>27900320</integer>
+			<key>Total Time</key><integer>695666</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2017-10-13T18:56:51Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ExactAudioCopy v0.99pb4 </string>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>63B1B26507B699EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1959%20Kind%20of%20Blue%20(50th%20Anniversary,%202%20CD)%20@320/04%20Miles%20Davis%20-%20All%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15515</key>
+		<dict>
+			<key>Track ID</key><integer>15515</integer>
+			<key>Name</key><string>Fran-Dance</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14064825</integer>
+			<key>Total Time</key><integer>349779</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2017-10-13T18:56:57Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ExactAudioCopy v0.99pb4 </string>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A9B4C9EBD7D38F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1959%20Kind%20of%20Blue%20(50th%20Anniversary,%202%20CD)%20@320/17%20Fran-Dance.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15553</key>
+		<dict>
+			<key>Track ID</key><integer>15553</integer>
+			<key>Name</key><string>Alison's Uncle [#][*]</string>
+			<key>Artist</key><string>Miles Davis with Cannonball Adderley</string>
+			<key>Album</key><string>Somethin' Else</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12236984</integer>
+			<key>Total Time</key><integer>305162</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2017-10-13T18:58:43Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3591036379</integer>
+			<key>Play Date UTC</key><date>2017-10-17T05:06:19Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5399391E0ED00F36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1959%20Something%20Else%20(with%20Cannonball%20Adderley)%20@320/06%20Alison's%20Uncle%20%5B%23%5D%5Bx%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15599</key>
+		<dict>
+			<key>Track ID</key><integer>15599</integer>
+			<key>Name</key><string>Song No. 1 [Master]</string>
+			<key>Artist</key><string>Miles Davis with Gil Evans</string>
+			<key>Album</key><string>Quiet Nights</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11280736</integer>
+			<key>Total Time</key><integer>279327</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Date Modified</key><date>2017-10-13T19:02:10Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32E8FD99514A3C19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1963%20Quiet%20Nights%20(Miles%20Davis-Gil%20Evans)%20@320/04%20Song%20No.%201%20%5BMaster%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15631</key>
+		<dict>
+			<key>Track ID</key><integer>15631</integer>
+			<key>Name</key><string>Seven Steps To Heaven</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Seven Steps To Heaven</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15553987</integer>
+			<key>Total Time</key><integer>386089</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2017-10-13T19:02:46Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61B1468E1B480D11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1963%20Seven%20Steps%20To%20Heaven%20@320/02%20Seven%20Steps%20To%20Heaven.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15641</key>
+		<dict>
+			<key>Track ID</key><integer>15641</integer>
+			<key>Name</key><string>So Near, So Far</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Seven Steps To Heaven</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12580201</integer>
+			<key>Total Time</key><integer>311745</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2017-10-13T19:02:50Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22BBCDF617732C0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1963%20Seven%20Steps%20To%20Heaven%20@320/07%20So%20Near,%20So%20Far.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15655</key>
+		<dict>
+			<key>Track ID</key><integer>15655</integer>
+			<key>Name</key><string>Seven Steps to Heaven</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis/Victor Feldman</string>
+			<key>Album</key><string>Four and More</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11318260</integer>
+			<key>Total Time</key><integer>466390</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2017-10-13T19:04:22Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Sort Album</key><string>Complete Concert: 1964 (My Funny Valentine &#38; "Four More" Disc 2</string>
+			<key>Persistent ID</key><string>CA9694AE2B850890</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1964%20%20-%20%20Four%20&#38;%20More/06-seven%20steps%20to%20heaven.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15657</key>
+		<dict>
+			<key>Track ID</key><integer>15657</integer>
+			<key>Name</key><string>There Is No Greater Love</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Isham Jones/Marty Symes</string>
+			<key>Album</key><string>Four and More</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14587746</integer>
+			<key>Total Time</key><integer>602618</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2017-10-13T19:04:23Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Sort Album</key><string>Complete Concert: 1964 (My Funny Valentine &#38; "Four More" Disc 2</string>
+			<key>Persistent ID</key><string>E0F119E84EED7DE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1964%20%20-%20%20Four%20&#38;%20More/07-there%20is%20no%20greater%20love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15673</key>
+		<dict>
+			<key>Track ID</key><integer>15673</integer>
+			<key>Name</key><string>Orbits</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Miles Smiles</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12085867</integer>
+			<key>Total Time</key><integer>278386</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2017-10-13T19:05:50Z</date>
+			<key>Date Added</key><date>2017-10-13T18:44:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E2502F982DCB6F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1966%20Miles%20Smiles%20@320/01%20Orbits.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15715</key>
+		<dict>
+			<key>Track ID</key><integer>15715</integer>
+			<key>Name</key><string>Recording session of Flamenco Sketches, All Blues</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>86615456</integer>
+			<key>Total Time</key><integer>2163539</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2017-10-13T18:56:48Z</date>
+			<key>Date Added</key><date>2017-10-13T18:55:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A7A72F3CD49C888</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miles%20Davis/1959%20Kind%20of%20Blue%20(50th%20Anniversary,%202%20CD)%20@320/23%20Recording%20session%20of%20Flamenco%20Sketches,%20All%20Blues.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -75,16 +880,106 @@
 		<dict>
 			<key>Name</key><string>Miles Davis probation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>36939</integer>
+			<key>Playlist ID</key><integer>37392</integer>
 			<key>Playlist Persistent ID</key><string>2EED8E12B431AA34</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>40004</integer>
+					<key>Track ID</key><integer>15121</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40163</integer>
+					<key>Track ID</key><integer>15209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15061</integer>
 				</dict>
 			</array>
 		</dict>

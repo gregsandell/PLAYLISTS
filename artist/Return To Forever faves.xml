@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-10-09T18:04:07Z</date>
+	<key>Date</key><date>2017-10-18T20:34:57Z</date>
 	<key>Application Version</key><string>12.7.0.166</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5764</key>
+		<key>5775</key>
 		<dict>
-			<key>Track ID</key><integer>5764</integer>
+			<key>Track ID</key><integer>5775</integer>
 			<key>Name</key><string>Medieval Overture</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Romantic Warrior</string>
@@ -32,16 +32,15 @@
 			<key>Play Date UTC</key><date>2016-11-17T16:16:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>0D3AA0722121403F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/Romantic%20Warrior/01_Medieval_Overture_-_Romantic_Warrior_-_Return_To_Forever.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14346</key>
+		<key>13985</key>
 		<dict>
-			<key>Track ID</key><integer>14346</integer>
+			<key>Track ID</key><integer>13985</integer>
 			<key>Name</key><string>Sorceress</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Romantic Warrior</string>
@@ -56,16 +55,61 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>DBA23393FDFFB8B3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/Romantic%20Warrior/02_Sorceress_-_Romantic_Warrior_-_Return_To_Forever.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14384</key>
+		<key>13989</key>
 		<dict>
-			<key>Track ID</key><integer>14384</integer>
+			<key>Track ID</key><integer>13989</integer>
+			<key>Name</key><string>Majestic Dance</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Album</key><string>Romantic Warrior</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6008960</integer>
+			<key>Total Time</key><integer>300617</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2011-03-19T22:40:54Z</date>
+			<key>Date Added</key><date>2017-09-20T06:14:21Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>CDAC498232507C08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/Romantic%20Warrior/04_Majestic_Dance_-_Romantic_Warrior_-_Return_To_Forever.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13993</key>
+		<dict>
+			<key>Track ID</key><integer>13993</integer>
+			<key>Name</key><string>Duel Of The Jester And The Tyrant</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Album</key><string>Romantic Warrior</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13740160</integer>
+			<key>Total Time</key><integer>687490</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2011-03-19T22:40:56Z</date>
+			<key>Date Added</key><date>2017-09-20T06:14:21Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>737C4D1FDFE34529</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/Romantic%20Warrior/06_Duel_Of_The_Jester_And_The_Tyrant_-_Romantic_Warrior_-_Return_To_Forever.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14023</key>
+		<dict>
+			<key>Track ID</key><integer>14023</integer>
 			<key>Name</key><string>Light As A Feather            </string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Light As A Feather</string>
@@ -90,9 +134,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14386</key>
+		<key>14025</key>
 		<dict>
-			<key>Track ID</key><integer>14386</integer>
+			<key>Track ID</key><integer>14025</integer>
 			<key>Name</key><string>Captain Marvel</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album Artist</key><string>Return to Forever</string>
@@ -122,9 +166,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14388</key>
+		<key>14027</key>
 		<dict>
-			<key>Track ID</key><integer>14388</integer>
+			<key>Track ID</key><integer>14027</integer>
 			<key>Name</key><string>500 Miles High</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album Artist</key><string>Return to Forever</string>
@@ -151,9 +195,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14390</key>
+		<key>14029</key>
 		<dict>
-			<key>Track ID</key><integer>14390</integer>
+			<key>Track ID</key><integer>14029</integer>
 			<key>Name</key><string>Matrix</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Composer</key><string>Chick Corea</string>
@@ -182,9 +226,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14392</key>
+		<key>14031</key>
 		<dict>
-			<key>Track ID</key><integer>14392</integer>
+			<key>Track ID</key><integer>14031</integer>
 			<key>Name</key><string>Spain</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album Artist</key><string>Return to Forever</string>
@@ -213,9 +257,72 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14400</key>
+		<key>14033</key>
 		<dict>
-			<key>Track ID</key><integer>14400</integer>
+			<key>Track ID</key><integer>14033</integer>
+			<key>Name</key><string>Light As A Feather</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Composer</key><string>Stanley Clarke - Flora Purim</string>
+			<key>Album</key><string>Light As A Feather</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15659695</integer>
+			<key>Total Time</key><integer>646295</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-09-21T04:25:34Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>1</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3589517467</integer>
+			<key>Play Date UTC</key><date>2017-09-29T15:11:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B93DF3647AB05CB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1972%20-%20Light%20As%20a%20Feather/07%20-%20Alternate%20-%20Light%20As%20A%20Feather.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14035</key>
+		<dict>
+			<key>Track ID</key><integer>14035</integer>
+			<key>Name</key><string>500 Miles High</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Composer</key><string>Chick Corea - Neville Potter</string>
+			<key>Album</key><string>Light As A Feather</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15326374</integer>
+			<key>Total Time</key><integer>632476</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-09-21T04:25:35Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>1</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>474DC5A6F9A7F502</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1972%20-%20Light%20As%20a%20Feather/08%20-%20Alternate%20-%20500%20Miles%20High.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14039</key>
+		<dict>
+			<key>Track ID</key><integer>14039</integer>
 			<key>Name</key><string>Spain</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Light As A Feather</string>
@@ -240,9 +347,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14402</key>
+		<key>14041</key>
 		<dict>
-			<key>Track ID</key><integer>14402</integer>
+			<key>Track ID</key><integer>14041</integer>
 			<key>Name</key><string>Spain</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Composer</key><string>Chick Corea - Joaquin Rodrigo</string>
@@ -270,9 +377,71 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14410</key>
+		<key>14043</key>
 		<dict>
-			<key>Track ID</key><integer>14410</integer>
+			<key>Track ID</key><integer>14043</integer>
+			<key>Name</key><string>What Games Shall We Play Today?</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Composer</key><string>Chick Corea - Neville Potter</string>
+			<key>Album</key><string>Light As A Feather</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5677206</integer>
+			<key>Total Time</key><integer>232437</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-09-21T04:25:36Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>1</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-09-21T07:04:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1715633A9AF62A67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1972%20-%20Light%20As%20a%20Feather/12%20-%20What%20Games%20Shall%20We%20Play%20Today%2001.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14045</key>
+		<dict>
+			<key>Track ID</key><integer>14045</integer>
+			<key>Name</key><string>What Games Shall We Play Today?</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Composer</key><string>Chick Corea - Neville Potter</string>
+			<key>Album</key><string>Light As A Feather</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6004222</integer>
+			<key>Total Time</key><integer>245995</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-09-21T04:25:37Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>1</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF411A5402670530</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1972%20-%20Light%20As%20a%20Feather/13%20-%20What%20Games%20Shall%20We%20Play%20Today%20012.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14049</key>
+		<dict>
+			<key>Track ID</key><integer>14049</integer>
 			<key>Name</key><string>Return To Forever</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Return To Forever</string>
@@ -294,9 +463,57 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14430</key>
+		<key>14059</key>
 		<dict>
-			<key>Track ID</key><integer>14430</integer>
+			<key>Track ID</key><integer>14059</integer>
+			<key>Name</key><string>2. Spain</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Album</key><string>Stockholm Live 09-17-72</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>28190662</integer>
+			<key>Total Time</key><integer>703686</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-09-21T04:28:03Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70976772F297FC7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1972%20-%20Stockholm%20Live%2009-17-72/2.%20Spain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14065</key>
+		<dict>
+			<key>Track ID</key><integer>14065</integer>
+			<key>Name</key><string>5. Noon Song pt 2</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Album</key><string>Stockholm Live 09-17-72</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>39820376</integer>
+			<key>Total Time</key><integer>994429</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-09-21T04:28:06Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85B32D9E561EE0FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1972%20-%20Stockholm%20Live%2009-17-72/5.%20Noon%20Song%20pt%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14069</key>
+		<dict>
+			<key>Track ID</key><integer>14069</integer>
 			<key>Name</key><string>Hymn Of The Seventh Galaxy</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Hymn Of The Seventh Galaxy</string>
@@ -323,9 +540,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14442</key>
+		<key>14077</key>
 		<dict>
-			<key>Track ID</key><integer>14442</integer>
+			<key>Track ID</key><integer>14077</integer>
+			<key>Name</key><string>Space Circus</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Album</key><string>Hymn Of The Seventh Galaxy</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8310203</integer>
+			<key>Total Time</key><integer>342204</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-09-21T04:28:58Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3588917349</integer>
+			<key>Play Date UTC</key><date>2017-09-22T16:29:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>967D46809FD13512</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1973%20-%20Hymn%20of%20the%20Seventh%20Galaxy/05%20-%20Space%20Circus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14081</key>
+		<dict>
+			<key>Track ID</key><integer>14081</integer>
 			<key>Name</key><string>Vulcan Worlds</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Where Have I Known You Before</string>
@@ -349,9 +595,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14450</key>
+		<key>14087</key>
 		<dict>
-			<key>Track ID</key><integer>14450</integer>
+			<key>Track ID</key><integer>14087</integer>
 			<key>Name</key><string>Beyond the Seventh Galazy</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Where Have I Known You Before</string>
@@ -371,7 +617,6 @@
 			<key>Play Date UTC</key><date>2017-09-21T22:00:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E12BCD2808EE699D</string>
 			<key>Track Type</key><string>File</string>
@@ -379,9 +624,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14466</key>
+		<key>14099</key>
 		<dict>
-			<key>Track ID</key><integer>14466</integer>
+			<key>Track ID</key><integer>14099</integer>
+			<key>Name</key><string>Excerpt from the First Movement of Heavy Metal</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Composer</key><string>Al DiMeola/Chick Corea/Lenny White/Stanley Clarke</string>
+			<key>Album</key><string>No Mystery</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3015932</integer>
+			<key>Total Time</key><integer>165067</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-09-21T04:30:37Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3590444346</integer>
+			<key>Play Date UTC</key><date>2017-10-10T08:39:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>445EA1512757163D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1975%20-%20No%20Mystery/05%20-%20Excerpt%20From%20The%20First%20Movement%20Of%20Heavy%20Metal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14101</key>
+		<dict>
+			<key>Track ID</key><integer>14101</integer>
 			<key>Name</key><string>No Mystery</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Composer</key><string>Chick Corea</string>
@@ -398,7 +672,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B4A627ADBC3D346F</string>
 			<key>Track Type</key><string>File</string>
@@ -406,9 +679,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14468</key>
+		<key>14103</key>
 		<dict>
-			<key>Track ID</key><integer>14468</integer>
+			<key>Track ID</key><integer>14103</integer>
 			<key>Name</key><string>Interplay</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Composer</key><string>Chick Corea/Stanley Clarke</string>
@@ -428,7 +701,6 @@
 			<key>Play Date UTC</key><date>2017-09-24T20:50:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FC97DC91D8C9B481</string>
 			<key>Track Type</key><string>File</string>
@@ -436,9 +708,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14474</key>
+		<key>14107</key>
 		<dict>
-			<key>Track ID</key><integer>14474</integer>
+			<key>Track ID</key><integer>14107</integer>
+			<key>Name</key><string>Celebration Suite, Pt. 2</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Composer</key><string>Chick Corea</string>
+			<key>Album</key><string>No Mystery</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4795124</integer>
+			<key>Total Time</key><integer>276271</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-09-21T04:30:38Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3588939527</integer>
+			<key>Play Date UTC</key><date>2017-09-22T22:38:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F44053D045ED72BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1975%20-%20No%20Mystery/09%20-%20Celebration%20Suite,%20Pt.%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14109</key>
+		<dict>
+			<key>Track ID</key><integer>14109</integer>
 			<key>Name</key><string>medieval Overture</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live From 'Old Grey Whistle Test'</string>
@@ -459,9 +760,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14476</key>
+		<key>14111</key>
 		<dict>
-			<key>Track ID</key><integer>14476</integer>
+			<key>Track ID</key><integer>14111</integer>
 			<key>Name</key><string>the Sorceress</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live From 'Old Grey Whistle Test'</string>
@@ -483,9 +784,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14478</key>
+		<key>14113</key>
 		<dict>
-			<key>Track ID</key><integer>14478</integer>
+			<key>Track ID</key><integer>14113</integer>
 			<key>Name</key><string>the Magician</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live From 'Old Grey Whistle Test'</string>
@@ -507,9 +808,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14480</key>
+		<key>14115</key>
 		<dict>
-			<key>Track ID</key><integer>14480</integer>
+			<key>Track ID</key><integer>14115</integer>
 			<key>Name</key><string>romantic Warrior</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live From 'Old Grey Whistle Test'</string>
@@ -535,9 +836,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14486</key>
+		<key>14121</key>
 		<dict>
-			<key>Track ID</key><integer>14486</integer>
+			<key>Track ID</key><integer>14121</integer>
 			<key>Name</key><string>Musicmagic</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Musicmagic</string>
@@ -553,7 +854,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9FC18CBDDE54FA2E</string>
 			<key>Track Type</key><string>File</string>
@@ -561,9 +861,39 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14494</key>
+		<key>14123</key>
 		<dict>
-			<key>Track ID</key><integer>14494</integer>
+			<key>Track ID</key><integer>14123</integer>
+			<key>Name</key><string>So Long Mickey Mouse</string>
+			<key>Artist</key><string>Return To Forever</string>
+			<key>Album Artist</key><string>Return to Forever</string>
+			<key>Composer</key><string>Stanley Clarke</string>
+			<key>Album</key><string>Musicmagic</string>
+			<key>Genre</key><string>Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6003279</integer>
+			<key>Total Time</key><integer>372088</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2017-09-21T04:32:18Z</date>
+			<key>Date Added</key><date>2017-09-21T04:23:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3590157459</integer>
+			<key>Play Date UTC</key><date>2017-10-07T00:57:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EC224BD6300ACC00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Return%20to%20Forever/1977%20-%20Musicmagic/04%20-%20So%20Long%20Mickey%20Mouse.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14127</key>
+		<dict>
+			<key>Track ID</key><integer>14127</integer>
 			<key>Name</key><string>02 - The Endless Night</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live, The Complete Concert</string>
@@ -584,9 +914,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14498</key>
+		<key>14131</key>
 		<dict>
-			<key>Track ID</key><integer>14498</integer>
+			<key>Track ID</key><integer>14131</integer>
 			<key>Name</key><string>05 - Hello Again</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live, The Complete Concert</string>
@@ -610,9 +940,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14500</key>
+		<key>14133</key>
 		<dict>
-			<key>Track ID</key><integer>14500</integer>
+			<key>Track ID</key><integer>14133</integer>
 			<key>Name</key><string>So Long Mickey Mouse</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live, The Complete Concert</string>
@@ -635,9 +965,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14504</key>
+		<key>14135</key>
 		<dict>
-			<key>Track ID</key><integer>14504</integer>
+			<key>Track ID</key><integer>14135</integer>
 			<key>Name</key><string>02 - Serenade</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Live, The Complete Concert</string>
@@ -658,9 +988,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14512</key>
+		<key>14139</key>
 		<dict>
-			<key>Track ID</key><integer>14512</integer>
+			<key>Track ID</key><integer>14139</integer>
 			<key>Name</key><string>Spain [Live]</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album</key><string>Return to the 7th Galaxy</string>
@@ -684,9 +1014,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14514</key>
+		<key>14141</key>
 		<dict>
-			<key>Track ID</key><integer>14514</integer>
+			<key>Track ID</key><integer>14141</integer>
 			<key>Name</key><string>After the Cosmic Rain [Live]</string>
 			<key>Artist</key><string>Return To Forever</string>
 			<key>Album Artist</key><string>Return to Forever</string>
@@ -721,88 +1051,124 @@
 		<dict>
 			<key>Name</key><string>Return To Forever faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>37834</integer>
+			<key>Playlist ID</key><integer>38269</integer>
 			<key>Playlist Persistent ID</key><string>7E6DCC3BF728B723</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14450</integer>
+					<key>Track ID</key><integer>14087</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14442</integer>
+					<key>Track ID</key><integer>14081</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14410</integer>
+					<key>Track ID</key><integer>14049</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14468</integer>
+					<key>Track ID</key><integer>14103</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14466</integer>
+					<key>Track ID</key><integer>14101</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14494</integer>
+					<key>Track ID</key><integer>14127</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14504</integer>
+					<key>Track ID</key><integer>14135</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14474</integer>
+					<key>Track ID</key><integer>14109</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14478</integer>
+					<key>Track ID</key><integer>14113</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14402</integer>
+					<key>Track ID</key><integer>14041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14400</integer>
+					<key>Track ID</key><integer>14039</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14384</integer>
+					<key>Track ID</key><integer>14023</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14430</integer>
+					<key>Track ID</key><integer>14069</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14346</integer>
+					<key>Track ID</key><integer>13985</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5764</integer>
+					<key>Track ID</key><integer>5775</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14514</integer>
+					<key>Track ID</key><integer>14141</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14512</integer>
+					<key>Track ID</key><integer>14139</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14486</integer>
+					<key>Track ID</key><integer>14121</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14390</integer>
+					<key>Track ID</key><integer>14029</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14392</integer>
+					<key>Track ID</key><integer>14031</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14388</integer>
+					<key>Track ID</key><integer>14027</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14476</integer>
+					<key>Track ID</key><integer>14111</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14480</integer>
+					<key>Track ID</key><integer>14115</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14498</integer>
+					<key>Track ID</key><integer>14131</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14500</integer>
+					<key>Track ID</key><integer>14133</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14386</integer>
+					<key>Track ID</key><integer>14025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14033</integer>
 				</dict>
 			</array>
 		</dict>
