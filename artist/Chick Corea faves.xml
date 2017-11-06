@@ -4,16 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-10-27T16:29:30Z</date>
-	<key>Application Version</key><string>12.7.0.166</string>
+	<key>Date</key><date>2017-11-06T22:48:10Z</date>
+	<key>Application Version</key><string>12.7.1.14</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>14111</key>
+		<key>13222</key>
 		<dict>
-			<key>Track ID</key><integer>14111</integer>
+			<key>Track ID</key><integer>13222</integer>
 			<key>Name</key><string>Litha</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Tones For Joan's Bones</string>
@@ -27,7 +28,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3D9D59ABB3B44BA6</string>
 			<key>Track Type</key><string>File</string>
@@ -35,9 +35,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14115</key>
+		<key>13224</key>
 		<dict>
-			<key>Track ID</key><integer>14115</integer>
+			<key>Track ID</key><integer>13224</integer>
 			<key>Name</key><string>Straight Up And Down</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Tones For Joan's Bones</string>
@@ -51,7 +51,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0E42141A6A6F0B6C</string>
 			<key>Track Type</key><string>File</string>
@@ -59,9 +58,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14117</key>
+		<key>13226</key>
 		<dict>
-			<key>Track ID</key><integer>14117</integer>
+			<key>Track ID</key><integer>13226</integer>
 			<key>Name</key><string>Matrix</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Now He Sings, Now He Sobs</string>
@@ -84,9 +83,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14119</key>
+		<key>13228</key>
 		<dict>
-			<key>Track ID</key><integer>14119</integer>
+			<key>Track ID</key><integer>13228</integer>
 			<key>Name</key><string>Steps--What Was</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Now He Sings, Now He Sobs</string>
@@ -109,9 +108,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14121</key>
+		<key>13230</key>
 		<dict>
-			<key>Track ID</key><integer>14121</integer>
+			<key>Track ID</key><integer>13230</integer>
 			<key>Name</key><string>Windows</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Now He Sings, Now He Sobs</string>
@@ -139,9 +138,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14125</key>
+		<key>13234</key>
 		<dict>
-			<key>Track ID</key><integer>14125</integer>
+			<key>Track ID</key><integer>13234</integer>
 			<key>Name</key><string>Samba Yantra</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Now He Sings, Now He Sobs</string>
@@ -167,9 +166,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14129</key>
+		<key>13238</key>
 		<dict>
-			<key>Track ID</key><integer>14129</integer>
+			<key>Track ID</key><integer>13238</integer>
 			<key>Name</key><string>Lenore</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -196,9 +195,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14131</key>
+		<key>13240</key>
 		<dict>
-			<key>Track ID</key><integer>14131</integer>
+			<key>Track ID</key><integer>13240</integer>
 			<key>Name</key><string>Nite Sprite</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -222,9 +221,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14135</key>
+		<key>13242</key>
 		<dict>
-			<key>Track ID</key><integer>14135</integer>
+			<key>Track ID</key><integer>13242</integer>
+			<key>Name</key><string>Soft and Gentle</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>The Leprechaun</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6409525</integer>
+			<key>Total Time</key><integer>314671</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-09-21T04:56:43Z</date>
+			<key>Date Added</key><date>2017-09-21T04:54:18Z</date>
+			<key>Bit Rate</key><integer>159</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3588790369</integer>
+			<key>Play Date UTC</key><date>2017-09-21T05:12:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Leprechaun</string>
+			<key>Persistent ID</key><string>75578B58D613A698</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1975%20-%20The%20Leprechaun/06%20Soft%20and%20Gentle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13244</key>
+		<dict>
+			<key>Track ID</key><integer>13244</integer>
 			<key>Name</key><string>Pixiland Rag</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -251,9 +279,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14137</key>
+		<key>13246</key>
 		<dict>
-			<key>Track ID</key><integer>14137</integer>
+			<key>Track ID</key><integer>13246</integer>
 			<key>Name</key><string>Leprechaun's Dream (Part 2)</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -277,9 +305,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14139</key>
+		<key>13248</key>
 		<dict>
-			<key>Track ID</key><integer>14139</integer>
+			<key>Track ID</key><integer>13248</integer>
 			<key>Name</key><string>03 Children's Song</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Friends</string>
@@ -305,9 +333,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14141</key>
+		<key>13250</key>
 		<dict>
-			<key>Track ID</key><integer>14141</integer>
+			<key>Track ID</key><integer>13250</integer>
 			<key>Name</key><string>06 Sicily</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Friends</string>
@@ -330,9 +358,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14143</key>
+		<key>13252</key>
 		<dict>
-			<key>Track ID</key><integer>14143</integer>
+			<key>Track ID</key><integer>13252</integer>
 			<key>Name</key><string>07 Children's Song #15</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Friends</string>
@@ -358,9 +386,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14145</key>
+		<key>13254</key>
 		<dict>
-			<key>Track ID</key><integer>14145</integer>
+			<key>Track ID</key><integer>13254</integer>
 			<key>Name</key><string>08 Cappuccino</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Friends</string>
@@ -383,9 +411,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14147</key>
+		<key>13256</key>
 		<dict>
-			<key>Track ID</key><integer>14147</integer>
+			<key>Track ID</key><integer>13256</integer>
 			<key>Name</key><string>03- The Trial</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -412,9 +440,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14149</key>
+		<key>13258</key>
 		<dict>
-			<key>Track ID</key><integer>14149</integer>
+			<key>Track ID</key><integer>13258</integer>
 			<key>Name</key><string>04- Humpty Dumpty</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -438,9 +466,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14151</key>
+		<key>13260</key>
 		<dict>
-			<key>Track ID</key><integer>14151</integer>
+			<key>Track ID</key><integer>13260</integer>
 			<key>Name</key><string>05- Prelude to Falling Alice</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -469,9 +497,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14155</key>
+		<key>13262</key>
 		<dict>
-			<key>Track ID</key><integer>14155</integer>
+			<key>Track ID</key><integer>13262</integer>
 			<key>Name</key><string>07- Tweedle Dum</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -498,9 +526,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14157</key>
+		<key>13264</key>
 		<dict>
-			<key>Track ID</key><integer>14157</integer>
+			<key>Track ID</key><integer>13264</integer>
 			<key>Name</key><string>08- Dear Alice</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -527,9 +555,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14159</key>
+		<key>13266</key>
 		<dict>
-			<key>Track ID</key><integer>14159</integer>
+			<key>Track ID</key><integer>13266</integer>
 			<key>Name</key><string>09- The Mad Hatter Rhapsody</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -553,9 +581,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14161</key>
+		<key>13268</key>
 		<dict>
-			<key>Track ID</key><integer>14161</integer>
+			<key>Track ID</key><integer>13268</integer>
 			<key>Name</key><string>Compadres</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Touchstone</string>
@@ -582,9 +610,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14163</key>
+		<key>13270</key>
 		<dict>
-			<key>Track ID</key><integer>14163</integer>
+			<key>Track ID</key><integer>13270</integer>
 			<key>Name</key><string>Beneath The Mask</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -602,7 +630,6 @@
 			<key>Play Date UTC</key><date>2017-10-10T09:03:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BF4C8B149FAFF4A6</string>
 			<key>Track Type</key><string>File</string>
@@ -610,9 +637,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14165</key>
+		<key>13272</key>
 		<dict>
-			<key>Track ID</key><integer>14165</integer>
+			<key>Track ID</key><integer>13272</integer>
 			<key>Name</key><string>One Of Us Is Over 40</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -627,7 +654,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1D515A3F14BB595B</string>
 			<key>Track Type</key><string>File</string>
@@ -635,9 +661,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14173</key>
+		<key>13276</key>
 		<dict>
-			<key>Track ID</key><integer>14173</integer>
+			<key>Track ID</key><integer>13276</integer>
 			<key>Name</key><string>Flavors</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -655,7 +681,6 @@
 			<key>Play Date UTC</key><date>2017-10-10T15:49:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>64BC8E26623DB8EB</string>
 			<key>Track Type</key><string>File</string>
@@ -663,9 +688,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14175</key>
+		<key>13278</key>
 		<dict>
-			<key>Track ID</key><integer>14175</integer>
+			<key>Track ID</key><integer>13278</integer>
 			<key>Name</key><string>Illusions</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -680,7 +705,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D0CBAEB8ED8B6306</string>
 			<key>Track Type</key><string>File</string>
@@ -688,9 +712,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14179</key>
+		<key>13282</key>
 		<dict>
-			<key>Track ID</key><integer>14179</integer>
+			<key>Track ID</key><integer>13282</integer>
 			<key>Name</key><string>Mistress Luck - A Portrait</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -715,9 +739,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14183</key>
+		<key>13284</key>
 		<dict>
-			<key>Track ID</key><integer>14183</integer>
+			<key>Track ID</key><integer>13284</integer>
 			<key>Name</key><string>Alan Corday</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -742,9 +766,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14185</key>
+		<key>13286</key>
 		<dict>
-			<key>Track ID</key><integer>14185</integer>
+			<key>Track ID</key><integer>13286</integer>
 			<key>Name</key><string>Hound Of Heaven</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -769,9 +793,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14187</key>
+		<key>13288</key>
 		<dict>
-			<key>Track ID</key><integer>14187</integer>
+			<key>Track ID</key><integer>13288</integer>
 			<key>Name</key><string>The Long Passage</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -803,97 +827,100 @@
 		<dict>
 			<key>Name</key><string>Chick Corea faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>36372</integer>
+			<key>Playlist ID</key><integer>34977</integer>
 			<key>Playlist Persistent ID</key><string>6391AEE280799BD7</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14117</integer>
+					<key>Track ID</key><integer>13226</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14159</integer>
+					<key>Track ID</key><integer>13266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14157</integer>
+					<key>Track ID</key><integer>13264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14129</integer>
+					<key>Track ID</key><integer>13238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14187</integer>
+					<key>Track ID</key><integer>13288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14185</integer>
+					<key>Track ID</key><integer>13286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14183</integer>
+					<key>Track ID</key><integer>13284</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14179</integer>
+					<key>Track ID</key><integer>13282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14135</integer>
+					<key>Track ID</key><integer>13244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14131</integer>
+					<key>Track ID</key><integer>13240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14163</integer>
+					<key>Track ID</key><integer>13270</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14115</integer>
+					<key>Track ID</key><integer>13224</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14119</integer>
+					<key>Track ID</key><integer>13228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14137</integer>
+					<key>Track ID</key><integer>13246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14141</integer>
+					<key>Track ID</key><integer>13250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14173</integer>
+					<key>Track ID</key><integer>13276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14165</integer>
+					<key>Track ID</key><integer>13272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14161</integer>
+					<key>Track ID</key><integer>13268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14111</integer>
+					<key>Track ID</key><integer>13222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14155</integer>
+					<key>Track ID</key><integer>13262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14149</integer>
+					<key>Track ID</key><integer>13258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14147</integer>
+					<key>Track ID</key><integer>13256</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14145</integer>
+					<key>Track ID</key><integer>13254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14139</integer>
+					<key>Track ID</key><integer>13248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14175</integer>
+					<key>Track ID</key><integer>13278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14125</integer>
+					<key>Track ID</key><integer>13234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14121</integer>
+					<key>Track ID</key><integer>13230</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14151</integer>
+					<key>Track ID</key><integer>13260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14143</integer>
+					<key>Track ID</key><integer>13252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13242</integer>
 				</dict>
 			</array>
 		</dict>
