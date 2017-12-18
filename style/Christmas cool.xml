@@ -4,53 +4,68 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-07-23T02:02:55Z</date>
-	<key>Application Version</key><string>12.6.2.20</string>
+	<key>Date</key><date>2017-12-05T16:55:35Z</date>
+	<key>Application Version</key><string>12.7.1.14</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>11590</key>
+		<key>11687</key>
 		<dict>
-			<key>Track ID</key><integer>11590</integer>
-			<key>Name</key><string>Jingle Bells</string>
-			<key>Artist</key><string>Earl Scruggs</string>
-			<key>Album Artist</key><string>Various Artists</string>
-			<key>Composer</key><string>James S. Pierpont</string>
-			<key>Album</key><string>A Very Special Acoustic Christmas</string>
-			<key>Genre</key><string>Holiday</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>2688975</integer>
-			<key>Total Time</key><integer>164628</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2017-04-01T05:17:53Z</date>
-			<key>Bit Rate</key><integer>128</integer>
+			<key>Track ID</key><integer>11687</integer>
+			<key>Name</key><string>06 Have Yourself A Merry Little Christmas</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>The Gift</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3489207</integer>
+			<key>Total Time</key><integer>144640</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-06-17T05:07:48Z</date>
+			<key>Date Added</key><date>2017-07-23T02:31:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3565535039</integer>
-			<key>Play Date UTC</key><date>2016-12-26T02:23:59Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2016-12-12T09:04:28Z</date>
+			<key>Skip Date</key><date>2017-07-07T23:32:16Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>2063</integer>
-			<key>Compilation</key><true/>
-			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>E371A4F18193FEAC</string>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gift</string>
+			<key>Persistent ID</key><string>89EFAE90735E0026</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/07%20Jingle%20Bells.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1994%20-%20The%20Gift/06%20Have%20Yourself%20A%20Merry%20Little%20Christmas.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11620</key>
+		<key>11689</key>
 		<dict>
-			<key>Track ID</key><integer>11620</integer>
+			<key>Track ID</key><integer>11689</integer>
+			<key>Name</key><string>10 The Christmas Song</string>
+			<key>Artist</key><string>Liz Story</string>
+			<key>Album</key><string>The Gift</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5881585</integer>
+			<key>Total Time</key><integer>244323</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-06-17T05:07:48Z</date>
+			<key>Date Added</key><date>2017-07-23T02:31:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-24T13:49:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gift</string>
+			<key>Persistent ID</key><string>1A02CF12259CE9DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1994%20-%20The%20Gift/10%20The%20Christmas%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11821</key>
+		<dict>
+			<key>Track ID</key><integer>11821</integer>
 			<key>Name</key><string>Mele Kalikimaka (Christmas In Hawaii)</string>
 			<key>Artist</key><string>KT Tunstall</string>
 			<key>Album Artist</key><string>KT Tunstall</string>
@@ -65,7 +80,7 @@
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2012-06-30T06:04:33Z</date>
-			<key>Date Added</key><date>2017-04-01T05:21:20Z</date>
+			<key>Date Added</key><date>2017-07-23T02:32:08Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>16</integer>
@@ -76,15 +91,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>85AED37C37C746E3</string>
+			<key>Persistent ID</key><string>6C90A6F6724F9D59</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/KT%20Tunstall/Have%20Yourself%20A%20Very%20KT%20Christmas/03%20Mele%20Kalikimaka%20(Christmas%20In%20Haw.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11622</key>
+		<key>11823</key>
 		<dict>
-			<key>Track ID</key><integer>11622</integer>
+			<key>Track ID</key><integer>11823</integer>
 			<key>Name</key><string>Baby, It's Cold Outside</string>
 			<key>Artist</key><string>Dianne Reeves &#38; Lou Rawls</string>
 			<key>Composer</key><string>Blue note</string>
@@ -99,7 +114,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:00Z</date>
-			<key>Date Added</key><date>2017-04-01T05:21:20Z</date>
+			<key>Date Added</key><date>2017-07-23T02:32:08Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -111,15 +126,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1132</integer>
-			<key>Persistent ID</key><string>8F02ED6E1CBCD4E4</string>
+			<key>Persistent ID</key><string>8686F6EE5ACE6BA7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Dianne%20Reeves%20&#38;%20Lou%20Rawls/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/02%20Baby,%20It's%20Cold%20Outside.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11640</key>
+		<key>11845</key>
 		<dict>
-			<key>Track ID</key><integer>11640</integer>
+			<key>Track ID</key><integer>11845</integer>
 			<key>Name</key><string>Winter Weather</string>
 			<key>Artist</key><string>Squirrel Nut Zippers</string>
 			<key>Composer</key><string>Shapiro</string>
@@ -134,7 +149,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2011-03-19T22:48:34Z</date>
-			<key>Date Added</key><date>2017-04-01T05:21:47Z</date>
+			<key>Date Added</key><date>2017-07-23T02:32:21Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -146,68 +161,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2229</integer>
-			<key>Persistent ID</key><string>99539505C894FD2D</string>
+			<key>Persistent ID</key><string>427E16C8091845D3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Squirrel%20Nut%20Zippers/Christmas%20Caravan/Winter%20Weather.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11742</key>
+		<key>12009</key>
 		<dict>
-			<key>Track ID</key><integer>11742</integer>
-			<key>Name</key><string>Rockin' Around the Christmas Tree</string>
-			<key>Artist</key><string>Brenda Lee</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2998566</integer>
-			<key>Total Time</key><integer>124081</integer>
-			<key>Date Modified</key><date>2017-03-28T04:22:33Z</date>
-			<key>Date Added</key><date>2017-04-01T05:24:34Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>converted by convert2mp3.net</string>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>08CBFA2C04D460C1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Brenda%20Lee/YouTube/Brenda%20Lee%20-%20Rockin'%20Around%20the%20Christmas%20Tree.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>11744</key>
-		<dict>
-			<key>Track ID</key><integer>11744</integer>
-			<key>Name</key><string>Only You Can Bring Me Cheer (Gentleman's Lady)</string>
-			<key>Artist</key><string>Alison Krauss</string>
-			<key>Album Artist</key><string>Various Artists</string>
-			<key>Composer</key><string>Alison Krauss, Viktor Krauss</string>
-			<key>Album</key><string>A Very Special Acoustic Christmas</string>
-			<key>Genre</key><string>Holiday</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3477859</integer>
-			<key>Total Time</key><integer>216153</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2017-04-01T05:24:34Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>4097</integer>
-			<key>Compilation</key><true/>
-			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>A1B814480E68D075</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/05%20Only%20You%20Can%20Bring%20Me%20Cheer%20(Gent.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>11948</key>
-		<dict>
-			<key>Track ID</key><integer>11948</integer>
+			<key>Track ID</key><integer>12009</integer>
 			<key>Name</key><string>It Came Upon A Midnight Clear</string>
 			<key>Artist</key><string>Fourplay</string>
 			<key>Composer</key><string>Blue note</string>
@@ -222,7 +184,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:00Z</date>
-			<key>Date Added</key><date>2017-04-08T03:56:29Z</date>
+			<key>Date Added</key><date>2017-07-23T02:35:09Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>10</integer>
@@ -234,15 +196,209 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>7CD9BD7903FC6A2D</string>
+			<key>Persistent ID</key><string>4F0F761C3D035406</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Fourplay/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/03%20It%20Came%20Upon%20A%20Midnight%20Clear.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12572</key>
+		<key>12069</key>
 		<dict>
-			<key>Track ID</key><integer>12572</integer>
+			<key>Track ID</key><integer>12069</integer>
+			<key>Name</key><string>What Child Is This</string>
+			<key>Artist</key><string>Asleep at the Wheel</string>
+			<key>Album</key><string>Lone Star Christmas Night</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4128170</integer>
+			<key>Total Time</key><integer>169795</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-03-24T04:02:03Z</date>
+			<key>Date Added</key><date>2017-07-23T02:35:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3573386367</integer>
+			<key>Play Date UTC</key><date>2017-03-26T22:19:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1F5DF6B979954FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asleep%20At%20The%20Wheel/2016%20-%20Lone%20Star%20Christmas%20Night/Asleep%20at%20the%20Wheel%20-%20What%20Child%20Is%20This.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16463</key>
+		<dict>
+			<key>Track ID</key><integer>16463</integer>
+			<key>Name</key><string>Greensleeves</string>
+			<key>Artist</key><string>Al Di Meola</string>
+			<key>Album</key><string>Winter Nights</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4095620</integer>
+			<key>Total Time</key><integer>169377</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-11-22T04:53:38Z</date>
+			<key>Date Added</key><date>2017-11-22T04:53:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FDBFDC22F4E55DF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Al%20Di%20Meola/1999%20-%20Winter%20Nights/04%20-%20Greensleeves.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16465</key>
+		<dict>
+			<key>Track ID</key><integer>16465</integer>
+			<key>Name</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Artist</key><string>Al Di Meola</string>
+			<key>Album</key><string>Winter Nights</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6639763</integer>
+			<key>Total Time</key><integer>275382</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-11-22T05:53:37Z</date>
+			<key>Date Added</key><date>2017-11-22T04:53:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C179BA05C988DF75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Al%20Di%20Meola/1999%20-%20Winter%20Nights/06%20-%20Have%20Yourself%20A%20Merry%20Little%20Christmas.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16471</key>
+		<dict>
+			<key>Track ID</key><integer>16471</integer>
+			<key>Name</key><string>The First Noel</string>
+			<key>Artist</key><string>Al Di Meola</string>
+			<key>Album</key><string>Winter Nights</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4757669</integer>
+			<key>Total Time</key><integer>196963</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-11-22T04:53:38Z</date>
+			<key>Date Added</key><date>2017-11-22T04:53:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3594367292</integer>
+			<key>Play Date UTC</key><date>2017-11-24T19:21:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>First Noel</string>
+			<key>Persistent ID</key><string>A7056D8293BC76DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Al%20Di%20Meola/1999%20-%20Winter%20Nights/11%20-%20The%20First%20Noel.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17365</key>
+		<dict>
+			<key>Track ID</key><integer>17365</integer>
+			<key>Name</key><string>Jingle Bells</string>
+			<key>Artist</key><string>Earl Scruggs</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>James S. Pierpont</string>
+			<key>Album</key><string>A Very Special Acoustic Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2688975</integer>
+			<key>Total Time</key><integer>164628</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3565535039</integer>
+			<key>Play Date UTC</key><date>2016-12-26T02:23:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-12T09:04:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2063</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
+			<key>Persistent ID</key><string>988EBFACED724A86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/07%20Jingle%20Bells.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17367</key>
+		<dict>
+			<key>Track ID</key><integer>17367</integer>
+			<key>Name</key><string>Rockin' Around the Christmas Tree</string>
+			<key>Artist</key><string>Brenda Lee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2998566</integer>
+			<key>Total Time</key><integer>124081</integer>
+			<key>Date Modified</key><date>2017-03-28T04:22:33Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5449FF2C0393A442</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Brenda%20Lee/YouTube/Brenda%20Lee%20-%20Rockin'%20Around%20the%20Christmas%20Tree.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17369</key>
+		<dict>
+			<key>Track ID</key><integer>17369</integer>
+			<key>Name</key><string>Only You Can Bring Me Cheer (Gentleman's Lady)</string>
+			<key>Artist</key><string>Alison Krauss</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Alison Krauss, Viktor Krauss</string>
+			<key>Album</key><string>A Very Special Acoustic Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3477859</integer>
+			<key>Total Time</key><integer>216153</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4097</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
+			<key>Persistent ID</key><string>1111A15AC23F69F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/05%20Only%20You%20Can%20Bring%20Me%20Cheer%20(Gent.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17371</key>
+		<dict>
+			<key>Track ID</key><integer>17371</integer>
 			<key>Name</key><string>Boogie Woogie Santa Claus (1947)</string>
 			<key>Artist</key><string>Mabel Scott</string>
 			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
@@ -251,7 +407,7 @@
 			<key>Total Time</key><integer>139676</integer>
 			<key>Year</key><integer>1947</integer>
 			<key>Date Modified</key><date>2017-02-20T18:59:00Z</date>
-			<key>Date Added</key><date>2017-04-09T06:22:49Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -264,41 +420,15 @@
 			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
 			<key>Sort Artist</key><string>Mabel Scott</string>
 			<key>Sort Name</key><string>Boogie Woogie Santa Claus (1947)</string>
-			<key>Persistent ID</key><string>D594BBB844C3BE05</string>
+			<key>Persistent ID</key><string>23CA726A28C1B8E7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/33.%20Mabel%20Scott%20-%20Boogie%20Woogie%20Santa%20Claus%20%20(1947).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12702</key>
+		<key>17373</key>
 		<dict>
-			<key>Track ID</key><integer>12702</integer>
-			<key>Name</key><string>What Child Is This</string>
-			<key>Artist</key><string>Asleep at the Wheel</string>
-			<key>Album</key><string>Lone Star Christmas Night</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4128170</integer>
-			<key>Total Time</key><integer>169795</integer>
-			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2017-03-24T04:02:03Z</date>
-			<key>Date Added</key><date>2017-04-09T06:23:05Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3573386367</integer>
-			<key>Play Date UTC</key><date>2017-03-26T22:19:27Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>396C74FDBD5CDC6B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asleep%20At%20The%20Wheel/2016%20-%20Lone%20Star%20Christmas%20Night/Asleep%20at%20the%20Wheel%20-%20What%20Child%20Is%20This.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>14110</key>
-		<dict>
-			<key>Track ID</key><integer>14110</integer>
+			<key>Track ID</key><integer>17373</integer>
 			<key>Name</key><string>Rockin' Around the Christmas Tree</string>
 			<key>Artist</key><string>Asleep at the Wheel</string>
 			<key>Album</key><string>Lone Star Christmas Night</string>
@@ -307,21 +437,21 @@
 			<key>Total Time</key><integer>138997</integer>
 			<key>Year</key><integer>2016</integer>
 			<key>Date Modified</key><date>2017-03-24T04:02:03Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:49Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4E57C3CD4D8343DC</string>
+			<key>Persistent ID</key><string>D1F9167DDF4377A2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asleep%20At%20The%20Wheel/2016%20-%20Lone%20Star%20Christmas%20Night/Asleep%20at%20the%20Wheel%20-%20Rockin'%20Around%20the%20Christmas%20Tree.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14112</key>
+		<key>17375</key>
 		<dict>
-			<key>Track ID</key><integer>14112</integer>
+			<key>Track ID</key><integer>17375</integer>
 			<key>Name</key><string>Rudolph The Red-Nosed Reindeer</string>
 			<key>Artist</key><string>Lynyrd Skynyrd</string>
 			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
@@ -333,21 +463,21 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2000</integer>
 			<key>Date Modified</key><date>2012-10-19T03:56:07Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:49Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1D1899352B8EF16A</string>
+			<key>Persistent ID</key><string>160445C33FF8F8A3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20Christmas%20Time%20Again%20(2000)/02.Rudolph%20The%20Red-Nosed%20Reindeer.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14114</key>
+		<key>17377</key>
 		<dict>
-			<key>Track ID</key><integer>14114</integer>
+			<key>Track ID</key><integer>17377</integer>
 			<key>Name</key><string>Christmas Time Again</string>
 			<key>Artist</key><string>Lynyrd Skynyrd</string>
 			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
@@ -359,7 +489,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2000</integer>
 			<key>Date Modified</key><date>2012-10-19T04:20:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:49Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -370,15 +500,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>124C88E67225F644</string>
+			<key>Persistent ID</key><string>3954EE7B33A5F926</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20Christmas%20Time%20Again%20(2000)/03.Christmas%20Time%20Again.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14116</key>
+		<key>17379</key>
 		<dict>
-			<key>Track ID</key><integer>14116</integer>
+			<key>Track ID</key><integer>17379</integer>
 			<key>Name</key><string>Santa Claus Is Coming To Town</string>
 			<key>Artist</key><string>Lynyrd Skynyrd</string>
 			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
@@ -390,7 +520,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2000</integer>
 			<key>Date Modified</key><date>2012-10-19T04:17:22Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:49Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -401,15 +531,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6156AED856F7CAF6</string>
+			<key>Persistent ID</key><string>3132B73CE3AA48AC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20Christmas%20Time%20Again%20(2000)/05.Santa%20Claus%20Is%20Coming%20To%20Town.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14118</key>
+		<key>17381</key>
 		<dict>
-			<key>Track ID</key><integer>14118</integer>
+			<key>Track ID</key><integer>17381</integer>
 			<key>Name</key><string>2000 Miles</string>
 			<key>Artist</key><string>KT Tunstall</string>
 			<key>Album Artist</key><string>KT Tunstall</string>
@@ -424,7 +554,7 @@
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2012-06-30T06:04:44Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>203</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -435,15 +565,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>66F5B8D63E74BEC9</string>
+			<key>Persistent ID</key><string>FEF4AEC087440360</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/KT%20Tunstall/Have%20Yourself%20A%20Very%20KT%20Christmas/01%202000%20Miles.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14120</key>
+		<key>17383</key>
 		<dict>
-			<key>Track ID</key><integer>14120</integer>
+			<key>Track ID</key><integer>17383</integer>
 			<key>Name</key><string>Sleigh Ride</string>
 			<key>Artist</key><string>KT Tunstall</string>
 			<key>Album Artist</key><string>KT Tunstall</string>
@@ -458,7 +588,7 @@
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2012-06-30T06:04:28Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>171</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -469,15 +599,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>363DD2465BA32BDD</string>
+			<key>Persistent ID</key><string>2EF16453E9806016</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/KT%20Tunstall/Have%20Yourself%20A%20Very%20KT%20Christmas/04%20Sleigh%20Ride.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14122</key>
+		<key>17385</key>
 		<dict>
-			<key>Track ID</key><integer>14122</integer>
+			<key>Track ID</key><integer>17385</integer>
 			<key>Name</key><string>Fairytale Of New York</string>
 			<key>Artist</key><string>KT Tunstall</string>
 			<key>Album Artist</key><string>KT Tunstall</string>
@@ -492,7 +622,7 @@
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2012-06-30T06:04:29Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>179</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -503,15 +633,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>A0B3A16804FD1358</string>
+			<key>Persistent ID</key><string>0C93FB4E27345739</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/KT%20Tunstall/Have%20Yourself%20A%20Very%20KT%20Christmas/05%20Fairytale%20Of%20New%20York.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14124</key>
+		<key>17387</key>
 		<dict>
-			<key>Track ID</key><integer>14124</integer>
+			<key>Track ID</key><integer>17387</integer>
 			<key>Name</key><string>Silent Night</string>
 			<key>Artist</key><string>Reba McEntire</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -526,7 +656,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -539,15 +669,15 @@
 			<key>Normalization</key><integer>3726</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>7A0B9EB19A6A206A</string>
+			<key>Persistent ID</key><string>44845914E4BA220C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/01%20Silent%20Night.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14126</key>
+		<key>17389</key>
 		<dict>
-			<key>Track ID</key><integer>14126</integer>
+			<key>Track ID</key><integer>17389</integer>
 			<key>Name</key><string>Frosty The Snowman</string>
 			<key>Artist</key><string>Dan Tyminski</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -562,7 +692,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -573,15 +703,15 @@
 			<key>Normalization</key><integer>3837</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>5E9162152D6B0E9F</string>
+			<key>Persistent ID</key><string>DEC138600FD227BF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/02%20Frosty%20The%20Snowman.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14128</key>
+		<key>17391</key>
 		<dict>
-			<key>Track ID</key><integer>14128</integer>
+			<key>Track ID</key><integer>17391</integer>
 			<key>Name</key><string>Even Santa Claus Gets The Blues</string>
 			<key>Artist</key><string>Marty Stuart</string>
 			<key>Composer</key><string>Marty Stuart</string>
@@ -596,7 +726,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>8</integer>
@@ -608,15 +738,15 @@
 			<key>Normalization</key><integer>2059</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>46D54A3018576738</string>
+			<key>Persistent ID</key><string>AF8A725F66F9C6AE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/06%20Even%20Santa%20Claus%20Gets%20The%20Blues.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14130</key>
+		<key>17393</key>
 		<dict>
-			<key>Track ID</key><integer>14130</integer>
+			<key>Track ID</key><integer>17393</integer>
 			<key>Name</key><string>Christmas Is Near</string>
 			<key>Artist</key><string>Ralph Stanley</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -631,7 +761,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -642,15 +772,15 @@
 			<key>Normalization</key><integer>4419</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>C9FD0CFB0348F874</string>
+			<key>Persistent ID</key><string>130575488ECB8E23</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/08%20Christmas%20Is%20Near.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14132</key>
+		<key>17395</key>
 		<dict>
-			<key>Track ID</key><integer>14132</integer>
+			<key>Track ID</key><integer>17395</integer>
 			<key>Name</key><string>O Come All Ye Faithful</string>
 			<key>Artist</key><string>Patty Loveless</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -665,7 +795,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -676,15 +806,15 @@
 			<key>Normalization</key><integer>5927</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>18976129B79C2956</string>
+			<key>Persistent ID</key><string>8B0D482AF897093A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/09%20O%20Come%20All%20Ye%20Faithful.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14134</key>
+		<key>17397</key>
 		<dict>
-			<key>Track ID</key><integer>14134</integer>
+			<key>Track ID</key><integer>17397</integer>
 			<key>Name</key><string>O Holy Night</string>
 			<key>Artist</key><string>Wynonna Judd</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -699,7 +829,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -710,15 +840,15 @@
 			<key>Normalization</key><integer>3939</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>545155E082A74E22</string>
+			<key>Persistent ID</key><string>7F99BAACAC2B3807</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/10%20O%20Holy%20Night.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14136</key>
+		<key>17399</key>
 		<dict>
-			<key>Track ID</key><integer>14136</integer>
+			<key>Track ID</key><integer>17399</integer>
 			<key>Name</key><string>Winter Wonderland</string>
 			<key>Artist</key><string>Pat Green</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -733,7 +863,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -744,15 +874,15 @@
 			<key>Normalization</key><integer>2054</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>3ECF0193F637EAC3</string>
+			<key>Persistent ID</key><string>5C0D7966BA41C234</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/11%20Winter%20Wonderland.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14138</key>
+		<key>17401</key>
 		<dict>
-			<key>Track ID</key><integer>14138</integer>
+			<key>Track ID</key><integer>17401</integer>
 			<key>Name</key><string>Let It Snow! Let It Snow! Let It Snow!</string>
 			<key>Artist</key><string>Sam Bush</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -767,7 +897,7 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -778,15 +908,15 @@
 			<key>Normalization</key><integer>2046</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>9C9EF8DC41F7D73D</string>
+			<key>Persistent ID</key><string>924473C2E42A9562</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/12%20Let%20It%20Snow!%20Let%20It%20Snow!%20Let%20It.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14140</key>
+		<key>17403</key>
 		<dict>
-			<key>Track ID</key><integer>14140</integer>
+			<key>Track ID</key><integer>17403</integer>
 			<key>Name</key><string>Away In A Manger</string>
 			<key>Artist</key><string>Ricky Skaggs</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -801,7 +931,7 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -812,15 +942,15 @@
 			<key>Normalization</key><integer>4085</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>5CE7CFE38EDDB02B</string>
+			<key>Persistent ID</key><string>FEF23310E42E9F92</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/13%20Away%20In%20A%20Manger.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14142</key>
+		<key>17405</key>
 		<dict>
-			<key>Track ID</key><integer>14142</integer>
+			<key>Track ID</key><integer>17405</integer>
 			<key>Name</key><string>Christmas Time At Home</string>
 			<key>Artist</key><string>Rhonda Vincent</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -835,7 +965,7 @@
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -846,15 +976,15 @@
 			<key>Normalization</key><integer>5205</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>67DBE8EA916E1100</string>
+			<key>Persistent ID</key><string>F7B98962702BA4E8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/14%20Christmas%20Time%20At%20Home.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14144</key>
+		<key>17407</key>
 		<dict>
-			<key>Track ID</key><integer>14144</integer>
+			<key>Track ID</key><integer>17407</integer>
 			<key>Name</key><string>Peace</string>
 			<key>Artist</key><string>Norah Jones</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -869,7 +999,7 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:50Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -882,15 +1012,15 @@
 			<key>Normalization</key><integer>1250</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>4D60FC82ACC1CD4E</string>
+			<key>Persistent ID</key><string>DF636B0C88E0E1BF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/16%20Peace.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14146</key>
+		<key>17409</key>
 		<dict>
-			<key>Track ID</key><integer>14146</integer>
+			<key>Track ID</key><integer>17409</integer>
 			<key>Name</key><string>On A Cold Winter's Day/Christmas Eve</string>
 			<key>Artist</key><string>Kevin Burke &#38; Mícheál Ó Domhnaill</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -904,7 +1034,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:26Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -917,15 +1047,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>663</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>85F0946B3EB868A4</string>
+			<key>Persistent ID</key><string>22B57BF557BC8170</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/03%20On%20A%20Cold%20Winter's%20Day_Christmas.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14148</key>
+		<key>17411</key>
 		<dict>
-			<key>Track ID</key><integer>14148</integer>
+			<key>Track ID</key><integer>17411</integer>
 			<key>Name</key><string>Ciara</string>
 			<key>Artist</key><string>Luka Bloom</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -939,7 +1069,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:26Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -952,15 +1082,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1165</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>8F1471ACEC1515AA</string>
+			<key>Persistent ID</key><string>A624C01E65C41AA0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/05%20Ciara.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14150</key>
+		<key>17413</key>
 		<dict>
-			<key>Track ID</key><integer>14150</integer>
+			<key>Track ID</key><integer>17413</integer>
 			<key>Name</key><string>Third Carol For Christmas Day</string>
 			<key>Artist</key><string>Maighread Ni Dhomhnaill &#38; Donal Lunny</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -974,7 +1104,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:26Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -987,15 +1117,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>900</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>D7101A5457417A17</string>
+			<key>Persistent ID</key><string>4DFEEDDB17BD5F43</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/07%20Third%20Carol%20For%20Christmas%20Day.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14152</key>
+		<key>17415</key>
 		<dict>
-			<key>Track ID</key><integer>14152</integer>
+			<key>Track ID</key><integer>17415</integer>
 			<key>Name</key><string>Snow On High Ground</string>
 			<key>Artist</key><string>Nightnoise</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -1009,7 +1139,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1988</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:26Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1022,15 +1152,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>318</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>8CCF5A52C2CF0612</string>
+			<key>Persistent ID</key><string>AB0D7BAC4F07AE74</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/08%20Snow%20On%20High%20Ground.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14154</key>
+		<key>17417</key>
 		<dict>
-			<key>Track ID</key><integer>14154</integer>
+			<key>Track ID</key><integer>17417</integer>
 			<key>Name</key><string>Galician Carol</string>
 			<key>Artist</key><string>Carlos Nuñez</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -1044,7 +1174,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:26Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:50Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1057,15 +1187,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>763</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>60CB6E69C02E5324</string>
+			<key>Persistent ID</key><string>D671E20BB8B0AC06</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/09%20Galician%20Carol.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14156</key>
+		<key>17419</key>
 		<dict>
-			<key>Track ID</key><integer>14156</integer>
+			<key>Track ID</key><integer>17419</integer>
 			<key>Name</key><string>King Holly, King Oak</string>
 			<key>Artist</key><string>Johnny Cunningham</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -1079,7 +1209,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:28Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1092,15 +1222,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>695</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>41D2D518D8199D0F</string>
+			<key>Persistent ID</key><string>E5C271CB22A50A22</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/11%20King%20Holly,%20King%20Oak.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14158</key>
+		<key>17421</key>
 		<dict>
-			<key>Track ID</key><integer>14158</integer>
+			<key>Track ID</key><integer>17421</integer>
 			<key>Name</key><string>Snow</string>
 			<key>Artist</key><string>Loreena McKennitt</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -1114,7 +1244,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1987</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:28Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1125,15 +1255,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>749</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>55C9B6F9CEEC39E1</string>
+			<key>Persistent ID</key><string>F7B969064A04FB36</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/12%20Snow.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14160</key>
+		<key>17423</key>
 		<dict>
-			<key>Track ID</key><integer>14160</integer>
+			<key>Track ID</key><integer>17423</integer>
 			<key>Name</key><string>We Follow A Star</string>
 			<key>Artist</key><string>Jeff Johnson</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -1147,7 +1277,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:28Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1160,15 +1290,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>774</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>39ABA1D56D33FCA2</string>
+			<key>Persistent ID</key><string>97BE9F03CFECA21C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/13%20We%20Follow%20A%20Star.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14162</key>
+		<key>17425</key>
 		<dict>
-			<key>Track ID</key><integer>14162</integer>
+			<key>Track ID</key><integer>17425</integer>
 			<key>Name</key><string>The Christmas Song</string>
 			<key>Artist</key><string>Lou Rawls</string>
 			<key>Composer</key><string>Mel Tormé, R. Wells</string>
@@ -1183,7 +1313,7 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:46Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -1195,15 +1325,15 @@
 			<key>Normalization</key><integer>924</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Name</key><string>Christmas Song</string>
-			<key>Persistent ID</key><string>C8B31A89F5B10FBF</string>
+			<key>Persistent ID</key><string>CF9F384B218E918C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Yule%20Struttin'/03%20The%20Christmas%20Song.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14164</key>
+		<key>17427</key>
 		<dict>
-			<key>Track ID</key><integer>14164</integer>
+			<key>Track ID</key><integer>17427</integer>
 			<key>Name</key><string>Winter Wonderland</string>
 			<key>Artist</key><string>Chet Baker</string>
 			<key>Composer</key><string>F. Barnard, R. Smith</string>
@@ -1218,7 +1348,7 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:46Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:58Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1231,15 +1361,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1023</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>B18EDE107044B296</string>
+			<key>Persistent ID</key><string>AE426E5CD4B53213</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Yule%20Struttin'/05%20Winter%20Wonderland.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14166</key>
+		<key>17429</key>
 		<dict>
-			<key>Track ID</key><integer>14166</integer>
+			<key>Track ID</key><integer>17429</integer>
 			<key>Name</key><string>Jingle Bells</string>
 			<key>Artist</key><string>Count Basie</string>
 			<key>Composer</key><string>James S. Pierpont</string>
@@ -1254,7 +1384,7 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:46Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1267,15 +1397,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>9098736F12BD8337</string>
+			<key>Persistent ID</key><string>2B57348982A71EFC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Yule%20Struttin'/09%20Jingle%20Bells.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14168</key>
+		<key>17431</key>
 		<dict>
-			<key>Track ID</key><integer>14168</integer>
+			<key>Track ID</key><integer>17431</integer>
 			<key>Name</key><string>Have Yourself A Merry Little Christmas</string>
 			<key>Artist</key><string>Dexter Gordon</string>
 			<key>Composer</key><string>H. Martin, R. Blane</string>
@@ -1290,7 +1420,7 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:46Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1303,15 +1433,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>0427E1FED3976A73</string>
+			<key>Persistent ID</key><string>3BBF9530A8FB9994</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Yule%20Struttin'/12%20Have%20Yourself%20A%20Merry%20Little%20Chri.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14170</key>
+		<key>17433</key>
 		<dict>
-			<key>Track ID</key><integer>14170</integer>
+			<key>Track ID</key><integer>17433</integer>
 			<key>Name</key><string>Gimmel Gimmel Shin</string>
 			<key>Artist</key><string>Susan Salidor</string>
 			<key>Album</key><string>Shiny New Shoes</string>
@@ -1321,7 +1451,7 @@
 			<key>Total Time</key><integer>104150</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Date Modified</key><date>2011-03-19T22:50:54Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -1332,15 +1462,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>8BED5793E0A8C3CC</string>
+			<key>Persistent ID</key><string>496C169E629AA292</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/susan%20salidor/Shiny%20New%20Shoes/susan%20salidor%20-%20Gimmel%20Gimmel%20Shin.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14172</key>
+		<key>17435</key>
 		<dict>
-			<key>Track ID</key><integer>14172</integer>
+			<key>Track ID</key><integer>17435</integer>
 			<key>Name</key><string>The Little Drummer Boy</string>
 			<key>Artist</key><string>Cassandra Wilson</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1355,7 +1485,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:00Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1368,15 +1498,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
 			<key>Sort Name</key><string>Little Drummer Boy</string>
-			<key>Persistent ID</key><string>1FC8D34C4C1467ED</string>
+			<key>Persistent ID</key><string>0EE8A1C55F4A4222</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Cassandra%20Wilson/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/08%20The%20Little%20Drummer%20Boy.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14174</key>
+		<key>17437</key>
 		<dict>
-			<key>Track ID</key><integer>14174</integer>
+			<key>Track ID</key><integer>17437</integer>
 			<key>Name</key><string>Winter Wonderland</string>
 			<key>Artist</key><string>Dave Koz</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1391,7 +1521,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:00Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1401,15 +1531,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1909</integer>
-			<key>Persistent ID</key><string>4165EEB4FFB3B511</string>
+			<key>Persistent ID</key><string>C2132810628E54BD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Dave%20Koz/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/15%20Winter%20Wonderland.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14176</key>
+		<key>17439</key>
 		<dict>
-			<key>Track ID</key><integer>14176</integer>
+			<key>Track ID</key><integer>17439</integer>
 			<key>Name</key><string>Have Yourself A Merry Little Christmas</string>
 			<key>Artist</key><string>Diana Krall</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1424,7 +1554,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:00Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1436,15 +1566,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>97632DB8E2964167</string>
+			<key>Persistent ID</key><string>3F54096DADE67ACB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Diana%20Krall/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/04%20Have%20Yourself%20A%20Merry%20Little%20Chri.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14178</key>
+		<key>17441</key>
 		<dict>
-			<key>Track ID</key><integer>14178</integer>
+			<key>Track ID</key><integer>17441</integer>
 			<key>Name</key><string>Christmas Blues</string>
 			<key>Artist</key><string>Holly Cole</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1459,7 +1589,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1471,15 +1601,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>DCF1F012D67ECE70</string>
+			<key>Persistent ID</key><string>9124A42D087684A4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Holly%20Cole/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/11%20Christmas%20Blues.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14180</key>
+		<key>17443</key>
 		<dict>
-			<key>Track ID</key><integer>14180</integer>
+			<key>Track ID</key><integer>17443</integer>
 			<key>Name</key><string>O Come O Come Emmanuel</string>
 			<key>Artist</key><string>John McLaughlin</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -1494,7 +1624,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1506,15 +1636,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>F5C64E13C21529FF</string>
+			<key>Persistent ID</key><string>23CDEC21EFF3096F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/10%20O%20Come%20O%20Come%20Emmanuel.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14182</key>
+		<key>17445</key>
 		<dict>
-			<key>Track ID</key><integer>14182</integer>
+			<key>Track ID</key><integer>17445</integer>
 			<key>Name</key><string>What Child Is This?</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1529,7 +1659,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1539,15 +1669,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>2034FCE5533FE42C</string>
+			<key>Persistent ID</key><string>D1AE880356ED6D11</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/14%20What%20Child%20Is%20This_.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14184</key>
+		<key>17447</key>
 		<dict>
-			<key>Track ID</key><integer>14184</integer>
+			<key>Track ID</key><integer>17447</integer>
 			<key>Name</key><string>II Est Ne, Le Divin Enfant</string>
 			<key>Artist</key><string>Dr. John</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1562,7 +1692,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1574,15 +1704,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1437</integer>
-			<key>Persistent ID</key><string>BE59DB8DB3FF0025</string>
+			<key>Persistent ID</key><string>719A1780211B11E6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/16%20II%20Est%20Ne,%20Le%20Divin%20Enfant.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14186</key>
+		<key>17449</key>
 		<dict>
-			<key>Track ID</key><integer>14186</integer>
+			<key>Track ID</key><integer>17449</integer>
 			<key>Name</key><string>Let It Snow! Let It Snow! Let It Snow!</string>
 			<key>Artist</key><string>Michael Franks</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1597,7 +1727,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1609,15 +1739,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>96CA1FEFDAFD0610</string>
+			<key>Persistent ID</key><string>910864A8047CFC7A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Michael%20Franks/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/06%20Let%20It%20Snow!%20Let%20It%20Snow!%20Let%20It.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14188</key>
+		<key>17451</key>
 		<dict>
-			<key>Track ID</key><integer>14188</integer>
+			<key>Track ID</key><integer>17451</integer>
 			<key>Name</key><string>O Tannenbaum</string>
 			<key>Artist</key><string>Stanley Clarke,George Duke,Everette Happ</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1632,7 +1762,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:02Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1644,15 +1774,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>23F40017E8F68D36</string>
+			<key>Persistent ID</key><string>54295385B7BB0C22</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Stanley%20Clarke,George%20Duke,Everette%20Happ/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/05%20O%20Tannenbaum.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14190</key>
+		<key>17453</key>
 		<dict>
-			<key>Track ID</key><integer>14190</integer>
+			<key>Track ID</key><integer>17453</integer>
 			<key>Name</key><string>Angels We Have Heard On High</string>
 			<key>Artist</key><string>Steps Ahead</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1667,7 +1797,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:04Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1677,15 +1807,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
-			<key>Persistent ID</key><string>E2FFA32A86628337</string>
+			<key>Persistent ID</key><string>9A6B8B4AD794D7E9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Steps%20Ahead/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/12%20Angels%20We%20Have%20Heard%20On%20High.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14192</key>
+		<key>17455</key>
 		<dict>
-			<key>Track ID</key><integer>14192</integer>
+			<key>Track ID</key><integer>17455</integer>
 			<key>Name</key><string>Christmas Waltz</string>
 			<key>Artist</key><string>The Brecker Brothers,Steve Khan</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1700,7 +1830,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:04Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1713,15 +1843,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2190</integer>
 			<key>Sort Artist</key><string>Brecker Brothers,Steve Khan</string>
-			<key>Persistent ID</key><string>C063FA71C4DFE491</string>
+			<key>Persistent ID</key><string>394C88588D05B414</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/The%20Brecker%20Brothers,Steve%20Khan/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/07%20Christmas%20Waltz.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14194</key>
+		<key>17457</key>
 		<dict>
-			<key>Track ID</key><integer>14194</integer>
+			<key>Track ID</key><integer>17457</integer>
 			<key>Name</key><string>When The Snow Melts</string>
 			<key>Artist</key><string>Phil Cunningham &#38; Manus Lunny</string>
 			<key>Album</key><string>Celtic Christmas</string>
@@ -1735,7 +1865,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:24Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1748,15 +1878,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1259</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>454DEE76BDBAFE23</string>
+			<key>Persistent ID</key><string>CAC3BBEC32CC7CA9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Celtic%20Christmas/01%20When%20The%20Snow%20Melts.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14196</key>
+		<key>17459</key>
 		<dict>
-			<key>Track ID</key><integer>14196</integer>
+			<key>Track ID</key><integer>17459</integer>
 			<key>Name</key><string>Just Put A Ribbon In Your Hair</string>
 			<key>Artist</key><string>Alan Jackson</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -1771,7 +1901,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1784,15 +1914,15 @@
 			<key>Normalization</key><integer>3503</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>DC9D6987F995B8CD</string>
+			<key>Persistent ID</key><string>0C2E044D3C5144B9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/04%20Just%20Put%20A%20Ribbon%20In%20Your%20Hair.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14198</key>
+		<key>17461</key>
 		<dict>
-			<key>Track ID</key><integer>14198</integer>
+			<key>Track ID</key><integer>17461</integer>
 			<key>Name</key><string>The Christmas Song</string>
 			<key>Artist</key><string>Anita Baker</string>
 			<key>Composer</key><string>Blue note</string>
@@ -1807,7 +1937,7 @@
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>1995</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:00Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -1817,15 +1947,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1253</integer>
 			<key>Sort Name</key><string>Christmas Song</string>
-			<key>Persistent ID</key><string>A4F9FF1F71623A8F</string>
+			<key>Persistent ID</key><string>7B255CAC93317824</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Jazz%20To%20The%20World%20-%20A%20Christmas%20Collection/Anita%20Baker/Jazz%20To%20The%20World_%20A%20Christmas%20Collectio/13%20The%20Christmas%20Song.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14200</key>
+		<key>17463</key>
 		<dict>
-			<key>Track ID</key><integer>14200</integer>
+			<key>Track ID</key><integer>17463</integer>
 			<key>Name</key><string>2000 Miles</string>
 			<key>Artist</key><string>The Pretenders</string>
 			<key>Album</key><string>The Singles</string>
@@ -1835,7 +1965,7 @@
 			<key>Total Time</key><integer>219115</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Date Modified</key><date>2011-03-19T23:01:54Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1849,15 +1979,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Singles</string>
 			<key>Sort Artist</key><string>Pretenders</string>
-			<key>Persistent ID</key><string>7549F8B0502E1C97</string>
+			<key>Persistent ID</key><string>BD2B33C41B0C91BA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Pretenders/The%20Singles/2000%20Miles.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14202</key>
+		<key>17465</key>
 		<dict>
-			<key>Track ID</key><integer>14202</integer>
+			<key>Track ID</key><integer>17465</integer>
 			<key>Name</key><string>Sleigh Ride</string>
 			<key>Artist</key><string>Squirrel Nut Zippers</string>
 			<key>Composer</key><string>Anderson/Parish</string>
@@ -1872,22 +2002,22 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2011-03-19T22:48:34Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>174</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6619</integer>
-			<key>Persistent ID</key><string>FDF39C9C104A0054</string>
+			<key>Persistent ID</key><string>AB49193A0A1DDB5C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Squirrel%20Nut%20Zippers/Christmas%20Caravan/Sleigh%20Ride.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14204</key>
+		<key>17467</key>
 		<dict>
-			<key>Track ID</key><integer>14204</integer>
+			<key>Track ID</key><integer>17467</integer>
 			<key>Name</key><string>Jingle Bells</string>
 			<key>Artist</key><string>Wayne Newton</string>
 			<key>Album</key><string>A Bachelor Pad Christmas</string>
@@ -1901,7 +2031,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:42Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:51Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -1910,15 +2040,15 @@
 			<key>Normalization</key><integer>2488</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Bachelor Pad Christmas</string>
-			<key>Persistent ID</key><string>64FEFDC01009F31A</string>
+			<key>Persistent ID</key><string>3D1DA0A75C36CEF9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Ultra-Lounge/A%20Bachelor%20Pad%20Christmas/03%20Jingle%20Bells.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14206</key>
+		<key>17469</key>
 		<dict>
-			<key>Track ID</key><integer>14206</integer>
+			<key>Track ID</key><integer>17469</integer>
 			<key>Name</key><string>Let It Snow, Let It Snow, Let It Snow</string>
 			<key>Artist</key><string>Ella Fitzgerald</string>
 			<key>Album</key><string>A Bachelor Pad Christmas</string>
@@ -1932,7 +2062,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:42Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:52Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -1941,15 +2071,15 @@
 			<key>Normalization</key><integer>865</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Bachelor Pad Christmas</string>
-			<key>Persistent ID</key><string>6E87DDB52DF8AF9B</string>
+			<key>Persistent ID</key><string>A9A8A941B13344C0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Ultra-Lounge/A%20Bachelor%20Pad%20Christmas/01%20Let%20It%20Snow,%20Let%20It%20Snow,%20Let%20It.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14208</key>
+		<key>17471</key>
 		<dict>
-			<key>Track ID</key><integer>14208</integer>
+			<key>Track ID</key><integer>17471</integer>
 			<key>Name</key><string>Frosty The Snowman</string>
 			<key>Artist</key><string>Jimmy Durante</string>
 			<key>Album</key><string>A Bachelor Pad Christmas</string>
@@ -1963,7 +2093,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:42Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:52Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1977,15 +2107,15 @@
 			<key>Normalization</key><integer>1290</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Bachelor Pad Christmas</string>
-			<key>Persistent ID</key><string>A08375D7DA5B76EC</string>
+			<key>Persistent ID</key><string>913DB05B1913E946</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Ultra-Lounge/A%20Bachelor%20Pad%20Christmas/09%20Frosty%20The%20Snowman.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14210</key>
+		<key>17473</key>
 		<dict>
-			<key>Track ID</key><integer>14210</integer>
+			<key>Track ID</key><integer>17473</integer>
 			<key>Name</key><string>Sleigh Ride</string>
 			<key>Artist</key><string>Ronnie Aldridge</string>
 			<key>Album</key><string>A Bachelor Pad Christmas</string>
@@ -1999,7 +2129,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:42Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:52Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2008,15 +2138,15 @@
 			<key>Normalization</key><integer>1654</integer>
 			<key>Compilation</key><true/>
 			<key>Sort Album</key><string>Bachelor Pad Christmas</string>
-			<key>Persistent ID</key><string>598788EBBA9FF822</string>
+			<key>Persistent ID</key><string>519F406BF1CE2A6C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Ultra-Lounge/A%20Bachelor%20Pad%20Christmas/10%20Sleigh%20Ride.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14212</key>
+		<key>17475</key>
 		<dict>
-			<key>Track ID</key><integer>14212</integer>
+			<key>Track ID</key><integer>17475</integer>
 			<key>Name</key><string>Swingin' them jingle bells</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 4.1 1936-1937</string>
@@ -2025,7 +2155,7 @@
 			<key>Total Time</key><integer>180323</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Date Modified</key><date>2017-02-20T20:09:31Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:52Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2033,15 +2163,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 4.1 1936-1937</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>450D8D3D06851E80</string>
+			<key>Persistent ID</key><string>32F110B67E589A24</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%204%20-%201936-1938/CD%201/10%20-%20Swingin'%20them%20jingle%20bells.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14214</key>
+		<key>17477</key>
 		<dict>
-			<key>Track ID</key><integer>14214</integer>
+			<key>Track ID</key><integer>17477</integer>
 			<key>Name</key><string>Swingin' them jingle bells [intrumental]</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 4.1 1936-1937</string>
@@ -2050,7 +2180,7 @@
 			<key>Total Time</key><integer>179722</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Date Modified</key><date>2017-02-20T20:09:31Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:52Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2058,15 +2188,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 4.1 1936-1937</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>C0BE613AD894A36D</string>
+			<key>Persistent ID</key><string>52E291914226F656</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%204%20-%201936-1938/CD%201/11%20-%20Swingin'%20them%20jingle%20bells%20%5Bintrumental%5D.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14216</key>
+		<key>17479</key>
 		<dict>
-			<key>Track ID</key><integer>14216</integer>
+			<key>Track ID</key><integer>17479</integer>
 			<key>Name</key><string>Rootin' Tootin' Santa Claus</string>
 			<key>Artist</key><string>Pee Wee King</string>
 			<key>Album</key><string>Pee Wee King's Country Hoedown</string>
@@ -2079,7 +2209,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>28</integer>
 			<key>Date Modified</key><date>2017-02-24T05:45:00Z</date>
-			<key>Date Added</key><date>2017-04-23T19:14:52Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -2091,15 +2221,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>1567</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0EC2D90C1C83A898</string>
+			<key>Persistent ID</key><string>B48F9FF972CD2231</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Pee%20Wee%20King/Pee%20Wee%20King's%20Country%20Hoedown/Rootin'%20Tootin'%20Santa%20Claus.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14218</key>
+		<key>17481</key>
 		<dict>
-			<key>Track ID</key><integer>14218</integer>
+			<key>Track ID</key><integer>17481</integer>
 			<key>Name</key><string>All Through the Night</string>
 			<key>Artist</key><string>Jerry Douglas</string>
 			<key>Album</key><string>Jerry Christmas</string>
@@ -2108,21 +2238,21 @@
 			<key>Total Time</key><integer>172852</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-04-23T19:24:16Z</date>
-			<key>Date Added</key><date>2017-04-23T19:23:31Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>383357E2197D9294</string>
+			<key>Persistent ID</key><string>F1CA1C6C3B0E3F7A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2009%20-%20Jerry%20Christmas/All%20Through%20the%20Night.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14220</key>
+		<key>17483</key>
 		<dict>
-			<key>Track ID</key><integer>14220</integer>
+			<key>Track ID</key><integer>17483</integer>
 			<key>Name</key><string>Christmas Time Is Here</string>
 			<key>Artist</key><string>Jerry Douglas</string>
 			<key>Album</key><string>Jerry Christmas</string>
@@ -2131,21 +2261,21 @@
 			<key>Total Time</key><integer>190197</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-04-23T19:24:16Z</date>
-			<key>Date Added</key><date>2017-04-23T19:23:31Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>CA43936D8E18F216</string>
+			<key>Persistent ID</key><string>38393F9B205FC15F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2009%20-%20Jerry%20Christmas/Christmas%20Time%20Is%20Here.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14222</key>
+		<key>17485</key>
 		<dict>
-			<key>Track ID</key><integer>14222</integer>
+			<key>Track ID</key><integer>17485</integer>
 			<key>Name</key><string>Do You Hear What I Hear</string>
 			<key>Artist</key><string>Jerry Douglas</string>
 			<key>Album</key><string>Jerry Christmas</string>
@@ -2154,21 +2284,21 @@
 			<key>Total Time</key><integer>221544</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-04-23T19:24:17Z</date>
-			<key>Date Added</key><date>2017-04-23T19:23:31Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EB8A70132949F3A6</string>
+			<key>Persistent ID</key><string>D1EE638288F7A383</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2009%20-%20Jerry%20Christmas/Do%20You%20Hear%20What%20I%20Hear.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14224</key>
+		<key>17487</key>
 		<dict>
-			<key>Track ID</key><integer>14224</integer>
+			<key>Track ID</key><integer>17487</integer>
 			<key>Name</key><string>God Rest Ye Merry Gentlemen</string>
 			<key>Artist</key><string>Jerry Douglas</string>
 			<key>Album</key><string>Jerry Christmas</string>
@@ -2177,21 +2307,21 @@
 			<key>Total Time</key><integer>233116</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-04-23T19:24:17Z</date>
-			<key>Date Added</key><date>2017-04-23T19:23:31Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4970F9918E413CD1</string>
+			<key>Persistent ID</key><string>978E9AE1C6B85A53</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2009%20-%20Jerry%20Christmas/God%20Rest%20Ye%20Merry%20Gentlemen.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14228</key>
+		<key>17489</key>
 		<dict>
-			<key>Track ID</key><integer>14228</integer>
+			<key>Track ID</key><integer>17489</integer>
 			<key>Name</key><string>Oh Holy Night</string>
 			<key>Artist</key><string>Jerry Douglas</string>
 			<key>Album</key><string>Jerry Christmas</string>
@@ -2200,21 +2330,21 @@
 			<key>Total Time</key><integer>210468</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-04-23T19:24:18Z</date>
-			<key>Date Added</key><date>2017-04-23T19:23:31Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B0456A46947EE219</string>
+			<key>Persistent ID</key><string>0CCD6947987B49C5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2009%20-%20Jerry%20Christmas/Oh%20Holy%20Night.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14230</key>
+		<key>17491</key>
 		<dict>
-			<key>Track ID</key><integer>14230</integer>
+			<key>Track ID</key><integer>17491</integer>
 			<key>Name</key><string>The First Noel</string>
 			<key>Artist</key><string>Jerry Douglas</string>
 			<key>Album</key><string>Jerry Christmas</string>
@@ -2223,68 +2353,16 @@
 			<key>Total Time</key><integer>230530</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-04-23T19:24:18Z</date>
-			<key>Date Added</key><date>2017-04-23T19:23:31Z</date>
+			<key>Date Added</key><date>2017-12-04T17:17:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>First Noel</string>
-			<key>Persistent ID</key><string>A227C3380F40238F</string>
+			<key>Persistent ID</key><string>0910070B15C2A029</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2009%20-%20Jerry%20Christmas/The%20First%20Noel.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>16384</key>
-		<dict>
-			<key>Track ID</key><integer>16384</integer>
-			<key>Name</key><string>06 Have Yourself A Merry Little Christmas</string>
-			<key>Artist</key><string>Liz Story</string>
-			<key>Album</key><string>The Gift</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3489207</integer>
-			<key>Total Time</key><integer>144640</integer>
-			<key>Year</key><integer>1994</integer>
-			<key>Date Modified</key><date>2017-06-17T05:07:48Z</date>
-			<key>Date Added</key><date>2017-06-17T05:06:45Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-07-07T23:32:16Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Gift</string>
-			<key>Persistent ID</key><string>FB0B81CB1318241A</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1994%20-%20The%20Gift/06%20Have%20Yourself%20A%20Merry%20Little%20Christmas.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>16386</key>
-		<dict>
-			<key>Track ID</key><integer>16386</integer>
-			<key>Name</key><string>10 The Christmas Song</string>
-			<key>Artist</key><string>Liz Story</string>
-			<key>Album</key><string>The Gift</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5881585</integer>
-			<key>Total Time</key><integer>244323</integer>
-			<key>Year</key><integer>1994</integer>
-			<key>Date Modified</key><date>2017-06-17T05:07:48Z</date>
-			<key>Date Added</key><date>2017-06-17T05:06:45Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-06-24T13:49:17Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Gift</string>
-			<key>Persistent ID</key><string>7EA4438DF7118B26</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Story/1994%20-%20The%20Gift/10%20The%20Christmas%20Song.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -2294,223 +2372,232 @@
 		<dict>
 			<key>Name</key><string>Christmas cool</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>33459</integer>
-			<key>Playlist Persistent ID</key><string>A175C3094EEF0224</string>
+			<key>Playlist ID</key><integer>40678</integer>
+			<key>Playlist Persistent ID</key><string>2676EE452C55FD6D</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14190</integer>
+					<key>Track ID</key><integer>17453</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14140</integer>
+					<key>Track ID</key><integer>17403</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11622</integer>
+					<key>Track ID</key><integer>11823</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14178</integer>
+					<key>Track ID</key><integer>17441</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14130</integer>
+					<key>Track ID</key><integer>17393</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14198</integer>
+					<key>Track ID</key><integer>17461</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14162</integer>
+					<key>Track ID</key><integer>17425</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14114</integer>
+					<key>Track ID</key><integer>17377</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14142</integer>
+					<key>Track ID</key><integer>17405</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14192</integer>
+					<key>Track ID</key><integer>17455</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14148</integer>
+					<key>Track ID</key><integer>17411</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14128</integer>
+					<key>Track ID</key><integer>17391</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14122</integer>
+					<key>Track ID</key><integer>17385</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14126</integer>
+					<key>Track ID</key><integer>17389</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14208</integer>
+					<key>Track ID</key><integer>17471</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14154</integer>
+					<key>Track ID</key><integer>17417</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14170</integer>
+					<key>Track ID</key><integer>17433</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14168</integer>
+					<key>Track ID</key><integer>17431</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14176</integer>
+					<key>Track ID</key><integer>17439</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14184</integer>
+					<key>Track ID</key><integer>17447</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11948</integer>
+					<key>Track ID</key><integer>12009</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14166</integer>
+					<key>Track ID</key><integer>17429</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11590</integer>
+					<key>Track ID</key><integer>17365</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14204</integer>
+					<key>Track ID</key><integer>17467</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14196</integer>
+					<key>Track ID</key><integer>17459</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14156</integer>
+					<key>Track ID</key><integer>17419</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14206</integer>
+					<key>Track ID</key><integer>17469</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14186</integer>
+					<key>Track ID</key><integer>17449</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14138</integer>
+					<key>Track ID</key><integer>17401</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14172</integer>
+					<key>Track ID</key><integer>17435</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11620</integer>
+					<key>Track ID</key><integer>11821</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14132</integer>
+					<key>Track ID</key><integer>17395</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14180</integer>
+					<key>Track ID</key><integer>17443</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14134</integer>
+					<key>Track ID</key><integer>17397</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14188</integer>
+					<key>Track ID</key><integer>17451</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14146</integer>
+					<key>Track ID</key><integer>17409</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11744</integer>
+					<key>Track ID</key><integer>17369</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14144</integer>
+					<key>Track ID</key><integer>17407</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14112</integer>
+					<key>Track ID</key><integer>17375</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14116</integer>
+					<key>Track ID</key><integer>17379</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14124</integer>
+					<key>Track ID</key><integer>17387</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14120</integer>
+					<key>Track ID</key><integer>17383</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14210</integer>
+					<key>Track ID</key><integer>17473</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14202</integer>
+					<key>Track ID</key><integer>17465</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14158</integer>
+					<key>Track ID</key><integer>17421</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14152</integer>
+					<key>Track ID</key><integer>17415</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14150</integer>
+					<key>Track ID</key><integer>17413</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14160</integer>
+					<key>Track ID</key><integer>17423</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14182</integer>
+					<key>Track ID</key><integer>17445</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14194</integer>
+					<key>Track ID</key><integer>17457</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11640</integer>
+					<key>Track ID</key><integer>11845</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14164</integer>
+					<key>Track ID</key><integer>17427</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14174</integer>
+					<key>Track ID</key><integer>17437</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14136</integer>
+					<key>Track ID</key><integer>17399</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14118</integer>
+					<key>Track ID</key><integer>17381</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14200</integer>
+					<key>Track ID</key><integer>17463</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14212</integer>
+					<key>Track ID</key><integer>17475</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14214</integer>
+					<key>Track ID</key><integer>17477</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14216</integer>
+					<key>Track ID</key><integer>17479</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12572</integer>
+					<key>Track ID</key><integer>17371</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12702</integer>
+					<key>Track ID</key><integer>12069</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14110</integer>
+					<key>Track ID</key><integer>17373</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11742</integer>
+					<key>Track ID</key><integer>17367</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14222</integer>
+					<key>Track ID</key><integer>17485</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14220</integer>
+					<key>Track ID</key><integer>17483</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14228</integer>
+					<key>Track ID</key><integer>17489</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14224</integer>
+					<key>Track ID</key><integer>17487</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14218</integer>
+					<key>Track ID</key><integer>17481</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14230</integer>
+					<key>Track ID</key><integer>17491</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16384</integer>
+					<key>Track ID</key><integer>11687</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16386</integer>
+					<key>Track ID</key><integer>11689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16471</integer>
 				</dict>
 			</array>
 		</dict>
