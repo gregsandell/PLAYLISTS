@@ -4,17 +4,39 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-01-05T01:49:11Z</date>
-	<key>Application Version</key><string>12.7.2.58</string>
+	<key>Date</key><date>2018-01-27T23:11:38Z</date>
+	<key>Application Version</key><string>12.7.3.46</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
-	<key>Library Persistent ID</key><string>02885DB2D2A5659E</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>50888</key>
+		<key>14032</key>
 		<dict>
-			<key>Track ID</key><integer>50888</integer>
+			<key>Track ID</key><integer>14032</integer>
+			<key>Name</key><string>Raju</string>
+			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
+			<key>Album</key><string>Five Peace Band</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18764121</integer>
+			<key>Total Time</key><integer>780094</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-12-15T05:24:25Z</date>
+			<key>Date Added</key><date>2017-12-15T05:23:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74B781F86E061CA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/01%20-%20Raju.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14034</key>
+		<dict>
+			<key>Track ID</key><integer>14034</integer>
 			<key>Name</key><string>The Disguise</string>
 			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
 			<key>Album</key><string>Five Peace Band</string>
@@ -34,50 +56,13 @@
 			<key>Sort Name</key><string>Disguise</string>
 			<key>Persistent ID</key><string>D49C5F6E1E7FC2B3</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/02%20-%20The%20Disguise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>50890</key>
+		<key>14036</key>
 		<dict>
-			<key>Track ID</key><integer>50890</integer>
-			<key>Name</key><string>Hymn To Andromeda</string>
-			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
-			<key>Album</key><string>Five Peace Band</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>40011134</integer>
-			<key>Total Time</key><integer>1665384</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2017-12-15T05:24:31Z</date>
-			<key>Date Added</key><date>2017-12-15T05:23:14Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>52A54FFCDD3790C8</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>50892</key>
-		<dict>
-			<key>Track ID</key><integer>50892</integer>
-			<key>Name</key><string>In A Silent Way - It's About That Time</string>
-			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
-			<key>Album</key><string>Five Peace Band</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>28989571</integer>
-			<key>Total Time</key><integer>1206151</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2017-12-15T05:25:05Z</date>
-			<key>Date Added</key><date>2017-12-15T05:23:14Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>5E17EACE8A512B0F</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>50894</key>
-		<dict>
-			<key>Track ID</key><integer>50894</integer>
+			<key>Track ID</key><integer>14036</integer>
 			<key>Name</key><string>New Blues, Old Bruise</string>
 			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
 			<key>Album</key><string>Five Peace Band</string>
@@ -94,30 +79,59 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5892CB7BE7376195</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/03%20-%20New%20Blues,%20Old%20Bruise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>50896</key>
+		<key>14038</key>
 		<dict>
-			<key>Track ID</key><integer>50896</integer>
-			<key>Name</key><string>Raju</string>
+			<key>Track ID</key><integer>14038</integer>
+			<key>Name</key><string>Hymn To Andromeda</string>
 			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
 			<key>Album</key><string>Five Peace Band</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>18764121</integer>
-			<key>Total Time</key><integer>780094</integer>
+			<key>Size</key><integer>40011134</integer>
+			<key>Total Time</key><integer>1665384</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2017-12-15T05:24:25Z</date>
+			<key>Date Modified</key><date>2017-12-15T05:24:31Z</date>
 			<key>Date Added</key><date>2017-12-15T05:23:14Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>74B781F86E061CA9</string>
+			<key>Persistent ID</key><string>52A54FFCDD3790C8</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/04%20-%20Hymn%20To%20Andromeda.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>50898</key>
+		<key>14040</key>
 		<dict>
-			<key>Track ID</key><integer>50898</integer>
+			<key>Track ID</key><integer>14040</integer>
+			<key>Name</key><string>In A Silent Way - It's About That Time</string>
+			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
+			<key>Album</key><string>Five Peace Band</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>28989571</integer>
+			<key>Total Time</key><integer>1206151</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-12-15T05:25:05Z</date>
+			<key>Date Added</key><date>2017-12-15T05:23:14Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E17EACE8A512B0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/07%20-%20In%20A%20Silent%20Way%20-%20It's%20About%20That%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14042</key>
+		<dict>
+			<key>Track ID</key><integer>14042</integer>
 			<key>Name</key><string>Some Day My Prince Will Come</string>
 			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
 			<key>Album</key><string>Five Peace Band</string>
@@ -134,11 +148,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6331100419F828F9</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/08%20-%20Someday%20My%20Prince%20Will%20Come.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>50900</key>
+		<key>14044</key>
 		<dict>
-			<key>Track ID</key><integer>50900</integer>
-			<key>Name</key><string>Señor C.S.</string>
+			<key>Track ID</key><integer>14044</integer>
+			<key>Name</key><string>Señor C.S.</string>
 			<key>Artist</key><string>John McLaughlin with Chick Corea</string>
 			<key>Album</key><string>Five Peace Band </string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -154,104 +171,167 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EE433A900FCC322C</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20McLaughlin/2009%20-%20Five%20Peace%20Band%20With%20Chick%20Corea/06%20-%20Sen%CC%83or%20C.S..mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51646</key>
+		<key>14832</key>
 		<dict>
-			<key>Track ID</key><integer>51646</integer>
-			<key>Name</key><string>Children's Song</string>
+			<key>Track ID</key><integer>14832</integer>
+			<key>Name</key><string>Litha</string>
 			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Friends</string>
-			<key>Genre</key><string>Other</string>
+			<key>Album</key><string>Tones For Joan's Bones</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1998659</integer>
-			<key>Total Time</key><integer>79725</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-11-12T03:55:55Z</date>
-			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Size</key><integer>16464872</integer>
+			<key>Total Time</key><integer>813740</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2017-09-21T04:55:18Z</date>
+			<key>Date Added</key><date>2018-01-03T05:29:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0028C9DDD743E9A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1966%20-%20Tones%20For%20Joan's%20Bones/01%20-%20Litha.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14834</key>
+		<dict>
+			<key>Track ID</key><integer>14834</integer>
+			<key>Name</key><string>Straight Up And Down</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Tones For Joan's Bones</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15276804</integer>
+			<key>Total Time</key><integer>754285</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2017-09-21T04:55:19Z</date>
+			<key>Date Added</key><date>2018-01-03T05:29:57Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A3E8122706B0CCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1966%20-%20Tones%20For%20Joan's%20Bones/04%20-%20Straight%20Up%20And%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14836</key>
+		<dict>
+			<key>Track ID</key><integer>14836</integer>
+			<key>Name</key><string>Matrix</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Now He Sings, Now He Sobs</string>
+			<key>Genre</key><string>jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9387277</integer>
+			<key>Total Time</key><integer>389642</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2017-09-21T04:56:06Z</date>
+			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3590670055</integer>
-			<key>Play Date UTC</key><date>2017-10-12T23:20:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DBB16221F5EB21B0</string>
+			<key>Persistent ID</key><string>17D3690DFD5EFB62</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1968%20-%20Now%20He%20Sings,%20Now%20He%20Sobs/01%20-%20Matrix.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51648</key>
+		<key>14838</key>
 		<dict>
-			<key>Track ID</key><integer>51648</integer>
-			<key>Name</key><string>06 Sicily</string>
+			<key>Track ID</key><integer>14838</integer>
+			<key>Name</key><string>Steps--What Was</string>
 			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Friends</string>
-			<key>Genre</key><string>Other</string>
+			<key>Album</key><string>Now He Sings, Now He Sobs</string>
+			<key>Genre</key><string>jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9242968</integer>
-			<key>Total Time</key><integer>381570</integer>
+			<key>Size</key><integer>20003724</integer>
+			<key>Total Time</key><integer>832000</integer>
 			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-09-21T04:58:32Z</date>
-			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2017-09-21T04:56:09Z</date>
+			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A15A4E5DD48168AD</string>
+			<key>Persistent ID</key><string>E59501066BF0A1BC</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1968%20-%20Now%20He%20Sings,%20Now%20He%20Sobs/06%20-%20Steps.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51650</key>
+		<key>14840</key>
 		<dict>
-			<key>Track ID</key><integer>51650</integer>
-			<key>Name</key><string>Children's Song #15</string>
+			<key>Track ID</key><integer>14840</integer>
+			<key>Name</key><string>Windows</string>
 			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Friends</string>
-			<key>Genre</key><string>Other</string>
+			<key>Album</key><string>Now He Sings, Now He Sobs</string>
+			<key>Genre</key><string>jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1894590</integer>
-			<key>Total Time</key><integer>75389</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-11-12T03:57:09Z</date>
-			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3591642377</integer>
-			<key>Play Date UTC</key><date>2017-10-24T05:26:17Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>99AC329FD4844D5F</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51652</key>
-		<dict>
-			<key>Track ID</key><integer>51652</integer>
-			<key>Name</key><string>Cappuccino</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Friends</string>
-			<key>Genre</key><string>Other</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12642861</integer>
-			<key>Total Time</key><integer>523232</integer>
+			<key>Size</key><integer>4670204</integer>
+			<key>Total Time</key><integer>193097</integer>
 			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-11-12T03:57:03Z</date>
-			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2017-09-21T04:56:09Z</date>
+			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3591594450</integer>
+			<key>Play Date UTC</key><date>2017-10-23T16:07:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-10-13T05:57:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EE4F7FF01BB9AA98</string>
+			<key>Persistent ID</key><string>7F2797B80B456F19</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1968%20-%20Now%20He%20Sings,%20Now%20He%20Sobs/08%20-%20Windows.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51654</key>
+		<key>14842</key>
 		<dict>
-			<key>Track ID</key><integer>51654</integer>
+			<key>Track ID</key><integer>14842</integer>
+			<key>Name</key><string>Samba Yantra</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Now He Sings, Now He Sobs</string>
+			<key>Genre</key><string>jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3942295</integer>
+			<key>Total Time</key><integer>162768</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2017-09-21T04:56:09Z</date>
+			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3591277753</integer>
+			<key>Play Date UTC</key><date>2017-10-20T00:09:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E0A96A1FB1C79F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1968%20-%20Now%20He%20Sings,%20Now%20He%20Sobs/10%20-%20Samba%20Yantra.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14844</key>
+		<dict>
+			<key>Track ID</key><integer>14844</integer>
 			<key>Name</key><string>Lenore</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -274,10 +354,13 @@
 			<key>Sort Album</key><string>Leprechaun</string>
 			<key>Persistent ID</key><string>1142F70B148DB86F</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1975%20-%20The%20Leprechaun/02%20Lenore.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51656</key>
+		<key>14846</key>
 		<dict>
-			<key>Track ID</key><integer>51656</integer>
+			<key>Track ID</key><integer>14846</integer>
 			<key>Name</key><string>Nite Sprite</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -297,10 +380,13 @@
 			<key>Sort Album</key><string>Leprechaun</string>
 			<key>Persistent ID</key><string>2555FEEFEB232A8E</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1975%20-%20The%20Leprechaun/05%20Nite%20Sprite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51658</key>
+		<key>14848</key>
 		<dict>
-			<key>Track ID</key><integer>51658</integer>
+			<key>Track ID</key><integer>14848</integer>
 			<key>Name</key><string>Soft and Gentle</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -323,10 +409,13 @@
 			<key>Sort Album</key><string>Leprechaun</string>
 			<key>Persistent ID</key><string>6F30EC8149BEA154</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1975%20-%20The%20Leprechaun/06%20Soft%20and%20Gentle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51660</key>
+		<key>14850</key>
 		<dict>
-			<key>Track ID</key><integer>51660</integer>
+			<key>Track ID</key><integer>14850</integer>
 			<key>Name</key><string>Pixiland Rag</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -349,10 +438,13 @@
 			<key>Sort Album</key><string>Leprechaun</string>
 			<key>Persistent ID</key><string>9507602749BB08C1</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1975%20-%20The%20Leprechaun/07%20Pixiland%20Rag.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51662</key>
+		<key>14852</key>
 		<dict>
-			<key>Track ID</key><integer>51662</integer>
+			<key>Track ID</key><integer>14852</integer>
 			<key>Name</key><string>Leprechaun's Dream (Part 2)</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Leprechaun</string>
@@ -372,10 +464,119 @@
 			<key>Sort Album</key><string>Leprechaun</string>
 			<key>Persistent ID</key><string>75E78DB5C4D658ED</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1975%20-%20The%20Leprechaun/09%20Leprechaun's%20Dream%20(Part%202).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51664</key>
+		<key>14854</key>
 		<dict>
-			<key>Track ID</key><integer>51664</integer>
+			<key>Track ID</key><integer>14854</integer>
+			<key>Name</key><string>Children's Song</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Friends</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1998659</integer>
+			<key>Total Time</key><integer>79725</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2017-11-12T03:55:55Z</date>
+			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3590670055</integer>
+			<key>Play Date UTC</key><date>2017-10-12T23:20:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DBB16221F5EB21B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20Friends/03%20Children's%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14856</key>
+		<dict>
+			<key>Track ID</key><integer>14856</integer>
+			<key>Name</key><string>06 Sicily</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Friends</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9242968</integer>
+			<key>Total Time</key><integer>381570</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2017-09-21T04:58:32Z</date>
+			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A15A4E5DD48168AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20Friends/06%20Sicily.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14858</key>
+		<dict>
+			<key>Track ID</key><integer>14858</integer>
+			<key>Name</key><string>Children's Song #15</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Friends</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1894590</integer>
+			<key>Total Time</key><integer>75389</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2017-11-12T03:57:09Z</date>
+			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3591642377</integer>
+			<key>Play Date UTC</key><date>2017-10-24T05:26:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99AC329FD4844D5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20Friends/07%20Children's%20Song%20%2315.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14860</key>
+		<dict>
+			<key>Track ID</key><integer>14860</integer>
+			<key>Name</key><string>Cappuccino</string>
+			<key>Artist</key><string>Chick Corea</string>
+			<key>Album</key><string>Friends</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12642861</integer>
+			<key>Total Time</key><integer>523232</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2017-11-12T03:57:03Z</date>
+			<key>Date Added</key><date>2018-01-03T05:30:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE4F7FF01BB9AA98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20Friends/08%20Cappuccino.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14862</key>
+		<dict>
+			<key>Track ID</key><integer>14862</integer>
 			<key>Name</key><string>The Trial</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -399,10 +600,13 @@
 			<key>Sort Name</key><string>Trial</string>
 			<key>Persistent ID</key><string>8A792E179A502A28</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20The%20Mad%20Hatter/03-%20The%20Trial.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51666</key>
+		<key>14864</key>
 		<dict>
-			<key>Track ID</key><integer>51666</integer>
+			<key>Track ID</key><integer>14864</integer>
 			<key>Name</key><string>Humpty Dumpty</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -422,10 +626,13 @@
 			<key>Sort Album</key><string>Mad Hatter</string>
 			<key>Persistent ID</key><string>B14E9594BA4B91B8</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20The%20Mad%20Hatter/04-%20Humpty%20Dumpty.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51668</key>
+		<key>14866</key>
 		<dict>
-			<key>Track ID</key><integer>51668</integer>
+			<key>Track ID</key><integer>14866</integer>
 			<key>Name</key><string>Prelude to Falling Alice</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -450,10 +657,13 @@
 			<key>Sort Album</key><string>Mad Hatter</string>
 			<key>Persistent ID</key><string>BF054049F1742E66</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20The%20Mad%20Hatter/05-%20Prelude%20to%20Falling%20Alice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51670</key>
+		<key>14868</key>
 		<dict>
-			<key>Track ID</key><integer>51670</integer>
+			<key>Track ID</key><integer>14868</integer>
 			<key>Name</key><string>Tweedle Dum</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -476,10 +686,13 @@
 			<key>Sort Album</key><string>Mad Hatter</string>
 			<key>Persistent ID</key><string>3D0F0FD103AB3DEC</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20The%20Mad%20Hatter/07-%20Tweedle%20Dum.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51672</key>
+		<key>14870</key>
 		<dict>
-			<key>Track ID</key><integer>51672</integer>
+			<key>Track ID</key><integer>14870</integer>
 			<key>Name</key><string>Dear Alice</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -502,10 +715,13 @@
 			<key>Sort Album</key><string>Mad Hatter</string>
 			<key>Persistent ID</key><string>053A63C8A0FFCDB7</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20The%20Mad%20Hatter/08-%20Dear%20Alice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51674</key>
+		<key>14872</key>
 		<dict>
-			<key>Track ID</key><integer>51674</integer>
+			<key>Track ID</key><integer>14872</integer>
 			<key>Name</key><string>The Mad Hatter Rhapsody</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>The Mad Hatter</string>
@@ -526,146 +742,13 @@
 			<key>Sort Name</key><string>Mad Hatter Rhapsody</string>
 			<key>Persistent ID</key><string>7FABA5F0CF94A034</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1978%20-%20The%20Mad%20Hatter/09-%20The%20Mad%20Hatter%20Rhapsody.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51676</key>
+		<key>14874</key>
 		<dict>
-			<key>Track ID</key><integer>51676</integer>
-			<key>Name</key><string>Matrix</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Now He Sings, Now He Sobs</string>
-			<key>Genre</key><string>jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9387277</integer>
-			<key>Total Time</key><integer>389642</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2017-09-21T04:56:06Z</date>
-			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>17D3690DFD5EFB62</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51678</key>
-		<dict>
-			<key>Track ID</key><integer>51678</integer>
-			<key>Name</key><string>Steps--What Was</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Now He Sings, Now He Sobs</string>
-			<key>Genre</key><string>jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>20003724</integer>
-			<key>Total Time</key><integer>832000</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2017-09-21T04:56:09Z</date>
-			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E59501066BF0A1BC</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51680</key>
-		<dict>
-			<key>Track ID</key><integer>51680</integer>
-			<key>Name</key><string>Windows</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Now He Sings, Now He Sobs</string>
-			<key>Genre</key><string>jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4670204</integer>
-			<key>Total Time</key><integer>193097</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2017-09-21T04:56:09Z</date>
-			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3591594450</integer>
-			<key>Play Date UTC</key><date>2017-10-23T16:07:30Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-10-13T05:57:32Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7F2797B80B456F19</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51682</key>
-		<dict>
-			<key>Track ID</key><integer>51682</integer>
-			<key>Name</key><string>Samba Yantra</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Now He Sings, Now He Sobs</string>
-			<key>Genre</key><string>jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3942295</integer>
-			<key>Total Time</key><integer>162768</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2017-09-21T04:56:09Z</date>
-			<key>Date Added</key><date>2018-01-03T05:29:59Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3591277753</integer>
-			<key>Play Date UTC</key><date>2017-10-20T00:09:13Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7E0A96A1FB1C79F7</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51684</key>
-		<dict>
-			<key>Track ID</key><integer>51684</integer>
-			<key>Name</key><string>Litha</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Tones For Joan's Bones</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>16464872</integer>
-			<key>Total Time</key><integer>813740</integer>
-			<key>Year</key><integer>1966</integer>
-			<key>Date Modified</key><date>2017-09-21T04:55:18Z</date>
-			<key>Date Added</key><date>2018-01-03T05:29:53Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0028C9DDD743E9A3</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51686</key>
-		<dict>
-			<key>Track ID</key><integer>51686</integer>
-			<key>Name</key><string>Straight Up And Down</string>
-			<key>Artist</key><string>Chick Corea</string>
-			<key>Album</key><string>Tones For Joan's Bones</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>15276804</integer>
-			<key>Total Time</key><integer>754285</integer>
-			<key>Year</key><integer>1966</integer>
-			<key>Date Modified</key><date>2017-09-21T04:55:19Z</date>
-			<key>Date Added</key><date>2018-01-03T05:29:57Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8A3E8122706B0CCA</string>
-			<key>Track Type</key><string>File</string>
-		</dict>
-		<key>51688</key>
-		<dict>
-			<key>Track ID</key><integer>51688</integer>
+			<key>Track ID</key><integer>14874</integer>
 			<key>Name</key><string>Compadres</string>
 			<key>Artist</key><string>Chick Corea</string>
 			<key>Album</key><string>Touchstone</string>
@@ -688,10 +771,13 @@
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>27EFC6453959F71D</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1982%20-%20Touchstone/07%20-%20Compadres.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51690</key>
+		<key>14876</key>
 		<dict>
-			<key>Track ID</key><integer>51690</integer>
+			<key>Track ID</key><integer>14876</integer>
 			<key>Name</key><string>Beneath The Mask</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -712,10 +798,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D73E19CAE94883E1</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1991%20-%20Beneath%20the%20Mask/01_Beneath_The_Mask_-_Beneath_The_Mask_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51692</key>
+		<key>14878</key>
 		<dict>
-			<key>Track ID</key><integer>51692</integer>
+			<key>Track ID</key><integer>14878</integer>
 			<key>Name</key><string>One Of Us Is Over 40</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -733,10 +822,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7A3F765460B1D679</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1991%20-%20Beneath%20the%20Mask/03_One_Of_Us_Is_Over_40_-_Beneath_The_Mask_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51694</key>
+		<key>14880</key>
 		<dict>
-			<key>Track ID</key><integer>51694</integer>
+			<key>Track ID</key><integer>14880</integer>
 			<key>Name</key><string>Wave Goodbye</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -757,10 +849,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>65BBB0B9C19F12A3</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1991%20-%20Beneath%20the%20Mask/04_Wave_Goodbye_-_Beneath_The_Mask_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51696</key>
+		<key>14882</key>
 		<dict>
-			<key>Track ID</key><integer>51696</integer>
+			<key>Track ID</key><integer>14882</integer>
 			<key>Name</key><string>Flavors</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -781,10 +876,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D58012EB0090ED67</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1991%20-%20Beneath%20the%20Mask/09_Flavors_-_Beneath_The_Mask_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51698</key>
+		<key>14884</key>
 		<dict>
-			<key>Track ID</key><integer>51698</integer>
+			<key>Track ID</key><integer>14884</integer>
 			<key>Name</key><string>Illusions</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>Beneath The Mask</string>
@@ -802,10 +900,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A4098509E649253</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/1991%20-%20Beneath%20the%20Mask/10_Illusions_-_Beneath_The_Mask_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51700</key>
+		<key>14886</key>
 		<dict>
-			<key>Track ID</key><integer>51700</integer>
+			<key>Track ID</key><integer>14886</integer>
 			<key>Name</key><string>Check Blast</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -823,10 +924,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1E5DFCC40E5E94C9</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/2004%20-%20To%20The%20Stars/01_Check_Blast_-_To_The_Stars_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51702</key>
+		<key>14888</key>
 		<dict>
-			<key>Track ID</key><integer>51702</integer>
+			<key>Track ID</key><integer>14888</integer>
 			<key>Name</key><string>Mistress Luck - A Portrait</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -847,10 +951,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9505261C8A6E9ABE</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/2004%20-%20To%20The%20Stars/03_Mistress_Luck_-_A_Portrait_-_To_The_Stars_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51704</key>
+		<key>14890</key>
 		<dict>
-			<key>Track ID</key><integer>51704</integer>
+			<key>Track ID</key><integer>14890</integer>
 			<key>Name</key><string>Alan Corday</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -871,10 +978,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A8A9234348FAF754</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/2004%20-%20To%20The%20Stars/08_Alan_Corday_-_To_The_Stars_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51706</key>
+		<key>14892</key>
 		<dict>
-			<key>Track ID</key><integer>51706</integer>
+			<key>Track ID</key><integer>14892</integer>
 			<key>Name</key><string>Hound Of Heaven</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -895,10 +1005,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C6117960EAF0DCA0</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/2004%20-%20To%20The%20Stars/10_Hound_Of_Heaven_-_To_The_Stars_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>51708</key>
+		<key>14894</key>
 		<dict>
-			<key>Track ID</key><integer>51708</integer>
+			<key>Track ID</key><integer>14894</integer>
 			<key>Name</key><string>The Long Passage</string>
 			<key>Artist</key><string>Chick Corea Elektric Band</string>
 			<key>Album</key><string>To The Stars</string>
@@ -920,6 +1033,9 @@
 			<key>Sort Name</key><string>Long Passage</string>
 			<key>Persistent ID</key><string>3943ECB14F15997F</string>
 			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Chick%20Corea/2004%20-%20To%20The%20Stars/12_The_Long_Passage_-_To_The_Stars_-_Chick_Corea.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -927,127 +1043,127 @@
 		<dict>
 			<key>Name</key><string>Chick Corea faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>65836</integer>
+			<key>Playlist ID</key><integer>41679</integer>
 			<key>Playlist Persistent ID</key><string>9639FA33D538AA29</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>51676</integer>
+					<key>Track ID</key><integer>14836</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51674</integer>
+					<key>Track ID</key><integer>14872</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51672</integer>
+					<key>Track ID</key><integer>14870</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51654</integer>
+					<key>Track ID</key><integer>14844</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51708</integer>
+					<key>Track ID</key><integer>14894</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51706</integer>
+					<key>Track ID</key><integer>14892</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51704</integer>
+					<key>Track ID</key><integer>14890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51702</integer>
+					<key>Track ID</key><integer>14888</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51660</integer>
+					<key>Track ID</key><integer>14850</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51656</integer>
+					<key>Track ID</key><integer>14846</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51690</integer>
+					<key>Track ID</key><integer>14876</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51686</integer>
+					<key>Track ID</key><integer>14834</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51678</integer>
+					<key>Track ID</key><integer>14838</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51662</integer>
+					<key>Track ID</key><integer>14852</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51648</integer>
+					<key>Track ID</key><integer>14856</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51696</integer>
+					<key>Track ID</key><integer>14882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51692</integer>
+					<key>Track ID</key><integer>14878</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51688</integer>
+					<key>Track ID</key><integer>14874</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51684</integer>
+					<key>Track ID</key><integer>14832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51670</integer>
+					<key>Track ID</key><integer>14868</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51666</integer>
+					<key>Track ID</key><integer>14864</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51664</integer>
+					<key>Track ID</key><integer>14862</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51652</integer>
+					<key>Track ID</key><integer>14860</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51646</integer>
+					<key>Track ID</key><integer>14854</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51698</integer>
+					<key>Track ID</key><integer>14884</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51682</integer>
+					<key>Track ID</key><integer>14842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51680</integer>
+					<key>Track ID</key><integer>14840</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51668</integer>
+					<key>Track ID</key><integer>14866</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51650</integer>
+					<key>Track ID</key><integer>14858</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51658</integer>
+					<key>Track ID</key><integer>14848</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51700</integer>
+					<key>Track ID</key><integer>14886</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51694</integer>
+					<key>Track ID</key><integer>14880</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50888</integer>
+					<key>Track ID</key><integer>14034</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50890</integer>
+					<key>Track ID</key><integer>14038</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50892</integer>
+					<key>Track ID</key><integer>14040</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50894</integer>
+					<key>Track ID</key><integer>14036</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50896</integer>
+					<key>Track ID</key><integer>14032</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50898</integer>
+					<key>Track ID</key><integer>14042</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50900</integer>
+					<key>Track ID</key><integer>14044</integer>
 				</dict>
 			</array>
 		</dict>
