@@ -4,122 +4,28 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-07-23T02:08:17Z</date>
-	<key>Application Version</key><string>12.6.2.20</string>
+	<key>Date</key><date>2018-04-06T04:29:39Z</date>
+	<key>Application Version</key><string>12.7.4.76</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6314</key>
+		<key>9548</key>
 		<dict>
-			<key>Track ID</key><integer>6314</integer>
-			<key>Name</key><string>Rantin' Rovin' Robin</string>
-			<key>Artist</key><string>Andy M. Stewart</string>
-			<key>Album</key><string>Songs of Robert Burns</string>
-			<key>Genre</key><string>Celtic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2636246</integer>
-			<key>Total Time</key><integer>162612</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2017-04-21T07:12:52Z</date>
-			<key>Date Added</key><date>2016-05-16T05:49:11Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Volume Adjustment</key><integer>255</integer>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3575662923</integer>
-			<key>Play Date UTC</key><date>2017-04-22T06:42:03Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-01T17:06:44Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>2F31D536DCA13B00</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andy%20M.%20Stewart/Songs%20of%20Robert%20Burns/Rantin'%20Rovin'%20Robin.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>7488</key>
-		<dict>
-			<key>Track ID</key><integer>7488</integer>
-			<key>Name</key><string>Cotton-Eyed Joe</string>
-			<key>Artist</key><string>The Chieftains</string>
-			<key>Album</key><string>Another Country</string>
-			<key>Genre</key><string>Celtic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3272705</integer>
-			<key>Total Time</key><integer>163526</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Date Modified</key><date>2012-06-19T03:08:17Z</date>
-			<key>Date Added</key><date>2017-01-30T05:34:34Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3580636833</integer>
-			<key>Play Date UTC</key><date>2017-06-18T20:20:33Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-21T01:22:04Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>1094</integer>
-			<key>Sort Artist</key><string>Chieftains</string>
-			<key>Persistent ID</key><string>5FF46ED9B52DD605</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Chieftains/Another%20Country/Cotton-Eyed%20Joe.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>7524</key>
-		<dict>
-			<key>Track ID</key><integer>7524</integer>
-			<key>Name</key><string>Wild Horses</string>
-			<key>Artist</key><string>BlackHawk</string>
-			<key>Album</key><string>Stone Country: Country Artists Perform the Songs of the Rolling Stones</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3654554</integer>
-			<key>Total Time</key><integer>227761</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Date Modified</key><date>2011-03-19T21:21:22Z</date>
-			<key>Date Added</key><date>2017-01-30T05:34:36Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3410951341</integer>
-			<key>Play Date UTC</key><date>2012-02-01T22:29:01Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-10-25T02:04:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>514C1AFF0F0C2B36</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/BlackHawk/Stone%20Country_%20Country%20Artists%20Perform%20t/Wild%20Horses.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>7766</key>
-		<dict>
-			<key>Track ID</key><integer>7766</integer>
+			<key>Track ID</key><integer>9548</integer>
 			<key>Name</key><string>Rocket Man</string>
 			<key>Artist</key><string>Iron Horse</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>5650318</integer>
 			<key>Total Time</key><integer>234971</integer>
 			<key>Date Modified</key><date>2017-02-01T05:40:22Z</date>
-			<key>Date Added</key><date>2017-02-01T05:40:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3572094340</integer>
-			<key>Play Date UTC</key><date>2017-03-12T00:25:40Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3604731178</integer>
+			<key>Play Date UTC</key><date>2018-03-24T17:12:58Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T19:06:13Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -127,46 +33,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Iron Horse</string>
 			<key>Sort Name</key><string>Rocket Man</string>
-			<key>Persistent ID</key><string>D1B362E600DEFF2F</string>
+			<key>Persistent ID</key><string>E6489E73C097DD60</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Iron%20Horse/Rocket%20Man.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7850</key>
+		<key>9552</key>
 		<dict>
-			<key>Track ID</key><integer>7850</integer>
-			<key>Name</key><string>Dark Hollow</string>
-			<key>Artist</key><string>Muleskinner</string>
-			<key>Album</key><string>Potpourri Of Bluegrass Jam</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3420436</integer>
-			<key>Total Time</key><integer>168412</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>11</integer>
-			<key>Date Modified</key><date>2011-03-19T22:23:50Z</date>
-			<key>Date Added</key><date>2017-02-01T05:46:52Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3416148949</integer>
-			<key>Play Date UTC</key><date>2012-04-02T01:15:49Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-02-01T19:05:49Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>5435</integer>
-			<key>Persistent ID</key><string>693522061B4E58EE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Muleskinner/Potpourri%20Of%20Bluegrass%20Jam/Dark%20Hollow.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>7984</key>
-		<dict>
-			<key>Track ID</key><integer>7984</integer>
+			<key>Track ID</key><integer>9552</integer>
 			<key>Name</key><string>Take Me Out To The Ballgame</string>
 			<key>Artist</key><string>Steve Goodman</string>
 			<key>Album</key><string>Best Of The Land Of Nod Store Music - Volume 1</string>
@@ -178,24 +53,27 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:30:20Z</date>
-			<key>Date Added</key><date>2017-02-01T07:10:47Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3604730310</integer>
+			<key>Play Date UTC</key><date>2018-03-24T16:58:30Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T07:11:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>1262</integer>
 			<key>Compilation</key><true/>
-			<key>Persistent ID</key><string>7833DA23C4752720</string>
+			<key>Persistent ID</key><string>A9D99430DD856508</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/Best%20Of%20The%20Land%20Of%20Nod%20Store%20Music%20-%20Vo/06%20Take%20Me%20Out%20To%20The%20Ballgame.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9194</key>
+		<key>9554</key>
 		<dict>
-			<key>Track ID</key><integer>9194</integer>
+			<key>Track ID</key><integer>9554</integer>
 			<key>Name</key><string>Black Mountain Rag</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -210,27 +88,27 @@
 			<key>Track Count</key><integer>42</integer>
 			<key>Year</key><integer>1972</integer>
 			<key>Date Modified</key><date>2011-11-26T03:26:13Z</date>
-			<key>Date Added</key><date>2017-03-12T08:00:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>176</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580626403</integer>
-			<key>Play Date UTC</key><date>2017-06-18T17:26:43Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3604730667</integer>
+			<key>Play Date UTC</key><date>2018-03-24T17:04:27Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T20:32:23Z</date>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5815</integer>
 			<key>Sort Artist</key><string>Nitty Gritty Dirt Band</string>
-			<key>Persistent ID</key><string>58567E6029E1618D</string>
+			<key>Persistent ID</key><string>E7B4A64CACA9073E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Nitty%20Gritty%20Dirt%20Band/Will%20The%20Circle%20Be%20Unbroken/Black%20Mountain%20Rag.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9196</key>
+		<key>9556</key>
 		<dict>
-			<key>Track ID</key><integer>9196</integer>
+			<key>Track ID</key><integer>9556</integer>
 			<key>Name</key><string>My Walkin' Shoes</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -244,7 +122,7 @@
 			<key>Track Count</key><integer>42</integer>
 			<key>Year</key><integer>1972</integer>
 			<key>Date Modified</key><date>2011-03-19T23:01:04Z</date>
-			<key>Date Added</key><date>2017-03-12T08:00:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>170</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -252,15 +130,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7709</integer>
 			<key>Sort Artist</key><string>Nitty Gritty Dirt Band</string>
-			<key>Persistent ID</key><string>745E987660F06B2B</string>
+			<key>Persistent ID</key><string>DF78F9EECADDD309</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Nitty%20Gritty%20Dirt%20Band/Will%20The%20Circle%20Be%20Unbroken/My%20Walkin'%20Shoes.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9198</key>
+		<key>9558</key>
 		<dict>
-			<key>Track ID</key><integer>9198</integer>
+			<key>Track ID</key><integer>9558</integer>
 			<key>Name</key><string>Orange Blosson Special</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -274,7 +152,7 @@
 			<key>Track Count</key><integer>42</integer>
 			<key>Year</key><integer>1972</integer>
 			<key>Date Modified</key><date>2011-03-19T23:01:04Z</date>
-			<key>Date Added</key><date>2017-03-12T08:00:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>174</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -287,15 +165,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7392</integer>
 			<key>Sort Artist</key><string>Nitty Gritty Dirt Band</string>
-			<key>Persistent ID</key><string>918FAC297802B6F7</string>
+			<key>Persistent ID</key><string>0CF57B2949052F02</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Nitty%20Gritty%20Dirt%20Band/Will%20The%20Circle%20Be%20Unbroken/Orange%20Blosson%20Special.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9200</key>
+		<key>9560</key>
 		<dict>
-			<key>Track ID</key><integer>9200</integer>
+			<key>Track ID</key><integer>9560</integer>
 			<key>Name</key><string>Will The Circle Be Unbroken</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Album</key><string>Will The Circle Be Unbroken</string>
@@ -309,7 +187,7 @@
 			<key>Track Count</key><integer>42</integer>
 			<key>Year</key><integer>1972</integer>
 			<key>Date Modified</key><date>2011-03-19T23:01:04Z</date>
-			<key>Date Added</key><date>2017-03-12T08:00:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>164</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -320,15 +198,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3564</integer>
 			<key>Sort Artist</key><string>Nitty Gritty Dirt Band</string>
-			<key>Persistent ID</key><string>B38812D990E36A9E</string>
+			<key>Persistent ID</key><string>3D776FF953A85911</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Nitty%20Gritty%20Dirt%20Band/Will%20The%20Circle%20Be%20Unbroken/Will%20The%20Circle%20Be%20Unbroken.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9202</key>
+		<key>9562</key>
 		<dict>
-			<key>Track ID</key><integer>9202</integer>
+			<key>Track ID</key><integer>9562</integer>
 			<key>Name</key><string>Turkey in the Straw</string>
 			<key>Artist</key><string>The Bottle Let Me Down</string>
 			<key>Album</key><string>The Bottle Let Me Down</string>
@@ -340,12 +218,12 @@
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
 			<key>Date Modified</key><date>2011-03-19T22:55:32Z</date>
-			<key>Date Added</key><date>2017-03-12T08:00:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>177</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3430473589</integer>
-			<key>Play Date UTC</key><date>2012-09-14T20:19:49Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3604730742</integer>
+			<key>Play Date UTC</key><date>2018-03-24T17:05:42Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2017-02-24T02:22:24Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -354,15 +232,15 @@
 			<key>Normalization</key><integer>6803</integer>
 			<key>Sort Album</key><string>Bottle Let Me Down</string>
 			<key>Sort Artist</key><string>Bottle Let Me Down</string>
-			<key>Persistent ID</key><string>BC3547FA2394F5F1</string>
+			<key>Persistent ID</key><string>63DA471CEB36844E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bottle%20Let%20Me%20Down/The%20Bottle%20Let%20Me%20Down/Turkey%20in%20the%20Straw.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9204</key>
+		<key>9564</key>
 		<dict>
-			<key>Track ID</key><integer>9204</integer>
+			<key>Track ID</key><integer>9564</integer>
 			<key>Name</key><string>Old Joe Clark</string>
 			<key>Artist</key><string>Ensemble, Del McCoury</string>
 			<key>Album</key><string>Bluegrass Mandolin Extravaganza</string>
@@ -372,51 +250,28 @@
 			<key>Total Time</key><integer>314174</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Date Modified</key><date>2017-03-06T06:16:10Z</date>
-			<key>Date Added</key><date>2017-03-12T08:00:46Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3584516824</integer>
+			<key>Play Date UTC</key><date>2017-08-02T18:07:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-24T17:04:40Z</date>
 			<key>Release Date</key><date>1999-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9B6AFEE2C8BE0D90</string>
+			<key>Persistent ID</key><string>B2E03B8A15BBF278</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bluegrass%20Mandolin%20Extravaganza/02%20-%20Old%20Joe%20Clark%20-%20Ensemble,%20Del%20McCoury.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9280</key>
+		<key>9566</key>
 		<dict>
-			<key>Track ID</key><integer>9280</integer>
-			<key>Name</key><string>Take Me Home Country Roads</string>
-			<key>Artist</key><string>Toots &#38; The Maytals</string>
-			<key>Album</key><string>In the Dark</string>
-			<key>Genre</key><string>Reggae</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>4106622</integer>
-			<key>Total Time</key><integer>202731</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Date Modified</key><date>2011-03-19T23:10:46Z</date>
-			<key>Date Added</key><date>2017-03-12T08:02:35Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3569503368</integer>
-			<key>Play Date UTC</key><date>2017-02-10T00:42:48Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Normalization</key><integer>1680</integer>
-			<key>Persistent ID</key><string>CE885E9A9587C2FA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Toots%20&#38;%20The%20Maytals/In%20the%20Dark/Take%20Me%20Home%20Country%20Roads.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>9514</key>
-		<dict>
-			<key>Track ID</key><integer>9514</integer>
+			<key>Track ID</key><integer>9566</integer>
 			<key>Name</key><string>'Til The End Of The World Rolls 'Round</string>
 			<key>Artist</key><string>Old &#38; In The Way</string>
 			<key>Album</key><string>Breakdown</string>
@@ -429,27 +284,27 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2012-06-19T02:46:41Z</date>
-			<key>Date Added</key><date>2017-03-13T03:52:41Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>175</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3568792286</integer>
 			<key>Play Date UTC</key><date>2017-02-01T19:11:26Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-02-15T21:13:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-03-24T17:02:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>974</integer>
-			<key>Persistent ID</key><string>5E3F5914C37A1E77</string>
+			<key>Persistent ID</key><string>8DADDB56590BAEB8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Old%20&#38;%20In%20The%20Way/Breakdown/'Til%20The%20End%20Of%20The%20World%20Rolls%20'Round.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9516</key>
+		<key>9568</key>
 		<dict>
-			<key>Track ID</key><integer>9516</integer>
+			<key>Track ID</key><integer>9568</integer>
 			<key>Name</key><string>Home Is Where The Heart Is</string>
 			<key>Artist</key><string>Old &#38; In The Way</string>
 			<key>Album</key><string>Breakdown</string>
@@ -462,27 +317,27 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2012-06-19T02:46:41Z</date>
-			<key>Date Added</key><date>2017-03-13T03:52:41Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>174</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3568792404</integer>
 			<key>Play Date UTC</key><date>2017-02-01T19:13:24Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-05-19T14:08:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-09-30T23:17:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2350</integer>
-			<key>Persistent ID</key><string>09B0EC422C5C4108</string>
+			<key>Persistent ID</key><string>20EF906C39BD69A0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Old%20&#38;%20In%20The%20Way/Breakdown/Home%20Is%20Where%20The%20Heart%20Is.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9518</key>
+		<key>9570</key>
 		<dict>
-			<key>Track ID</key><integer>9518</integer>
+			<key>Track ID</key><integer>9570</integer>
 			<key>Name</key><string>Orange Blossom Special</string>
 			<key>Artist</key><string>Old &#38; In The Way</string>
 			<key>Album</key><string>That High Lonesome Sound (Live)</string>
@@ -494,62 +349,25 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2012-06-19T02:46:41Z</date>
-			<key>Date Added</key><date>2017-03-13T03:52:41Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>182</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3581982915</integer>
-			<key>Play Date UTC</key><date>2017-07-04T10:15:15Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3604730522</integer>
+			<key>Play Date UTC</key><date>2018-03-24T17:02:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>972</integer>
-			<key>Persistent ID</key><string>DD1F12804FF37C75</string>
+			<key>Persistent ID</key><string>F58096ADDFB2BC8C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Old%20&#38;%20In%20The%20Way/That%20High%20Lonesome%20Sound%20(Live)/Orange%20Blossom%20Special.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>10884</key>
-		<dict>
-			<key>Track ID</key><integer>10884</integer>
-			<key>Name</key><string>What's Left of the Flag</string>
-			<key>Artist</key><string>Flogging Molly</string>
-			<key>Composer</key><string>Flogging Molly/Bridget Regan</string>
-			<key>Album</key><string>Drunken Lullabies</string>
-			<key>Genre</key><string>Punk</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3644248</integer>
-			<key>Total Time</key><integer>218960</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T20:57:06Z</date>
-			<key>Date Added</key><date>2017-03-13T04:04:43Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3398768319</integer>
-			<key>Play Date UTC</key><date>2011-09-13T21:18:39Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2011-03-14T02:49:03Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>8756</integer>
-			<key>Artwork Count</key><integer>4</integer>
-			<key>Persistent ID</key><string>E380277AE85A533D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Flogging%20Molly/Drunken%20Lullabies/02%20What's%20Left%20of%20the%20Flag.m4a</string>
-			<key>File Folder Count</key><integer>5</integer>
+			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10886</key>
+		<key>9574</key>
 		<dict>
-			<key>Track ID</key><integer>10886</integer>
+			<key>Track ID</key><integer>9574</integer>
 			<key>Name</key><string>Death Valley Queen</string>
 			<key>Artist</key><string>Flogging Molly</string>
 			<key>Composer</key><string>Flogging Molly/Bridget Regan</string>
@@ -564,7 +382,7 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2002</integer>
 			<key>Date Modified</key><date>2011-03-19T20:57:06Z</date>
-			<key>Date Added</key><date>2017-03-13T04:04:43Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
@@ -577,43 +395,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4160</integer>
-			<key>Artwork Count</key><integer>4</integer>
-			<key>Persistent ID</key><string>F3FE54C2B1657344</string>
+			<key>Persistent ID</key><string>076C385A92B71DBE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Flogging%20Molly/Drunken%20Lullabies/09%20Death%20Valley%20Queen.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12002</key>
+		<key>9576</key>
 		<dict>
-			<key>Track ID</key><integer>12002</integer>
-			<key>Name</key><string>Denver Belle</string>
-			<key>Artist</key><string>Darol Anger</string>
-			<key>Album</key><string>e-and'a</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5752461</integer>
-			<key>Total Time</key><integer>238080</integer>
-			<key>Year</key><integer>2014</integer>
-			<key>Date Modified</key><date>2017-04-09T06:01:07Z</date>
-			<key>Date Added</key><date>2017-04-09T06:00:06Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3575106989</integer>
-			<key>Play Date UTC</key><date>2017-04-15T20:16:29Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7AEA166990AB25FA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Darol%20Anger/2014%20-%20e-and'a/Darol%20Anger%20-%20Denver%20Belle.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12020</key>
-		<dict>
-			<key>Track ID</key><integer>12020</integer>
+			<key>Track ID</key><integer>9576</integer>
 			<key>Name</key><string>Lucky Streak</string>
 			<key>Artist</key><string>Steep Canyon Rangers</string>
 			<key>Album</key><string>Steep Canyon Rangers</string>
@@ -627,1299 +417,24 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T22:49:10Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:19Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:45Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-03-16T13:57:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-03-24T17:04:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4130</integer>
-			<key>Persistent ID</key><string>4851DF65E2AEFAD1</string>
+			<key>Persistent ID</key><string>5EFB509D5B1CC1EA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Steep%20Canyon%20Rangers/Steep%20Canyon%20Rangers/Lucky%20Streak.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12022</key>
+		<key>9578</key>
 		<dict>
-			<key>Track ID</key><integer>12022</integer>
-			<key>Name</key><string>Sunny Side Of The Mountain</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Composer</key><string>Byron Gregory/Harry McAuliffe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3681073</integer>
-			<key>Total Time</key><integer>173766</integer>
-			<key>Track Number</key><integer>15</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2011-11-25T23:48:48Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:19Z</date>
-			<key>Bit Rate</key><integer>169</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> 000007DF 00000547 00010358 0000F52E 0000F8FA 0001B9BC 00005DB2 00005BD6 00005FB6 0001CB2F</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3580636669</integer>
-			<key>Play Date UTC</key><date>2017-06-18T20:17:49Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2017-03-17T00:16:29Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>13343395E7C3402C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/Sunny%20Side%20Of%20The%20Mountain.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12024</key>
-		<dict>
-			<key>Track ID</key><integer>12024</integer>
-			<key>Name</key><string>Uncle Pen</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3032881</integer>
-			<key>Total Time</key><integer>141296</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Track Count</key><integer>27</integer>
-			<key>Date Modified</key><date>2016-12-31T19:56:34Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:19Z</date>
-			<key>Bit Rate</key><integer>171</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Volume Adjustment</key><integer>209</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3578022124</integer>
-			<key>Play Date UTC</key><date>2017-05-19T14:02:04Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>1926</integer>
-			<key>Persistent ID</key><string>AE728CC1F8F722B1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/Uncle%20Pen.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12026</key>
-		<dict>
-			<key>Track ID</key><integer>12026</integer>
-			<key>Name</key><string>Hit Parade Of Love</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3774990</integer>
-			<key>Total Time</key><integer>176770</integer>
-			<key>Start Time</key><integer>14000</integer>
-			<key>Track Number</key><integer>13</integer>
-			<key>Track Count</key><integer>27</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T07:41:32Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:19Z</date>
-			<key>Bit Rate</key><integer>169</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3572093368</integer>
-			<key>Play Date UTC</key><date>2017-03-12T00:09:28Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-02-01T19:17:40Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>3333</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>82B27457973F22B9</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/Hit%20Parade%20Of%20Love.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12028</key>
-		<dict>
-			<key>Track ID</key><integer>12028</integer>
-			<key>Name</key><string>Ole Slew-Foot</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Composer</key><string>Howard Hausey</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3577655</integer>
-			<key>Total Time</key><integer>163082</integer>
-			<key>Start Time</key><integer>14000</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T07:41:33Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:19Z</date>
-			<key>Bit Rate</key><integer>174</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> 0000057D 00000259 00009849 0000581D 0000362F 00003078 000050F8 00006665 00024C29 000031E5</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3574322379</integer>
-			<key>Play Date UTC</key><date>2017-04-06T18:19:39Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-01T19:05:43Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>246E3A79B8CC4AB3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/Ole%20Slew-Foot.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12030</key>
-		<dict>
-			<key>Track ID</key><integer>12030</integer>
-			<key>Name</key><string>Stoney Lonesome (1960)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bill Monroe and His Blue Grass Boys (EP)</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5269349</integer>
-			<key>Total Time</key><integer>130194</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Year</key><integer>1960</integer>
-			<key>Date Modified</key><date>2017-03-19T07:32:00Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:19Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3573069420</integer>
-			<key>Play Date UTC</key><date>2017-03-23T06:17:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Album</key><string>Bill Monroe and His Blue Grass Boys (EP)</string>
-			<key>Sort Name</key><string>Stoney Lonesome (1960)</string>
-			<key>Persistent ID</key><string>73B70112D10D59DA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1960%20-%20Bill%20Monroe%20and%20His%20Blue%20Grass%20Boys%20(EP)/04%20-%20Lonesome%20Wind%20Blues%20(%20instrumental%20)%20(%20De9-31%20031,%20ED-2713%20)%20%201960.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12068</key>
-		<dict>
-			<key>Track ID</key><integer>12068</integer>
-			<key>Name</key><string>Sunny Side Of The Mountain (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6443760</integer>
-			<key>Total Time</key><integer>159869</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:56:23Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:26Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Sunny Side Of The Mountain (1973)</string>
-			<key>Persistent ID</key><string>52C4EBCDFB6C4422</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/03%20-%20Jimmy%20Martin%20-%20Sunny%20Side%20Of%20The%20Mountain%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12070</key>
-		<dict>
-			<key>Track ID</key><integer>12070</integer>
-			<key>Name</key><string>Freeborn Man (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8068085</integer>
-			<key>Total Time</key><integer>200463</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:56:32Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:26Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Freeborn Man (1973)</string>
-			<key>Persistent ID</key><string>973425A7BCF0F914</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/04%20-%20Jimmy%20Martin%20-%20Freeborn%20Man%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12072</key>
-		<dict>
-			<key>Track ID</key><integer>12072</integer>
-			<key>Name</key><string>Grey Eagle (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5367696</integer>
-			<key>Total Time</key><integer>133381</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:54:57Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:26Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3572842552</integer>
-			<key>Play Date UTC</key><date>2017-03-20T15:15:52Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Grey Eagle (1973)</string>
-			<key>Persistent ID</key><string>A6772F5DA9103999</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/05%20-%20Grey%20Eagle%20(%20instrumental%20)%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12074</key>
-		<dict>
-			<key>Track ID</key><integer>12074</integer>
-			<key>Name</key><string>Tennessee (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7261421</integer>
-			<key>Total Time</key><integer>180297</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:56:45Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:26Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-08T01:17:27Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Tennessee (1973)</string>
-			<key>Persistent ID</key><string>442752142B0E4D5C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/05%20-%20Jimmy%20Martin%20-%20Tennessee%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12076</key>
-		<dict>
-			<key>Track ID</key><integer>12076</integer>
-			<key>Name</key><string>Love Please Come Home (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6328239</integer>
-			<key>Total Time</key><integer>156995</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:56:55Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:26Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Love Please Come Home (1973)</string>
-			<key>Persistent ID</key><string>37A75BF6465FE807</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/06%20-%20James%20Monroe%20-%20Love%20Please%20Come%20Home%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12078</key>
-		<dict>
-			<key>Track ID</key><integer>12078</integer>
-			<key>Name</key><string>Ole Slewfoot (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7198729</integer>
-			<key>Total Time</key><integer>178729</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:57:52Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Ole Slewfoot (1973)</string>
-			<key>Persistent ID</key><string>918BE75544908A67</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/10%20-%20Jim%20&#38;%20Jesse%20-%20Ole%20Slewfoot%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12080</key>
-		<dict>
-			<key>Track ID</key><integer>12080</integer>
-			<key>Name</key><string>Sweet Little Miss Blue Eyes (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7192474</integer>
-			<key>Total Time</key><integer>178573</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:58:04Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574148278</integer>
-			<key>Play Date UTC</key><date>2017-04-04T17:57:58Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Sweet Little Miss Blue Eyes (1973)</string>
-			<key>Persistent ID</key><string>541AC8FBC870B27E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/11%20-%20Jim%20&#38;%20Jesse%20-%20Sweet%20Little%20Miss%20Blue%20Eyes%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12082</key>
-		<dict>
-			<key>Track ID</key><integer>12082</integer>
-			<key>Name</key><string>I Wish You Knew (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6674193</integer>
-			<key>Total Time</key><integer>165616</integer>
-			<key>Track Number</key><integer>13</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:58:25Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>I Wish You Knew (1973)</string>
-			<key>Persistent ID</key><string>60EF31D5C6467510</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/13%20-%20Jim%20&#38;%20Jesse%20-%20I%20Wish%20You%20Knew%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12084</key>
-		<dict>
-			<key>Track ID</key><integer>12084</integer>
-			<key>Name</key><string>Roll in My Sweet Baby's Arms (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7188297</integer>
-			<key>Total Time</key><integer>178468</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:58:59Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Roll in My Sweet Baby's Arms (1973)</string>
-			<key>Persistent ID</key><string>CE87F17C6DA25F0E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/14%20-%20Lester%20Flatt%20-%20Roll%20in%20My%20Sweet%20Baby's%20Arms%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12086</key>
-		<dict>
-			<key>Track ID</key><integer>12086</integer>
-			<key>Name</key><string>Mule Skinner Blues (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6842383</integer>
-			<key>Total Time</key><integer>169822</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:58:34Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580626679</integer>
-			<key>Play Date UTC</key><date>2017-06-18T17:31:19Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Mule Skinner Blues (1973)</string>
-			<key>Persistent ID</key><string>164EF32BE82F6053</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/14%20-%20Mule%20Skinner%20Blues%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12088</key>
-		<dict>
-			<key>Track ID</key><integer>12088</integer>
-			<key>Name</key><string>Feudin' Banjos (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4473686</integer>
-			<key>Total Time</key><integer>110863</integer>
-			<key>Track Number</key><integer>15</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T18:59:13Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Feudin' Banjos (1973)</string>
-			<key>Persistent ID</key><string>39C7F9B6BB1EC3FF</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/15%20-%20Lester%20Flatt%20-%20Feudin'%20Banjos%20%5B%20instrumental%20%5D%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12090</key>
-		<dict>
-			<key>Track ID</key><integer>12090</integer>
-			<key>Name</key><string>Roll On Buddy, Roll On (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5490221</integer>
-			<key>Total Time</key><integer>136150</integer>
-			<key>Track Number</key><integer>21</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T19:00:37Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3572803496</integer>
-			<key>Play Date UTC</key><date>2017-03-20T04:24:56Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Roll On Buddy, Roll On (1973)</string>
-			<key>Persistent ID</key><string>CCB1B223D79C55DD</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/21%20-%20Bill%20&#38;%20James%20Monroe%20-%20Roll%20On%20Buddy,%20Roll%20On%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12092</key>
-		<dict>
-			<key>Track ID</key><integer>12092</integer>
-			<key>Name</key><string>Orange Blossom Special (1973)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6193838</integer>
-			<key>Total Time</key><integer>153652</integer>
-			<key>Track Number</key><integer>23</integer>
-			<key>Year</key><integer>1973</integer>
-			<key>Date Modified</key><date>2017-03-19T19:13:38Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3580636496</integer>
-			<key>Play Date UTC</key><date>2017-06-18T20:14:56Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bean Blossom</string>
-			<key>Sort Name</key><string>Orange Blossom Special (1973)</string>
-			<key>Persistent ID</key><string>BAD0FECFB7928664</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1973%20-%20Bean%20Blossom/23%20-%20Bill%20Monroe%20&#38;%20Carl%20Jackson%20-%20Orange%20Blossom%20Special%20%5B%20instrumental%20%5D%20(%20MCA%208002%20)%20%201973.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12104</key>
-		<dict>
-			<key>Track ID</key><integer>12104</integer>
-			<key>Name</key><string>In Despair (1980)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom '79</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5863829</integer>
-			<key>Total Time</key><integer>144979</integer>
-			<key>Track Number</key><integer>18</integer>
-			<key>Year</key><integer>1980</integer>
-			<key>Date Modified</key><date>2017-03-19T19:15:33Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Album</key><string>Bean Blossom '79</string>
-			<key>Sort Name</key><string>In Despair (1980)</string>
-			<key>Persistent ID</key><string>AC3619149428BB47</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1980%20-%20Bean%20Blossom%20'79/18%20-%20In%20Despair%20(%20MCA%203209%20)%20%201980.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12106</key>
-		<dict>
-			<key>Track ID</key><integer>12106</integer>
-			<key>Name</key><string>John Henry (1980)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom '79</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5476172</integer>
-			<key>Total Time</key><integer>135288</integer>
-			<key>Track Number</key><integer>20</integer>
-			<key>Year</key><integer>1980</integer>
-			<key>Date Modified</key><date>2017-03-19T19:16:30Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Album</key><string>Bean Blossom '79</string>
-			<key>Sort Name</key><string>John Henry (1980)</string>
-			<key>Persistent ID</key><string>A7037AE9A17A7968</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1980%20-%20Bean%20Blossom%20'79/20%20-%20John%20Henry%20(%20MCA%203209%20)%20%201980.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12108</key>
-		<dict>
-			<key>Track ID</key><integer>12108</integer>
-			<key>Name</key><string>Y'all Come (1980)</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Bean Blossom '79</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4882669</integer>
-			<key>Total Time</key><integer>120450</integer>
-			<key>Track Number</key><integer>25</integer>
-			<key>Year</key><integer>1980</integer>
-			<key>Date Modified</key><date>2017-03-19T19:17:31Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:27Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3573650095</integer>
-			<key>Play Date UTC</key><date>2017-03-29T23:34:55Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Album</key><string>Bean Blossom '79</string>
-			<key>Sort Name</key><string>Y'all Come (1980)</string>
-			<key>Persistent ID</key><string>B5E1153C7726FC18</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/1980%20-%20Bean%20Blossom%20'79/25%20-%20Y'all%20Come%20(%20MCA%203209%20)%20%201980.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12124</key>
-		<dict>
-			<key>Track ID</key><integer>12124</integer>
-			<key>Name</key><string>Blue Grass Breakdown take 3</string>
-			<key>Artist</key><string>Bill Monroe</string>
-			<key>Album</key><string>Blue Moon Of Kentucky 1936-1949 [6 CD]</string>
-			<key>Genre</key><string>Bluegrass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6400302</integer>
-			<key>Total Time</key><integer>159164</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2017-03-19T19:23:25Z</date>
-			<key>Date Added</key><date>2017-04-09T06:18:29Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Release Date</key><date>2002-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Blue Moon Of Kentucky 1936-1949 [6 CD]</string>
-			<key>Sort Name</key><string>Blue Grass Breakdown take 3</string>
-			<key>Persistent ID</key><string>DB82A36B7385704F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bill%20Monroe/Blue%20Moon%20Of%20Kentucky%201936-1949%20%5B6%20CD%5D/Disc%206/03%20-%20Blue%20Grass%20Breakdown%20_take%203%20(2002).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12896</key>
-		<dict>
-			<key>Track ID</key><integer>12896</integer>
-			<key>Name</key><string>King Silkie</string>
-			<key>Artist</key><string>Jerry Douglas &#38; Peter Rowan</string>
-			<key>Composer</key><string>Jerry Douglas/Dan Tyminski</string>
-			<key>Album</key><string>Traveler</string>
-			<key>Genre</key><string>Country &#38; Folk</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8890210</integer>
-			<key>Total Time</key><integer>221257</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2017-04-10T04:21:17Z</date>
-			<key>Date Added</key><date>2017-04-10T04:20:29Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DB17EDA4F6121136</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jerry%20Douglas/2012%20-%20Traveler/11%20-%20King%20Silkie.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12904</key>
-		<dict>
-			<key>Track ID</key><integer>12904</integer>
-			<key>Name</key><string>01 - Kesh Jig - Give Us A Drink Of Water - Flower </string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>The Bothy Band</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6611399</integer>
-			<key>Total Time</key><integer>274102</integer>
-			<key>Year</key><integer>1975</integer>
-			<key>Date Modified</key><date>2017-04-11T06:18:32Z</date>
-			<key>Date Added</key><date>2017-04-11T06:17:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3581948621</integer>
-			<key>Play Date UTC</key><date>2017-07-04T00:43:41Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Bothy Band</string>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>E2642F82EA09EE4B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1975%20-%20The%20Bothy%20Band/The%20Bothy%20Band%20-%2001%20-%20Kesh%20Jig%20-%20Give%20Us%20A%20Drink%20Of%20Water%20-%20Flower%20.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12918</key>
-		<dict>
-			<key>Track ID</key><integer>12918</integer>
-			<key>Name</key><string>03 - Rip the Calico (medley)</string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>Out of the Wind Into the Sun</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8248425</integer>
-			<key>Total Time</key><integer>341995</integer>
-			<key>Year</key><integer>1977</integer>
-			<key>Date Modified</key><date>2017-04-11T06:22:36Z</date>
-			<key>Date Added</key><date>2017-04-11T06:21:46Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>4F52ADB96D051609</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1977%20-%20Out%20of%20the%20Wind%20Into%20the%20Sun/The%20Bothy%20Band%20-%2003%20-%20Rip%20the%20Calico%20(medley).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12926</key>
-		<dict>
-			<key>Track ID</key><integer>12926</integer>
-			<key>Name</key><string>Drunken Landlady</string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>Woody (DVD)</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5427870</integer>
-			<key>Total Time</key><integer>225985</integer>
-			<key>Year</key><integer>1977</integer>
-			<key>Date Modified</key><date>2017-04-11T06:23:23Z</date>
-			<key>Date Added</key><date>2017-04-11T06:22:46Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574718500</integer>
-			<key>Play Date UTC</key><date>2017-04-11T08:21:40Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>4BD20652CE0DCB0D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1977%20-%20Woody%20DVD/The%20Bothy%20Band%20-%20Drunken%20Landlady.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12930</key>
-		<dict>
-			<key>Track ID</key><integer>12930</integer>
-			<key>Name</key><string>02 - The Butterfly</string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>After Hours</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5224416</integer>
-			<key>Total Time</key><integer>215118</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:24:06Z</date>
-			<key>Date Added</key><date>2017-04-11T06:23:35Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>F2828FF4D1A9F092</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1978%20-%20After%20Hours/The%20Bothy%20Band%20-%2002%20-%20The%20Butterfly.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12932</key>
-		<dict>
-			<key>Track ID</key><integer>12932</integer>
-			<key>Name</key><string>04 - Farewell To Erin</string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>After Hours</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5320968</integer>
-			<key>Total Time</key><integer>219141</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:24:06Z</date>
-			<key>Date Added</key><date>2017-04-11T06:23:35Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574884523</integer>
-			<key>Play Date UTC</key><date>2017-04-13T06:28:43Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>B22B98C4A4C2D7F4</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1978%20-%20After%20Hours/The%20Bothy%20Band%20-%2004%20-%20Farewell%20To%20Erin.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12936</key>
-		<dict>
-			<key>Track ID</key><integer>12936</integer>
-			<key>Name</key><string>10 - Rosie Finn's Favourite - Over The Water To </string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>After Hours</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5462056</integer>
-			<key>Total Time</key><integer>225018</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:24:06Z</date>
-			<key>Date Added</key><date>2017-04-11T06:23:35Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574798093</integer>
-			<key>Play Date UTC</key><date>2017-04-12T06:28:13Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>5EEAC5787CF60FB3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1978%20-%20After%20Hours/The%20Bothy%20Band%20-%2010%20-%20Rosie%20Finn's%20Favourite%20-%20Over%20The%20Water%20To%20.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12946</key>
-		<dict>
-			<key>Track ID</key><integer>12946</integer>
-			<key>Name</key><string>06 - Music In The Glen/Humours Of Scariff/Otter's </string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>The Best of the Bothy Band</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4918670</integer>
-			<key>Total Time</key><integer>202762</integer>
-			<key>Year</key><integer>1980</integer>
-			<key>Date Modified</key><date>2017-04-11T06:24:53Z</date>
-			<key>Date Added</key><date>2017-04-11T06:24:16Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3581958678</integer>
-			<key>Play Date UTC</key><date>2017-07-04T03:31:18Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Best of the Bothy Band</string>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>DF045ADF4604AF17</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1980%20-%20The%20Best%20of%20The%20Bothy%20Band/The%20Bothy%20Band%20-%2006%20-%20Music%20In%20The%20Glen_Humours%20Of%20Scariff_Otter's%20.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12952</key>
-		<dict>
-			<key>Track ID</key><integer>12952</integer>
-			<key>Name</key><string>08 - Farewell to Erin</string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>Live in Concert</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5284384</integer>
-			<key>Total Time</key><integer>218697</integer>
-			<key>Year</key><integer>1994</integer>
-			<key>Date Modified</key><date>2017-04-11T06:25:38Z</date>
-			<key>Date Added</key><date>2017-04-11T06:25:01Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>1B58DEA793FF9884</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1994%20-%20Live%20in%20Concert/The%20Bothy%20Band%20-%2008%20-%20Farewell%20to%20Erin.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12954</key>
-		<dict>
-			<key>Track ID</key><integer>12954</integer>
-			<key>Name</key><string>13 - Garret Barry's - The Bucks of Oranmore</string>
-			<key>Artist</key><string>The Bothy Band</string>
-			<key>Album</key><string>Live in Concert</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4644928</integer>
-			<key>Total Time</key><integer>192052</integer>
-			<key>Year</key><integer>1994</integer>
-			<key>Date Modified</key><date>2017-04-11T06:25:38Z</date>
-			<key>Date Added</key><date>2017-04-11T06:25:01Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3580637059</integer>
-			<key>Play Date UTC</key><date>2017-06-18T20:24:19Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>Bothy Band</string>
-			<key>Persistent ID</key><string>948E8FC74D5E52C4</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bothy%20Band/1994%20-%20Live%20in%20Concert/The%20Bothy%20Band%20-%2013%20-%20Garret%20Barry's%20-%20The%20Bucks%20of%20Oranmore.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13002</key>
-		<dict>
-			<key>Track ID</key><integer>13002</integer>
-			<key>Name</key><string>02 - Dinny Delaney's - The Yellow Wattle</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>If the Cap Fits</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3810066</integer>
-			<key>Total Time</key><integer>156421</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:31:05Z</date>
-			<key>Date Added</key><date>2017-04-11T06:30:33Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F339AB40C1148F36</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1978%20-%20If%20the%20Cap%20Fits/Kevin%20Burke%20-%2002%20-%20Dinny%20Delaney's%20-%20The%20Yellow%20Wattle.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13004</key>
-		<dict>
-			<key>Track ID</key><integer>13004</integer>
-			<key>Name</key><string>03 - The Mason's Apron - Laington's Reel</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>If the Cap Fits</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4095323</integer>
-			<key>Total Time</key><integer>168306</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:31:05Z</date>
-			<key>Date Added</key><date>2017-04-11T06:30:33Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574717962</integer>
-			<key>Play Date UTC</key><date>2017-04-11T08:12:42Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C543A896AECD1DAB</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1978%20-%20If%20the%20Cap%20Fits/Kevin%20Burke%20-%2003%20-%20The%20Mason's%20Apron%20-%20Laington's%20Reel.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13008</key>
-		<dict>
-			<key>Track ID</key><integer>13008</integer>
-			<key>Name</key><string>05 - The Star Of Munster - John Stenson's No. 1</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>If the Cap Fits</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4578073</integer>
-			<key>Total Time</key><integer>188421</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:31:06Z</date>
-			<key>Date Added</key><date>2017-04-11T06:30:33Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>46178DD19226564B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1978%20-%20If%20the%20Cap%20Fits/Kevin%20Burke%20-%2005%20-%20The%20Star%20Of%20Munster%20-%20John%20Stenson's%20No.%201.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13014</key>
-		<dict>
-			<key>Track ID</key><integer>13014</integer>
-			<key>Name</key><string>08 - Toss the Feathers (medly)</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>If the Cap Fits</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>22980590</integer>
-			<key>Total Time</key><integer>955193</integer>
-			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2017-04-11T06:31:07Z</date>
-			<key>Date Added</key><date>2017-04-11T06:30:33Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574766009</integer>
-			<key>Play Date UTC</key><date>2017-04-11T21:33:29Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0EEBF36C24907C4D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1978%20-%20If%20the%20Cap%20Fits/Kevin%20Burke%20-%2008%20-%20Toss%20the%20Feathers%20(medly).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13018</key>
-		<dict>
-			<key>Track ID</key><integer>13018</integer>
-			<key>Name</key><string>Primrose Road - Hop Down Reel -Paddy Cronin's</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>Institute of Musical Traditions (video)</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5846038</integer>
-			<key>Total Time</key><integer>243408</integer>
-			<key>Year</key><integer>2012</integer>
-			<key>Date Modified</key><date>2017-04-11T06:32:33Z</date>
-			<key>Date Added</key><date>2017-04-11T06:32:21Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>2B478F820CCB340F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/2012%20-%20Institute%20of%20Musical%20Traditions/Kevin%20Burke%20-%20Primrose%20Road%20-%20Hop%20Down%20Reel%20-Paddy%20Cronin's.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13032</key>
-		<dict>
-			<key>Track ID</key><integer>13032</integer>
-			<key>Name</key><string>Killoran’s - The Hilltop - Jim Coleman’s</string>
-			<key>Artist</key><string>Kevin Burke &#38; Jackie Daly</string>
-			<key>Album</key><string>Eavesdropper</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4205276</integer>
-			<key>Total Time</key><integer>174184</integer>
-			<key>Year</key><integer>1981</integer>
-			<key>Date Modified</key><date>2017-04-11T06:52:31Z</date>
-			<key>Date Added</key><date>2017-04-11T06:51:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>46D254334B7CEDA8</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1981%20-%20Eavesdropper/Kevin%20Burke%20&#38;%20Jackie%20Daly%20-%20Killoran%E2%80%99s%20-%20The%20Hilltop%20-%20Jim%20Coleman%E2%80%99s.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13034</key>
-		<dict>
-			<key>Track ID</key><integer>13034</integer>
-			<key>Name</key><string>O’Connell’s Trip To Parliament - The Fairy Ree</string>
-			<key>Artist</key><string>Kevin Burke &#38; Jackie Daly</string>
-			<key>Album</key><string>Eavesdropper</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3949497</integer>
-			<key>Total Time</key><integer>163526</integer>
-			<key>Year</key><integer>1981</integer>
-			<key>Date Modified</key><date>2017-04-11T06:52:31Z</date>
-			<key>Date Added</key><date>2017-04-11T06:51:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>5B48532439CF3C44</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1981%20-%20Eavesdropper/Kevin%20Burke%20&#38;%20Jackie%20Daly%20-%20O%E2%80%99Connell%E2%80%99s%20Trip%20To%20Parliament%20-%20The%20Fairy%20Ree.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13038</key>
-		<dict>
-			<key>Track ID</key><integer>13038</integer>
-			<key>Name</key><string>Palm Sunday - The Burnt Old Man</string>
-			<key>Artist</key><string>Kevin Burke &#38; Jackie Daly</string>
-			<key>Album</key><string>Eavesdropper</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4860376</integer>
-			<key>Total Time</key><integer>201482</integer>
-			<key>Year</key><integer>1981</integer>
-			<key>Date Modified</key><date>2017-04-11T06:52:31Z</date>
-			<key>Date Added</key><date>2017-04-11T06:51:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574836822</integer>
-			<key>Play Date UTC</key><date>2017-04-12T17:13:42Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-04-18T16:02:57Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7986D912D7314EC6</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1981%20-%20Eavesdropper/Kevin%20Burke%20&#38;%20Jackie%20Daly%20-%20Palm%20Sunday%20-%20The%20Burnt%20Old%20Man.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13040</key>
-		<dict>
-			<key>Track ID</key><integer>13040</integer>
-			<key>Name</key><string>Rose In The Garden - Andy McGann’s</string>
-			<key>Artist</key><string>Kevin Burke &#38; Jackie Daly</string>
-			<key>Album</key><string>Eavesdropper</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5052886</integer>
-			<key>Total Time</key><integer>209502</integer>
-			<key>Year</key><integer>1981</integer>
-			<key>Date Modified</key><date>2017-04-11T06:52:32Z</date>
-			<key>Date Added</key><date>2017-04-11T06:51:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>FEED304929BE6AE6</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1981%20-%20Eavesdropper/Kevin%20Burke%20&#38;%20Jackie%20Daly%20-%20Rose%20In%20The%20Garden%20-%20Andy%20McGann%E2%80%99s.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13042</key>
-		<dict>
-			<key>Track ID</key><integer>13042</integer>
-			<key>Name</key><string>Scully Casey’s Jig - The Eavesdropper</string>
-			<key>Artist</key><string>Kevin Burke &#38; Jackie Daly</string>
-			<key>Album</key><string>Eavesdropper</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4494289</integer>
-			<key>Total Time</key><integer>186226</integer>
-			<key>Year</key><integer>1981</integer>
-			<key>Date Modified</key><date>2017-04-11T06:52:32Z</date>
-			<key>Date Added</key><date>2017-04-11T06:51:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574839002</integer>
-			<key>Play Date UTC</key><date>2017-04-12T17:50:02Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-12T06:34:04Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>859A8F313E3852E9</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1981%20-%20Eavesdropper/Kevin%20Burke%20&#38;%20Jackie%20Daly%20-%20Scully%20Casey%E2%80%99s%20Jig%20-%20The%20Eavesdropper.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13046</key>
-		<dict>
-			<key>Track ID</key><integer>13046</integer>
-			<key>Name</key><string>The Steeplechase - The Graf Spee</string>
-			<key>Artist</key><string>Kevin Burke &#38; Jackie Daly</string>
-			<key>Album</key><string>Eavesdropper</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4852227</integer>
-			<key>Total Time</key><integer>201142</integer>
-			<key>Year</key><integer>1981</integer>
-			<key>Date Modified</key><date>2017-04-11T06:52:32Z</date>
-			<key>Date Added</key><date>2017-04-11T06:51:58Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3580636343</integer>
-			<key>Play Date UTC</key><date>2017-06-18T20:12:23Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Name</key><string>Steeplechase - The Graf Spee</string>
-			<key>Persistent ID</key><string>F8D37AEB9F81317F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1981%20-%20Eavesdropper/Kevin%20Burke%20&#38;%20Jackie%20Daly%20-%20The%20Steeplechase%20-%20The%20Graf%20Spee.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13126</key>
-		<dict>
-			<key>Track ID</key><integer>13126</integer>
-			<key>Name</key><string>An Seanduine Dóite</string>
-			<key>Artist</key><string>Relativity</string>
-			<key>Album</key><string>Relativity</string>
-			<key>Genre</key><string>Celtic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4202870</integer>
-			<key>Total Time</key><integer>260884</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2017-04-11T22:52:21Z</date>
-			<key>Date Added</key><date>2017-04-11T22:51:45Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3578022776</integer>
-			<key>Play Date UTC</key><date>2017-05-19T14:12:56Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Name</key><string>Seanduine Dóite</string>
-			<key>Persistent ID</key><string>401862E9C2DDC626</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Relativity/1985%20-%20Relativity/07%20An%20Seanduine%20Do%CC%81ite.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13148</key>
-		<dict>
-			<key>Track ID</key><integer>13148</integer>
-			<key>Name</key><string>01 - Lord Gordon's Reel</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>Up Close</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6371785</integer>
-			<key>Total Time</key><integer>263967</integer>
-			<key>Year</key><integer>1984</integer>
-			<key>Date Modified</key><date>2017-04-12T18:09:27Z</date>
-			<key>Date Added</key><date>2017-04-12T18:08:34Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3580626262</integer>
-			<key>Play Date UTC</key><date>2017-06-18T17:24:22Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E079BA3BAD78D5E3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1984%20-%20Up%20Close/01%20-%20Lord%20Gordon's%20Reel.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13154</key>
-		<dict>
-			<key>Track ID</key><integer>13154</integer>
-			<key>Name</key><string>10 -Peelers Jacket-Flax In Bloom-Eileen Curran</string>
-			<key>Artist</key><string>Kevin Burke</string>
-			<key>Album</key><string>Up Close</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5564311</integer>
-			<key>Total Time</key><integer>230321</integer>
-			<key>Year</key><integer>1984</integer>
-			<key>Date Modified</key><date>2017-04-12T18:09:28Z</date>
-			<key>Date Added</key><date>2017-04-12T18:08:34Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8EAD8C19B9953E14</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kevin%20Burke/1984%20-%20Up%20Close/10%20-%20Peelers%20Jacket-Flax%20In%20Bloom-Eileen%20Curran.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13340</key>
-		<dict>
-			<key>Track ID</key><integer>13340</integer>
+			<key>Track ID</key><integer>9578</integer>
 			<key>Name</key><string>Johnny I Hardly Knew Ye</string>
 			<key>Artist</key><string>The Irish Rovers</string>
 			<key>Album</key><string>YouTube</string>
@@ -1927,25 +442,25 @@
 			<key>Size</key><integer>5233895</integer>
 			<key>Total Time</key><integer>217391</integer>
 			<key>Date Modified</key><date>2017-04-15T05:12:15Z</date>
-			<key>Date Added</key><date>2017-04-15T05:12:01Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:49Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3575282472</integer>
-			<key>Play Date UTC</key><date>2017-04-17T21:01:12Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3604730157</integer>
+			<key>Play Date UTC</key><date>2018-03-24T16:55:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Irish Rovers</string>
-			<key>Persistent ID</key><string>BC3B3FC848349AB1</string>
+			<key>Persistent ID</key><string>53762EC8E0D0324D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Irish%20Rovers/YouTube/The%20Irish%20Rovers%20-%20Johnny%20I%20Hardly%20Knew%20Ye.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13342</key>
+		<key>9580</key>
 		<dict>
-			<key>Track ID</key><integer>13342</integer>
+			<key>Track ID</key><integer>9580</integer>
 			<key>Name</key><string>The Unicorn Song</string>
 			<key>Artist</key><string>The Irish Rovers</string>
 			<key>Album</key><string>YouTube</string>
@@ -1953,138 +468,26 @@
 			<key>Size</key><integer>4850083</integer>
 			<key>Total Time</key><integer>201142</integer>
 			<key>Date Modified</key><date>2017-04-15T05:12:15Z</date>
-			<key>Date Added</key><date>2017-04-15T05:12:01Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:49Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3604730943</integer>
+			<key>Play Date UTC</key><date>2018-03-24T17:09:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Artist</key><string>Irish Rovers</string>
 			<key>Sort Name</key><string>Unicorn Song</string>
-			<key>Persistent ID</key><string>054208214E964D12</string>
+			<key>Persistent ID</key><string>F497B37E9A5446B6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Irish%20Rovers/YouTube/The%20Irish%20Rovers%20-%20The%20Unicorn%20Song.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13956</key>
+		<key>9582</key>
 		<dict>
-			<key>Track ID</key><integer>13956</integer>
-			<key>Name</key><string>Gallant Murray (Gathering of Athole) /White Rose</string>
-			<key>Artist</key><string>Andy M. Stewart</string>
-			<key>Album</key><string>Donegal Rain</string>
-			<key>Genre</key><string>Celtic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4482683</integer>
-			<key>Total Time</key><integer>278047</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1997</integer>
-			<key>Date Modified</key><date>2017-04-25T02:03:16Z</date>
-			<key>Date Added</key><date>2017-04-21T07:13:17Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Volume Adjustment</key><integer>255</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3575806633</integer>
-			<key>Play Date UTC</key><date>2017-04-23T22:37:13Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>4D8C73A02FC8D9C7</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andy%20M.%20Stewart/Donegal%20Rain/Gallant%20Murray%20(Gathering%20of%20Athole).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13960</key>
-		<dict>
-			<key>Track ID</key><integer>13960</integer>
-			<key>Name</key><string>Ramblin' Irishman</string>
-			<key>Artist</key><string>Andy M. Stewart</string>
-			<key>Album</key><string>Donegal Rain</string>
-			<key>Genre</key><string>Celtic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5410521</integer>
-			<key>Total Time</key><integer>336039</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1997</integer>
-			<key>Date Modified</key><date>2017-04-25T02:03:16Z</date>
-			<key>Date Added</key><date>2017-04-21T07:13:17Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Volume Adjustment</key><integer>255</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3576649507</integer>
-			<key>Play Date UTC</key><date>2017-05-03T16:45:07Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-25T02:04:55Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>C435A10F02E40E26</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andy%20M.%20Stewart/Donegal%20Rain/Ramblin'%20Irishman.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>14654</key>
-		<dict>
-			<key>Track ID</key><integer>14654</integer>
-			<key>Name</key><string>Devanney's Goat-The Leitrim Rover-Michael Ryan's</string>
-			<key>Artist</key><string>Patrick Street</string>
-			<key>Album</key><string>Corner Boys</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6771752</integer>
-			<key>Total Time</key><integer>276715</integer>
-			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2017-05-01T06:05:16Z</date>
-			<key>Date Added</key><date>2017-05-01T06:03:59Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3578022422</integer>
-			<key>Play Date UTC</key><date>2017-05-19T14:07:02Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>773F514124AFA927</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1996%20-%20Corner%20Boys/Devanney's%20Goat-The%20Leitrim%20Rover-Michael%20Ryan's.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>15334</key>
-		<dict>
-			<key>Track ID</key><integer>15334</integer>
-			<key>Name</key><string>Roarin' Donald-Man Who Shot the Windmill-Glint of</string>
-			<key>Artist</key><string>Silly Wizard</string>
-			<key>Album</key><string>A Glint of Silver</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6335966</integer>
-			<key>Total Time</key><integer>262138</integer>
-			<key>Year</key><integer>1986</integer>
-			<key>Date Modified</key><date>2017-05-13T01:38:56Z</date>
-			<key>Date Added</key><date>2017-05-13T01:38:13Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3577681051</integer>
-			<key>Play Date UTC</key><date>2017-05-15T15:17:31Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Glint of Silver</string>
-			<key>Persistent ID</key><string>6CD74AC63D32801D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Silly%20Wizard/1986%20-%20A%20Glint%20of%20Silver/Roarin'%20Donald-Man%20Who%20Shot%20the%20Windmill-Glint%20of.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>15344</key>
-		<dict>
-			<key>Track ID</key><integer>15344</integer>
+			<key>Track ID</key><integer>9582</integer>
 			<key>Name</key><string>A Pack of Lies - Cedulie's Reel</string>
 			<key>Artist</key><string>Grey Larsen &#38; André Marchand</string>
 			<key>Album</key><string>The Orange Tree</string>
@@ -2093,7 +496,7 @@
 			<key>Total Time</key><integer>275539</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2017-05-13T01:55:45Z</date>
-			<key>Date Added</key><date>2017-05-13T01:54:30Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:49Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -2104,15 +507,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Orange Tree</string>
 			<key>Sort Name</key><string>Pack of Lies - Cedulie's Reel</string>
-			<key>Persistent ID</key><string>C5BFF79910EB496B</string>
+			<key>Persistent ID</key><string>893F16904F9FF83E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Grey%20Larsen/2004%20-%20The%20Orange%20Tree/A%20Pack%20of%20Lies%20-%20Cedulie's%20Reel.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15922</key>
+		<key>9584</key>
 		<dict>
-			<key>Track ID</key><integer>15922</integer>
+			<key>Track ID</key><integer>9584</integer>
 			<key>Name</key><string>The Chandelier - Anne Lacey's</string>
 			<key>Artist</key><string>Liz Carroll &#38; John Doyle</string>
 			<key>Album</key><string>Double Play</string>
@@ -2121,44 +524,52 @@
 			<key>Total Time</key><integer>204956</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2017-05-26T03:37:56Z</date>
-			<key>Date Added</key><date>2017-05-26T03:36:47Z</date>
+			<key>Date Added</key><date>2017-07-23T02:30:49Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-07-28T02:29:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Chandelier - Anne Lacey's</string>
-			<key>Persistent ID</key><string>D5D405A4918C03EF</string>
+			<key>Persistent ID</key><string>B2339479EAC1BA19</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Liz%20Carroll/2009%20-%20Double%20Play/The%20Chandelier%20-%20Anne%20Lacey's.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15956</key>
+		<key>13898</key>
 		<dict>
-			<key>Track ID</key><integer>15956</integer>
-			<key>Name</key><string>Bring Back The Child - Paidin O'Rafferty</string>
-			<key>Artist</key><string>Patrick Street</string>
-			<key>Album</key><string>Live From Patrick Street</string>
+			<key>Track ID</key><integer>13898</integer>
+			<key>Name</key><string>An Seanduine Dóite</string>
+			<key>Artist</key><string>Relativity</string>
+			<key>Album</key><string>Relativity</string>
+			<key>Genre</key><string>Celtic</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5728216</integer>
-			<key>Total Time</key><integer>234501</integer>
-			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2017-05-26T04:40:40Z</date>
-			<key>Date Added</key><date>2017-05-26T04:39:53Z</date>
-			<key>Bit Rate</key><integer>192</integer>
+			<key>Size</key><integer>4202870</integer>
+			<key>Total Time</key><integer>260884</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2017-04-11T22:52:21Z</date>
+			<key>Date Added</key><date>2018-02-13T18:00:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3578638785</integer>
-			<key>Play Date UTC</key><date>2017-05-26T17:19:45Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3598164013</integer>
+			<key>Play Date UTC</key><date>2018-01-07T18:00:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-24T17:04:43Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1B843B96309354CD</string>
+			<key>Sort Name</key><string>Seanduine Dóite</string>
+			<key>Persistent ID</key><string>7D343C240A5CFC58</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patrick%20Street/1999%20-%20Live%20From%20Patrick%20Street/Bring%20Back%20The%20Child%20-%20Paidin%20O'Rafferty.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Relativity/1985%20-%20Relativity/07%20An%20Seanduine%20Do%CC%81ite.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -2166,235 +577,64 @@
 		<dict>
 			<key>Name</key><string>Kiss Me I'm Carol</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>35139</integer>
-			<key>Playlist Persistent ID</key><string>AB4A1E11C4ED0F2A</string>
+			<key>Playlist ID</key><integer>36300</integer>
+			<key>Playlist Persistent ID</key><string>293E58B85474692C</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>13002</integer>
+					<key>Track ID</key><integer>9574</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13014</integer>
+					<key>Track ID</key><integer>9562</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13018</integer>
+					<key>Track ID</key><integer>9564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13040</integer>
+					<key>Track ID</key><integer>9548</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13004</integer>
+					<key>Track ID</key><integer>9554</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13008</integer>
+					<key>Track ID</key><integer>9556</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12926</integer>
+					<key>Track ID</key><integer>9558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13046</integer>
+					<key>Track ID</key><integer>9560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12946</integer>
+					<key>Track ID</key><integer>9568</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10884</integer>
+					<key>Track ID</key><integer>9566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10886</integer>
+					<key>Track ID</key><integer>9570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12068</integer>
+					<key>Track ID</key><integer>9576</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12024</integer>
+					<key>Track ID</key><integer>9552</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12070</integer>
+					<key>Track ID</key><integer>13898</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12072</integer>
+					<key>Track ID</key><integer>9578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12028</integer>
+					<key>Track ID</key><integer>9580</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12074</integer>
+					<key>Track ID</key><integer>9582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12076</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12078</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12080</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12026</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12082</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12086</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12084</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12088</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12022</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12090</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12092</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12104</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12106</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12108</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12030</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12124</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7524</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9202</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7488</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9204</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7766</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7850</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9194</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9196</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9198</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9200</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9516</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9514</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9518</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12020</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7984</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12002</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12896</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13032</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12954</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12936</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13126</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13038</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13042</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12918</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13034</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12904</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13148</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12952</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13154</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12932</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12930</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13340</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13342</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9280</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13956</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6314</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>13960</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14654</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>15334</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>15344</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>15922</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>15956</integer>
+					<key>Track ID</key><integer>9584</integer>
 				</dict>
 			</array>
 		</dict>

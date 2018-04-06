@@ -4,16 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-01-27T23:14:21Z</date>
+	<key>Date</key><date>2018-02-13T17:38:29Z</date>
 	<key>Application Version</key><string>12.7.3.46</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>14536</key>
+		<key>14476</key>
 		<dict>
-			<key>Track ID</key><integer>14536</integer>
+			<key>Track ID</key><integer>14476</integer>
 			<key>Name</key><string>The Bridge (Part 1)</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -35,9 +36,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14538</key>
+		<key>14478</key>
 		<dict>
-			<key>Track ID</key><integer>14538</integer>
+			<key>Track ID</key><integer>14478</integer>
 			<key>Name</key><string>The Bridge (Part 2)</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -57,13 +58,14 @@
 			<key>Sort Name</key><string>Bridge (Part 2)</string>
 			<key>Persistent ID</key><string>9674A07997C2B3DB</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/02%20-%20The%20Bridge%20(Part%202).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14540</key>
+		<key>14480</key>
 		<dict>
-			<key>Track ID</key><integer>14540</integer>
+			<key>Track ID</key><integer>14480</integer>
 			<key>Name</key><string>Junk Wagon</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -80,13 +82,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1794639F661A807E</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/03%20-%20Junk%20Wagon.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14542</key>
+		<key>14482</key>
 		<dict>
-			<key>Track ID</key><integer>14542</integer>
+			<key>Track ID</key><integer>14482</integer>
 			<key>Name</key><string>Camels</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -103,13 +106,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EB15D97C63B26D4E</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/04%20-%20Camels.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14544</key>
+		<key>14484</key>
 		<dict>
-			<key>Track ID</key><integer>14544</integer>
+			<key>Track ID</key><integer>14484</integer>
 			<key>Name</key><string>Most of All</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -126,13 +130,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7627C7EA7E883987</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/06%20-%20Most%20of%20All.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14546</key>
+		<key>14486</key>
 		<dict>
-			<key>Track ID</key><integer>14546</integer>
+			<key>Track ID</key><integer>14486</integer>
 			<key>Name</key><string>Cheeks</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -149,13 +154,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E5DD15656571DC34</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/07%20-%20Cheeks.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14548</key>
+		<key>14488</key>
 		<dict>
-			<key>Track ID</key><integer>14548</integer>
+			<key>Track ID</key><integer>14488</integer>
 			<key>Name</key><string>Your Mother</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -172,13 +178,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B87DE18F33D42D0D</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/08%20-%20Your%20Mother.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14550</key>
+		<key>14490</key>
 		<dict>
-			<key>Track ID</key><integer>14550</integer>
+			<key>Track ID</key><integer>14490</integer>
 			<key>Name</key><string>Don't Jive the Hitman</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -195,13 +202,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>43CC8B2E06B18C16</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/09%20-%20Don't%20Jive%20the%20Hitman.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14552</key>
+		<key>14492</key>
 		<dict>
-			<key>Track ID</key><integer>14552</integer>
+			<key>Track ID</key><integer>14492</integer>
 			<key>Name</key><string>You Think You're Funny</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Junk Wagon - The Big Band Album</string>
@@ -218,13 +226,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AA3C88D67CF001F8</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2011%20-%20Junk%20Wagon%20-%20The%20Big%20Band%20Album/10%20-%20You%20Think%20You're%20Funny.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14554</key>
+		<key>14494</key>
 		<dict>
-			<key>Track ID</key><integer>14554</integer>
+			<key>Track ID</key><integer>14494</integer>
 			<key>Name</key><string>Seven Grand</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -244,13 +253,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B78467CE8DB425ED</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/01%20-%20Seven%20Grand.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14556</key>
+		<key>14496</key>
 		<dict>
-			<key>Track ID</key><integer>14556</integer>
+			<key>Track ID</key><integer>14496</integer>
 			<key>Name</key><string>Shelley's Guitar</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -267,13 +277,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A4E5BEE99F9C1A1</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/02%20-%20Shelleys%20Guitar.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14558</key>
+		<key>14498</key>
 		<dict>
-			<key>Track ID</key><integer>14558</integer>
+			<key>Track ID</key><integer>14498</integer>
 			<key>Name</key><string>No Frets, No Worries</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -290,13 +301,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>319F3EECFDAD3726</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/03%20-%20No%20Frets,%20No%20Worries.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14560</key>
+		<key>14500</key>
 		<dict>
-			<key>Track ID</key><integer>14560</integer>
+			<key>Track ID</key><integer>14500</integer>
 			<key>Name</key><string>Hara Angelina</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -315,13 +327,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8915FB43F2BE495F</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/04%20-%20Hara%20Angelina.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14562</key>
+		<key>14502</key>
 		<dict>
-			<key>Track ID</key><integer>14562</integer>
+			<key>Track ID</key><integer>14502</integer>
 			<key>Name</key><string>C'mon Robby Marshall!</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -345,9 +358,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14564</key>
+		<key>14504</key>
 		<dict>
-			<key>Track ID</key><integer>14564</integer>
+			<key>Track ID</key><integer>14504</integer>
 			<key>Name</key><string>Rhythm Changers</string>
 			<key>Artist</key><string>John Daversa with Bob Mintzer</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -371,9 +384,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14566</key>
+		<key>14506</key>
 		<dict>
-			<key>Track ID</key><integer>14566</integer>
+			<key>Track ID</key><integer>14506</integer>
 			<key>Name</key><string>Moonlight Muse</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -391,13 +404,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8F0267B4C606EDCC</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/07%20-%20Moonlight%20Muse.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14568</key>
+		<key>14508</key>
 		<dict>
-			<key>Track ID</key><integer>14568</integer>
+			<key>Track ID</key><integer>14508</integer>
 			<key>Name</key><string>Players (Only Love You When They're Playing)</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -420,13 +434,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B8FB454522EC7AE6</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/08%20-%20Players%20Only.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14570</key>
+		<key>14510</key>
 		<dict>
-			<key>Track ID</key><integer>14570</integer>
+			<key>Track ID</key><integer>14510</integer>
 			<key>Name</key><string>Flirty Girl</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -443,13 +458,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3630472236925EEB</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/09%20-%20Flirty%20Girl.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14572</key>
+		<key>14512</key>
 		<dict>
-			<key>Track ID</key><integer>14572</integer>
+			<key>Track ID</key><integer>14512</integer>
 			<key>Name</key><string>Some Happy Sh*t</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Artful Joy</string>
@@ -466,36 +482,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FAA66FB2F243509D</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2012%20-%20Artful%20Joy/11%20-%20Some%20Happy%20Sht.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14574</key>
+		<key>14514</key>
 		<dict>
-			<key>Track ID</key><integer>14574</integer>
-			<key>Name</key><string>Good Day Sunshine</string>
-			<key>Artist</key><string>John Daversa with Renee Olstead</string>
-			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7608066</integer>
-			<key>Total Time</key><integer>314540</integer>
-			<key>Year</key><integer>2016</integer>
-			<key>Date Modified</key><date>2017-12-30T04:34:45Z</date>
-			<key>Date Added</key><date>2017-12-30T04:30:51Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>744A5B9FAA7A10E7</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2016%20-%20Kaleidoscope%20Eyes%20-%20Music%20of%20The%20Beatles/01%20-%20Good%20Day%20Sunshine.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>14576</key>
-		<dict>
-			<key>Track ID</key><integer>14576</integer>
+			<key>Track ID</key><integer>14514</integer>
 			<key>Name</key><string>And I Love Her</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
@@ -516,9 +510,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14578</key>
+		<key>14516</key>
 		<dict>
-			<key>Track ID</key><integer>14578</integer>
+			<key>Track ID</key><integer>14516</integer>
 			<key>Name</key><string>Here Comes the Sun</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
@@ -535,13 +529,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CAF4A2C214E1E29F</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2016%20-%20Kaleidoscope%20Eyes%20-%20Music%20of%20The%20Beatles/04%20-%20Here%20Comes%20the%20Sun.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14580</key>
+		<key>14518</key>
 		<dict>
-			<key>Track ID</key><integer>14580</integer>
+			<key>Track ID</key><integer>14518</integer>
 			<key>Name</key><string>Do You Want to Know a Secret</string>
 			<key>Artist</key><string>John Daversa with Renee Olstead</string>
 			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
@@ -562,9 +557,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14582</key>
+		<key>14520</key>
 		<dict>
-			<key>Track ID</key><integer>14582</integer>
+			<key>Track ID</key><integer>14520</integer>
 			<key>Name</key><string>I Saw Her Standing There</string>
 			<key>Artist</key><string>John Daversa with Katisse</string>
 			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
@@ -586,9 +581,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14584</key>
+		<key>14522</key>
 		<dict>
-			<key>Track ID</key><integer>14584</integer>
+			<key>Track ID</key><integer>14522</integer>
 			<key>Name</key><string>With A Little Help-Ob La Di-Sgt Peppers-Walrus</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
@@ -605,13 +600,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B9ABFAE839200FD7</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2016%20-%20Kaleidoscope%20Eyes%20-%20Music%20of%20The%20Beatles/08%20-%20With%20A%20Little%20Help-Ob%20La%20Di-Sgt%20Peppers-Walrus.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14586</key>
+		<key>14524</key>
 		<dict>
-			<key>Track ID</key><integer>14586</integer>
+			<key>Track ID</key><integer>14524</integer>
 			<key>Name</key><string>Good Day Sunshine (Reprise)</string>
 			<key>Artist</key><string>John Daversa</string>
 			<key>Album</key><string>Kaleidoscope Eyes - Music of The Beatles</string>
@@ -631,6 +627,7 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>39BB48DB2B138E7D</string>
 			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1818455412</integer>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Daversa/2016%20-%20Kaleidoscope%20Eyes%20-%20Music%20of%20The%20Beatles/09%20-%20Good%20Day%20Sunshine%20(Reprise).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
@@ -641,88 +638,85 @@
 		<dict>
 			<key>Name</key><string>John Daversa faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>43351</integer>
+			<key>Playlist ID</key><integer>45847</integer>
 			<key>Playlist Persistent ID</key><string>ECF3CB89D7A3A3E1</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14546</integer>
+					<key>Track ID</key><integer>14486</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14542</integer>
+					<key>Track ID</key><integer>14482</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14536</integer>
+					<key>Track ID</key><integer>14476</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14570</integer>
+					<key>Track ID</key><integer>14510</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14544</integer>
+					<key>Track ID</key><integer>14484</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14556</integer>
+					<key>Track ID</key><integer>14496</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14578</integer>
+					<key>Track ID</key><integer>14516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14540</integer>
+					<key>Track ID</key><integer>14480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14538</integer>
+					<key>Track ID</key><integer>14478</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14572</integer>
+					<key>Track ID</key><integer>14512</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14584</integer>
+					<key>Track ID</key><integer>14522</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14586</integer>
+					<key>Track ID</key><integer>14524</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14552</integer>
+					<key>Track ID</key><integer>14492</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14550</integer>
+					<key>Track ID</key><integer>14490</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14568</integer>
+					<key>Track ID</key><integer>14508</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14566</integer>
+					<key>Track ID</key><integer>14506</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14560</integer>
+					<key>Track ID</key><integer>14500</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14562</integer>
+					<key>Track ID</key><integer>14502</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14574</integer>
+					<key>Track ID</key><integer>14520</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14582</integer>
+					<key>Track ID</key><integer>14504</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14564</integer>
+					<key>Track ID</key><integer>14514</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14576</integer>
+					<key>Track ID</key><integer>14518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14580</integer>
+					<key>Track ID</key><integer>14488</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14548</integer>
+					<key>Track ID</key><integer>14494</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14554</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14558</integer>
+					<key>Track ID</key><integer>14498</integer>
 				</dict>
 			</array>
 		</dict>
