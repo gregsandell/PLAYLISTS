@@ -4,17 +4,49 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-01-18T03:54:15Z</date>
-	<key>Application Version</key><string>10.5.2</string>
+	<key>Date</key><date>2018-05-30T00:23:01Z</date>
+	<key>Application Version</key><string>12.7.4.76</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5368</key>
+		<key>5374</key>
 		<dict>
-			<key>Track ID</key><integer>5368</integer>
+			<key>Track ID</key><integer>5374</integer>
+			<key>Name</key><string>Take It or Leave It</string>
+			<key>Artist</key><string>The Strokes</string>
+			<key>Album Artist</key><string>The Strokes</string>
+			<key>Composer</key><string>Julian Casablancas</string>
+			<key>Album</key><string>Is This It</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4701358</integer>
+			<key>Total Time</key><integer>195996</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2014-03-08T02:21:56Z</date>
+			<key>Date Added</key><date>2015-12-13T04:36:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-10T15:57:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album Artist</key><string>Strokes</string>
+			<key>Sort Artist</key><string>Strokes</string>
+			<key>Persistent ID</key><string>B24F1EB0951015F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Strokes/Is%20This%20It/11%20Take%20It%20or%20Leave%20It.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11930</key>
+		<dict>
+			<key>Track ID</key><integer>11930</integer>
 			<key>Name</key><string>Au Privave</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -26,59 +58,28 @@
 			<key>Total Time</key><integer>165485</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:48Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:23Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:48Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403175664</integer>
-			<key>Play Date UTC</key><date>2011-11-03T20:34:24Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3579513552</integer>
+			<key>Play Date UTC</key><date>2017-06-05T20:19:12Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-01T15:27:49Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0F40B35B02E3B979</string>
+			<key>Persistent ID</key><string>80B6E48F365A15FF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Au%20Privave.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Au%20Privave.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5370</key>
+		<key>11932</key>
 		<dict>
-			<key>Track ID</key><integer>5370</integer>
-			<key>Name</key><string>Bloomdido</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>Talkin' Bird</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3323029</integer>
-			<key>Total Time</key><integer>206785</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:48Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:23Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3362644585</integer>
-			<key>Play Date UTC</key><date>2010-07-22T17:56:25Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F783B5D0BD64D0C3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Bloomdido.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5372</key>
-		<dict>
-			<key>Track ID</key><integer>5372</integer>
+			<key>Track ID</key><integer>11932</integer>
 			<key>Name</key><string>Confirmation</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -90,90 +91,28 @@
 			<key>Total Time</key><integer>179644</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:48Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403175499</integer>
-			<key>Play Date UTC</key><date>2011-11-03T20:31:39Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0751FEC2B32FE9CE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Confirmation.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5374</key>
-		<dict>
-			<key>Track ID</key><integer>5374</integer>
-			<key>Name</key><string>Jam Blues</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Norman Shrdlu</string>
-			<key>Album</key><string>Talkin' Bird</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>14128110</integer>
-			<key>Total Time</key><integer>882102</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:50Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:48Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3403084762</integer>
-			<key>Play Date UTC</key><date>2011-11-02T19:19:22Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A13E345047B7A939</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Jam%20Blues.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5376</key>
-		<dict>
-			<key>Track ID</key><integer>5376</integer>
-			<key>Name</key><string>K.C. Blues</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>Talkin' Bird</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3328044</integer>
-			<key>Total Time</key><integer>207098</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:50Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3409503300</integer>
-			<key>Play Date UTC</key><date>2012-01-16T02:15:00Z</date>
+			<key>Play Date</key><integer>3569658377</integer>
+			<key>Play Date UTC</key><date>2017-02-11T19:46:17Z</date>
 			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-01T14:42:24Z</date>
+			<key>Skip Date</key><date>2017-02-02T01:41:31Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9BCE9F863877B9E0</string>
+			<key>Persistent ID</key><string>1B1877D75D166E69</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/K.C.%20Blues.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Confirmation.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5378</key>
+		<key>11934</key>
 		<dict>
-			<key>Track ID</key><integer>5378</integer>
+			<key>Track ID</key><integer>11934</integer>
 			<key>Name</key><string>Lester Leaps In</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -185,28 +124,28 @@
 			<key>Total Time</key><integer>739448</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:52Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:52Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3343400041</integer>
-			<key>Play Date UTC</key><date>2009-12-12T00:14:01Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3569657194</integer>
+			<key>Play Date UTC</key><date>2017-02-11T19:26:34Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-03T20:28:39Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D463D4B84367D689</string>
+			<key>Persistent ID</key><string>349DCA6F3032D6F2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Lester%20Leaps%20In.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Lester%20Leaps%20In.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5382</key>
+		<key>11936</key>
 		<dict>
-			<key>Track ID</key><integer>5382</integer>
+			<key>Track ID</key><integer>11936</integer>
 			<key>Name</key><string>Groovin' High</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Dizzy Gillespie</string>
@@ -218,27 +157,27 @@
 			<key>Total Time</key><integer>160966</integer>
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:52Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:52Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3363720457</integer>
+			<key>Play Date</key><integer>3363716857</integer>
 			<key>Play Date UTC</key><date>2010-08-04T04:47:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Best Of Ken Burns Jazz</string>
-			<key>Persistent ID</key><string>984904168B39E3A8</string>
+			<key>Persistent ID</key><string>CC49ADC6042A36B8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Best%20Of%20Ken%20Burns%20Jazz/Groovin'%20High.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Best%20Of%20Ken%20Burns%20Jazz/Groovin'%20High.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5384</key>
+		<key>11938</key>
 		<dict>
-			<key>Track ID</key><integer>5384</integer>
+			<key>Track ID</key><integer>11938</integer>
 			<key>Name</key><string>Another Hair Do</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
@@ -247,244 +186,29 @@
 			<key>Size</key><integer>2576679</integer>
 			<key>Total Time</key><integer>160522</integer>
 			<key>Track Number</key><integer>11</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:52Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:52Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403083880</integer>
-			<key>Play Date UTC</key><date>2011-11-02T19:04:40Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-02T19:22:57Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3608832809</integer>
+			<key>Play Date UTC</key><date>2018-05-11T04:33:29Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-02T01:41:29Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>67560F27946ECF15</string>
+			<key>Persistent ID</key><string>4E2274E14A369BD9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Another%20Hair%20Do.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Another%20Hair%20Do.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5386</key>
+		<key>11940</key>
 		<dict>
-			<key>Track ID</key><integer>5386</integer>
-			<key>Name</key><string>Bebop A</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2771866</integer>
-			<key>Total Time</key><integer>172721</integer>
-			<key>Track Number</key><integer>19</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:52Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>051D4FB889524BAD</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Bebop%20A.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5388</key>
-		<dict>
-			<key>Track ID</key><integer>5388</integer>
-			<key>Name</key><string>Billie's Bounce</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3041868</integer>
-			<key>Total Time</key><integer>189596</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:52Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3342095846</integer>
-			<key>Play Date UTC</key><date>2009-11-26T21:57:26Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-02T18:39:30Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>A738B4D188C7A3A9</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Billie's%20Bounce.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5392</key>
-		<dict>
-			<key>Track ID</key><integer>5392</integer>
-			<key>Name</key><string>Bird's Nest</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2654838</integer>
-			<key>Total Time</key><integer>165407</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:54Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3402982654</integer>
-			<key>Play Date UTC</key><date>2011-11-01T14:57:34Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>DFBB2E50AF40CA40</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Bird's%20Nest.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5394</key>
-		<dict>
-			<key>Track ID</key><integer>5394</integer>
-			<key>Name</key><string>Buzzy</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2444186</integer>
-			<key>Total Time</key><integer>152241</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:54Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-03T20:25:13Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>8009843D762AF7C3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Buzzy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5396</key>
-		<dict>
-			<key>Track ID</key><integer>5396</integer>
-			<key>Name</key><string>Carvin' the Bird</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker/Howard McGhee</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2620983</integer>
-			<key>Total Time</key><integer>163291</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:54Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3403082984</integer>
-			<key>Play Date UTC</key><date>2011-11-02T18:49:44Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>984715D1337B7029</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Carvin'%20the%20Bird.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5398</key>
-		<dict>
-			<key>Track ID</key><integer>5398</integer>
-			<key>Name</key><string>Charlie's Wig</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2654002</integer>
-			<key>Total Time</key><integer>165355</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:54Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3409557269</integer>
-			<key>Play Date UTC</key><date>2012-01-16T17:14:29Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>6C38B47D8A505A63</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Charlie's%20Wig.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5400</key>
-		<dict>
-			<key>Track ID</key><integer>5400</integer>
-			<key>Name</key><string>Chasin' the Bird</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2669466</integer>
-			<key>Total Time</key><integer>166321</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:54Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3357663274</integer>
-			<key>Play Date UTC</key><date>2010-05-26T02:14:34Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-02T18:38:11Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>F0BC0F0BDD0DBDB5</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Chasin'%20the%20Bird.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5402</key>
-		<dict>
-			<key>Track ID</key><integer>5402</integer>
+			<key>Track ID</key><integer>11940</integer>
 			<key>Name</key><string>Cheers</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -496,84 +220,26 @@
 			<key>Total Time</key><integer>179670</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:54Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:54Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3358959713</integer>
-			<key>Play Date UTC</key><date>2010-06-10T02:21:53Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3569658197</integer>
+			<key>Play Date UTC</key><date>2017-02-11T19:43:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>CDD8B11D7E4E3C86</string>
+			<key>Persistent ID</key><string>B8D2EF4E462AB497</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Cheers.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Cheers.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5404</key>
+		<key>11942</key>
 		<dict>
-			<key>Track ID</key><integer>5404</integer>
-			<key>Name</key><string>Cheryl</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2889731</integer>
-			<key>Total Time</key><integer>180088</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>748D08F59887BEA5</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Cheryl.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5406</key>
-		<dict>
-			<key>Track ID</key><integer>5406</integer>
-			<key>Name</key><string>Constellation</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2404062</integer>
-			<key>Total Time</key><integer>149733</integer>
-			<key>Track Number</key><integer>17</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-01T15:13:18Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>7EA4F199B96BA7E1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Constellation.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5408</key>
-		<dict>
-			<key>Track ID</key><integer>5408</integer>
+			<key>Track ID</key><integer>11942</integer>
 			<key>Name</key><string>Cool Blues</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -585,392 +251,26 @@
 			<key>Total Time</key><integer>186435</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:28:56Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3402982478</integer>
-			<key>Play Date UTC</key><date>2011-11-01T14:54:38Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3579514962</integer>
+			<key>Play Date UTC</key><date>2017-06-05T20:42:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>232592F43809C8F0</string>
+			<key>Persistent ID</key><string>05109125D2F6A763</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Cool%20Blues.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Cool%20Blues.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5410</key>
+		<key>11944</key>
 		<dict>
-			<key>Track ID</key><integer>5410</integer>
-			<key>Name</key><string>Crazeology</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2928601</integer>
-			<key>Total Time</key><integer>182517</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3402984293</integer>
-			<key>Play Date UTC</key><date>2011-11-01T15:24:53Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>EC6968F9160ED2B8</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Crazeology.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5412</key>
-		<dict>
-			<key>Track ID</key><integer>5412</integer>
-			<key>Name</key><string>Dewey Square</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2991713</integer>
-			<key>Total Time</key><integer>186462</integer>
-			<key>Track Number</key><integer>17</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-01T14:54:48Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>084BE89D05216013</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Dewey%20Square.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5414</key>
-		<dict>
-			<key>Track ID</key><integer>5414</integer>
-			<key>Name</key><string>Donna Lee</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2478459</integer>
-			<key>Total Time</key><integer>154383</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3342099336</integer>
-			<key>Play Date UTC</key><date>2009-11-26T22:55:36Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-11-01T15:19:15Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>A42C0FAE0681E316</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Donna%20Lee.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5416</key>
-		<dict>
-			<key>Track ID</key><integer>5416</integer>
-			<key>Name</key><string>Klactoveesedstene</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album Artist</key><string>Charlie Parker</string>
-			<key>Composer</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2952007</integer>
-			<key>Total Time</key><integer>183980</integer>
-			<key>Track Number</key><integer>22</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:56Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Volume Adjustment</key><integer>255</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3357662923</integer>
-			<key>Play Date UTC</key><date>2010-05-26T02:08:43Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-01T15:13:16Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>6EE1E2446C4F9682</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Klactoveesedstene.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5418</key>
-		<dict>
-			<key>Track ID</key><integer>5418</integer>
-			<key>Name</key><string>Klaunstance</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2631850</integer>
-			<key>Total Time</key><integer>163970</integer>
-			<key>Track Number</key><integer>13</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3403083512</integer>
-			<key>Play Date UTC</key><date>2011-11-02T18:58:32Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-03T20:25:08Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>C37015912967A0CE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Klaunstance.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5420</key>
-		<dict>
-			<key>Track ID</key><integer>5420</integer>
-			<key>Name</key><string>Koko</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2826619</integer>
-			<key>Total Time</key><integer>176143</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3403083160</integer>
-			<key>Play Date UTC</key><date>2011-11-02T18:52:40Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-03T20:43:42Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>985C6E003A8270A6</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Koko.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5422</key>
-		<dict>
-			<key>Track ID</key><integer>5422</integer>
-			<key>Name</key><string>Marmaduke</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2647732</integer>
-			<key>Total Time</key><integer>164963</integer>
-			<key>Track Number</key><integer>20</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>6C0C0F1273E9E94C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Marmaduke.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5424</key>
-		<dict>
-			<key>Track ID</key><integer>5424</integer>
-			<key>Name</key><string>Max Making Wax</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2408242</integer>
-			<key>Total Time</key><integer>149995</integer>
-			<key>Track Number</key><integer>16</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3345908479</integer>
-			<key>Play Date UTC</key><date>2010-01-10T01:01:19Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-01T14:51:07Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>F35FE1111FCB5D86</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Max%20Making%20Wax.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5426</key>
-		<dict>
-			<key>Track ID</key><integer>5426</integer>
-			<key>Name</key><string>Moose the Mooche</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2948245</integer>
-			<key>Total Time</key><integer>183745</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3342109722</integer>
-			<key>Play Date UTC</key><date>2009-11-27T01:48:42Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>4D13894BE2DC2350</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Moose%20the%20Mooche.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5428</key>
-		<dict>
-			<key>Track ID</key><integer>5428</integer>
-			<key>Name</key><string>Now's the Time</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3158896</integer>
-			<key>Total Time</key><integer>196911</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3362643933</integer>
-			<key>Play Date UTC</key><date>2010-07-22T17:45:33Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-03T20:48:01Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>B0B4342B958E64B4</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Now's%20the%20Time.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5430</key>
-		<dict>
-			<key>Track ID</key><integer>5430</integer>
-			<key>Name</key><string>Ornithology</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2914390</integer>
-			<key>Total Time</key><integer>181629</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Date Modified</key><date>2011-03-19T22:28:58Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3357662566</integer>
-			<key>Play Date UTC</key><date>2010-05-26T02:02:46Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-01-18T03:42:09Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>6A1883BC9D2A5DBD</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Ornithology.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5432</key>
-		<dict>
-			<key>Track ID</key><integer>5432</integer>
-			<key>Name</key><string>Out of Nowhere</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3671732</integer>
-			<key>Total Time</key><integer>228963</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>EBADDD59694CD863</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Out%20of%20Nowhere.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5434</key>
-		<dict>
-			<key>Track ID</key><integer>5434</integer>
+			<key>Track ID</key><integer>11944</integer>
 			<key>Name</key><string>Perhaps</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
@@ -979,27 +279,27 @@
 			<key>Size</key><integer>2479295</integer>
 			<key>Total Time</key><integer>154435</integer>
 			<key>Track Number</key><integer>19</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3402984110</integer>
-			<key>Play Date UTC</key><date>2011-11-01T15:21:50Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3602485597</integer>
+			<key>Play Date UTC</key><date>2018-02-26T18:26:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>E245F09A8776B8EE</string>
+			<key>Persistent ID</key><string>0F7952A67A22DCBA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Perhaps.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Perhaps.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5438</key>
+		<key>11946</key>
 		<dict>
-			<key>Track ID</key><integer>5438</integer>
+			<key>Track ID</key><integer>11946</integer>
 			<key>Name</key><string>Red Cross</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
@@ -1008,29 +308,28 @@
 			<key>Size</key><integer>3062348</integer>
 			<key>Total Time</key><integer>190876</integer>
 			<key>Track Number</key><integer>4</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3343401291</integer>
-			<key>Play Date UTC</key><date>2009-12-12T00:34:51Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3569658574</integer>
+			<key>Play Date UTC</key><date>2017-02-11T19:49:34Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-01T14:58:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>05B289C425A9F547</string>
+			<key>Persistent ID</key><string>4BE641A514B8B196</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Red%20Cross.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Red%20Cross.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5440</key>
+		<key>11948</key>
 		<dict>
-			<key>Track ID</key><integer>5440</integer>
+			<key>Track ID</key><integer>11948</integer>
 			<key>Name</key><string>Relaxin' at Camarillo</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -1042,26 +341,25 @@
 			<key>Total Time</key><integer>181603</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-02T18:47:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>8E28C2B096DBF572</string>
+			<key>Persistent ID</key><string>C0E7CCBC5A5545A0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Relaxin'%20at%20Camarillo.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Relaxin'%20at%20Camarillo.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5442</key>
+		<key>11950</key>
 		<dict>
-			<key>Track ID</key><integer>5442</integer>
+			<key>Track ID</key><integer>11950</integer>
 			<key>Name</key><string>Scrapple from the Apple</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
@@ -1070,13 +368,13 @@
 			<key>Size</key><integer>2826619</integer>
 			<key>Total Time</key><integer>176143</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3342088233</integer>
-			<key>Play Date UTC</key><date>2009-11-26T19:50:33Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3607758854</integer>
+			<key>Play Date UTC</key><date>2018-04-28T18:14:14Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-01T15:18:54Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1084,15 +382,893 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>E8CB6098F52ED400</string>
+			<key>Persistent ID</key><string>0EDA2B912AA05942</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Scrapple%20from%20the%20Apple.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Scrapple%20from%20the%20Apple.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5444</key>
+		<key>11952</key>
 		<dict>
-			<key>Track ID</key><integer>5444</integer>
+			<key>Track ID</key><integer>11952</integer>
+			<key>Name</key><string>Steeplechase</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2985861</integer>
+			<key>Total Time</key><integer>186096</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3572095868</integer>
+			<key>Play Date UTC</key><date>2017-03-12T00:51:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-01T15:06:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>FE9A847F6B1B6CBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Steeplechase.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11954</key>
+		<dict>
+			<key>Track ID</key><integer>11954</integer>
+			<key>Name</key><string>Tiny's Tempo</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2813662</integer>
+			<key>Total Time</key><integer>175333</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:02Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3579513211</integer>
+			<key>Play Date UTC</key><date>2017-06-05T20:13:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>059002E40036D64D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Tiny's%20Tempo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11956</key>
+		<dict>
+			<key>Track ID</key><integer>11956</integer>
+			<key>Name</key><string>Cheryl</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>Timeless</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2581695</integer>
+			<key>Total Time</key><integer>160835</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:02Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-02T18:46:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F521FA8EB0B9F8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Cheryl.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11958</key>
+		<dict>
+			<key>Track ID</key><integer>11958</integer>
+			<key>Name</key><string>Thrivin' from a Riff</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>Timeless</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3019716</integer>
+			<key>Total Time</key><integer>188212</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:04Z</date>
+			<key>Date Added</key><date>2017-12-14T00:13:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3607757951</integer>
+			<key>Play Date UTC</key><date>2018-04-28T17:59:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-02T20:12:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C1DAF1670545B89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Thrivin'%20from%20a%20Riff.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12078</key>
+		<dict>
+			<key>Track ID</key><integer>12078</integer>
+			<key>Name</key><string>K.C. Blues</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>Talkin' Bird</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3328044</integer>
+			<key>Total Time</key><integer>207098</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:50Z</date>
+			<key>Date Added</key><date>2017-12-14T00:14:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3574042901</integer>
+			<key>Play Date UTC</key><date>2017-04-03T12:41:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-01T14:42:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20EAA5D406BA8371</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/K.C.%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12080</key>
+		<dict>
+			<key>Track ID</key><integer>12080</integer>
+			<key>Name</key><string>Out of Nowhere</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3671732</integer>
+			<key>Total Time</key><integer>228963</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:14:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3596351105</integer>
+			<key>Play Date UTC</key><date>2017-12-17T18:25:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>038F9DB384CC9BEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Out%20of%20Nowhere.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12082</key>
+		<dict>
+			<key>Track ID</key><integer>12082</integer>
+			<key>Name</key><string>The Gypsy</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2915226</integer>
+			<key>Total Time</key><integer>181681</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:00Z</date>
+			<key>Date Added</key><date>2017-12-14T00:14:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3577860103</integer>
+			<key>Play Date UTC</key><date>2017-05-17T17:01:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Sort Name</key><string>Gypsy</string>
+			<key>Persistent ID</key><string>1CE9E9FD6360AFBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/The%20Gypsy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16668</key>
+		<dict>
+			<key>Track ID</key><integer>16668</integer>
+			<key>Name</key><string>(The Word Of) Confirmation</string>
+			<key>Artist</key><string>The Manhattan Transfer</string>
+			<key>Album</key><string>Mecca For Moderns</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7862877</integer>
+			<key>Total Time</key><integer>194690</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2018-05-14T04:34:38Z</date>
+			<key>Date Added</key><date>2018-05-14T04:34:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3609754658</integer>
+			<key>Play Date UTC</key><date>2018-05-21T20:37:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-23T12:33:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Manhattan Transfer</string>
+			<key>Sort Name</key><string>Word Of) Confirmation</string>
+			<key>Persistent ID</key><string>7313837AE703AC9A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Manhattan%20Transfer/1981%20Mecca%20For%20Modern/07.%20(The%20Word%20Of)%20Confirmation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323586</key>
+		<dict>
+			<key>Track ID</key><integer>323586</integer>
+			<key>Name</key><string>Bloomdido</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>Talkin' Bird</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3323029</integer>
+			<key>Total Time</key><integer>206785</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:48Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3362640985</integer>
+			<key>Play Date UTC</key><date>2010-07-22T17:56:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87FFF942D926A9F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Talkin'%20Bird/Bloomdido.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323591</key>
+		<dict>
+			<key>Track ID</key><integer>323591</integer>
+			<key>Name</key><string>Bebop A</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2771866</integer>
+			<key>Total Time</key><integer>172721</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:52Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>707E26AC29D2C5B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Bebop%20A.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323594</key>
+		<dict>
+			<key>Track ID</key><integer>323594</integer>
+			<key>Name</key><string>Billie's Bounce</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3041868</integer>
+			<key>Total Time</key><integer>189596</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3342088646</integer>
+			<key>Play Date UTC</key><date>2009-11-26T21:57:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-02T18:39:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>06FDF4F3ED5F90B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Billie's%20Bounce.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323597</key>
+		<dict>
+			<key>Track ID</key><integer>323597</integer>
+			<key>Name</key><string>Bird's Nest</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2654838</integer>
+			<key>Total Time</key><integer>165407</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:54Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3402979054</integer>
+			<key>Play Date UTC</key><date>2011-11-01T14:57:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>CD06574571695292</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Bird's%20Nest.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323600</key>
+		<dict>
+			<key>Track ID</key><integer>323600</integer>
+			<key>Name</key><string>Buzzy</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2444186</integer>
+			<key>Total Time</key><integer>152241</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-03T20:25:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>5CE0863EAABCDE6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Buzzy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323603</key>
+		<dict>
+			<key>Track ID</key><integer>323603</integer>
+			<key>Name</key><string>Carvin' the Bird</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker/Howard McGhee</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2620983</integer>
+			<key>Total Time</key><integer>163291</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:54Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3403079384</integer>
+			<key>Play Date UTC</key><date>2011-11-02T18:49:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>7D1D7B36D9EE066C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Carvin'%20the%20Bird.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323606</key>
+		<dict>
+			<key>Track ID</key><integer>323606</integer>
+			<key>Name</key><string>Charlie's Wig</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2654002</integer>
+			<key>Total Time</key><integer>165355</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:54Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3409550069</integer>
+			<key>Play Date UTC</key><date>2012-01-16T17:14:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>A6DEF5EBAFECA6D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Charlie's%20Wig.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323609</key>
+		<dict>
+			<key>Track ID</key><integer>323609</integer>
+			<key>Name</key><string>Chasin' the Bird</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2669466</integer>
+			<key>Total Time</key><integer>166321</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3357659674</integer>
+			<key>Play Date UTC</key><date>2010-05-26T02:14:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-02T18:38:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>6714C20AD4A532A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Chasin'%20the%20Bird.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323612</key>
+		<dict>
+			<key>Track ID</key><integer>323612</integer>
+			<key>Name</key><string>Cheryl</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2889731</integer>
+			<key>Total Time</key><integer>180088</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:23Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>14A166E31153CA5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Cheryl.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323615</key>
+		<dict>
+			<key>Track ID</key><integer>323615</integer>
+			<key>Name</key><string>Constellation</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2404062</integer>
+			<key>Total Time</key><integer>149733</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-01T15:13:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>6FCF54E97C3EE552</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Constellation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323618</key>
+		<dict>
+			<key>Track ID</key><integer>323618</integer>
+			<key>Name</key><string>Crazeology</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2928601</integer>
+			<key>Total Time</key><integer>182517</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3402980693</integer>
+			<key>Play Date UTC</key><date>2011-11-01T15:24:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>CCB410D0CBE270A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Crazeology.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323621</key>
+		<dict>
+			<key>Track ID</key><integer>323621</integer>
+			<key>Name</key><string>Dewey Square</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2991713</integer>
+			<key>Total Time</key><integer>186462</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:55Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-01T14:54:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>6309D5A7C9CA274A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Dewey%20Square.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323624</key>
+		<dict>
+			<key>Track ID</key><integer>323624</integer>
+			<key>Name</key><string>Donna Lee</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2478459</integer>
+			<key>Total Time</key><integer>154383</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:23Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3342092136</integer>
+			<key>Play Date UTC</key><date>2009-11-26T22:55:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-11-01T15:19:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>8F7BF6E73C96D805</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Donna%20Lee.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323627</key>
+		<dict>
+			<key>Track ID</key><integer>323627</integer>
+			<key>Name</key><string>Klactoveesedstene</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album Artist</key><string>Charlie Parker</string>
+			<key>Composer</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2952007</integer>
+			<key>Total Time</key><integer>183980</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:23Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3357659323</integer>
+			<key>Play Date UTC</key><date>2010-05-26T02:08:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-01T15:13:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
+			<key>Persistent ID</key><string>8834522B7B279C7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Klactoveesedstene.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323630</key>
+		<dict>
+			<key>Track ID</key><integer>323630</integer>
+			<key>Name</key><string>Klaunstance</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2631850</integer>
+			<key>Total Time</key><integer>163970</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:58Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3403079912</integer>
+			<key>Play Date UTC</key><date>2011-11-02T18:58:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-03T20:25:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>0111C8BA50E2C428</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Klaunstance.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323633</key>
+		<dict>
+			<key>Track ID</key><integer>323633</integer>
+			<key>Name</key><string>Koko</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2826619</integer>
+			<key>Total Time</key><integer>176143</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:58Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3403079560</integer>
+			<key>Play Date UTC</key><date>2011-11-02T18:52:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-03T20:43:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>29D62D91B4BE4F83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Koko.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323636</key>
+		<dict>
+			<key>Track ID</key><integer>323636</integer>
+			<key>Name</key><string>Marmaduke</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2647732</integer>
+			<key>Total Time</key><integer>164963</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:58Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
+			<key>Persistent ID</key><string>E1C7C81232BF2AE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Marmaduke.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323639</key>
+		<dict>
+			<key>Track ID</key><integer>323639</integer>
+			<key>Name</key><string>Max Making Wax</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2408242</integer>
+			<key>Total Time</key><integer>149995</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2011-03-19T21:28:58Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3345901279</integer>
+			<key>Play Date UTC</key><date>2010-01-10T01:01:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-01T14:51:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>687F3601E08E6381</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Max%20Making%20Wax.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323642</key>
+		<dict>
+			<key>Track ID</key><integer>323642</integer>
+			<key>Name</key><string>Moose the Mooche</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2948245</integer>
+			<key>Total Time</key><integer>183745</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3342102522</integer>
+			<key>Play Date UTC</key><date>2009-11-27T01:48:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>BAD265A4679D16E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Moose%20the%20Mooche.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323645</key>
+		<dict>
+			<key>Track ID</key><integer>323645</integer>
+			<key>Name</key><string>Now's the Time</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3158896</integer>
+			<key>Total Time</key><integer>196911</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3362640333</integer>
+			<key>Play Date UTC</key><date>2010-07-22T17:45:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-11-03T20:48:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>AF3B64B687B51906</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Now's%20the%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323648</key>
+		<dict>
+			<key>Track ID</key><integer>323648</integer>
+			<key>Name</key><string>Ornithology</string>
+			<key>Artist</key><string>Charlie Parker</string>
+			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2914390</integer>
+			<key>Total Time</key><integer>181629</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3357658966</integer>
+			<key>Play Date UTC</key><date>2010-05-26T02:02:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-18T03:42:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
+			<key>Persistent ID</key><string>CB3199B3A6F1372E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Ornithology.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323651</key>
+		<dict>
+			<key>Track ID</key><integer>323651</integer>
 			<key>Name</key><string>Sippin' at Bell's</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -1104,88 +1280,27 @@
 			<key>Total Time</key><integer>143229</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2017-10-30T04:19:23Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3409681472</integer>
+			<key>Play Date</key><integer>3409674272</integer>
 			<key>Play Date UTC</key><date>2012-01-18T03:44:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
-			<key>Persistent ID</key><string>7A382773517FE1AC</string>
+			<key>Persistent ID</key><string>164205CD93B12E7B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Sippin'%20at%20Bell's.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Sippin'%20at%20Bell's.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5446</key>
+		<key>323654</key>
 		<dict>
-			<key>Track ID</key><integer>5446</integer>
-			<key>Name</key><string>Steeplechase</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2985861</integer>
-			<key>Total Time</key><integer>186096</integer>
-			<key>Track Number</key><integer>21</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3363728187</integer>
-			<key>Play Date UTC</key><date>2010-08-04T06:56:27Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-01T15:06:46Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (3 of 3)</string>
-			<key>Persistent ID</key><string>AD42CA38D173F832</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Steeplechase.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5448</key>
-		<dict>
-			<key>Track ID</key><integer>5448</integer>
-			<key>Name</key><string>The Gypsy</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2915226</integer>
-			<key>Total Time</key><integer>181681</integer>
-			<key>Track Number</key><integer>18</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:00Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3402982873</integer>
-			<key>Play Date UTC</key><date>2011-11-01T15:01:13Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Sort Name</key><string>Gypsy</string>
-			<key>Persistent ID</key><string>EA73DA934DC5AA65</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/The%20Gypsy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5450</key>
-		<dict>
-			<key>Track ID</key><integer>5450</integer>
+			<key>Track ID</key><integer>323654</integer>
 			<key>Name</key><string>The Hymn</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album Artist</key><string>Charlie Parker</string>
@@ -1197,54 +1312,28 @@
 			<key>Total Time</key><integer>147957</integer>
 			<key>Track Number</key><integer>18</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2017-10-30T04:19:23Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3402982039</integer>
+			<key>Play Date</key><integer>3402978439</integer>
 			<key>Play Date UTC</key><date>2011-11-01T14:47:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (2 of 3)</string>
 			<key>Sort Name</key><string>Hymn</string>
-			<key>Persistent ID</key><string>A31AA5402A77C49A</string>
+			<key>Persistent ID</key><string>A9F25694B291A15A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/The%20Hymn.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/The%20Hymn.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5452</key>
+		<key>323657</key>
 		<dict>
-			<key>Track ID</key><integer>5452</integer>
-			<key>Name</key><string>Tiny's Tempo</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2813662</integer>
-			<key>Total Time</key><integer>175333</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>FC221ED6499CDD66</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Tiny's%20Tempo.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5454</key>
-		<dict>
-			<key>Track ID</key><integer>5454</integer>
+			<key>Track ID</key><integer>323657</integer>
 			<key>Name</key><string>Yardbird Suite</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>The Complete Savoy and Dial Master Takes (1 of 3)</string>
@@ -1253,39 +1342,39 @@
 			<key>Size</key><integer>2809482</integer>
 			<key>Total Time</key><integer>175072</integer>
 			<key>Track Number</key><integer>13</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2017-10-30T04:19:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Miles Davis - Trumpet</string>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3345908329</integer>
+			<key>Play Date</key><integer>3345901129</integer>
 			<key>Play Date UTC</key><date>2010-01-10T00:58:49Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-01T23:06:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Savoy and Dial Master Takes (1 of 3)</string>
-			<key>Persistent ID</key><string>9BA5B943293D3378</string>
+			<key>Persistent ID</key><string>F02C014D0ACDA871</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Yardbird%20Suite.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/The%20Complete%20Savoy%20and%20Dial%20Master%20Takes/Yardbird%20Suite.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5456</key>
+		<key>323660</key>
 		<dict>
-			<key>Track ID</key><integer>5456</integer>
+			<key>Track ID</key><integer>323660</integer>
 			<key>Name</key><string>Billie's Bounce</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2475115</integer>
+			<key>Size</key><integer>2928601</integer>
 			<key>Total Time</key><integer>154174</integer>
 			<key>Track Number</key><integer>5</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:24Z</date>
+			<key>Date Modified</key><date>2017-02-01T06:39:25Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -1294,15 +1383,16 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EC4FF4860A5D6D65</string>
+			<key>Sort Name</key><string>Billie's Bounce</string>
+			<key>Persistent ID</key><string>CF5559380D4BBB17</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Billie's%20Bounce.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Billie's%20Bounce.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5460</key>
+		<key>323663</key>
 		<dict>
-			<key>Track ID</key><integer>5460</integer>
+			<key>Track ID</key><integer>323663</integer>
 			<key>Name</key><string>Buzzy</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
@@ -1311,12 +1401,12 @@
 			<key>Size</key><integer>2582949</integer>
 			<key>Total Time</key><integer>160914</integer>
 			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:02Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3358958677</integer>
+			<key>Play Date</key><integer>3358955077</integer>
 			<key>Play Date UTC</key><date>2010-06-10T02:04:37Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-03T20:24:51Z</date>
@@ -1324,15 +1414,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1B66128ACD8FA6C2</string>
+			<key>Persistent ID</key><string>C8C810C3C0108828</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Buzzy.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Buzzy.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5462</key>
+		<key>323666</key>
 		<dict>
-			<key>Track ID</key><integer>5462</integer>
+			<key>Track ID</key><integer>323666</integer>
 			<key>Name</key><string>Canstellation</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
@@ -1341,26 +1431,26 @@
 			<key>Size</key><integer>2473861</integer>
 			<key>Total Time</key><integer>154096</integer>
 			<key>Track Number</key><integer>13</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:02Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3402984447</integer>
+			<key>Play Date</key><integer>3402980847</integer>
 			<key>Play Date UTC</key><date>2011-11-01T15:27:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B32156ED23C04901</string>
+			<key>Persistent ID</key><string>EB9FB396EFFED8FE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Canstellation.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Canstellation.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5464</key>
+		<key>323669</key>
 		<dict>
-			<key>Track ID</key><integer>5464</integer>
+			<key>Track ID</key><integer>323669</integer>
 			<key>Name</key><string>Chasin' the Bird</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
@@ -1369,12 +1459,12 @@
 			<key>Size</key><integer>2900598</integer>
 			<key>Total Time</key><integer>180767</integer>
 			<key>Track Number</key><integer>7</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:02Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3363713746</integer>
+			<key>Play Date</key><integer>3363710146</integer>
 			<key>Play Date UTC</key><date>2010-08-04T02:55:46Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-01T15:27:46Z</date>
@@ -1382,56 +1472,29 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3919DF7A19FB28D8</string>
+			<key>Persistent ID</key><string>6F8DD446E63AA4A8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Chasin'%20the%20Bird.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Chasin'%20the%20Bird.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5466</key>
+		<key>323672</key>
 		<dict>
-			<key>Track ID</key><integer>5466</integer>
-			<key>Name</key><string>Cheryl</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>Timeless</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2581695</integer>
-			<key>Total Time</key><integer>160835</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:02Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-11-02T18:46:57Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EEE50AEE56B6DE6D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Cheryl.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5468</key>
-		<dict>
-			<key>Track ID</key><integer>5468</integer>
+			<key>Track ID</key><integer>323672</integer>
 			<key>Name</key><string>Donna Lee</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
 			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2928601</integer>
+			<key>Size</key><integer>2475115</integer>
 			<key>Total Time</key><integer>182517</integer>
 			<key>Track Number</key><integer>6</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:04Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2017-02-01T06:34:56Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3348736059</integer>
+			<key>Play Date</key><integer>3348728859</integer>
 			<key>Play Date UTC</key><date>2010-02-11T18:27:39Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-01T15:16:57Z</date>
@@ -1439,15 +1502,16 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>876C5D6B019FA1A5</string>
+			<key>Sort Name</key><string>Donna Lee</string>
+			<key>Persistent ID</key><string>18E7FF3783A89D29</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Donna%20Lee.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Donna%20Lee.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5470</key>
+		<key>323675</key>
 		<dict>
-			<key>Track ID</key><integer>5470</integer>
+			<key>Track ID</key><integer>323675</integer>
 			<key>Name</key><string>Koko</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
@@ -1456,26 +1520,26 @@
 			<key>Size</key><integer>2834560</integer>
 			<key>Total Time</key><integer>176640</integer>
 			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:04Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:04Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3342100370</integer>
+			<key>Play Date</key><integer>3342093170</integer>
 			<key>Play Date UTC</key><date>2009-11-26T23:12:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D6801411C170AB76</string>
+			<key>Persistent ID</key><string>E0824577B9E54500</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Koko.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Koko.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5472</key>
+		<key>323678</key>
 		<dict>
-			<key>Track ID</key><integer>5472</integer>
+			<key>Track ID</key><integer>323678</integer>
 			<key>Name</key><string>Now's the Time</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
@@ -1484,26 +1548,26 @@
 			<key>Size</key><integer>3046047</integer>
 			<key>Total Time</key><integer>189857</integer>
 			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:04Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:04Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3358958314</integer>
+			<key>Play Date</key><integer>3358954714</integer>
 			<key>Play Date UTC</key><date>2010-06-10T01:58:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>896ACF1A4FC5FC3C</string>
+			<key>Persistent ID</key><string>3C5D19ED28B59FC2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Now's%20the%20Time.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Now's%20the%20Time.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5474</key>
+		<key>323681</key>
 		<dict>
-			<key>Track ID</key><integer>5474</integer>
+			<key>Track ID</key><integer>323681</integer>
 			<key>Name</key><string>Perhaps</string>
 			<key>Artist</key><string>Charlie Parker</string>
 			<key>Album</key><string>Timeless</string>
@@ -1512,8 +1576,8 @@
 			<key>Size</key><integer>2248999</integer>
 			<key>Total Time</key><integer>140042</integer>
 			<key>Track Number</key><integer>15</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:04Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
+			<key>Date Modified</key><date>2011-03-19T21:29:04Z</date>
+			<key>Date Added</key><date>2018-05-30T00:19:15Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -1522,39 +1586,9 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2A051E86D329616B</string>
+			<key>Persistent ID</key><string>DC52275949DB04A6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Perhaps.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5476</key>
-		<dict>
-			<key>Track ID</key><integer>5476</integer>
-			<key>Name</key><string>Thrivin' from a Riff</string>
-			<key>Artist</key><string>Charlie Parker</string>
-			<key>Album</key><string>Timeless</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3019716</integer>
-			<key>Total Time</key><integer>188212</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Date Modified</key><date>2011-03-19T22:29:04Z</date>
-			<key>Date Added</key><date>2011-11-01T12:40:25Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403083348</integer>
-			<key>Play Date UTC</key><date>2011-11-02T18:55:48Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-11-02T20:12:25Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>FC10221269B52DB6</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Thrivin'%20from%20a%20Riff.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Charlie%20Parker/Timeless/Perhaps.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -1562,164 +1596,168 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Name</key><string>Charlie Parker 5 stars</string>
-			<key>Playlist ID</key><integer>22369</integer>
-			<key>Playlist Persistent ID</key><string>4C89CDB2C586A01F</string>
+			<key>Name</key><string>Charlie Parker faves</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>323684</integer>
+			<key>Playlist Persistent ID</key><string>B6655D7B116CFD2F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>5384</integer>
+					<key>Track ID</key><integer>11938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5368</integer>
+					<key>Track ID</key><integer>11930</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5386</integer>
+					<key>Track ID</key><integer>323591</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5388</integer>
+					<key>Track ID</key><integer>323594</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5456</integer>
+					<key>Track ID</key><integer>323660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5392</integer>
+					<key>Track ID</key><integer>323597</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5370</integer>
+					<key>Track ID</key><integer>323586</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5394</integer>
+					<key>Track ID</key><integer>323600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5460</integer>
+					<key>Track ID</key><integer>323663</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5462</integer>
+					<key>Track ID</key><integer>323666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5396</integer>
+					<key>Track ID</key><integer>323603</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5398</integer>
+					<key>Track ID</key><integer>323606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5400</integer>
+					<key>Track ID</key><integer>323609</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5464</integer>
+					<key>Track ID</key><integer>323669</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5402</integer>
+					<key>Track ID</key><integer>11940</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5404</integer>
+					<key>Track ID</key><integer>323612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5466</integer>
+					<key>Track ID</key><integer>11956</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5372</integer>
+					<key>Track ID</key><integer>11932</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5406</integer>
+					<key>Track ID</key><integer>323615</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5408</integer>
+					<key>Track ID</key><integer>11942</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5410</integer>
+					<key>Track ID</key><integer>323618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5412</integer>
+					<key>Track ID</key><integer>323621</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5414</integer>
+					<key>Track ID</key><integer>323624</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5468</integer>
+					<key>Track ID</key><integer>323672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5382</integer>
+					<key>Track ID</key><integer>11936</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5448</integer>
+					<key>Track ID</key><integer>12082</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5450</integer>
+					<key>Track ID</key><integer>323654</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>5374</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5376</integer>
+					<key>Track ID</key><integer>12078</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5416</integer>
+					<key>Track ID</key><integer>323627</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5418</integer>
+					<key>Track ID</key><integer>323630</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5420</integer>
+					<key>Track ID</key><integer>323633</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5470</integer>
+					<key>Track ID</key><integer>323675</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5378</integer>
+					<key>Track ID</key><integer>11934</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5422</integer>
+					<key>Track ID</key><integer>323636</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5424</integer>
+					<key>Track ID</key><integer>323639</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5426</integer>
+					<key>Track ID</key><integer>323642</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5428</integer>
+					<key>Track ID</key><integer>323645</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5472</integer>
+					<key>Track ID</key><integer>323678</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5430</integer>
+					<key>Track ID</key><integer>323648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5432</integer>
+					<key>Track ID</key><integer>12080</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5434</integer>
+					<key>Track ID</key><integer>11944</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5474</integer>
+					<key>Track ID</key><integer>323681</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5438</integer>
+					<key>Track ID</key><integer>11946</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5440</integer>
+					<key>Track ID</key><integer>11948</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5442</integer>
+					<key>Track ID</key><integer>11950</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5444</integer>
+					<key>Track ID</key><integer>323651</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5446</integer>
+					<key>Track ID</key><integer>11952</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5476</integer>
+					<key>Track ID</key><integer>11958</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5452</integer>
+					<key>Track ID</key><integer>11954</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5454</integer>
+					<key>Track ID</key><integer>323657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16668</integer>
 				</dict>
 			</array>
 		</dict>
