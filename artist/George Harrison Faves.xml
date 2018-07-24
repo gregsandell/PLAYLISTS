@@ -4,17 +4,108 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-08-05T04:43:48Z</date>
-	<key>Application Version</key><string>10.6.3</string>
+	<key>Date</key><date>2018-07-24T16:17:01Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4755</key>
+		<key>7086</key>
 		<dict>
-			<key>Track ID</key><integer>4755</integer>
+			<key>Track ID</key><integer>7086</integer>
+			<key>Name</key><string>Long, Long, Long</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album</key><string>White Album</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3703337</integer>
+			<key>Total Time</key><integer>184450</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2018-05-07T16:55:41Z</date>
+			<key>Date Added</key><date>2018-05-30T04:28:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3608531667</integer>
+			<key>Play Date UTC</key><date>2018-05-07T16:54:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-02-08T00:55:16Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>8AD1E7FD095FC072</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/White%20Album/Long,%20Long,%20Long.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7100</key>
+		<dict>
+			<key>Track ID</key><integer>7100</integer>
+			<key>Name</key><string>Blue Jay Way</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album</key><string>Magical Mystery Tour</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4737661</integer>
+			<key>Total Time</key><integer>236773</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2011-03-19T22:54:28Z</date>
+			<key>Date Added</key><date>2018-05-30T04:28:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3591348497</integer>
+			<key>Play Date UTC</key><date>2017-10-20T19:48:17Z</date>
+			<key>Normalization</key><integer>1156</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>D0ECDB88A1031737</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Magical%20Mystery%20Tour/Blue%20Jay%20Way.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7102</key>
+		<dict>
+			<key>Track ID</key><integer>7102</integer>
+			<key>Name</key><string>Within You Without You</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6104937</integer>
+			<key>Total Time</key><integer>305136</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2011-03-19T22:54:58Z</date>
+			<key>Date Added</key><date>2018-05-30T04:28:17Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3575721555</integer>
+			<key>Play Date UTC</key><date>2017-04-22T22:59:15Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2017-04-18T17:49:10Z</date>
+			<key>Normalization</key><integer>762</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>45B313AFB346682B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Sgt.%20Pepper's%20Lonely%20Hearts%20Club%20Band/Within%20You%20Without%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16084</key>
+		<dict>
+			<key>Track ID</key><integer>16084</integer>
 			<key>Name</key><string>Apple Scruffs</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -26,22 +117,22 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:10Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:14Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5463</integer>
-			<key>Persistent ID</key><string>F1956A99153EBEB5</string>
+			<key>Persistent ID</key><string>C3A1CD6811237AC8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Apple%20Scruffs.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Apple%20Scruffs.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4757</key>
+		<key>16086</key>
 		<dict>
-			<key>Track ID</key><integer>4757</integer>
+			<key>Track ID</key><integer>16086</integer>
 			<key>Name</key><string>Beware Of Darkness</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -53,25 +144,25 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:12Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3406437334</integer>
+			<key>Play Date</key><integer>3406426534</integer>
 			<key>Play Date UTC</key><date>2011-12-11T13:35:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3452</integer>
-			<key>Persistent ID</key><string>41C157601154DBBC</string>
+			<key>Persistent ID</key><string>009D41A8F23DA279</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Beware%20Of%20Darkness.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Beware%20Of%20Darkness.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4759</key>
+		<key>16088</key>
 		<dict>
-			<key>Track ID</key><integer>4759</integer>
+			<key>Track ID</key><integer>16088</integer>
 			<key>Name</key><string>Hear Me Lord</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -83,25 +174,25 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:12Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403783050</integer>
+			<key>Play Date</key><integer>3403772250</integer>
 			<key>Play Date UTC</key><date>2011-11-10T20:17:30Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4320</integer>
-			<key>Persistent ID</key><string>0D3CB685279B833F</string>
+			<key>Persistent ID</key><string>32107B0ACEF7B71A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Hear%20Me%20Lord.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Hear%20Me%20Lord.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4761</key>
+		<key>16090</key>
 		<dict>
-			<key>Track ID</key><integer>4761</integer>
+			<key>Track ID</key><integer>16090</integer>
 			<key>Name</key><string>I Dig Love</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -113,25 +204,25 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:12Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3406083120</integer>
+			<key>Play Date</key><integer>3406072320</integer>
 			<key>Play Date UTC</key><date>2011-12-07T11:12:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2915</integer>
-			<key>Persistent ID</key><string>1C7BCD23B7297814</string>
+			<key>Persistent ID</key><string>EF11AB9F2FED5BF3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/I%20Dig%20Love.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/I%20Dig%20Love.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4763</key>
+		<key>16092</key>
 		<dict>
-			<key>Track ID</key><integer>4763</integer>
+			<key>Track ID</key><integer>16092</integer>
 			<key>Name</key><string>Let It Down</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -143,11 +234,11 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:14Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3411591920</integer>
+			<key>Play Date</key><integer>3411581120</integer>
 			<key>Play Date UTC</key><date>2012-02-09T05:25:20Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:59:18Z</date>
@@ -155,15 +246,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>996</integer>
-			<key>Persistent ID</key><string>DD381623C04EB15E</string>
+			<key>Persistent ID</key><string>0A292F7A670F0E07</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Let%20It%20Down%201.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Let%20It%20Down%201.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4765</key>
+		<key>16094</key>
 		<dict>
-			<key>Track ID</key><integer>4765</integer>
+			<key>Track ID</key><integer>16094</integer>
 			<key>Name</key><string>Let It Down</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -175,7 +266,7 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:16Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -184,15 +275,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5336</integer>
-			<key>Persistent ID</key><string>AC83A725890C5DDC</string>
+			<key>Persistent ID</key><string>5FE28EFE9053DEF7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Let%20It%20Down.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Let%20It%20Down.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4767</key>
+		<key>16096</key>
 		<dict>
-			<key>Track ID</key><integer>4767</integer>
+			<key>Track ID</key><integer>16096</integer>
 			<key>Name</key><string>My Sweet Lord</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -204,25 +295,25 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:16Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403755328</integer>
+			<key>Play Date</key><integer>3403744528</integer>
 			<key>Play Date UTC</key><date>2011-11-10T12:35:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4457</integer>
-			<key>Persistent ID</key><string>9B2D3C58248B41C8</string>
+			<key>Persistent ID</key><string>262C79748814773F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/My%20Sweet%20Lord.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/My%20Sweet%20Lord.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4769</key>
+		<key>16098</key>
 		<dict>
-			<key>Track ID</key><integer>4769</integer>
+			<key>Track ID</key><integer>16098</integer>
 			<key>Name</key><string>Wah-Wah</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -234,25 +325,25 @@
 			<key>Track Count</key><integer>28</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:18Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3411586894</integer>
+			<key>Play Date</key><integer>3411576094</integer>
 			<key>Play Date UTC</key><date>2012-02-09T04:01:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10455</integer>
-			<key>Persistent ID</key><string>EBF087C7276B87BD</string>
+			<key>Persistent ID</key><string>A513B932819FFEE8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Wah-Wah.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/All%20Things%20Must%20Pass/Wah-Wah.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4771</key>
+		<key>16100</key>
 		<dict>
-			<key>Track ID</key><integer>4771</integer>
+			<key>Track ID</key><integer>16100</integer>
 			<key>Name</key><string>Any Road</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -265,27 +356,27 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2002</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:20Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>182</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3423826615</integer>
+			<key>Play Date</key><integer>3423819415</integer>
 			<key>Play Date UTC</key><date>2012-06-29T19:56:55Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:56:42Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11593</integer>
-			<key>Persistent ID</key><string>84DD5C3E14AE69B4</string>
+			<key>Persistent ID</key><string>BD8315F1AF5FA779</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Brainwashed/Any%20Road.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Brainwashed/Any%20Road.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4773</key>
+		<key>16102</key>
 		<dict>
-			<key>Track ID</key><integer>4773</integer>
+			<key>Track ID</key><integer>16102</integer>
 			<key>Name</key><string>P2 Vatican Blues (Last Saturday Night)</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -298,27 +389,27 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2002</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:22Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>183</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403248076</integer>
+			<key>Play Date</key><integer>3403240876</integer>
 			<key>Play Date UTC</key><date>2011-11-04T15:41:16Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-12-01T23:53:10Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7000</integer>
-			<key>Persistent ID</key><string>4325373FD0F1A389</string>
+			<key>Persistent ID</key><string>DEA6361E8898A609</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Brainwashed/P2%20Vatican%20Blues%20(Last%20Saturday%20Night).mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Brainwashed/P2%20Vatican%20Blues%20(Last%20Saturday%20Night).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4775</key>
+		<key>16104</key>
 		<dict>
-			<key>Track ID</key><integer>4775</integer>
+			<key>Track ID</key><integer>16104</integer>
 			<key>Name</key><string>Devil's Radio</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -333,11 +424,11 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1987</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:26Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3411963054</integer>
+			<key>Play Date</key><integer>3411952254</integer>
 			<key>Play Date UTC</key><date>2012-02-13T12:30:54Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-04T21:14:39Z</date>
@@ -345,15 +436,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3226</integer>
-			<key>Persistent ID</key><string>9D3C688E8C540B41</string>
+			<key>Persistent ID</key><string>D71DF6F2EAA6F48C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Devil's%20Radio.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Devil's%20Radio.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4777</key>
+		<key>16106</key>
 		<dict>
-			<key>Track ID</key><integer>4777</integer>
+			<key>Track ID</key><integer>16106</integer>
 			<key>Name</key><string>Got My Mind Set On You</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -368,27 +459,27 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1987</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:26Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3411739390</integer>
-			<key>Play Date UTC</key><date>2012-02-10T22:23:10Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3615150867</integer>
+			<key>Play Date UTC</key><date>2018-07-23T07:34:27Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:56:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4251</integer>
-			<key>Persistent ID</key><string>FEDD20AA19A9B2DA</string>
+			<key>Persistent ID</key><string>4123240B809FA3D0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Got%20My%20Mind%20Set%20On%20You.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Got%20My%20Mind%20Set%20On%20You.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4779</key>
+		<key>16108</key>
 		<dict>
-			<key>Track ID</key><integer>4779</integer>
+			<key>Track ID</key><integer>16108</integer>
 			<key>Name</key><string>When We Was Fab</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -403,25 +494,25 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1987</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:28Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3416651984</integer>
+			<key>Play Date</key><integer>3416644784</integer>
 			<key>Play Date UTC</key><date>2012-04-07T18:59:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2479</integer>
-			<key>Persistent ID</key><string>4A05CB426B4AF119</string>
+			<key>Persistent ID</key><string>9E46EBE23E50F285</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/When%20We%20Was%20Fab.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/When%20We%20Was%20Fab.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4781</key>
+		<key>16110</key>
 		<dict>
-			<key>Track ID</key><integer>4781</integer>
+			<key>Track ID</key><integer>16110</integer>
 			<key>Name</key><string>Wreck Of The Hesperus</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -436,25 +527,25 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1987</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:28Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3424610043</integer>
+			<key>Play Date</key><integer>3424602843</integer>
 			<key>Play Date UTC</key><date>2012-07-08T21:34:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3817</integer>
-			<key>Persistent ID</key><string>B1860BEEF5E41B8A</string>
+			<key>Persistent ID</key><string>50A0E0975DEB0BDE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Wreck%20Of%20The%20Hesperus.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Wreck%20Of%20The%20Hesperus.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4783</key>
+		<key>16112</key>
 		<dict>
-			<key>Track ID</key><integer>4783</integer>
+			<key>Track ID</key><integer>16112</integer>
 			<key>Name</key><string>Zig Zag</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -469,11 +560,11 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1987</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:28Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:51Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3413284876</integer>
+			<key>Play Date</key><integer>3413274076</integer>
 			<key>Play Date UTC</key><date>2012-02-28T19:41:16Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-07T16:50:15Z</date>
@@ -481,15 +572,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1282</integer>
-			<key>Persistent ID</key><string>98720CDF8A64DDF1</string>
+			<key>Persistent ID</key><string>1AC56056DA035C2F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Zig%20Zag.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Cloud%20Nine/Zig%20Zag.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4785</key>
+		<key>16114</key>
 		<dict>
-			<key>Track ID</key><integer>4785</integer>
+			<key>Track ID</key><integer>16114</integer>
 			<key>Name</key><string>Greece</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>Gone Troppo</string>
@@ -503,27 +594,27 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1982</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:30Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3405786343</integer>
+			<key>Play Date</key><integer>3405775543</integer>
 			<key>Play Date UTC</key><date>2011-12-04T00:45:43Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:59:01Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2017</integer>
-			<key>Persistent ID</key><string>7D9FE53508C3040B</string>
+			<key>Persistent ID</key><string>0C7D0627F32318D1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Gone%20Troppo/Greece.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Gone%20Troppo/Greece.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4787</key>
+		<key>16116</key>
 		<dict>
-			<key>Track ID</key><integer>4787</integer>
+			<key>Track ID</key><integer>16116</integer>
 			<key>Name</key><string>I Really Love You</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>Gone Troppo</string>
@@ -537,25 +628,25 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1982</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:30Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3421240040</integer>
+			<key>Play Date</key><integer>3421232840</integer>
 			<key>Play Date UTC</key><date>2012-05-30T21:27:20Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3688</integer>
-			<key>Persistent ID</key><string>B9DBDE1B501A5014</string>
+			<key>Persistent ID</key><string>4565E8DBCA3A726E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Gone%20Troppo/I%20Really%20Love%20You.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Gone%20Troppo/I%20Really%20Love%20You.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4789</key>
+		<key>16118</key>
 		<dict>
-			<key>Track ID</key><integer>4789</integer>
+			<key>Track ID</key><integer>16118</integer>
 			<key>Name</key><string>Wake Up My Love</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>Gone Troppo</string>
@@ -569,27 +660,27 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1982</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:32Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3403094432</integer>
+			<key>Play Date</key><integer>3403087232</integer>
 			<key>Play Date UTC</key><date>2011-11-02T21:00:32Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:58:50Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4125</integer>
-			<key>Persistent ID</key><string>A652B262A7748D6F</string>
+			<key>Persistent ID</key><string>10DA6722C02A7351</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Gone%20Troppo/Wake%20Up%20My%20Love.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Gone%20Troppo/Wake%20Up%20My%20Love.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4791</key>
+		<key>16120</key>
 		<dict>
-			<key>Track ID</key><integer>4791</integer>
+			<key>Track ID</key><integer>16120</integer>
 			<key>Name</key><string>Cheer Down</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison/Tom Petty</string>
@@ -604,12 +695,12 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2011-11-26T01:07:11Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Modified</key><date>2011-11-26T02:07:11Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3412695932</integer>
+			<key>Play Date</key><integer>3412685132</integer>
 			<key>Play Date UTC</key><date>2012-02-22T00:05:32Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:59:10Z</date>
@@ -617,15 +708,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1925</integer>
-			<key>Persistent ID</key><string>0BDFFDF53D0C5661</string>
+			<key>Persistent ID</key><string>0774F64DC7262C57</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/Cheer%20Down.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/Cheer%20Down.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4793</key>
+		<key>16122</key>
 		<dict>
-			<key>Track ID</key><integer>4793</integer>
+			<key>Track ID</key><integer>16122</integer>
 			<key>Name</key><string>I Want To Tell You</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -640,26 +731,26 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1992</integer>
-			<key>Date Modified</key><date>2011-11-26T01:05:47Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Modified</key><date>2011-11-26T02:05:47Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3404011118</integer>
-			<key>Play Date UTC</key><date>2011-11-13T11:38:38Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3615151126</integer>
+			<key>Play Date UTC</key><date>2018-07-23T07:38:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1221</integer>
-			<key>Persistent ID</key><string>385ED83EBB48EF5B</string>
+			<key>Persistent ID</key><string>3C34A007DB0409E4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/I%20Want%20To%20Tell%20You.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/I%20Want%20To%20Tell%20You.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4795</key>
+		<key>16124</key>
 		<dict>
-			<key>Track ID</key><integer>4795</integer>
+			<key>Track ID</key><integer>16124</integer>
 			<key>Name</key><string>If I Needed Someone</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -674,11 +765,11 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1992</integer>
 			<key>Date Modified</key><date>2011-03-19T21:47:36Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3412694621</integer>
+			<key>Play Date</key><integer>3412683821</integer>
 			<key>Play Date UTC</key><date>2012-02-21T23:43:41Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-11-11T00:56:38Z</date>
@@ -686,15 +777,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1512</integer>
-			<key>Persistent ID</key><string>A6C66D8E1C4C12B9</string>
+			<key>Persistent ID</key><string>9AA557CB2619CFB7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/If%20I%20Needed%20Someone.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/If%20I%20Needed%20Someone.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4797</key>
+		<key>16126</key>
 		<dict>
-			<key>Track ID</key><integer>4797</integer>
+			<key>Track ID</key><integer>16126</integer>
 			<key>Name</key><string>Old Brown Shoe</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -709,23 +800,23 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1992</integer>
-			<key>Date Modified</key><date>2011-11-26T01:06:07Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Modified</key><date>2011-11-26T02:06:07Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1003</integer>
-			<key>Persistent ID</key><string>3A8EDE0A9F544A91</string>
+			<key>Persistent ID</key><string>7206515BC2F2CFB8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/Old%20Brown%20Shoe.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/Old%20Brown%20Shoe.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4799</key>
+		<key>16128</key>
 		<dict>
-			<key>Track ID</key><integer>4799</integer>
+			<key>Track ID</key><integer>16128</integer>
 			<key>Name</key><string>Taxman</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -740,26 +831,26 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1992</integer>
-			<key>Date Modified</key><date>2011-11-26T01:06:30Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Modified</key><date>2011-11-26T02:06:30Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3423984660</integer>
+			<key>Play Date</key><integer>3423977460</integer>
 			<key>Play Date UTC</key><date>2012-07-01T15:51:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1334</integer>
-			<key>Persistent ID</key><string>6D804BF7394734DE</string>
+			<key>Persistent ID</key><string>881AFC5BC41A21F3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/Taxman.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/Taxman.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4801</key>
+		<key>16130</key>
 		<dict>
-			<key>Track ID</key><integer>4801</integer>
+			<key>Track ID</key><integer>16130</integer>
 			<key>Name</key><string>What Is Life</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -774,23 +865,23 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1992</integer>
-			<key>Date Modified</key><date>2011-11-26T01:06:57Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Modified</key><date>2011-11-26T02:06:57Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1814</integer>
-			<key>Persistent ID</key><string>55E5B4948FACACF3</string>
+			<key>Persistent ID</key><string>5EE6264FD4F3299E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/What%20Is%20Life.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/What%20Is%20Life.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4803</key>
+		<key>16132</key>
 		<dict>
-			<key>Track ID</key><integer>4803</integer>
+			<key>Track ID</key><integer>16132</integer>
 			<key>Name</key><string>While My Guitar Gently Weeps</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -805,8 +896,8 @@
 			<key>Track Number</key><integer>18</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2011-11-26T01:07:31Z</date>
-			<key>Date Added</key><date>2011-11-02T01:57:52Z</date>
+			<key>Date Modified</key><date>2011-11-26T02:07:31Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -815,15 +906,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1896</integer>
-			<key>Persistent ID</key><string>E8576E6F60756548</string>
+			<key>Persistent ID</key><string>86B280C2E1C1E651</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/While%20My%20Guitar%20Gently%20Weeps.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/George%20Harrison/Live%20In%20Japan/While%20My%20Guitar%20Gently%20Weeps.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5473</key>
+		<key>16134</key>
 		<dict>
-			<key>Track ID</key><integer>5473</integer>
+			<key>Track ID</key><integer>16134</integer>
 			<key>Name</key><string>Here Comes The Sun</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Abbey Road</string>
@@ -835,23 +926,23 @@
 			<key>Track Count</key><integer>17</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2011-03-19T22:54:16Z</date>
-			<key>Date Added</key><date>2011-12-01T01:54:38Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3426583197</integer>
+			<key>Play Date</key><integer>3426575997</integer>
 			<key>Play Date UTC</key><date>2012-07-31T17:39:57Z</date>
 			<key>Normalization</key><integer>674</integer>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>95627DFF70761B58</string>
+			<key>Persistent ID</key><string>6297A3D3FE066103</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Abbey%20Road/Here%20Comes%20The%20Sun.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Abbey%20Road/Here%20Comes%20The%20Sun.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5475</key>
+		<key>16136</key>
 		<dict>
-			<key>Track ID</key><integer>5475</integer>
+			<key>Track ID</key><integer>16136</integer>
 			<key>Name</key><string>Something</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Abbey Road</string>
@@ -863,23 +954,25 @@
 			<key>Track Count</key><integer>17</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2011-03-19T22:54:18Z</date>
-			<key>Date Added</key><date>2011-12-01T01:54:44Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3426583406</integer>
+			<key>Play Date</key><integer>3426576206</integer>
 			<key>Play Date UTC</key><date>2012-07-31T17:43:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-07-23T05:07:33Z</date>
 			<key>Normalization</key><integer>612</integer>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>B12FF5E411508A54</string>
+			<key>Persistent ID</key><string>FD90108437A8B0DD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Abbey%20Road/Something.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Abbey%20Road/Something.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5477</key>
+		<key>16138</key>
 		<dict>
-			<key>Track ID</key><integer>5477</integer>
+			<key>Track ID</key><integer>16138</integer>
 			<key>Name</key><string>For You Blue</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Let It Be</string>
@@ -891,20 +984,20 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>1970</integer>
 			<key>Date Modified</key><date>2011-03-19T22:54:22Z</date>
-			<key>Date Added</key><date>2011-12-01T01:55:11Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>689</integer>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>83BC3D1E5184A093</string>
+			<key>Persistent ID</key><string>1FCCD51CA6FDC521</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Let%20It%20Be/For%20You%20Blue.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Let%20It%20Be/For%20You%20Blue.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5479</key>
+		<key>16140</key>
 		<dict>
-			<key>Track ID</key><integer>5479</integer>
+			<key>Track ID</key><integer>16140</integer>
 			<key>Name</key><string>For You Blue</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album Artist</key><string>The Beatles</string>
@@ -919,49 +1012,21 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2011-03-19T22:54:26Z</date>
-			<key>Date Added</key><date>2011-12-01T01:55:19Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>1228</integer>
 			<key>Sort Album Artist</key><string>Beatles</string>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>82BF6D4F728F9164</string>
+			<key>Persistent ID</key><string>265196F1C1B0E9AC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Let%20It%20Be...%20Naked/For%20You%20Blue.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Let%20It%20Be...%20Naked/For%20You%20Blue.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5481</key>
+		<key>16142</key>
 		<dict>
-			<key>Track ID</key><integer>5481</integer>
-			<key>Name</key><string>Blue Jay Way</string>
-			<key>Artist</key><string>The Beatles</string>
-			<key>Album</key><string>Magical Mystery Tour</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4737661</integer>
-			<key>Total Time</key><integer>236773</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>11</integer>
-			<key>Year</key><integer>1967</integer>
-			<key>Date Modified</key><date>2011-03-19T22:54:28Z</date>
-			<key>Date Added</key><date>2011-12-01T01:55:36Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3423901641</integer>
-			<key>Play Date UTC</key><date>2012-06-30T16:47:21Z</date>
-			<key>Normalization</key><integer>1156</integer>
-			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>BD20CCF23DF4934F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Magical%20Mystery%20Tour/Blue%20Jay%20Way.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5483</key>
-		<dict>
-			<key>Track ID</key><integer>5483</integer>
+			<key>Track ID</key><integer>16142</integer>
 			<key>Name</key><string>The Inner Light</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Past Masters Vol. 2</string>
@@ -973,21 +1038,21 @@
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>1968</integer>
 			<key>Date Modified</key><date>2011-03-19T22:54:44Z</date>
-			<key>Date Added</key><date>2011-12-01T01:56:00Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>2848</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Sort Name</key><string>Inner Light</string>
-			<key>Persistent ID</key><string>E321C1FC62CB2022</string>
+			<key>Persistent ID</key><string>B68C66A4B360A845</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Past%20Masters%20Vol.%202/The%20Inner%20Light.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Past%20Masters%20Vol.%202/The%20Inner%20Light.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5485</key>
+		<key>16144</key>
 		<dict>
-			<key>Track ID</key><integer>5485</integer>
+			<key>Track ID</key><integer>16144</integer>
 			<key>Name</key><string>Taxman</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Revolver</string>
@@ -999,81 +1064,23 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>1966</integer>
 			<key>Date Modified</key><date>2011-03-19T22:54:50Z</date>
-			<key>Date Added</key><date>2011-12-01T01:56:22Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3405615208</integer>
+			<key>Play Date</key><integer>3405604408</integer>
 			<key>Play Date UTC</key><date>2011-12-02T01:13:28Z</date>
 			<key>Normalization</key><integer>1453</integer>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>469C222E6E24AB25</string>
+			<key>Persistent ID</key><string>5CC414D616C5629D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Revolver/Taxman.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/Revolver/Taxman.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5487</key>
+		<key>16146</key>
 		<dict>
-			<key>Track ID</key><integer>5487</integer>
-			<key>Name</key><string>Within You Without You</string>
-			<key>Artist</key><string>The Beatles</string>
-			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6104937</integer>
-			<key>Total Time</key><integer>305136</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Year</key><integer>1967</integer>
-			<key>Date Modified</key><date>2011-03-19T22:54:58Z</date>
-			<key>Date Added</key><date>2011-12-01T01:56:47Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3423905327</integer>
-			<key>Play Date UTC</key><date>2012-06-30T17:48:47Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-03-27T12:51:32Z</date>
-			<key>Normalization</key><integer>762</integer>
-			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>F5B9431332C0F888</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/Sgt.%20Pepper's%20Lonely%20Hearts%20Club%20Band/Within%20You%20Without%20You.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5489</key>
-		<dict>
-			<key>Track ID</key><integer>5489</integer>
-			<key>Name</key><string>Long, Long, Long</string>
-			<key>Artist</key><string>The Beatles</string>
-			<key>Album</key><string>White Album</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3691214</integer>
-			<key>Total Time</key><integer>184450</integer>
-			<key>Track Number</key><integer>24</integer>
-			<key>Track Count</key><integer>30</integer>
-			<key>Year</key><integer>1968</integer>
-			<key>Date Modified</key><date>2011-03-19T22:55:02Z</date>
-			<key>Date Added</key><date>2011-12-01T01:57:12Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3423899138</integer>
-			<key>Play Date UTC</key><date>2012-06-30T16:05:38Z</date>
-			<key>Normalization</key><integer>343</integer>
-			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>8FC28D3567503095</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/White%20Album/Long,%20Long,%20Long.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>5491</key>
-		<dict>
-			<key>Track ID</key><integer>5491</integer>
+			<key>Track ID</key><integer>16146</integer>
 			<key>Name</key><string>Savoy Truffle</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>White Album</string>
@@ -1085,23 +1092,25 @@
 			<key>Track Count</key><integer>30</integer>
 			<key>Year</key><integer>1968</integer>
 			<key>Date Modified</key><date>2011-03-19T22:55:04Z</date>
-			<key>Date Added</key><date>2011-12-01T01:57:18Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3405611823</integer>
+			<key>Play Date</key><integer>3405601023</integer>
 			<key>Play Date UTC</key><date>2011-12-02T00:17:03Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1725</integer>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>8E8798745E5D7454</string>
+			<key>Persistent ID</key><string>F9F8A520D9A0278B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/White%20Album/Savoy%20Truffle.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/White%20Album/Savoy%20Truffle.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5493</key>
+		<key>16148</key>
 		<dict>
-			<key>Track ID</key><integer>5493</integer>
+			<key>Track ID</key><integer>16148</integer>
 			<key>Name</key><string>While My Guitar Gently Weeps</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>White Album</string>
@@ -1113,20 +1122,22 @@
 			<key>Track Count</key><integer>30</integer>
 			<key>Year</key><integer>1968</integer>
 			<key>Date Modified</key><date>2011-03-19T22:55:04Z</date>
-			<key>Date Added</key><date>2011-12-01T01:57:21Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2482</integer>
 			<key>Sort Artist</key><string>Beatles</string>
-			<key>Persistent ID</key><string>6738C86F879B65B0</string>
+			<key>Persistent ID</key><string>943B7DE2D19BDAC7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/The%20Beatles/White%20Album/While%20My%20Guitar%20Gently%20Weeps.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/White%20Album/While%20My%20Guitar%20Gently%20Weeps.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506920</key>
+		<key>16150</key>
 		<dict>
-			<key>Track ID</key><integer>506920</integer>
+			<key>Track ID</key><integer>16150</integer>
 			<key>Name</key><string>For You Blue - Paul McCartney</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1139,19 +1150,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:46Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:31Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>4191</integer>
-			<key>Persistent ID</key><string>E87B7D6D4183C0B0</string>
+			<key>Persistent ID</key><string>C5206518EBAE480A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/For%20You%20Blue%20-%20Paul%20McCartney.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/For%20You%20Blue%20-%20Paul%20McCartney.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506925</key>
+		<key>16152</key>
 		<dict>
-			<key>Track ID</key><integer>506925</integer>
+			<key>Track ID</key><integer>16152</integer>
 			<key>Name</key><string>Handle With Care - Tom Petty and the Heartbreakers with Jeff Lynne and Dhani Harrison</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George; Dylan, Bob; Lynne, Jeff; Petty, Tom; Orbison, Roy</string>
@@ -1164,19 +1175,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:31Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>4134</integer>
-			<key>Persistent ID</key><string>357E469F9D80FDF4</string>
+			<key>Persistent ID</key><string>0D6406B8168A6AD0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/Handle%20With%20Care%20-%20Tom%20Petty%20and%20the.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/Handle%20With%20Care%20-%20Tom%20Petty%20and%20the.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506928</key>
+		<key>16154</key>
 		<dict>
-			<key>Track ID</key><integer>506928</integer>
+			<key>Track ID</key><integer>16154</integer>
 			<key>Name</key><string>I Need You - Tom Petty &#38; The Heartbreakers</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1189,19 +1200,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:31Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>2533</integer>
-			<key>Persistent ID</key><string>BF1D82428E81AB04</string>
+			<key>Persistent ID</key><string>18A2F10C661E0BAC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/I%20Need%20You%20-%20Tom%20Petty%20&#38;%20The%20Heartbr.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/I%20Need%20You%20-%20Tom%20Petty%20&#38;%20The%20Heartbr.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506931</key>
+		<key>16156</key>
 		<dict>
-			<key>Track ID</key><integer>506931</integer>
+			<key>Track ID</key><integer>16156</integer>
 			<key>Name</key><string>I Want To Tell You - Jeff Lynne</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1214,19 +1225,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:31Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>4830</integer>
-			<key>Persistent ID</key><string>4C6ABE532F83E56D</string>
+			<key>Persistent ID</key><string>EA9EAA1C30FA8A5C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/I%20Want%20To%20Tell%20You%20-%20Jeff%20Lynne.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/I%20Want%20To%20Tell%20You%20-%20Jeff%20Lynne.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506934</key>
+		<key>16158</key>
 		<dict>
-			<key>Track ID</key><integer>506934</integer>
+			<key>Track ID</key><integer>16158</integer>
 			<key>Name</key><string>I'll See You In My Dreams - Joe Brown</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Jones, Isham; Kahn, Gus</string>
@@ -1239,19 +1250,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>1230</integer>
-			<key>Persistent ID</key><string>D11041A1605B61CC</string>
+			<key>Persistent ID</key><string>8D21FE13E68583D6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/I'll%20See%20You%20In%20My%20Dreams%20-%20Joe%20Brow.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/I'll%20See%20You%20In%20My%20Dreams%20-%20Joe%20Brow.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506937</key>
+		<key>16160</key>
 		<dict>
-			<key>Track ID</key><integer>506937</integer>
+			<key>Track ID</key><integer>16160</integer>
 			<key>Name</key><string>If I Needed Someone - Eric Clapton</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1264,19 +1275,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>5551</integer>
-			<key>Persistent ID</key><string>123C7D5A1A0698A3</string>
+			<key>Persistent ID</key><string>B05DE2B401529693</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/If%20I%20Needed%20Someone%20-%20Eric%20Clapton.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/If%20I%20Needed%20Someone%20-%20Eric%20Clapton.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506940</key>
+		<key>16162</key>
 		<dict>
-			<key>Track ID</key><integer>506940</integer>
+			<key>Track ID</key><integer>16162</integer>
 			<key>Name</key><string>My Sweet Lord - Billy Preston</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1289,19 +1300,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>3977</integer>
-			<key>Persistent ID</key><string>61DE87C9A9091B62</string>
+			<key>Persistent ID</key><string>A9B0C7ABF73F0F14</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/My%20Sweet%20Lord%20-%20Billy%20Preston.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/My%20Sweet%20Lord%20-%20Billy%20Preston.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506943</key>
+		<key>16164</key>
 		<dict>
-			<key>Track ID</key><integer>506943</integer>
+			<key>Track ID</key><integer>16164</integer>
 			<key>Name</key><string>Taxman - Tom Petty &#38; The Heartbreakers</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1314,19 +1325,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:48Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>5395</integer>
-			<key>Persistent ID</key><string>4A31E8D89CCF78F4</string>
+			<key>Persistent ID</key><string>F6B0CC392FEC9B06</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/Taxman%20-%20Tom%20Petty%20&#38;%20The%20Heartbreake.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/Taxman%20-%20Tom%20Petty%20&#38;%20The%20Heartbreake.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506946</key>
+		<key>16166</key>
 		<dict>
-			<key>Track ID</key><integer>506946</integer>
+			<key>Track ID</key><integer>16166</integer>
 			<key>Name</key><string>That's The Way It Goes - Joe Brown</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1339,19 +1350,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:50Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>2544</integer>
-			<key>Persistent ID</key><string>6D1133056BB939AB</string>
+			<key>Persistent ID</key><string>98AC1141FF374C4C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/That's%20The%20Way%20It%20Goes%20-%20Joe%20Brown.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/That's%20The%20Way%20It%20Goes%20-%20Joe%20Brown.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506949</key>
+		<key>16168</key>
 		<dict>
-			<key>Track ID</key><integer>506949</integer>
+			<key>Track ID</key><integer>16168</integer>
 			<key>Name</key><string>Wah Wah - Eric Clapton and Band</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1364,19 +1375,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:50Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>6749</integer>
-			<key>Persistent ID</key><string>EB21460D56A594FD</string>
+			<key>Persistent ID</key><string>67FE1A1562AAFA03</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/Wah%20Wah%20-%20Eric%20Clapton%20and%20Band.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/Wah%20Wah%20-%20Eric%20Clapton%20and%20Band.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>506952</key>
+		<key>16170</key>
 		<dict>
-			<key>Track ID</key><integer>506952</integer>
+			<key>Track ID</key><integer>16170</integer>
 			<key>Name</key><string>While My Guitar Gently Weeps - Paul McCartney &#38; Eric Clapton</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1389,19 +1400,19 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2011-03-19T21:31:50Z</date>
-			<key>Date Added</key><date>2012-08-05T04:41:32Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Normalization</key><integer>7133</integer>
-			<key>Persistent ID</key><string>737A5D6B2C0B63A9</string>
+			<key>Persistent ID</key><string>88EC8E0FFAA65401</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/While%20My%20Guitar%20Gently%20Weeps%20-%20Paul.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/While%20My%20Guitar%20Gently%20Weeps%20-%20Paul.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507019</key>
+		<key>16172</key>
 		<dict>
-			<key>Track ID</key><integer>507019</integer>
+			<key>Track ID</key><integer>16172</integer>
 			<key>Name</key><string>Cool Dry Place</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1416,25 +1427,25 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:28Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3363726966</integer>
+			<key>Play Date</key><integer>3363719766</integer>
 			<key>Play Date UTC</key><date>2010-08-04T05:36:06Z</date>
 			<key>Rating</key><integer>80</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1741</integer>
-			<key>Persistent ID</key><string>569F268DB90B522F</string>
+			<key>Persistent ID</key><string>70B22C2BE86005DC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/Cool%20Dry%20Place.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/Cool%20Dry%20Place.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507024</key>
+		<key>16174</key>
 		<dict>
-			<key>Track ID</key><integer>507024</integer>
+			<key>Track ID</key><integer>16174</integer>
 			<key>Name</key><string>If You Belonged To Me</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1449,27 +1460,27 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:30Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3321785152</integer>
+			<key>Play Date</key><integer>3321777952</integer>
 			<key>Play Date UTC</key><date>2009-04-05T19:05:52Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2009-04-21T16:39:17Z</date>
-			<key>Rating</key><integer>60</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2514</integer>
-			<key>Persistent ID</key><string>4538F3B76DD5E43B</string>
+			<key>Persistent ID</key><string>0C1BB8143E359A52</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/If%20You%20Belonged%20To%20Me.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/If%20You%20Belonged%20To%20Me.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507027</key>
+		<key>16176</key>
 		<dict>
-			<key>Track ID</key><integer>507027</integer>
+			<key>Track ID</key><integer>16176</integer>
 			<key>Name</key><string>Inside Out</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1484,27 +1495,27 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:30Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3364833830</integer>
+			<key>Play Date</key><integer>3364826630</integer>
 			<key>Play Date UTC</key><date>2010-08-17T01:03:50Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2009-04-02T23:21:15Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2491</integer>
-			<key>Persistent ID</key><string>FF935D7B67D9BCEA</string>
+			<key>Persistent ID</key><string>A841EAA7880844E9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/Inside%20Out.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/Inside%20Out.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507030</key>
+		<key>16178</key>
 		<dict>
-			<key>Track ID</key><integer>507030</integer>
+			<key>Track ID</key><integer>16178</integer>
 			<key>Name</key><string>Where Were You Last Night</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1519,25 +1530,25 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1990</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:30Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3332415867</integer>
+			<key>Play Date</key><integer>3332408667</integer>
 			<key>Play Date UTC</key><date>2009-08-06T20:04:27Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1887</integer>
-			<key>Persistent ID</key><string>9C7CA19900E0A8D2</string>
+			<key>Persistent ID</key><string>1B5400AF9DD0DB89</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/Where%20Were%20You%20Last%20Night.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%203/Where%20Were%20You%20Last%20Night.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507033</key>
+		<key>16180</key>
 		<dict>
-			<key>Track ID</key><integer>507033</integer>
+			<key>Track ID</key><integer>16180</integer>
 			<key>Name</key><string>Dirty World</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1552,25 +1563,25 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1988</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:32Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3321800129</integer>
+			<key>Play Date</key><integer>3321792929</integer>
 			<key>Play Date UTC</key><date>2009-04-05T23:15:29Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1193</integer>
-			<key>Persistent ID</key><string>A63391111A060FB1</string>
+			<key>Persistent ID</key><string>E709AF5AFDF7DC25</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Dirty%20World.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Dirty%20World.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507036</key>
+		<key>16182</key>
 		<dict>
-			<key>Track ID</key><integer>507036</integer>
+			<key>Track ID</key><integer>16182</integer>
 			<key>Name</key><string>End Of The Line</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1585,25 +1596,25 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1988</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:32Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3321801576</integer>
+			<key>Play Date</key><integer>3321794376</integer>
 			<key>Play Date UTC</key><date>2009-04-05T23:39:36Z</date>
 			<key>Rating</key><integer>60</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>811</integer>
-			<key>Persistent ID</key><string>B4D71E626CC514A5</string>
+			<key>Persistent ID</key><string>00CEF4C0D527F099</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/End%20Of%20The%20Line.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/End%20Of%20The%20Line.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507039</key>
+		<key>16184</key>
 		<dict>
-			<key>Track ID</key><integer>507039</integer>
+			<key>Track ID</key><integer>16184</integer>
 			<key>Name</key><string>Handle With Care</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1618,11 +1629,11 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1988</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:32Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3364833355</integer>
+			<key>Play Date</key><integer>3364826155</integer>
 			<key>Play Date UTC</key><date>2010-08-17T00:55:55Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2009-04-05T03:07:07Z</date>
@@ -1630,15 +1641,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1357</integer>
-			<key>Persistent ID</key><string>5D00A55FE5D595E8</string>
+			<key>Persistent ID</key><string>D3A6A185C25BE291</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Handle%20With%20Care.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Handle%20With%20Care.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507042</key>
+		<key>16186</key>
 		<dict>
-			<key>Track ID</key><integer>507042</integer>
+			<key>Track ID</key><integer>16186</integer>
 			<key>Name</key><string>Heading For Light</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1653,11 +1664,11 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1988</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:32Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3323433690</integer>
+			<key>Play Date</key><integer>3323426490</integer>
 			<key>Play Date UTC</key><date>2009-04-24T21:01:30Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2009-04-21T18:13:43Z</date>
@@ -1665,15 +1676,15 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1793</integer>
-			<key>Persistent ID</key><string>792A32E0C1193B3A</string>
+			<key>Persistent ID</key><string>CBAF2412C8075867</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Heading%20For%20Light.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Heading%20For%20Light.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>507045</key>
+		<key>16188</key>
 		<dict>
-			<key>Track ID</key><integer>507045</integer>
+			<key>Track ID</key><integer>16188</integer>
 			<key>Name</key><string>Tweeter And The Monkey Man</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1688,11 +1699,11 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1988</integer>
 			<key>Date Modified</key><date>2011-03-19T23:11:34Z</date>
-			<key>Date Added</key><date>2012-08-05T04:42:23Z</date>
+			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3321776551</integer>
+			<key>Play Date</key><integer>3321769351</integer>
 			<key>Play Date UTC</key><date>2009-04-05T16:42:31Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2009-04-07T18:42:18Z</date>
@@ -1700,9 +1711,9 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1204</integer>
-			<key>Persistent ID</key><string>7666D4402128796E</string>
+			<key>Persistent ID</key><string>8F8A554C51BFCFC3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Tweeter%20And%20The%20Monkey%20Man.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Traveling%20Wilburys/Traveling%20Wilburys%20Vol%20I/Tweeter%20And%20The%20Monkey%20Man.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -1711,178 +1722,179 @@
 	<array>
 		<dict>
 			<key>Name</key><string>George Harrison Faves</string>
-			<key>Playlist ID</key><integer>23840</integer>
-			<key>Playlist Persistent ID</key><string>55BC65EF2671E89E</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>30998</integer>
+			<key>Playlist Persistent ID</key><string>A0E6907F5916BE75</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4767</integer>
+					<key>Track ID</key><integer>16096</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4769</integer>
+					<key>Track ID</key><integer>16098</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4765</integer>
+					<key>Track ID</key><integer>16094</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4757</integer>
+					<key>Track ID</key><integer>16086</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4755</integer>
+					<key>Track ID</key><integer>16084</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4761</integer>
+					<key>Track ID</key><integer>16090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4759</integer>
+					<key>Track ID</key><integer>16088</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4763</integer>
+					<key>Track ID</key><integer>16092</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4771</integer>
+					<key>Track ID</key><integer>16100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4773</integer>
+					<key>Track ID</key><integer>16102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4779</integer>
+					<key>Track ID</key><integer>16108</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4775</integer>
+					<key>Track ID</key><integer>16104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4781</integer>
+					<key>Track ID</key><integer>16110</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4777</integer>
+					<key>Track ID</key><integer>16106</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4783</integer>
+					<key>Track ID</key><integer>16112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4789</integer>
+					<key>Track ID</key><integer>16118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4787</integer>
+					<key>Track ID</key><integer>16116</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4785</integer>
+					<key>Track ID</key><integer>16114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4793</integer>
+					<key>Track ID</key><integer>16122</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4797</integer>
+					<key>Track ID</key><integer>16126</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4799</integer>
+					<key>Track ID</key><integer>16128</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4795</integer>
+					<key>Track ID</key><integer>16124</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4801</integer>
+					<key>Track ID</key><integer>16130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4791</integer>
+					<key>Track ID</key><integer>16120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4803</integer>
+					<key>Track ID</key><integer>16132</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507027</integer>
+					<key>Track ID</key><integer>16176</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507030</integer>
+					<key>Track ID</key><integer>16178</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507039</integer>
+					<key>Track ID</key><integer>16184</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507019</integer>
+					<key>Track ID</key><integer>16172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507045</integer>
+					<key>Track ID</key><integer>16188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507024</integer>
+					<key>Track ID</key><integer>16174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507033</integer>
+					<key>Track ID</key><integer>16180</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507042</integer>
+					<key>Track ID</key><integer>16186</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>507036</integer>
+					<key>Track ID</key><integer>16182</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5475</integer>
+					<key>Track ID</key><integer>16136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5473</integer>
+					<key>Track ID</key><integer>16134</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5477</integer>
+					<key>Track ID</key><integer>16138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5479</integer>
+					<key>Track ID</key><integer>16140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5481</integer>
+					<key>Track ID</key><integer>7100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5483</integer>
+					<key>Track ID</key><integer>16142</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5485</integer>
+					<key>Track ID</key><integer>16144</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5487</integer>
+					<key>Track ID</key><integer>7102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5493</integer>
+					<key>Track ID</key><integer>16148</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5489</integer>
+					<key>Track ID</key><integer>7086</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5491</integer>
+					<key>Track ID</key><integer>16146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506931</integer>
+					<key>Track ID</key><integer>16156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506937</integer>
+					<key>Track ID</key><integer>16160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506946</integer>
+					<key>Track ID</key><integer>16166</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506943</integer>
+					<key>Track ID</key><integer>16164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506928</integer>
+					<key>Track ID</key><integer>16154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506925</integer>
+					<key>Track ID</key><integer>16152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506920</integer>
+					<key>Track ID</key><integer>16150</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506952</integer>
+					<key>Track ID</key><integer>16170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506940</integer>
+					<key>Track ID</key><integer>16162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506949</integer>
+					<key>Track ID</key><integer>16168</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>506934</integer>
+					<key>Track ID</key><integer>16158</integer>
 				</dict>
 			</array>
 		</dict>
