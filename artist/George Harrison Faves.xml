@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-07-24T16:17:01Z</date>
+	<key>Date</key><date>2018-07-29T01:28:59Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7086</key>
+		<key>7097</key>
 		<dict>
-			<key>Track ID</key><integer>7086</integer>
+			<key>Track ID</key><integer>7097</integer>
 			<key>Name</key><string>Long, Long, Long</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>White Album</string>
@@ -29,13 +29,13 @@
 			<key>Date Added</key><date>2018-05-30T04:28:17Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3608531667</integer>
-			<key>Play Date UTC</key><date>2018-05-07T16:54:27Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3615355157</integer>
+			<key>Play Date UTC</key><date>2018-07-25T16:19:17Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2017-02-08T00:55:16Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>343</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Beatles</string>
@@ -45,9 +45,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7100</key>
+		<key>7111</key>
 		<dict>
-			<key>Track ID</key><integer>7100</integer>
+			<key>Track ID</key><integer>7111</integer>
 			<key>Name</key><string>Blue Jay Way</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Magical Mystery Tour</string>
@@ -62,9 +62,12 @@
 			<key>Date Added</key><date>2018-05-30T04:28:17Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>22</integer>
-			<key>Play Date</key><integer>3591348497</integer>
-			<key>Play Date UTC</key><date>2017-10-20T19:48:17Z</date>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3615284428</integer>
+			<key>Play Date UTC</key><date>2018-07-24T20:40:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1156</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>D0ECDB88A1031737</string>
@@ -73,9 +76,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7102</key>
+		<key>7113</key>
 		<dict>
-			<key>Track ID</key><integer>7102</integer>
+			<key>Track ID</key><integer>7113</integer>
 			<key>Name</key><string>Within You Without You</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
@@ -95,6 +98,9 @@
 			<key>Play Date UTC</key><date>2017-04-22T22:59:15Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2017-04-18T17:49:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>762</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>45B313AFB346682B</string>
@@ -103,9 +109,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16084</key>
+		<key>16063</key>
 		<dict>
-			<key>Track ID</key><integer>16084</integer>
+			<key>Track ID</key><integer>16063</integer>
 			<key>Name</key><string>Apple Scruffs</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -130,9 +136,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16086</key>
+		<key>16065</key>
 		<dict>
-			<key>Track ID</key><integer>16086</integer>
+			<key>Track ID</key><integer>16065</integer>
 			<key>Name</key><string>Beware Of Darkness</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -160,9 +166,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16088</key>
+		<key>16067</key>
 		<dict>
-			<key>Track ID</key><integer>16088</integer>
+			<key>Track ID</key><integer>16067</integer>
 			<key>Name</key><string>Hear Me Lord</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -190,9 +196,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16090</key>
+		<key>16069</key>
 		<dict>
-			<key>Track ID</key><integer>16090</integer>
+			<key>Track ID</key><integer>16069</integer>
 			<key>Name</key><string>I Dig Love</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -220,9 +226,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16092</key>
+		<key>16071</key>
 		<dict>
-			<key>Track ID</key><integer>16092</integer>
+			<key>Track ID</key><integer>16071</integer>
 			<key>Name</key><string>Let It Down</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -252,9 +258,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16094</key>
+		<key>16073</key>
 		<dict>
-			<key>Track ID</key><integer>16094</integer>
+			<key>Track ID</key><integer>16073</integer>
 			<key>Name</key><string>Let It Down</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -281,9 +287,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16096</key>
+		<key>16075</key>
 		<dict>
-			<key>Track ID</key><integer>16096</integer>
+			<key>Track ID</key><integer>16075</integer>
 			<key>Name</key><string>My Sweet Lord</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -311,9 +317,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16098</key>
+		<key>16077</key>
 		<dict>
-			<key>Track ID</key><integer>16098</integer>
+			<key>Track ID</key><integer>16077</integer>
 			<key>Name</key><string>Wah-Wah</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>All Things Must Pass</string>
@@ -341,9 +347,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16100</key>
+		<key>16079</key>
 		<dict>
-			<key>Track ID</key><integer>16100</integer>
+			<key>Track ID</key><integer>16079</integer>
 			<key>Name</key><string>Any Road</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -374,9 +380,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16102</key>
+		<key>16081</key>
 		<dict>
-			<key>Track ID</key><integer>16102</integer>
+			<key>Track ID</key><integer>16081</integer>
 			<key>Name</key><string>P2 Vatican Blues (Last Saturday Night)</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -407,9 +413,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16104</key>
+		<key>16083</key>
 		<dict>
-			<key>Track ID</key><integer>16104</integer>
+			<key>Track ID</key><integer>16083</integer>
 			<key>Name</key><string>Devil's Radio</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -442,9 +448,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16106</key>
+		<key>16085</key>
 		<dict>
-			<key>Track ID</key><integer>16106</integer>
+			<key>Track ID</key><integer>16085</integer>
 			<key>Name</key><string>Got My Mind Set On You</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -477,9 +483,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16108</key>
+		<key>16087</key>
 		<dict>
-			<key>Track ID</key><integer>16108</integer>
+			<key>Track ID</key><integer>16087</integer>
 			<key>Name</key><string>When We Was Fab</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -510,9 +516,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16110</key>
+		<key>16089</key>
 		<dict>
-			<key>Track ID</key><integer>16110</integer>
+			<key>Track ID</key><integer>16089</integer>
 			<key>Name</key><string>Wreck Of The Hesperus</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -543,9 +549,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16112</key>
+		<key>16091</key>
 		<dict>
-			<key>Track ID</key><integer>16112</integer>
+			<key>Track ID</key><integer>16091</integer>
 			<key>Name</key><string>Zig Zag</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>Harrison</string>
@@ -578,9 +584,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16114</key>
+		<key>16093</key>
 		<dict>
-			<key>Track ID</key><integer>16114</integer>
+			<key>Track ID</key><integer>16093</integer>
 			<key>Name</key><string>Greece</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>Gone Troppo</string>
@@ -612,9 +618,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16116</key>
+		<key>16095</key>
 		<dict>
-			<key>Track ID</key><integer>16116</integer>
+			<key>Track ID</key><integer>16095</integer>
 			<key>Name</key><string>I Really Love You</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>Gone Troppo</string>
@@ -644,9 +650,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16118</key>
+		<key>16097</key>
 		<dict>
-			<key>Track ID</key><integer>16118</integer>
+			<key>Track ID</key><integer>16097</integer>
 			<key>Name</key><string>Wake Up My Love</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Album</key><string>Gone Troppo</string>
@@ -678,9 +684,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16120</key>
+		<key>16099</key>
 		<dict>
-			<key>Track ID</key><integer>16120</integer>
+			<key>Track ID</key><integer>16099</integer>
 			<key>Name</key><string>Cheer Down</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison/Tom Petty</string>
@@ -714,9 +720,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16122</key>
+		<key>16101</key>
 		<dict>
-			<key>Track ID</key><integer>16122</integer>
+			<key>Track ID</key><integer>16101</integer>
 			<key>Name</key><string>I Want To Tell You</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -748,9 +754,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16124</key>
+		<key>16103</key>
 		<dict>
-			<key>Track ID</key><integer>16124</integer>
+			<key>Track ID</key><integer>16103</integer>
 			<key>Name</key><string>If I Needed Someone</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -783,9 +789,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16126</key>
+		<key>16105</key>
 		<dict>
-			<key>Track ID</key><integer>16126</integer>
+			<key>Track ID</key><integer>16105</integer>
 			<key>Name</key><string>Old Brown Shoe</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -814,9 +820,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16128</key>
+		<key>16107</key>
 		<dict>
-			<key>Track ID</key><integer>16128</integer>
+			<key>Track ID</key><integer>16107</integer>
 			<key>Name</key><string>Taxman</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -848,9 +854,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16130</key>
+		<key>16109</key>
 		<dict>
-			<key>Track ID</key><integer>16130</integer>
+			<key>Track ID</key><integer>16109</integer>
 			<key>Name</key><string>What Is Life</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -879,9 +885,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16132</key>
+		<key>16111</key>
 		<dict>
-			<key>Track ID</key><integer>16132</integer>
+			<key>Track ID</key><integer>16111</integer>
 			<key>Name</key><string>While My Guitar Gently Weeps</string>
 			<key>Artist</key><string>George Harrison</string>
 			<key>Composer</key><string>George Harrison</string>
@@ -912,9 +918,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16134</key>
+		<key>16113</key>
 		<dict>
-			<key>Track ID</key><integer>16134</integer>
+			<key>Track ID</key><integer>16113</integer>
 			<key>Name</key><string>Here Comes The Sun</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Abbey Road</string>
@@ -932,6 +938,9 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3426575997</integer>
 			<key>Play Date UTC</key><date>2012-07-31T17:39:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>674</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>6297A3D3FE066103</string>
@@ -940,9 +949,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16136</key>
+		<key>16115</key>
 		<dict>
-			<key>Track ID</key><integer>16136</integer>
+			<key>Track ID</key><integer>16115</integer>
 			<key>Name</key><string>Something</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Abbey Road</string>
@@ -962,6 +971,9 @@
 			<key>Play Date UTC</key><date>2012-07-31T17:43:26Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2018-07-23T05:07:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>612</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>FD90108437A8B0DD</string>
@@ -970,9 +982,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16138</key>
+		<key>16117</key>
 		<dict>
-			<key>Track ID</key><integer>16138</integer>
+			<key>Track ID</key><integer>16117</integer>
 			<key>Name</key><string>For You Blue</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Let It Be</string>
@@ -987,6 +999,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>689</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>1FCCD51CA6FDC521</string>
@@ -995,9 +1010,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16140</key>
+		<key>16119</key>
 		<dict>
-			<key>Track ID</key><integer>16140</integer>
+			<key>Track ID</key><integer>16119</integer>
 			<key>Name</key><string>For You Blue</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album Artist</key><string>The Beatles</string>
@@ -1015,6 +1030,12 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615385185</integer>
+			<key>Play Date UTC</key><date>2018-07-26T00:39:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1228</integer>
 			<key>Sort Album Artist</key><string>Beatles</string>
 			<key>Sort Artist</key><string>Beatles</string>
@@ -1024,9 +1045,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16142</key>
+		<key>16121</key>
 		<dict>
-			<key>Track ID</key><integer>16142</integer>
+			<key>Track ID</key><integer>16121</integer>
 			<key>Name</key><string>The Inner Light</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Past Masters Vol. 2</string>
@@ -1041,6 +1062,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2848</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Sort Name</key><string>Inner Light</string>
@@ -1050,9 +1074,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16144</key>
+		<key>16123</key>
 		<dict>
-			<key>Track ID</key><integer>16144</integer>
+			<key>Track ID</key><integer>16123</integer>
 			<key>Name</key><string>Taxman</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>Revolver</string>
@@ -1067,9 +1091,12 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3405604408</integer>
-			<key>Play Date UTC</key><date>2011-12-02T01:13:28Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615359662</integer>
+			<key>Play Date UTC</key><date>2018-07-25T17:34:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1453</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>5CC414D616C5629D</string>
@@ -1078,9 +1105,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16146</key>
+		<key>16125</key>
 		<dict>
-			<key>Track ID</key><integer>16146</integer>
+			<key>Track ID</key><integer>16125</integer>
 			<key>Name</key><string>Savoy Truffle</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>White Album</string>
@@ -1095,11 +1122,11 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3405601023</integer>
-			<key>Play Date UTC</key><date>2011-12-02T00:17:03Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3615360111</integer>
+			<key>Play Date UTC</key><date>2018-07-25T17:41:51Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1725</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>F9F8A520D9A0278B</string>
@@ -1108,9 +1135,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16148</key>
+		<key>16127</key>
 		<dict>
-			<key>Track ID</key><integer>16148</integer>
+			<key>Track ID</key><integer>16127</integer>
 			<key>Name</key><string>While My Guitar Gently Weeps</string>
 			<key>Artist</key><string>The Beatles</string>
 			<key>Album</key><string>White Album</string>
@@ -1125,8 +1152,8 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2482</integer>
 			<key>Sort Artist</key><string>Beatles</string>
 			<key>Persistent ID</key><string>943B7DE2D19BDAC7</string>
@@ -1135,9 +1162,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16150</key>
+		<key>16129</key>
 		<dict>
-			<key>Track ID</key><integer>16150</integer>
+			<key>Track ID</key><integer>16129</integer>
 			<key>Name</key><string>For You Blue - Paul McCartney</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1153,6 +1180,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4191</integer>
 			<key>Persistent ID</key><string>C5206518EBAE480A</string>
 			<key>Track Type</key><string>File</string>
@@ -1160,9 +1190,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16152</key>
+		<key>16131</key>
 		<dict>
-			<key>Track ID</key><integer>16152</integer>
+			<key>Track ID</key><integer>16131</integer>
 			<key>Name</key><string>Handle With Care - Tom Petty and the Heartbreakers with Jeff Lynne and Dhani Harrison</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George; Dylan, Bob; Lynne, Jeff; Petty, Tom; Orbison, Roy</string>
@@ -1178,6 +1208,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4134</integer>
 			<key>Persistent ID</key><string>0D6406B8168A6AD0</string>
 			<key>Track Type</key><string>File</string>
@@ -1185,9 +1218,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16154</key>
+		<key>16133</key>
 		<dict>
-			<key>Track ID</key><integer>16154</integer>
+			<key>Track ID</key><integer>16133</integer>
 			<key>Name</key><string>I Need You - Tom Petty &#38; The Heartbreakers</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1203,6 +1236,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2533</integer>
 			<key>Persistent ID</key><string>18A2F10C661E0BAC</string>
 			<key>Track Type</key><string>File</string>
@@ -1210,9 +1246,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16156</key>
+		<key>16135</key>
 		<dict>
-			<key>Track ID</key><integer>16156</integer>
+			<key>Track ID</key><integer>16135</integer>
 			<key>Name</key><string>I Want To Tell You - Jeff Lynne</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1228,6 +1264,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4830</integer>
 			<key>Persistent ID</key><string>EA9EAA1C30FA8A5C</string>
 			<key>Track Type</key><string>File</string>
@@ -1235,9 +1274,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16158</key>
+		<key>16137</key>
 		<dict>
-			<key>Track ID</key><integer>16158</integer>
+			<key>Track ID</key><integer>16137</integer>
 			<key>Name</key><string>I'll See You In My Dreams - Joe Brown</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Jones, Isham; Kahn, Gus</string>
@@ -1253,6 +1292,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1230</integer>
 			<key>Persistent ID</key><string>8D21FE13E68583D6</string>
 			<key>Track Type</key><string>File</string>
@@ -1260,9 +1302,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16160</key>
+		<key>16139</key>
 		<dict>
-			<key>Track ID</key><integer>16160</integer>
+			<key>Track ID</key><integer>16139</integer>
 			<key>Name</key><string>If I Needed Someone - Eric Clapton</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1278,6 +1320,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5551</integer>
 			<key>Persistent ID</key><string>B05DE2B401529693</string>
 			<key>Track Type</key><string>File</string>
@@ -1285,9 +1330,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16162</key>
+		<key>16141</key>
 		<dict>
-			<key>Track ID</key><integer>16162</integer>
+			<key>Track ID</key><integer>16141</integer>
 			<key>Name</key><string>My Sweet Lord - Billy Preston</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1303,6 +1348,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3977</integer>
 			<key>Persistent ID</key><string>A9B0C7ABF73F0F14</string>
 			<key>Track Type</key><string>File</string>
@@ -1310,9 +1358,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16164</key>
+		<key>16143</key>
 		<dict>
-			<key>Track ID</key><integer>16164</integer>
+			<key>Track ID</key><integer>16143</integer>
 			<key>Name</key><string>Taxman - Tom Petty &#38; The Heartbreakers</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1328,6 +1376,12 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615464444</integer>
+			<key>Play Date UTC</key><date>2018-07-26T22:40:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5395</integer>
 			<key>Persistent ID</key><string>F6B0CC392FEC9B06</string>
 			<key>Track Type</key><string>File</string>
@@ -1335,34 +1389,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16166</key>
+		<key>16145</key>
 		<dict>
-			<key>Track ID</key><integer>16166</integer>
-			<key>Name</key><string>That's The Way It Goes - Joe Brown</string>
-			<key>Artist</key><string>Concert For George</string>
-			<key>Composer</key><string>Harrison, George</string>
-			<key>Album</key><string>Concert For George</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>4447386</integer>
-			<key>Total Time</key><integer>219752</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Track Count</key><integer>24</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T21:31:50Z</date>
-			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Normalization</key><integer>2544</integer>
-			<key>Persistent ID</key><string>98AC1141FF374C4C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Concert%20For%20George/Concert%20For%20George/That's%20The%20Way%20It%20Goes%20-%20Joe%20Brown.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>16168</key>
-		<dict>
-			<key>Track ID</key><integer>16168</integer>
+			<key>Track ID</key><integer>16145</integer>
 			<key>Name</key><string>Wah Wah - Eric Clapton and Band</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1378,6 +1407,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:15Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6749</integer>
 			<key>Persistent ID</key><string>67FE1A1562AAFA03</string>
 			<key>Track Type</key><string>File</string>
@@ -1385,9 +1417,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16170</key>
+		<key>16147</key>
 		<dict>
-			<key>Track ID</key><integer>16170</integer>
+			<key>Track ID</key><integer>16147</integer>
 			<key>Name</key><string>While My Guitar Gently Weeps - Paul McCartney &#38; Eric Clapton</string>
 			<key>Artist</key><string>Concert For George</string>
 			<key>Composer</key><string>Harrison, George</string>
@@ -1403,6 +1435,9 @@
 			<key>Date Added</key><date>2018-07-13T02:28:16Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7133</integer>
 			<key>Persistent ID</key><string>88EC8E0FFAA65401</string>
 			<key>Track Type</key><string>File</string>
@@ -1410,9 +1445,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16172</key>
+		<key>16149</key>
 		<dict>
-			<key>Track ID</key><integer>16172</integer>
+			<key>Track ID</key><integer>16149</integer>
 			<key>Name</key><string>Cool Dry Place</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1433,9 +1468,8 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3363719766</integer>
 			<key>Play Date UTC</key><date>2010-08-04T05:36:06Z</date>
-			<key>Rating</key><integer>80</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1741</integer>
 			<key>Persistent ID</key><string>70B22C2BE86005DC</string>
 			<key>Track Type</key><string>File</string>
@@ -1443,9 +1477,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16174</key>
+		<key>16151</key>
 		<dict>
-			<key>Track ID</key><integer>16174</integer>
+			<key>Track ID</key><integer>16151</integer>
 			<key>Name</key><string>If You Belonged To Me</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1470,7 +1504,6 @@
 			<key>Skip Date</key><date>2009-04-21T16:39:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2514</integer>
 			<key>Persistent ID</key><string>0C1BB8143E359A52</string>
 			<key>Track Type</key><string>File</string>
@@ -1478,9 +1511,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16176</key>
+		<key>16153</key>
 		<dict>
-			<key>Track ID</key><integer>16176</integer>
+			<key>Track ID</key><integer>16153</integer>
 			<key>Name</key><string>Inside Out</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1505,7 +1538,6 @@
 			<key>Skip Date</key><date>2009-04-02T23:21:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2491</integer>
 			<key>Persistent ID</key><string>A841EAA7880844E9</string>
 			<key>Track Type</key><string>File</string>
@@ -1513,9 +1545,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16178</key>
+		<key>16155</key>
 		<dict>
-			<key>Track ID</key><integer>16178</integer>
+			<key>Track ID</key><integer>16155</integer>
 			<key>Name</key><string>Where Were You Last Night</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1538,7 +1570,6 @@
 			<key>Play Date UTC</key><date>2009-08-06T20:04:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1887</integer>
 			<key>Persistent ID</key><string>1B5400AF9DD0DB89</string>
 			<key>Track Type</key><string>File</string>
@@ -1546,9 +1577,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16180</key>
+		<key>16157</key>
 		<dict>
-			<key>Track ID</key><integer>16180</integer>
+			<key>Track ID</key><integer>16157</integer>
 			<key>Name</key><string>Dirty World</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1571,7 +1602,6 @@
 			<key>Play Date UTC</key><date>2009-04-05T23:15:29Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1193</integer>
 			<key>Persistent ID</key><string>E709AF5AFDF7DC25</string>
 			<key>Track Type</key><string>File</string>
@@ -1579,9 +1609,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16182</key>
+		<key>16159</key>
 		<dict>
-			<key>Track ID</key><integer>16182</integer>
+			<key>Track ID</key><integer>16159</integer>
 			<key>Name</key><string>End Of The Line</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1602,9 +1632,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3321794376</integer>
 			<key>Play Date UTC</key><date>2009-04-05T23:39:36Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>811</integer>
 			<key>Persistent ID</key><string>00CEF4C0D527F099</string>
 			<key>Track Type</key><string>File</string>
@@ -1612,9 +1641,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16184</key>
+		<key>16161</key>
 		<dict>
-			<key>Track ID</key><integer>16184</integer>
+			<key>Track ID</key><integer>16161</integer>
 			<key>Name</key><string>Handle With Care</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1639,7 +1668,6 @@
 			<key>Skip Date</key><date>2009-04-05T03:07:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1357</integer>
 			<key>Persistent ID</key><string>D3A6A185C25BE291</string>
 			<key>Track Type</key><string>File</string>
@@ -1647,9 +1675,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16186</key>
+		<key>16163</key>
 		<dict>
-			<key>Track ID</key><integer>16186</integer>
+			<key>Track ID</key><integer>16163</integer>
 			<key>Name</key><string>Heading For Light</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1672,9 +1700,8 @@
 			<key>Play Date UTC</key><date>2009-04-24T21:01:30Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2009-04-21T18:13:43Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1793</integer>
 			<key>Persistent ID</key><string>CBAF2412C8075867</string>
 			<key>Track Type</key><string>File</string>
@@ -1682,9 +1709,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16188</key>
+		<key>16165</key>
 		<dict>
-			<key>Track ID</key><integer>16188</integer>
+			<key>Track ID</key><integer>16165</integer>
 			<key>Name</key><string>Tweeter And The Monkey Man</string>
 			<key>Artist</key><string>Traveling Wilburys</string>
 			<key>Composer</key><string>Traveling Wilburys</string>
@@ -1707,9 +1734,8 @@
 			<key>Play Date UTC</key><date>2009-04-05T16:42:31Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2009-04-07T18:42:18Z</date>
-			<key>Rating</key><integer>80</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1204</integer>
 			<key>Persistent ID</key><string>8F8A554C51BFCFC3</string>
 			<key>Track Type</key><string>File</string>
@@ -1723,178 +1749,175 @@
 		<dict>
 			<key>Name</key><string>George Harrison Faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>30998</integer>
+			<key>Playlist ID</key><integer>31414</integer>
 			<key>Playlist Persistent ID</key><string>A0E6907F5916BE75</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>16096</integer>
+					<key>Track ID</key><integer>16159</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16098</integer>
+					<key>Track ID</key><integer>16165</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16094</integer>
+					<key>Track ID</key><integer>16163</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16086</integer>
+					<key>Track ID</key><integer>16157</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16084</integer>
+					<key>Track ID</key><integer>16161</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16090</integer>
+					<key>Track ID</key><integer>16149</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16088</integer>
+					<key>Track ID</key><integer>16155</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16092</integer>
+					<key>Track ID</key><integer>16151</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16100</integer>
+					<key>Track ID</key><integer>16153</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16102</integer>
+					<key>Track ID</key><integer>16111</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16108</integer>
+					<key>Track ID</key><integer>16099</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16104</integer>
+					<key>Track ID</key><integer>16109</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16110</integer>
+					<key>Track ID</key><integer>16103</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16106</integer>
+					<key>Track ID</key><integer>16107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16112</integer>
+					<key>Track ID</key><integer>16105</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16118</integer>
+					<key>Track ID</key><integer>16101</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16116</integer>
+					<key>Track ID</key><integer>16093</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16114</integer>
+					<key>Track ID</key><integer>16095</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16122</integer>
+					<key>Track ID</key><integer>16097</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16126</integer>
+					<key>Track ID</key><integer>16091</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16128</integer>
+					<key>Track ID</key><integer>16085</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16124</integer>
+					<key>Track ID</key><integer>16089</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16130</integer>
+					<key>Track ID</key><integer>16083</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16120</integer>
+					<key>Track ID</key><integer>16087</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16132</integer>
+					<key>Track ID</key><integer>16081</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16176</integer>
+					<key>Track ID</key><integer>16079</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16178</integer>
+					<key>Track ID</key><integer>16071</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16184</integer>
+					<key>Track ID</key><integer>16067</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16172</integer>
+					<key>Track ID</key><integer>16069</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16188</integer>
+					<key>Track ID</key><integer>16063</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16174</integer>
+					<key>Track ID</key><integer>16065</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16180</integer>
+					<key>Track ID</key><integer>16073</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16186</integer>
+					<key>Track ID</key><integer>16077</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16182</integer>
+					<key>Track ID</key><integer>16075</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16136</integer>
+					<key>Track ID</key><integer>16137</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16134</integer>
+					<key>Track ID</key><integer>16145</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16138</integer>
+					<key>Track ID</key><integer>16141</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16140</integer>
+					<key>Track ID</key><integer>16147</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7100</integer>
+					<key>Track ID</key><integer>16129</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16142</integer>
+					<key>Track ID</key><integer>16131</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16144</integer>
+					<key>Track ID</key><integer>16133</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7102</integer>
+					<key>Track ID</key><integer>16143</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16148</integer>
+					<key>Track ID</key><integer>16139</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7086</integer>
+					<key>Track ID</key><integer>16135</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16146</integer>
+					<key>Track ID</key><integer>16125</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16156</integer>
+					<key>Track ID</key><integer>7097</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16160</integer>
+					<key>Track ID</key><integer>16127</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16166</integer>
+					<key>Track ID</key><integer>7113</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16164</integer>
+					<key>Track ID</key><integer>16123</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16154</integer>
+					<key>Track ID</key><integer>16121</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16152</integer>
+					<key>Track ID</key><integer>7111</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16150</integer>
+					<key>Track ID</key><integer>16119</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16170</integer>
+					<key>Track ID</key><integer>16117</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16162</integer>
+					<key>Track ID</key><integer>16113</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16168</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>16158</integer>
+					<key>Track ID</key><integer>16115</integer>
 				</dict>
 			</array>
 		</dict>

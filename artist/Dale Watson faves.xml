@@ -4,17 +4,61 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-07-24T16:16:40Z</date>
+	<key>Date</key><date>2018-07-29T01:28:25Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>15918</key>
+		<key>15903</key>
 		<dict>
-			<key>Track ID</key><integer>15918</integer>
+			<key>Track ID</key><integer>15903</integer>
+			<key>Name</key><string>A Day at a Time</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Composer</key><string>Dale Watson</string>
+			<key>Album</key><string>Call Me Insane</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6183084</integer>
+			<key>Total Time</key><integer>163000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-19T02:32:35Z</date>
+			<key>Date Added</key><date>2018-07-13T02:23:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3556173379</integer>
+			<key>Play Date UTC</key><date>2016-09-08T16:56:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-06-24T15:42:24Z</date>
+			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1838</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Call Me Insane</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Composer</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>A Day at a Time</string>
+			<key>Persistent ID</key><string>036D280285A054E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Call%20Me%20Insane/01%20A%20Day%20at%20a%20Time.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15905</key>
+		<dict>
+			<key>Track ID</key><integer>15905</integer>
 			<key>Name</key><string>Heaven's Gonna Have a Honky Tonk</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -41,7 +85,7 @@
 			<key>Skip Date</key><date>2016-05-07T00:56:54Z</date>
 			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2137</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -56,9 +100,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15920</key>
+		<key>15907</key>
 		<dict>
-			<key>Track ID</key><integer>15920</integer>
+			<key>Track ID</key><integer>15907</integer>
 			<key>Name</key><string>I Lie When I Drink</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -78,7 +122,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T18:24:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A25296DD2085CE0E</string>
 			<key>Track Type</key><string>File</string>
@@ -86,9 +129,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15922</key>
+		<key>15909</key>
 		<dict>
-			<key>Track ID</key><integer>15922</integer>
+			<key>Track ID</key><integer>15909</integer>
 			<key>Name</key><string>Where Do You Want It</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -108,7 +151,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T18:26:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BC1F0858C58E7B95</string>
 			<key>Track Type</key><string>File</string>
@@ -116,9 +158,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15924</key>
+		<key>15911</key>
 		<dict>
-			<key>Track ID</key><integer>15924</integer>
+			<key>Track ID</key><integer>15911</integer>
 			<key>Name</key><string>I Drink To Remember</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -138,7 +180,6 @@
 			<key>Play Date UTC</key><date>2016-11-09T16:01:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F24F4CDB7FA16874</string>
 			<key>Track Type</key><string>File</string>
@@ -146,9 +187,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15926</key>
+		<key>15913</key>
 		<dict>
-			<key>Track ID</key><integer>15926</integer>
+			<key>Track ID</key><integer>15913</integer>
 			<key>Name</key><string>Cowboy Boots</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -168,7 +209,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T18:15:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>646598674FE47A82</string>
 			<key>Track Type</key><string>File</string>
@@ -176,9 +216,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15928</key>
+		<key>15915</key>
 		<dict>
-			<key>Track ID</key><integer>15928</integer>
+			<key>Track ID</key><integer>15915</integer>
 			<key>Name</key><string>We're Gonna Get Married</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -200,7 +240,6 @@
 			<key>Skip Date</key><date>2016-09-09T01:47:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7E3B92B0BF856B5E</string>
 			<key>Track Type</key><string>File</string>
@@ -208,9 +247,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15930</key>
+		<key>15917</key>
 		<dict>
-			<key>Track ID</key><integer>15930</integer>
+			<key>Track ID</key><integer>15917</integer>
 			<key>Name</key><string>Daughter's Wedding Song</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -230,7 +269,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T17:34:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>42B0A39644638B7F</string>
 			<key>Track Type</key><string>File</string>
@@ -238,9 +276,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15932</key>
+		<key>15919</key>
 		<dict>
-			<key>Track ID</key><integer>15932</integer>
+			<key>Track ID</key><integer>15919</integer>
 			<key>Name</key><string>Quick Quick Slow Slow</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -262,7 +300,6 @@
 			<key>Skip Date</key><date>2016-09-08T17:13:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>07704B076AC9B1D6</string>
 			<key>Track Type</key><string>File</string>
@@ -270,9 +307,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15934</key>
+		<key>15921</key>
 		<dict>
-			<key>Track ID</key><integer>15934</integer>
+			<key>Track ID</key><integer>15921</integer>
 			<key>Name</key><string>Slow Quick Quick</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -294,7 +331,6 @@
 			<key>Skip Date</key><date>2016-01-28T00:57:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>15CCD5EB45A88C6A</string>
 			<key>Track Type</key><string>File</string>
@@ -302,9 +338,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15936</key>
+		<key>15923</key>
 		<dict>
-			<key>Track ID</key><integer>15936</integer>
+			<key>Track ID</key><integer>15923</integer>
 			<key>Name</key><string>Give Me More Kisses</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -324,7 +360,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T19:16:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AAF4C5D254940305</string>
 			<key>Track Type</key><string>File</string>
@@ -332,9 +367,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15940</key>
+		<key>15925</key>
 		<dict>
-			<key>Track ID</key><integer>15940</integer>
+			<key>Track ID</key><integer>15925</integer>
+			<key>Name</key><string>Drink, Drink, Drink</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>El Rancho Azul</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6819006</integer>
+			<key>Total Time</key><integer>166556</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-27T16:38:36Z</date>
+			<key>Date Added</key><date>2018-07-13T02:23:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3614334355</integer>
+			<key>Play Date UTC</key><date>2018-07-13T20:45:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A96E1145A7F60B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/El%20Rancho%20Azul/10%20Drink,%20Drink,%20Drink.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15927</key>
+		<dict>
+			<key>Track ID</key><integer>15927</integer>
 			<key>Name</key><string>I Can't Be Satisfied</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -354,7 +418,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T20:11:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>54C0C00310D63EB0</string>
 			<key>Track Type</key><string>File</string>
@@ -362,9 +425,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15944</key>
+		<key>15929</key>
 		<dict>
-			<key>Track ID</key><integer>15944</integer>
+			<key>Track ID</key><integer>15929</integer>
+			<key>Name</key><string>I Hate To Drink Alone</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>El Rancho Azul</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6568232</integer>
+			<key>Total Time</key><integer>160287</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-27T16:38:35Z</date>
+			<key>Date Added</key><date>2018-07-13T02:23:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3615355997</integer>
+			<key>Play Date UTC</key><date>2018-07-25T16:33:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>551752C8AD12A08D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/El%20Rancho%20Azul/12%20I%20Hate%20To%20Drink%20Alone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15931</key>
+		<dict>
+			<key>Track ID</key><integer>15931</integer>
 			<key>Name</key><string>Smokey Old Bar</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -386,7 +478,6 @@
 			<key>Skip Date</key><date>2016-05-07T00:36:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2AF5BC605C7E2D2D</string>
 			<key>Track Type</key><string>File</string>
@@ -394,9 +485,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15946</key>
+		<key>15933</key>
 		<dict>
-			<key>Track ID</key><integer>15946</integer>
+			<key>Track ID</key><integer>15933</integer>
 			<key>Name</key><string>Thanks To Tequila</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>El Rancho Azul</string>
@@ -416,7 +507,6 @@
 			<key>Play Date UTC</key><date>2018-07-22T22:10:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A83DF06C7031A373</string>
 			<key>Track Type</key><string>File</string>
@@ -424,9 +514,127 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15954</key>
+		<key>15935</key>
 		<dict>
-			<key>Track ID</key><integer>15954</integer>
+			<key>Track ID</key><integer>15935</integer>
+			<key>Name</key><string>Drag 'N' Fly</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7954448</integer>
+			<key>Total Time</key><integer>224440</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:54:55Z</date>
+			<key>Date Added</key><date>2018-07-13T02:23:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3614332489</integer>
+			<key>Play Date UTC</key><date>2018-07-13T20:14:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-04-28T01:05:53Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3136</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Drag 'N' Fly</string>
+			<key>Persistent ID</key><string>45004B0AAB4C5977</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-01%20Drag%20'N'%20Fly.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15937</key>
+		<dict>
+			<key>Track ID</key><integer>15937</integer>
+			<key>Name</key><string>Yankee Doodle Jean</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6068466</integer>
+			<key>Total Time</key><integer>167546</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:33Z</date>
+			<key>Date Added</key><date>2018-07-13T02:23:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3614331852</integer>
+			<key>Play Date UTC</key><date>2018-07-13T20:04:12Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>4112</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Yankee Doodle Jean</string>
+			<key>Persistent ID</key><string>1D8B8A3CDF17B18B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-05%20Yankee%20Doodle%20Jean.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15939</key>
+		<dict>
+			<key>Track ID</key><integer>15939</integer>
+			<key>Name</key><string>Me and Freddie and Jake</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6090078</integer>
+			<key>Total Time</key><integer>166760</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:12Z</date>
+			<key>Date Added</key><date>2018-07-13T02:23:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3614330365</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:39:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-07-22T23:59:29Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>5048</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Me and Freddie and Jake</string>
+			<key>Persistent ID</key><string>AA0F0A1A54FEB1BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-10%20Me%20and%20Freddie%20and%20Jake.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15941</key>
+		<dict>
+			<key>Track ID</key><integer>15941</integer>
 			<key>Name</key><string>I Live on Truckin' Time</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -452,7 +660,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2030</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -465,9 +672,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15960</key>
+		<key>15947</key>
 		<dict>
-			<key>Track ID</key><integer>15960</integer>
+			<key>Track ID</key><integer>15947</integer>
 			<key>Name</key><string>Bug Ya For Love</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -492,7 +699,7 @@
 			<key>Play Date UTC</key><date>2018-07-13T18:52:28Z</date>
 			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>958</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -507,9 +714,51 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15964</key>
+		<key>15949</key>
 		<dict>
-			<key>Track ID</key><integer>15964</integer>
+			<key>Track ID</key><integer>15949</integer>
+			<key>Name</key><string>Burden of the Cross</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Composer</key><string>Dale Watson</string>
+			<key>Album</key><string>Call Me Insane</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6662803</integer>
+			<key>Total Time</key><integer>190026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-19T02:32:36Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615111396</integer>
+			<key>Play Date UTC</key><date>2018-07-22T20:36:36Z</date>
+			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Call Me Insane</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Composer</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Burden of the Cross</string>
+			<key>Persistent ID</key><string>B31D80F8B3E6C567</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Call%20Me%20Insane/03%20Burden%20of%20the%20Cross.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15951</key>
+		<dict>
+			<key>Track ID</key><integer>15951</integer>
 			<key>Name</key><string>Everybody's Someone in Luchenbach, Texas</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -534,7 +783,7 @@
 			<key>Play Date UTC</key><date>2018-07-13T18:43:57Z</date>
 			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1538</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -549,9 +798,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15968</key>
+		<key>15953</key>
 		<dict>
-			<key>Track ID</key><integer>15968</integer>
+			<key>Track ID</key><integer>15953</integer>
 			<key>Name</key><string>Jonesin' for Jones</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -576,7 +825,7 @@
 			<key>Play Date UTC</key><date>2018-07-13T18:35:51Z</date>
 			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1568</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -591,9 +840,51 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15972</key>
+		<key>15955</key>
 		<dict>
-			<key>Track ID</key><integer>15972</integer>
+			<key>Track ID</key><integer>15955</integer>
+			<key>Name</key><string>I'm Through Hurtin'</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Composer</key><string>Dale Watson</string>
+			<key>Album</key><string>Call Me Insane</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6342463</integer>
+			<key>Total Time</key><integer>178666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-19T02:32:41Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614328377</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:06:17Z</date>
+			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1823</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Call Me Insane</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Composer</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>I'm Through Hurtin'</string>
+			<key>Persistent ID</key><string>67AB81E2E2E1359C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Call%20Me%20Insane/07%20I'm%20Through%20Hurtin'.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15957</key>
+		<dict>
+			<key>Track ID</key><integer>15957</integer>
 			<key>Name</key><string>Call Me Insane</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -618,7 +909,7 @@
 			<key>Play Date UTC</key><date>2018-07-13T19:10:25Z</date>
 			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1000</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -633,9 +924,165 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15986</key>
+		<key>15961</key>
 		<dict>
-			<key>Track ID</key><integer>15986</integer>
+			<key>Track ID</key><integer>15961</integer>
+			<key>Name</key><string>I Owe It All to You</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Composer</key><string>Dale Watson</string>
+			<key>Album</key><string>Call Me Insane</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7173513</integer>
+			<key>Total Time</key><integer>206093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-19T02:32:45Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615111999</integer>
+			<key>Play Date UTC</key><date>2018-07-22T20:46:39Z</date>
+			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1496</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Call Me Insane</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Composer</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>I Owe It All to You</string>
+			<key>Persistent ID</key><string>71E9B415CD44CFC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Call%20Me%20Insane/11%20I%20Owe%20It%20All%20to%20You.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15963</key>
+		<dict>
+			<key>Track ID</key><integer>15963</integer>
+			<key>Name</key><string>Hot Dang</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Composer</key><string>Dale Watson</string>
+			<key>Album</key><string>Call Me Insane</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4688973</integer>
+			<key>Total Time</key><integer>123213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-19T02:32:46Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615113139</integer>
+			<key>Play Date UTC</key><date>2018-07-22T21:05:39Z</date>
+			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1816</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Call Me Insane</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Composer</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Hot Dang</string>
+			<key>Persistent ID</key><string>67124029F17E3FB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Call%20Me%20Insane/13%20Hot%20Dang.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15965</key>
+		<dict>
+			<key>Track ID</key><integer>15965</integer>
+			<key>Name</key><string>Mama's Don't Let Your Cowboys Grow Up to Be Babies</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Composer</key><string>Dale Watson</string>
+			<key>Album</key><string>Call Me Insane</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7848212</integer>
+			<key>Total Time</key><integer>205293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-07-19T02:32:48Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614329650</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:27:30Z</date>
+			<key>Release Date</key><date>2015-06-09T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1745</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Call Me Insane</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Composer</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Mama's Don't Let Your Cowboys Grow Up to Be Babies</string>
+			<key>Persistent ID</key><string>9B2A44781AD10D85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Call%20Me%20Insane/14%20Mama's%20Don't%20Let%20Your%20Cowboys%20Grow%20Up%20to%20Be%20Babies.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15967</key>
+		<dict>
+			<key>Track ID</key><integer>15967</integer>
+			<key>Name</key><string>Sit And Drink And Cry</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Heeah!!</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3712495</integer>
+			<key>Total Time</key><integer>152685</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-03-09T02:00:24Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Same tracks as "Whiskey or God"</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614324835</integer>
+			<key>Play Date UTC</key><date>2018-07-13T18:07:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>363A0E99D632DB78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Heeah!!/01%20Sit%20And%20Drink%20And%20Cry.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15969</key>
+		<dict>
+			<key>Track ID</key><integer>15969</integer>
 			<key>Name</key><string>Whiskey Or God</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -651,12 +1098,11 @@
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Same tracks as "Whiskey or God"</string>
-			<key>Play Count</key><integer>2</integer>
+			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3615265795</integer>
 			<key>Play Date UTC</key><date>2018-07-24T15:29:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>51D030D95861DAA0</string>
 			<key>Track Type</key><string>File</string>
@@ -664,9 +1110,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15988</key>
+		<key>15971</key>
 		<dict>
-			<key>Track ID</key><integer>15988</integer>
+			<key>Track ID</key><integer>15971</integer>
 			<key>Name</key><string>I Don't Feel Too Lucky Today</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -687,7 +1133,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T20:28:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E7A23D15244E9CAF</string>
 			<key>Track Type</key><string>File</string>
@@ -695,9 +1140,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15990</key>
+		<key>15973</key>
 		<dict>
-			<key>Track ID</key><integer>15990</integer>
+			<key>Track ID</key><integer>15973</integer>
 			<key>Name</key><string>No Help Wanted</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -718,7 +1163,6 @@
 			<key>Play Date UTC</key><date>2018-07-22T22:02:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E73A04E88F898CE9</string>
 			<key>Track Type</key><string>File</string>
@@ -726,9 +1170,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15992</key>
+		<key>15975</key>
 		<dict>
-			<key>Track ID</key><integer>15992</integer>
+			<key>Track ID</key><integer>15975</integer>
 			<key>Name</key><string>My Heart Is Yours</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -749,7 +1193,6 @@
 			<key>Play Date UTC</key><date>2018-07-22T22:14:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CC783D1BF53FF10C</string>
 			<key>Track Type</key><string>File</string>
@@ -757,9 +1200,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15994</key>
+		<key>15977</key>
 		<dict>
-			<key>Track ID</key><integer>15994</integer>
+			<key>Track ID</key><integer>15977</integer>
 			<key>Name</key><string>It Hurts So Good</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -782,7 +1225,6 @@
 			<key>Skip Date</key><date>2018-07-22T20:46:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>187D6DA9E880761A</string>
 			<key>Track Type</key><string>File</string>
@@ -790,9 +1232,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15996</key>
+		<key>15979</key>
 		<dict>
-			<key>Track ID</key><integer>15996</integer>
+			<key>Track ID</key><integer>15979</integer>
 			<key>Name</key><string>Truckin' Queen (I Got My Night Gown On)</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -813,7 +1255,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T19:44:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>05B935C3731658D7</string>
 			<key>Track Type</key><string>File</string>
@@ -821,9 +1262,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15998</key>
+		<key>15981</key>
 		<dict>
-			<key>Track ID</key><integer>15998</integer>
+			<key>Track ID</key><integer>15981</integer>
 			<key>Name</key><string>Darlin' Look At me Now</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -844,7 +1285,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T17:56:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2AD24CE40E06F2D9</string>
 			<key>Track Type</key><string>File</string>
@@ -852,9 +1292,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16000</key>
+		<key>15983</key>
 		<dict>
-			<key>Track ID</key><integer>16000</integer>
+			<key>Track ID</key><integer>15983</integer>
 			<key>Name</key><string>I Wish I Was Crazy Again</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -875,7 +1315,6 @@
 			<key>Play Date UTC</key><date>2018-07-22T21:59:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E4CFB192A917394F</string>
 			<key>Track Type</key><string>File</string>
@@ -883,9 +1322,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16002</key>
+		<key>15985</key>
 		<dict>
-			<key>Track ID</key><integer>16002</integer>
+			<key>Track ID</key><integer>15985</integer>
 			<key>Name</key><string>I Ain't Been Right, Since I've Been Left</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -906,7 +1345,6 @@
 			<key>Play Date UTC</key><date>2018-07-22T20:49:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A5F93790EA9F3BAD</string>
 			<key>Track Type</key><string>File</string>
@@ -914,9 +1352,39 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16006</key>
+		<key>15987</key>
 		<dict>
-			<key>Track ID</key><integer>16006</integer>
+			<key>Track ID</key><integer>15987</integer>
+			<key>Name</key><string>Tequila And Teardrops</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Heeah!!</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3960137</integer>
+			<key>Total Time</key><integer>163004</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-03-09T02:00:24Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Same tracks as "Whiskey or God"</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614328788</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:13:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>779733FAA419DA57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Heeah!!/11%20Tequila%20And%20Teardrops.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15989</key>
+		<dict>
+			<key>Track ID</key><integer>15989</integer>
 			<key>Name</key><string>38..21..34</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -937,7 +1405,6 @@
 			<key>Play Date UTC</key><date>2018-07-22T22:08:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C74ABF07A22623CE</string>
 			<key>Track Type</key><string>File</string>
@@ -945,9 +1412,36 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16010</key>
+		<key>15991</key>
 		<dict>
-			<key>Track ID</key><integer>16010</integer>
+			<key>Track ID</key><integer>15991</integer>
+			<key>Name</key><string>Outta Luck</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Heeah!!</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3467968</integer>
+			<key>Total Time</key><integer>142497</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-03-09T02:00:22Z</date>
+			<key>Date Added</key><date>2018-07-13T02:26:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Same tracks as "Whiskey or God"</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5B7D247391E8460</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Heeah!!/13%20Outta%20Luck.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15993</key>
+		<dict>
+			<key>Track ID</key><integer>15993</integer>
 			<key>Name</key><string>Heeah!!</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album</key><string>Heeah!!</string>
@@ -968,7 +1462,6 @@
 			<key>Play Date UTC</key><date>2018-07-13T17:39:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D81615156159E3A</string>
 			<key>Track Type</key><string>File</string>
@@ -976,9 +1469,85 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16016</key>
+		<key>15995</key>
 		<dict>
-			<key>Track ID</key><integer>16016</integer>
+			<key>Track ID</key><integer>15995</integer>
+			<key>Name</key><string>Good Luck "N' Good Truckin' Tonite</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5228417</integer>
+			<key>Total Time</key><integer>138600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:00Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614325494</integer>
+			<key>Play Date UTC</key><date>2018-07-13T18:18:14Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1713</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Good Luck "N' Good Truckin' Tonite</string>
+			<key>Persistent ID</key><string>3B1096C7AFB6D0FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/1-01%20Good%20Luck%20_N'%20Good%20Truckin'%20Tonite.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15997</key>
+		<dict>
+			<key>Track ID</key><integer>15997</integer>
+			<key>Name</key><string>Big Wheels Keep Rollin'</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7771377</integer>
+			<key>Total Time</key><integer>219040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:16Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614331234</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:53:54Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1042</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Big Wheels Keep Rollin'</string>
+			<key>Persistent ID</key><string>234A368A70344201</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/1-02%20Big%20Wheels%20Keep%20Rollin'.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15999</key>
+		<dict>
+			<key>Track ID</key><integer>15999</integer>
 			<key>Name</key><string>Heaven in Baltimore</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1002,7 +1571,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2036</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1015,9 +1583,85 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16022</key>
+		<key>16001</key>
 		<dict>
-			<key>Track ID</key><integer>16022</integer>
+			<key>Track ID</key><integer>16001</integer>
+			<key>Name</key><string>Have You Got It On</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6603784</integer>
+			<key>Total Time</key><integer>182386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:19Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614325677</integer>
+			<key>Play Date UTC</key><date>2018-07-13T18:21:17Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1360</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Have You Got It On</string>
+			<key>Persistent ID</key><string>51C63CB583B9B364</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/1-04%20Have%20You%20Got%20It%20On.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16003</key>
+		<dict>
+			<key>Track ID</key><integer>16003</integer>
+			<key>Name</key><string>Makin' up Time</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5375844</integer>
+			<key>Total Time</key><integer>142506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:22Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615355406</integer>
+			<key>Play Date UTC</key><date>2018-07-25T16:23:26Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>2262</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Makin' up Time</string>
+			<key>Persistent ID</key><string>7859EEC046690FAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/1-05%20Makin'%20up%20Time.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16005</key>
+		<dict>
+			<key>Track ID</key><integer>16005</integer>
 			<key>Name</key><string>Flat Tire</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1041,7 +1685,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1338</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1054,9 +1697,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16026</key>
+		<key>16007</key>
 		<dict>
-			<key>Track ID</key><integer>16026</integer>
+			<key>Track ID</key><integer>16007</integer>
 			<key>Name</key><string>Exit 109</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1080,7 +1723,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2402</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1093,9 +1735,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16028</key>
+		<key>16009</key>
 		<dict>
-			<key>Track ID</key><integer>16028</integer>
+			<key>Track ID</key><integer>16009</integer>
 			<key>Name</key><string>Help Me Joe</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1119,7 +1761,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1337</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1132,9 +1773,47 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16032</key>
+		<key>16011</key>
 		<dict>
-			<key>Track ID</key><integer>16032</integer>
+			<key>Track ID</key><integer>16011</integer>
+			<key>Name</key><string>...Loose Nut Behind the Wheel</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6991343</integer>
+			<key>Total Time</key><integer>196400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:38Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615113335</integer>
+			<key>Play Date UTC</key><date>2018-07-22T21:08:55Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>...Loose Nut Behind the Wheel</string>
+			<key>Persistent ID</key><string>58B2A1218877E08C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/1-10%20...Loose%20Nut%20Behind%20the%20Wheel.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16013</key>
+		<dict>
+			<key>Track ID</key><integer>16013</integer>
 			<key>Name</key><string>You've Got a Long Way to Go</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1158,7 +1837,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>899</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1171,9 +1849,48 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16036</key>
+		<key>16015</key>
 		<dict>
-			<key>Track ID</key><integer>16036</integer>
+			<key>Track ID</key><integer>16015</integer>
+			<key>Name</key><string>Longhorn Suburban</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5900041</integer>
+			<key>Total Time</key><integer>155080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:43Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615464960</integer>
+			<key>Play Date UTC</key><date>2018-07-26T22:49:20Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1212</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Longhorn Suburban</string>
+			<key>Persistent ID</key><string>0A81FF0FD88F720D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/1-12%20Longhorn%20Suburban.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16017</key>
+		<dict>
+			<key>Track ID</key><integer>16017</integer>
 			<key>Name</key><string>I'm Fixin' to Have Me a Breakdown</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1197,7 +1914,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2002</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1210,9 +1926,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16040</key>
+		<key>16019</key>
 		<dict>
-			<key>Track ID</key><integer>16040</integer>
+			<key>Track ID</key><integer>16019</integer>
 			<key>Name</key><string>Jack's Truck Stop and Café</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1236,7 +1952,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2146</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1249,9 +1964,123 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16048</key>
+		<key>16021</key>
 		<dict>
-			<key>Track ID</key><integer>16048</integer>
+			<key>Track ID</key><integer>16021</integer>
+			<key>Name</key><string>Truck Stop in La Grange</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5290153</integer>
+			<key>Total Time</key><integer>136466</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:44Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614328199</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:03:19Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3762</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Truck Stop in La Grange</string>
+			<key>Persistent ID</key><string>22A2E96A58E2C122</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-03%20Truck%20Stop%20in%20La%20Grange.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16023</key>
+		<dict>
+			<key>Track ID</key><integer>16023</integer>
+			<key>Name</key><string>41916</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6582620</integer>
+			<key>Total Time</key><integer>177613</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:45Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615465281</integer>
+			<key>Play Date UTC</key><date>2018-07-26T22:54:41Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3275</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>41916</string>
+			<key>Persistent ID</key><string>829B3EE4208BF03B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-04%2041916.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16025</key>
+		<dict>
+			<key>Track ID</key><integer>16025</integer>
+			<key>Name</key><string>Hey Driver</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5974222</integer>
+			<key>Total Time</key><integer>163146</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:09Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614333502</integer>
+			<key>Play Date UTC</key><date>2018-07-13T20:31:42Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>5156</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Hey Driver</string>
+			<key>Persistent ID</key><string>0088B4AB00F75D39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-06%20Hey%20Driver.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16027</key>
+		<dict>
+			<key>Track ID</key><integer>16027</integer>
 			<key>Name</key><string>Hero</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1275,7 +2104,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2206</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1288,9 +2116,47 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16054</key>
+		<key>16031</key>
 		<dict>
-			<key>Track ID</key><integer>16054</integer>
+			<key>Track ID</key><integer>16031</integer>
+			<key>Name</key><string>Truckin' Man</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5952336</integer>
+			<key>Total Time</key><integer>164560</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:34Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614324526</integer>
+			<key>Play Date UTC</key><date>2018-07-13T18:02:06Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3769</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Truckin' Man</string>
+			<key>Persistent ID</key><string>0A2ADFC8485494B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-09%20Truckin'%20Man.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16033</key>
+		<dict>
+			<key>Track ID</key><integer>16033</integer>
 			<key>Name</key><string>Truckin' Queen</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1314,7 +2180,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3486</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1327,9 +2192,49 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16058</key>
+		<key>16035</key>
 		<dict>
-			<key>Track ID</key><integer>16058</integer>
+			<key>Track ID</key><integer>16035</integer>
+			<key>Name</key><string>Let This Trucker Go</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7135647</integer>
+			<key>Total Time</key><integer>201266</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:11Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3615354316</integer>
+			<key>Play Date UTC</key><date>2018-07-25T16:05:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-07-28T00:53:26Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Let This Trucker Go</string>
+			<key>Persistent ID</key><string>9096375CD32DAB99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/2-12%20Let%20This%20Trucker%20Go.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16037</key>
+		<dict>
+			<key>Track ID</key><integer>16037</integer>
 			<key>Name</key><string>No Help Wanted</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1353,7 +2258,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6907</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1366,9 +2270,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16062</key>
+		<key>16041</key>
 		<dict>
-			<key>Track ID</key><integer>16062</integer>
+			<key>Track ID</key><integer>16041</integer>
 			<key>Name</key><string>It's Been a Long Truckin Day</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1392,7 +2296,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3020</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1405,9 +2308,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16066</key>
+		<key>16045</key>
 		<dict>
-			<key>Track ID</key><integer>16066</integer>
+			<key>Track ID</key><integer>16045</integer>
 			<key>Name</key><string>Phillip at the Station</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1431,7 +2334,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2026</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1444,9 +2346,47 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16070</key>
+		<key>16047</key>
 		<dict>
-			<key>Track ID</key><integer>16070</integer>
+			<key>Track ID</key><integer>16047</integer>
+			<key>Name</key><string>Freewheelin</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6329001</integer>
+			<key>Total Time</key><integer>180266</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:03Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614330199</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:36:39Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1807</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Freewheelin</string>
+			<key>Persistent ID</key><string>7FDB64209E111E6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/3-04%20Freewheelin.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16049</key>
+		<dict>
+			<key>Track ID</key><integer>16049</integer>
 			<key>Name</key><string>Texas Armadillo</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1470,7 +2410,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3817</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1483,9 +2422,85 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16078</key>
+		<key>16053</key>
 		<dict>
-			<key>Track ID</key><integer>16078</integer>
+			<key>Track ID</key><integer>16053</integer>
+			<key>Name</key><string>Big T</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3841748</integer>
+			<key>Total Time</key><integer>103173</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:27Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614322594</integer>
+			<key>Play Date UTC</key><date>2018-07-13T17:29:54Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>2362</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Big T</string>
+			<key>Persistent ID</key><string>EA702D2AF3653E53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/3-10%20Big%20T.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16055</key>
+		<dict>
+			<key>Track ID</key><integer>16055</integer>
+			<key>Name</key><string>Lugnut Larry</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6342686</integer>
+			<key>Total Time</key><integer>174093</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:07Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614326175</integer>
+			<key>Play Date UTC</key><date>2018-07-13T18:29:35Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3092</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>Lugnut Larry</string>
+			<key>Persistent ID</key><string>E41E0976B15DE2CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/3-11%20Lugnut%20Larry.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16057</key>
+		<dict>
+			<key>Track ID</key><integer>16057</integer>
 			<key>Name</key><string>Kitty Liang</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1509,7 +2524,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2643</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1522,9 +2536,47 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16082</key>
+		<key>16059</key>
 		<dict>
-			<key>Track ID</key><integer>16082</integer>
+			<key>Track ID</key><integer>16059</integer>
+			<key>Name</key><string>We're Truckin Along</string>
+			<key>Artist</key><string>Dale Watson</string>
+			<key>Album Artist</key><string>Dale Watson</string>
+			<key>Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5826211</integer>
+			<key>Total Time</key><integer>161866</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-01T04:55:31Z</date>
+			<key>Date Added</key><date>2018-07-13T02:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614331015</integer>
+			<key>Play Date UTC</key><date>2018-07-13T19:50:15Z</date>
+			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>3527</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
+			<key>Sort Artist</key><string>Dale Watson</string>
+			<key>Sort Name</key><string>We're Truckin Along</string>
+			<key>Persistent ID</key><string>6B981CFDC7C6CABD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dale%20Watson/Truckin'%20Sessions%20Trilogy/3-13%20We're%20Truckin%20Along.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16061</key>
+		<dict>
+			<key>Track ID</key><integer>16061</integer>
 			<key>Name</key><string>10-100</string>
 			<key>Artist</key><string>Dale Watson</string>
 			<key>Album Artist</key><string>Dale Watson</string>
@@ -1545,7 +2597,6 @@
 			<key>Release Date</key><date>2014-07-08T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3983</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Truckin' Sessions Trilogy</string>
@@ -1564,142 +2615,229 @@
 		<dict>
 			<key>Name</key><string>Dale Watson faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>58702</integer>
+			<key>Playlist ID</key><integer>31273</integer>
 			<key>Playlist Persistent ID</key><string>DDCC39B3C070903B</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>16082</integer>
+					<key>Track ID</key><integer>16061</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16078</integer>
+					<key>Track ID</key><integer>16057</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16070</integer>
+					<key>Track ID</key><integer>16049</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15954</integer>
+					<key>Track ID</key><integer>15941</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16066</integer>
+					<key>Track ID</key><integer>16045</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16062</integer>
+					<key>Track ID</key><integer>16041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16058</integer>
+					<key>Track ID</key><integer>16037</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16054</integer>
+					<key>Track ID</key><integer>16033</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16048</integer>
+					<key>Track ID</key><integer>16027</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16040</integer>
+					<key>Track ID</key><integer>16019</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16036</integer>
+					<key>Track ID</key><integer>16017</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16032</integer>
+					<key>Track ID</key><integer>16013</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16028</integer>
+					<key>Track ID</key><integer>16009</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16026</integer>
+					<key>Track ID</key><integer>16007</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16022</integer>
+					<key>Track ID</key><integer>16005</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16016</integer>
+					<key>Track ID</key><integer>15999</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16010</integer>
+					<key>Track ID</key><integer>15993</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16006</integer>
+					<key>Track ID</key><integer>15989</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16002</integer>
+					<key>Track ID</key><integer>15985</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16000</integer>
+					<key>Track ID</key><integer>15983</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15998</integer>
+					<key>Track ID</key><integer>15981</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15996</integer>
+					<key>Track ID</key><integer>15979</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15994</integer>
+					<key>Track ID</key><integer>15977</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15992</integer>
+					<key>Track ID</key><integer>15975</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15990</integer>
+					<key>Track ID</key><integer>15973</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15988</integer>
+					<key>Track ID</key><integer>15971</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15986</integer>
+					<key>Track ID</key><integer>15969</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15946</integer>
+					<key>Track ID</key><integer>15933</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15944</integer>
+					<key>Track ID</key><integer>15931</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15940</integer>
+					<key>Track ID</key><integer>15927</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15936</integer>
+					<key>Track ID</key><integer>15923</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15934</integer>
+					<key>Track ID</key><integer>15921</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15932</integer>
+					<key>Track ID</key><integer>15919</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15930</integer>
+					<key>Track ID</key><integer>15917</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15928</integer>
+					<key>Track ID</key><integer>15915</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15926</integer>
+					<key>Track ID</key><integer>15913</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15924</integer>
+					<key>Track ID</key><integer>15911</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15922</integer>
+					<key>Track ID</key><integer>15909</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15920</integer>
+					<key>Track ID</key><integer>15907</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15918</integer>
+					<key>Track ID</key><integer>15905</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15972</integer>
+					<key>Track ID</key><integer>15957</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15968</integer>
+					<key>Track ID</key><integer>15953</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15964</integer>
+					<key>Track ID</key><integer>15951</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15960</integer>
+					<key>Track ID</key><integer>15947</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15903</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15935</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16031</integer>
 				</dict>
 			</array>
 		</dict>
