@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-09-05T04:32:43Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15191</key>
+		<dict>
+			<key>Track ID</key><integer>15191</integer>
+			<key>Name</key><string>Apache</string>
+			<key>Artist</key><string>The Ventures</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Genre</key><string>Instrumental;Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4001500</integer>
+			<key>Total Time</key><integer>165146</integer>
+			<key>Date Modified</key><date>2018-08-14T18:07:04Z</date>
+			<key>Date Added</key><date>2018-08-14T18:21:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>https://www.youtube.com/watch?v=W-Hc5abSVHA</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3617262927</integer>
+			<key>Play Date UTC</key><date>2018-08-16T18:15:27Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Ventures</string>
+			<key>Persistent ID</key><string>0158251C75EF74BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Ventures/YouTube/Apache%20-%20tv%20performance.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15195</key>
+		<dict>
+			<key>Track ID</key><integer>15195</integer>
+			<key>Name</key><string>Hawaii Five-O</string>
+			<key>Artist</key><string>The Ventures</string>
+			<key>Album</key><string>Hawaii Five-O</string>
+			<key>Genre</key><string>Instrumental;Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2605672</integer>
+			<key>Total Time</key><integer>107650</integer>
+			<key>Date Modified</key><date>2018-08-04T17:52:32Z</date>
+			<key>Date Added</key><date>2018-08-14T18:21:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Ventures</string>
+			<key>Persistent ID</key><string>04C60AD547F818EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Ventures/YouTube/Hawaii%20Five-O%20theme.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Surf Music unrated</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>34387</integer>
+			<key>Playlist Persistent ID</key><string>C0125FF02896D4FC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15195</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
