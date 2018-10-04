@@ -4,16 +4,46 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-09-05T04:33:57Z</date>
+	<key>Date</key><date>2018-10-04T15:15:46Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>15501</key>
+		<key>15779</key>
 		<dict>
-			<key>Track ID</key><integer>15501</integer>
+			<key>Track ID</key><integer>15779</integer>
+			<key>Name</key><string>How Can I Be Sure</string>
+			<key>Artist</key><string>The Rascals</string>
+			<key>Album</key><string>Groovin'</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5653005</integer>
+			<key>Total Time</key><integer>174994</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-08-05T00:06:06Z</date>
+			<key>Date Added</key><date>2018-08-14T18:25:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3620896722</integer>
+			<key>Play Date UTC</key><date>2018-09-27T19:38:42Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Rascals</string>
+			<key>Persistent ID</key><string>EC15EEFC955F3BC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Rascals/1967%20-%20Groovin'/05%20How%20Can%20I%20Be%20Sure.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15781</key>
+		<dict>
+			<key>Track ID</key><integer>15781</integer>
 			<key>Name</key><string>You Better Run</string>
 			<key>Artist</key><string>The Rascals</string>
 			<key>Album</key><string>Groovin'</string>
@@ -30,7 +60,6 @@
 			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Rascals</string>
 			<key>Persistent ID</key><string>6D0D2CB2F6E8F466</string>
@@ -39,9 +68,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15503</key>
+		<key>15783</key>
 		<dict>
-			<key>Track ID</key><integer>15503</integer>
+			<key>Track ID</key><integer>15783</integer>
 			<key>Name</key><string>Sueño</string>
 			<key>Artist</key><string>The Rascals</string>
 			<key>Album</key><string>Groovin'</string>
@@ -58,7 +87,6 @@
 			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Rascals</string>
 			<key>Persistent ID</key><string>C47709BDFA7073B1</string>
@@ -67,9 +95,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15505</key>
+		<key>15785</key>
 		<dict>
-			<key>Track ID</key><integer>15505</integer>
+			<key>Track ID</key><integer>15785</integer>
 			<key>Name</key><string>Groovin'</string>
 			<key>Artist</key><string>The Rascals</string>
 			<key>Composer</key><string>Brigati/Cavaliere</string>
@@ -87,7 +115,6 @@
 			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Rascals</string>
 			<key>Persistent ID</key><string>B83B21BDC773DD8E</string>
@@ -96,9 +123,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15507</key>
+		<key>15787</key>
 		<dict>
-			<key>Track ID</key><integer>15507</integer>
+			<key>Track ID</key><integer>15787</integer>
 			<key>Name</key><string>It's Love</string>
 			<key>Artist</key><string>The Rascals</string>
 			<key>Album</key><string>Groovin'</string>
@@ -115,7 +142,6 @@
 			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Rascals</string>
 			<key>Persistent ID</key><string>65D8A4D81D8D9A02</string>
@@ -130,22 +156,25 @@
 		<dict>
 			<key>Name</key><string>The Rascals faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>34567</integer>
+			<key>Playlist ID</key><integer>38939</integer>
 			<key>Playlist Persistent ID</key><string>8D984C002B41DE45</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15507</integer>
+					<key>Track ID</key><integer>15787</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15505</integer>
+					<key>Track ID</key><integer>15785</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15503</integer>
+					<key>Track ID</key><integer>15783</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15501</integer>
+					<key>Track ID</key><integer>15781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15779</integer>
 				</dict>
 			</array>
 		</dict>
