@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-10-19T17:14:05Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6435</key>
+		<dict>
+			<key>Track ID</key><integer>6435</integer>
+			<key>Name</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Artist</key><string>Suzy Bogguss</string>
+			<key>Album</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6019118</integer>
+			<key>Total Time</key><integer>246125</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-10-07T01:14:21Z</date>
+			<key>Date Added</key><date>2018-10-07T01:13:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>907DCA5FD36E66E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Suzy%20Bogguss/2003%20-%20Have%20Yourself%20A%20Merry%20Little%20Christmas/01%20-%20%20Have%20Yourself%20A%20Merry%20Little%20Christmas.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6451</key>
+		<dict>
+			<key>Track ID</key><integer>6451</integer>
+			<key>Name</key><string>Two-Step Round The Christmas Tree</string>
+			<key>Artist</key><string>Suzy Bogguss</string>
+			<key>Album</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3987155</integer>
+			<key>Total Time</key><integer>161462</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-10-07T01:14:19Z</date>
+			<key>Date Added</key><date>2018-10-07T01:13:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA87CF29608E4251</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Suzy%20Bogguss/2003%20-%20Have%20Yourself%20A%20Merry%20Little%20Christmas/08%20-%20Two-Step%20Round%20The%20Christmas%20Tree.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6453</key>
+		<dict>
+			<key>Track ID</key><integer>6453</integer>
+			<key>Name</key><string>Jingle Bells</string>
+			<key>Artist</key><string>Suzy Bogguss</string>
+			<key>Album</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4339523</integer>
+			<key>Total Time</key><integer>176143</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-10-07T01:14:20Z</date>
+			<key>Date Added</key><date>2018-10-07T01:13:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F2D2F39448F03CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Suzy%20Bogguss/2003%20-%20Have%20Yourself%20A%20Merry%20Little%20Christmas/12%20-%20%20Jingle%20Bells.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>More Christmas Cool</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>381725</integer>
+			<key>Playlist Persistent ID</key><string>6F4BA4A55E75D848</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6435</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
