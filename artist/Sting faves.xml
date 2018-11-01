@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-10-17T22:40:28Z</date>
+	<key>Date</key><date>2018-11-01T21:40:11Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -302,7 +302,10 @@
 			<key>Date Added</key><date>2018-08-14T18:40:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623235956</integer>
+			<key>Play Date UTC</key><date>2018-10-24T21:25:56Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>B3C9FB9A219B9E5A</string>
@@ -329,7 +332,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3622491064</integer>
 			<key>Play Date UTC</key><date>2018-10-16T06:31:04Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>5A2AB45BEF1E13DD</string>
@@ -382,7 +385,7 @@
 			<key>Date Added</key><date>2018-08-14T18:41:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Soul Cages</string>
@@ -408,7 +411,7 @@
 			<key>Date Added</key><date>2018-08-14T18:41:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Album</key><string>Soul Cages</string>
@@ -486,6 +489,11 @@
 			<key>Date Added</key><date>2018-08-14T18:41:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622962942</integer>
+			<key>Play Date UTC</key><date>2018-10-21T17:35:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-23T19:16:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -540,9 +548,9 @@
 			<key>Date Added</key><date>2018-08-14T18:41:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3619001896</integer>
-			<key>Play Date UTC</key><date>2018-09-05T21:18:16Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3623763885</integer>
+			<key>Play Date UTC</key><date>2018-10-31T00:04:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -596,7 +604,7 @@
 			<key>Date Added</key><date>2018-08-14T18:41:47Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Name</key><string>Hounds Of Winter</string>
@@ -624,7 +632,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3617261785</integer>
 			<key>Play Date UTC</key><date>2018-08-16T17:56:25Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>FB7B8A7B205FCFA7</string>
@@ -700,7 +708,7 @@
 			<key>Date Added</key><date>2018-08-14T18:42:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>12AC20B778EDA916</string>
@@ -804,7 +812,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3617545908</integer>
 			<key>Play Date UTC</key><date>2018-08-20T00:51:48Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B57A2F7D6FB81F4A</string>
@@ -833,7 +841,7 @@
 			<key>Play Date UTC</key><date>2018-09-07T18:06:09Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2018-08-14T19:06:00Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Book Of My Life (Feat. Anoushka Shankar)</string>
@@ -858,7 +866,7 @@
 			<key>Date Added</key><date>2018-08-14T18:42:49Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E8E4118B09CCAF38</string>
@@ -882,7 +890,7 @@
 			<key>Date Added</key><date>2018-08-14T18:42:49Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>68259EA612A1AC15</string>
@@ -910,7 +918,9 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3620823663</integer>
 			<key>Play Date UTC</key><date>2018-09-26T23:21:03Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T15:55:48Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>DB7A867DDB813146</string>
@@ -935,9 +945,9 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3617302240</integer>
-			<key>Play Date UTC</key><date>2018-08-17T05:10:40Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3623235572</integer>
+			<key>Play Date UTC</key><date>2018-10-24T21:19:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -963,6 +973,9 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623402454</integer>
+			<key>Play Date UTC</key><date>2018-10-26T19:40:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -988,7 +1001,10 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623823222</integer>
+			<key>Play Date UTC</key><date>2018-10-31T16:33:42Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>C97BE275307B5145</string>
@@ -1018,7 +1034,7 @@
 			<key>Play Date UTC</key><date>2018-08-27T16:50:45Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-16T18:38:18Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>970A146C82F9C5E8</string>
@@ -1043,7 +1059,7 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Name</key><string>Lowest Trees Have Tops</string>
@@ -1069,7 +1085,7 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>1D8CB72F7350B902</string>
@@ -1094,7 +1110,7 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>1D56631FB5657D6B</string>
@@ -1122,7 +1138,7 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3619000990</integer>
 			<key>Play Date UTC</key><date>2018-09-05T21:03:10Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>1D988F5F2547E867</string>
@@ -1178,7 +1194,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3617701384</integer>
 			<key>Play Date UTC</key><date>2018-08-21T20:03:04Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>9951E9388EE09375</string>
@@ -1231,6 +1247,9 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623135357</integer>
+			<key>Play Date UTC</key><date>2018-10-23T17:29:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -1256,9 +1275,9 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3618300233</integer>
-			<key>Play Date UTC</key><date>2018-08-28T18:23:53Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3622986936</integer>
+			<key>Play Date UTC</key><date>2018-10-22T00:15:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -1284,7 +1303,10 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622870400</integer>
+			<key>Play Date UTC</key><date>2018-10-20T15:53:20Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>7DA8CCBD00ED8E58</string>
@@ -1309,10 +1331,10 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3619001206</integer>
-			<key>Play Date UTC</key><date>2018-09-05T21:06:46Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3623735998</integer>
+			<key>Play Date UTC</key><date>2018-10-30T16:19:58Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>5A51E5AB57AEE5C4</string>
@@ -1340,7 +1362,7 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3619001319</integer>
 			<key>Play Date UTC</key><date>2018-09-05T21:08:39Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>49AF2F96AC127232</string>
@@ -1393,7 +1415,7 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3617422497</integer>
 			<key>Play Date UTC</key><date>2018-08-18T14:34:57Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>053BDCE24124D323</string>
@@ -1418,7 +1440,7 @@
 			<key>Date Added</key><date>2018-08-14T18:43:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>B97E5C76224B07C0</string>
@@ -1446,7 +1468,9 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3619584978</integer>
 			<key>Play Date UTC</key><date>2018-09-12T15:16:18Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-19T15:22:09Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>342371D40B1643E9</string>
@@ -1471,7 +1495,7 @@
 			<key>Date Added</key><date>2018-08-14T18:43:49Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>52A36B8524D435EB</string>
@@ -1498,7 +1522,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-28T15:11:15Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3E89F30E1BD58ECE</string>
@@ -1523,6 +1547,9 @@
 			<key>Date Added</key><date>2018-08-14T18:43:49Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622803808</integer>
+			<key>Play Date UTC</key><date>2018-10-19T21:23:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1577,7 +1604,7 @@
 			<key>Date Added</key><date>2018-08-14T18:43:49Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Burning Babe</string>
@@ -1606,7 +1633,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3617701769</integer>
 			<key>Play Date UTC</key><date>2018-08-21T20:09:29Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>077C6C17AD158FA5</string>
@@ -1634,7 +1661,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3617133190</integer>
 			<key>Play Date UTC</key><date>2018-08-15T06:13:10Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5EC87BD02865CBCF</string>
@@ -1687,6 +1714,9 @@
 			<key>Date Added</key><date>2018-08-14T18:44:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3623403511</integer>
+			<key>Play Date UTC</key><date>2018-10-26T19:58:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1790,7 +1820,7 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3621226643</integer>
 			<key>Play Date UTC</key><date>2018-10-01T15:17:23Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8F02F784297704D0</string>
@@ -1815,6 +1845,8 @@
 			<key>Date Added</key><date>2018-08-14T18:44:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-19T19:52:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1841,6 +1873,9 @@
 			<key>Date Added</key><date>2018-08-14T18:44:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623135181</integer>
+			<key>Play Date UTC</key><date>2018-10-23T17:26:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1866,7 +1901,7 @@
 			<key>Date Added</key><date>2018-08-14T18:44:26Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D469F482CC56FA8C</string>
@@ -1919,7 +1954,7 @@
 			<key>Date Added</key><date>2018-08-14T18:45:29Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Last Ship</string>
@@ -1974,6 +2009,9 @@
 			<key>Date Added</key><date>2018-08-14T18:45:29Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623910357</integer>
+			<key>Play Date UTC</key><date>2018-11-01T16:45:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2026,7 +2064,7 @@
 			<key>Date Added</key><date>2018-08-14T18:45:29Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Last Ship</string>
@@ -2176,6 +2214,8 @@
 			<key>Date Added</key><date>2018-09-19T02:10:48Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-25T00:10:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2354,6 +2394,8 @@
 			<key>Date Added</key><date>2018-09-19T02:11:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-25T00:13:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2415,6 +2457,9 @@
 			<key>Date Added</key><date>2018-09-19T02:11:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623156935</integer>
+			<key>Play Date UTC</key><date>2018-10-23T23:28:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2444,6 +2489,9 @@
 			<key>Date Added</key><date>2018-09-19T02:11:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622976521</integer>
+			<key>Play Date UTC</key><date>2018-10-21T21:22:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2531,6 +2579,8 @@
 			<key>Date Added</key><date>2018-09-19T02:11:41Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-25T00:17:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>

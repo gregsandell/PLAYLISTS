@@ -4,269 +4,859 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-11-04T21:29:10Z</date>
-	<key>Application Version</key><string>10.7</string>
+	<key>Date</key><date>2018-11-01T21:38:44Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>129218</key>
+		<key>3801</key>
 		<dict>
-			<key>Track ID</key><integer>129218</integer>
-			<key>Name</key><string>08 Favorite</string>
+			<key>Track ID</key><integer>3801</integer>
+			<key>Name</key><string>Honky Tonk Hiccups</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Virginian</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3103171</integer>
+			<key>Total Time</key><integer>145031</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:18Z</date>
+			<key>Date Added</key><date>2018-09-10T02:04:37Z</date>
+			<key>Bit Rate</key><integer>169</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>8170</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Virginian</string>
+			<key>Persistent ID</key><string>D17A1C7425AD32C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/1999%20-%20The%20Virginian/Honky%20Tonk%20Hiccups.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3803</key>
+		<dict>
+			<key>Track ID</key><integer>3803</integer>
+			<key>Name</key><string>Jettison</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Virginian</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4056421</integer>
+			<key>Total Time</key><integer>194873</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:04:37Z</date>
+			<key>Bit Rate</key><integer>164</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3620809192</integer>
+			<key>Play Date UTC</key><date>2018-09-26T19:19:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Virginian</string>
+			<key>Persistent ID</key><string>76223AD43D709680</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/1999%20-%20The%20Virginian/Jettison.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3805</key>
+		<dict>
+			<key>Track ID</key><integer>3805</integer>
+			<key>Name</key><string>Karoline</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Virginian</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3027301</integer>
+			<key>Total Time</key><integer>145893</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:04:37Z</date>
+			<key>Bit Rate</key><integer>163</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>12228</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Virginian</string>
+			<key>Persistent ID</key><string>AE9CB1999EF016EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/1999%20-%20The%20Virginian/Karoline.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3807</key>
+		<dict>
+			<key>Track ID</key><integer>3807</integer>
+			<key>Name</key><string>Somebody Led Me Away</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Virginian</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3588320</integer>
+			<key>Total Time</key><integer>167993</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:18Z</date>
+			<key>Date Added</key><date>2018-09-10T02:04:37Z</date>
+			<key>Bit Rate</key><integer>169</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>8375</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Virginian</string>
+			<key>Persistent ID</key><string>DA792BF48015CF75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/1999%20-%20The%20Virginian/Somebody%20Led%20Me%20Away.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3809</key>
+		<dict>
+			<key>Track ID</key><integer>3809</integer>
+			<key>Name</key><string>Timber</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Virginian</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3416001</integer>
+			<key>Total Time</key><integer>156003</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:04:37Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>5714</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Virginian</string>
+			<key>Persistent ID</key><string>B0487B9826CA0996</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/1999%20-%20The%20Virginian/Timber.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3811</key>
+		<dict>
+			<key>Track ID</key><integer>3811</integer>
+			<key>Name</key><string>Mood to Burn Bridges</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Furnace Room Lullaby</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6103915</integer>
+			<key>Total Time</key><integer>173933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:47Z</date>
+			<key>Date Added</key><date>2018-09-10T02:05:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619422777</integer>
+			<key>Play Date UTC</key><date>2018-09-10T18:12:57Z</date>
+			<key>Release Date</key><date>2007-10-01T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>7338</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>71CDFC5B73479CE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2000%20-%20Furnace%20Room%20Lullaby/04%20Mood%20to%20Burn%20Bridges.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3813</key>
+		<dict>
+			<key>Track ID</key><integer>3813</integer>
+			<key>Name</key><string>Thrice All American</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Furnace Room Lullaby</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6731455</integer>
+			<key>Total Time</key><integer>193400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-10T02:05:47Z</date>
+			<key>Date Added</key><date>2018-09-10T02:05:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623216769</integer>
+			<key>Play Date UTC</key><date>2018-10-24T16:06:09Z</date>
+			<key>Release Date</key><date>2007-10-01T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3546</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>48F21F4755E4B500</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2000%20-%20Furnace%20Room%20Lullaby/07%20Thrice%20All%20American.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3815</key>
+		<dict>
+			<key>Track ID</key><integer>3815</integer>
+			<key>Name</key><string>Andy</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album</key><string>Canadian Amp</string>
-			<key>Genre</key><string>Indie </string>
+			<key>Genre</key><string>Country</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5954506</integer>
-			<key>Total Time</key><integer>197276</integer>
-			<key>Track Number</key><integer>8</integer>
+			<key>Size</key><integer>2142429</integer>
+			<key>Total Time</key><integer>100257</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2012-03-23T22:20:32Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>241</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:22Z</date>
+			<key>Date Added</key><date>2018-09-10T02:05:53Z</date>
+			<key>Bit Rate</key><integer>167</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [SKIPPED]</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3397044220</integer>
-			<key>Play Date UTC</key><date>2011-08-24T21:23:40Z</date>
-			<key>Skip Count</key><integer>4</integer>
-			<key>Skip Date</key><date>2012-07-17T01:47:16Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>9EDEBF63712D3E40</string>
+			<key>Comments</key><string>GK Maybe</string>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>4990</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>678F2E9B736B95B0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Canadian%20Amp/08%2008%20Favorite.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2001%20-%20Canadian%20Amp/01%20-%20Andy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129223</key>
+		<key>3817</key>
 		<dict>
-			<key>Track ID</key><integer>129223</integer>
+			<key>Track ID</key><integer>3817</integer>
+			<key>Name</key><string>Make Your Bed</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Canadian Amp</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4097128</integer>
+			<key>Total Time</key><integer>195500</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:22Z</date>
+			<key>Date Added</key><date>2018-09-10T02:05:53Z</date>
+			<key>Bit Rate</key><integer>165</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK Maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>8944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1370FF2EB3236736</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2001%20-%20Canadian%20Amp/04%20-%20Make%20Your%20Bed.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3819</key>
+		<dict>
+			<key>Track ID</key><integer>3819</integer>
+			<key>Name</key><string>Alone And Forsaken</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Canadian Amp</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3398306</integer>
+			<key>Total Time</key><integer>162951</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:21Z</date>
+			<key>Date Added</key><date>2018-09-10T02:05:53Z</date>
+			<key>Bit Rate</key><integer>164</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK Maybe</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622872413</integer>
+			<key>Play Date UTC</key><date>2018-10-20T16:26:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-12T04:29:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>9187</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FA69DC474E9AC7B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2001%20-%20Canadian%20Amp/07%20-%20Alone%20And%20Forsaken.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3821</key>
+		<dict>
+			<key>Track ID</key><integer>3821</integer>
+			<key>Name</key><string>Favorite</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Canadian Amp</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4204643</integer>
+			<key>Total Time</key><integer>197302</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:21Z</date>
+			<key>Date Added</key><date>2018-09-10T02:05:53Z</date>
+			<key>Bit Rate</key><integer>168</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK Maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3620211988</integer>
+			<key>Play Date UTC</key><date>2018-09-19T21:26:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>10680</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCDA7780AAD4844E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2001%20-%20Canadian%20Amp/08%20-%20Favorite.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3823</key>
+		<dict>
+			<key>Track ID</key><integer>3823</integer>
+			<key>Name</key><string>Blacklisted</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Blacklisted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3077516</integer>
+			<key>Total Time</key><integer>142341</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:56Z</date>
+			<key>Date Added</key><date>2018-09-10T02:06:31Z</date>
+			<key>Bit Rate</key><integer>170</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>4496</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DEEC52A75B3B957A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2002%20-%20Blacklisted/Blacklisted.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3825</key>
+		<dict>
+			<key>Track ID</key><integer>3825</integer>
+			<key>Name</key><string>I Wish I Was The Moon</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Blacklisted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4567133</integer>
+			<key>Total Time</key><integer>214804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:56Z</date>
+			<key>Date Added</key><date>2018-09-10T02:06:31Z</date>
+			<key>Bit Rate</key><integer>168</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>4728</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>523DB3F2C6DF05C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2002%20-%20Blacklisted/I%20Wish%20I%20Was%20The%20Moon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3827</key>
+		<dict>
+			<key>Track ID</key><integer>3827</integer>
+			<key>Name</key><string>Lady Pilot</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Blacklisted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3077619</integer>
+			<key>Total Time</key><integer>146808</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:57Z</date>
+			<key>Date Added</key><date>2018-09-10T02:06:31Z</date>
+			<key>Bit Rate</key><integer>165</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3623645519</integer>
+			<key>Play Date UTC</key><date>2018-10-29T15:11:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>4763</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F293F804DF3E8921</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2002%20-%20Blacklisted/Lady%20Pilot.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3829</key>
+		<dict>
+			<key>Track ID</key><integer>3829</integer>
+			<key>Name</key><string>Look For Me (I'll Be Around)</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Blacklisted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4225875</integer>
+			<key>Total Time</key><integer>201195</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:57Z</date>
+			<key>Date Added</key><date>2018-09-10T02:06:31Z</date>
+			<key>Bit Rate</key><integer>166</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>2399</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55964FCF89BC26E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2002%20-%20Blacklisted/Look%20For%20Me%20(I'll%20Be%20Around).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3831</key>
+		<dict>
+			<key>Track ID</key><integer>3831</integer>
+			<key>Name</key><string>Stinging Velvet</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Blacklisted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3757225</integer>
+			<key>Total Time</key><integer>175856</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:57Z</date>
+			<key>Date Added</key><date>2018-09-10T02:06:31Z</date>
+			<key>Bit Rate</key><integer>168</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619586443</integer>
+			<key>Play Date UTC</key><date>2018-09-12T15:40:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>7137</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EECEDBA9A181163E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2002%20-%20Blacklisted/Stinging%20Velvet.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3833</key>
+		<dict>
+			<key>Track ID</key><integer>3833</integer>
+			<key>Name</key><string>Things That Scare Me</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Blacklisted</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3294341</integer>
+			<key>Total Time</key><integer>150360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-09-10T02:06:58Z</date>
+			<key>Date Added</key><date>2018-09-10T02:06:31Z</date>
+			<key>Bit Rate</key><integer>172</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3623403275</integer>
+			<key>Play Date UTC</key><date>2018-10-26T19:54:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>5856</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00120C12FE94CE30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2002%20-%20Blacklisted/Things%20That%20Scare%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3835</key>
+		<dict>
+			<key>Track ID</key><integer>3835</integer>
+			<key>Name</key><string>If You Knew</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4848788</integer>
+			<key>Total Time</key><integer>150622</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:10Z</date>
+			<key>Date Added</key><date>2018-09-10T02:07:10Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3620623560</integer>
+			<key>Play Date UTC</key><date>2018-09-24T15:46:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tigers Have Spoken</string>
+			<key>Persistent ID</key><string>002C8B220A67D38B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2004%20-%20The%20Tigers%20Have%20Spoken/01%20If%20You%20Knew.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3837</key>
+		<dict>
+			<key>Track ID</key><integer>3837</integer>
+			<key>Name</key><string>Hex</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8762605</integer>
+			<key>Total Time</key><integer>299911</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:09Z</date>
+			<key>Date Added</key><date>2018-09-10T02:07:10Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tigers Have Spoken</string>
+			<key>Persistent ID</key><string>ABFF9DC017F8E3A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2004%20-%20The%20Tigers%20Have%20Spoken/03%20Hex.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3839</key>
+		<dict>
+			<key>Track ID</key><integer>3839</integer>
+			<key>Name</key><string>Train From Kansas City</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7047507</integer>
+			<key>Total Time</key><integer>205217</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:09Z</date>
+			<key>Date Added</key><date>2018-09-10T02:07:10Z</date>
+			<key>Bit Rate</key><integer>271</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619592082</integer>
+			<key>Play Date UTC</key><date>2018-09-12T17:14:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tigers Have Spoken</string>
+			<key>Persistent ID</key><string>9E53C76CAC872048</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2004%20-%20The%20Tigers%20Have%20Spoken/04%20Train%20From%20Kansas%20City.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3841</key>
+		<dict>
+			<key>Track ID</key><integer>3841</integer>
+			<key>Name</key><string>Favorite</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6687455</integer>
+			<key>Total Time</key><integer>216711</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:08Z</date>
+			<key>Date Added</key><date>2018-09-10T02:07:10Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619585630</integer>
+			<key>Play Date UTC</key><date>2018-09-12T15:27:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tigers Have Spoken</string>
+			<key>Persistent ID</key><string>9CB71D1EDC9ADE6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2004%20-%20The%20Tigers%20Have%20Spoken/08%20Favorite.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3843</key>
+		<dict>
+			<key>Track ID</key><integer>3843</integer>
+			<key>Name</key><string>Rated X</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6011701</integer>
+			<key>Total Time</key><integer>169639</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:08Z</date>
+			<key>Date Added</key><date>2018-09-10T02:07:10Z</date>
+			<key>Bit Rate</key><integer>279</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619546804</integer>
+			<key>Play Date UTC</key><date>2018-09-12T04:40:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tigers Have Spoken</string>
+			<key>Persistent ID</key><string>FB54B9B3D480BF82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2004%20-%20The%20Tigers%20Have%20Spoken/09%20Rated%20X.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3845</key>
+		<dict>
+			<key>Track ID</key><integer>3845</integer>
+			<key>Name</key><string>Wayfaring Stranger</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5438355</integer>
+			<key>Total Time</key><integer>196414</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:07Z</date>
+			<key>Date Added</key><date>2018-09-10T02:07:10Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tigers Have Spoken</string>
+			<key>Persistent ID</key><string>37B267194C4C5847</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2004%20-%20The%20Tigers%20Have%20Spoken/11%20Wayfaring%20Stranger.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3847</key>
+		<dict>
+			<key>Track ID</key><integer>3847</integer>
 			<key>Name</key><string>Margaret Vs. Pauline</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album</key><string>Fox Confessor Brings The Flood</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5406342</integer>
+			<key>Size</key><integer>5438944</integer>
 			<key>Total Time</key><integer>172695</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:14Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Date Modified</key><date>2018-09-10T02:08:51Z</date>
+			<key>Date Added</key><date>2018-09-10T02:08:19Z</date>
 			<key>Bit Rate</key><integer>250</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3398836153</integer>
-			<key>Play Date UTC</key><date>2011-09-14T15:09:13Z</date>
-			<key>Skip Count</key><integer>1</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623145545</integer>
+			<key>Play Date UTC</key><date>2018-10-23T20:19:05Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>D3F793A9AD2689C0</string>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F1D6E73571075CA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/01%20Margaret%20Vs.%20Pauline.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2006%20-%20Fox%20Confessor%20Brings%20The%20Flood/01%20Margaret%20Vs.%20Pauline.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129226</key>
+		<key>3849</key>
 		<dict>
-			<key>Track ID</key><integer>129226</integer>
+			<key>Track ID</key><integer>3849</integer>
 			<key>Name</key><string>Star Witness</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album</key><string>Fox Confessor Brings The Flood</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11142568</integer>
+			<key>Size</key><integer>10717224</integer>
 			<key>Total Time</key><integer>316551</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:14Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Date Modified</key><date>2018-09-10T02:08:51Z</date>
+			<key>Date Added</key><date>2018-09-10T02:08:19Z</date>
 			<key>Bit Rate</key><integer>268</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>11</integer>
-			<key>Play Date</key><integer>3399886493</integer>
-			<key>Play Date UTC</key><date>2011-09-26T18:54:53Z</date>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3623145299</integer>
+			<key>Play Date UTC</key><date>2018-10-23T20:14:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7016319B8162EA28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2006%20-%20Fox%20Confessor%20Brings%20The%20Flood/02%20Star%20Witness.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3851</key>
+		<dict>
+			<key>Track ID</key><integer>3851</integer>
+			<key>Name</key><string>Fox Confessor Brings The Flood</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Fox Confessor Brings The Flood</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5440669</integer>
+			<key>Total Time</key><integer>162481</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:50Z</date>
+			<key>Date Added</key><date>2018-09-10T02:08:19Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3623303522</integer>
+			<key>Play Date UTC</key><date>2018-10-25T16:12:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0AAF09DBBE3C6CE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2006%20-%20Fox%20Confessor%20Brings%20The%20Flood/06%20Fox%20Confessor%20Brings%20The%20Flood.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3853</key>
+		<dict>
+			<key>Track ID</key><integer>3853</integer>
+			<key>Name</key><string>Lion's Jaws</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Fox Confessor Brings The Flood</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4958011</integer>
+			<key>Total Time</key><integer>148271</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-09-10T02:08:49Z</date>
+			<key>Date Added</key><date>2018-09-10T02:08:19Z</date>
+			<key>Bit Rate</key><integer>264</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619579868</integer>
+			<key>Play Date UTC</key><date>2018-09-12T13:51:08Z</date>
 			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-12T13:51:20Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>E4D861AA051F9822</string>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>62F7F462F6EF1C53</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/02%20Star%20Witness.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2006%20-%20Fox%20Confessor%20Brings%20The%20Flood/09%20Lion's%20Jaws.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129229</key>
+		<key>3855</key>
 		<dict>
-			<key>Track ID</key><integer>129229</integer>
-			<key>Name</key><string>That Teenage Feeling</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Fox Confessor Brings The Flood</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5505350</integer>
-			<key>Total Time</key><integer>162977</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:16Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>245</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3395049778</integer>
-			<key>Play Date UTC</key><date>2011-08-01T19:22:58Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>0D3A061DE18FCD5B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/05%20That%20Teenage%20Feeling.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129232</key>
-		<dict>
-			<key>Track ID</key><integer>129232</integer>
-			<key>Name</key><string>John Saw That Number</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Fox Confessor Brings The Flood</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8692532</integer>
-			<key>Total Time</key><integer>246177</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:16Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>266</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3396212393</integer>
-			<key>Play Date UTC</key><date>2011-08-15T06:19:53Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-01-04T21:10:24Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>9FBB439C19997090</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/07%20John%20Saw%20That%20Number.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129235</key>
-		<dict>
-			<key>Track ID</key><integer>129235</integer>
-			<key>Name</key><string>Dirty Knife</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Fox Confessor Brings The Flood</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6286641</integer>
-			<key>Total Time</key><integer>198844</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:16Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>232</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3400845278</integer>
-			<key>Play Date UTC</key><date>2011-10-07T21:14:38Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>C8B7F5FF1DDC07E1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/08%20Dirty%20Knife.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129238</key>
-		<dict>
-			<key>Track ID</key><integer>129238</integer>
+			<key>Track ID</key><integer>3855</integer>
 			<key>Name</key><string>Maybe Sparrow</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album</key><string>Fox Confessor Brings The Flood</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6004211</integer>
+			<key>Size</key><integer>5553047</integer>
 			<key>Total Time</key><integer>157570</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:18Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Date Modified</key><date>2018-09-10T02:08:48Z</date>
+			<key>Date Added</key><date>2018-09-10T02:08:19Z</date>
 			<key>Bit Rate</key><integer>279</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3396371832</integer>
-			<key>Play Date UTC</key><date>2011-08-17T02:37:12Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2011-01-04T18:48:45Z</date>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3619582483</integer>
+			<key>Play Date UTC</key><date>2018-09-12T14:34:43Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>F3187E6E0BC2010B</string>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9644DE04A409C49F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/10%20Maybe%20Sparrow.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2006%20-%20Fox%20Confessor%20Brings%20The%20Flood/10%20Maybe%20Sparrow.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129241</key>
+		<key>3857</key>
 		<dict>
-			<key>Track ID</key><integer>129241</integer>
-			<key>Name</key><string>At Last</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Fox Confessor Brings The Flood</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3293251</integer>
-			<key>Total Time</key><integer>95660</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:18Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>233</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3400067644</integer>
-			<key>Play Date UTC</key><date>2011-09-28T21:14:04Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>B2891B142F5DE497</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Fox%20Confessor%20Brings%20The%20Flood/11%20At%20Last.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129244</key>
-		<dict>
-			<key>Track ID</key><integer>129244</integer>
+			<key>Track ID</key><integer>3857</integer>
 			<key>Name</key><string>People Got a Lotta Nerve</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Middle Cyclone (Bonus Track Version)</string>
+			<key>Album</key><string>Middle Cyclone</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>Purchased AAC audio file</string>
 			<key>Size</key><integer>5440034</integer>
@@ -276,35 +866,30 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:24Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Date Modified</key><date>2018-09-10T02:09:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:09:00Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3398248375</integer>
-			<key>Play Date UTC</key><date>2011-09-07T19:52:55Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-06-03T05:51:52Z</date>
+			<key>Comments</key><string>GK maybe</string>
 			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>5422</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D8DBE078F5C1F9F4</string>
+			<key>Persistent ID</key><string>69BC8315779323B1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Middle%20Cyclone%20(Bonus%20Track%20Version)/03%20People%20Got%20a%20Lotta%20Nerve.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2008%20-%20Middle%20Cyclone/03%20People%20Got%20a%20Lotta%20Nerve.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129247</key>
+		<key>3859</key>
 		<dict>
-			<key>Track ID</key><integer>129247</integer>
+			<key>Track ID</key><integer>3859</integer>
 			<key>Name</key><string>Vengeance Is Sleeping</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Middle Cyclone (Bonus Track Version)</string>
+			<key>Album</key><string>Middle Cyclone</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>Purchased AAC audio file</string>
 			<key>Size</key><integer>7157439</integer>
@@ -314,35 +899,101 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:24Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Date Modified</key><date>2018-09-10T02:09:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:09:00Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>20</integer>
-			<key>Play Date</key><integer>3423901404</integer>
-			<key>Play Date UTC</key><date>2012-06-30T17:43:24Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2011-02-04T20:36:19Z</date>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622699237</integer>
+			<key>Play Date UTC</key><date>2018-10-18T16:20:37Z</date>
 			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
-			<key>Rating</key><integer>60</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>2991</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>34D068235D0BE42C</string>
+			<key>Persistent ID</key><string>59253735A929D409</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Middle%20Cyclone%20(Bonus%20Track%20Version)/05%20Vengeance%20Is%20Sleeping.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2008%20-%20Middle%20Cyclone/05%20Vengeance%20Is%20Sleeping.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129250</key>
+		<key>3861</key>
 		<dict>
-			<key>Track ID</key><integer>129250</integer>
+			<key>Track ID</key><integer>3861</integer>
+			<key>Name</key><string>Magpie to the Morning</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Middle Cyclone</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5883015</integer>
+			<key>Total Time</key><integer>164040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-09-10T02:09:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:09:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-23T19:20:55Z</date>
+			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>1743</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DD9AA3A7435A957</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2008%20-%20Middle%20Cyclone/09%20Magpie%20to%20the%20Morning.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3863</key>
+		<dict>
+			<key>Track ID</key><integer>3863</integer>
+			<key>Name</key><string>Prison Girls</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Middle Cyclone</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11120311</integer>
+			<key>Total Time</key><integer>323506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-09-10T02:09:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:09:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3683</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7CFF9D8FBF9428EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2008%20-%20Middle%20Cyclone/11%20Prison%20Girls.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3865</key>
+		<dict>
+			<key>Track ID</key><integer>3865</integer>
 			<key>Name</key><string>The Pharoahs</string>
 			<key>Artist</key><string>Neko Case</string>
 			<key>Album Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Middle Cyclone (Bonus Track Version)</string>
+			<key>Album</key><string>Middle Cyclone</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>Purchased AAC audio file</string>
 			<key>Size</key><integer>7530305</integer>
@@ -352,222 +1003,325 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:26Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Date Modified</key><date>2018-09-10T02:09:19Z</date>
+			<key>Date Added</key><date>2018-09-10T02:09:00Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3398835991</integer>
-			<key>Play Date UTC</key><date>2011-09-14T15:06:31Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-01-04T15:56:05Z</date>
+			<key>Comments</key><string>GK maybe</string>
 			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>3770</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Pharoahs</string>
-			<key>Persistent ID</key><string>1FB28DF10AF1935C</string>
+			<key>Persistent ID</key><string>736A2A1B83B039BC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Middle%20Cyclone%20(Bonus%20Track%20Version)/13%20The%20Pharoahs.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2008%20-%20Middle%20Cyclone/13%20The%20Pharoahs.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129253</key>
+		<key>4245</key>
 		<dict>
-			<key>Track ID</key><integer>129253</integer>
-			<key>Name</key><string>Red Tide</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album Artist</key><string>Neko Case</string>
-			<key>Album</key><string>Middle Cyclone (Bonus Track Version)</string>
-			<key>Genre</key><string>Alternative</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>5646907</integer>
-			<key>Total Time</key><integer>156480</integer>
+			<key>Track ID</key><integer>4245</integer>
+			<key>Name</key><string>Go Places</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album</key><string>Challengers</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6593244</integer>
+			<key>Total Time</key><integer>272770</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-13T04:28:11Z</date>
+			<key>Date Added</key><date>2018-09-13T04:24:01Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3621003447</integer>
+			<key>Play Date UTC</key><date>2018-09-29T01:17:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>A0622AFD674E0982</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2007%20-%20Challengers/09%20-%20Go%20Places.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4255</key>
+		<dict>
+			<key>Track ID</key><integer>4255</integer>
+			<key>Name</key><string>The Laws Have Changed</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Composer</key><string>A.C. Newman</string>
+			<key>Album</key><string>Electric Version</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8289332</integer>
+			<key>Total Time</key><integer>206628</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-09-13T04:38:10Z</date>
+			<key>Date Added</key><date>2018-09-13T04:29:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619946526</integer>
+			<key>Play Date UTC</key><date>2018-09-16T19:42:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Sort Name</key><string>Laws Have Changed</string>
+			<key>Persistent ID</key><string>9E5FC2FA4D12B15B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2003%20-%20Electric%20Version/03%20-%20The%20Laws%20Have%20Changed.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4261</key>
+		<dict>
+			<key>Track ID</key><integer>4261</integer>
+			<key>Name</key><string>All For Swinging You Around</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Album</key><string>Electric Version</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8927748</integer>
+			<key>Total Time</key><integer>222589</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-09-13T04:38:10Z</date>
+			<key>Date Added</key><date>2018-09-13T04:29:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>E7B04E08BFEEBD12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2003%20-%20Electric%20Version/07%20-%20All%20For%20Swinging%20You%20Around.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4279</key>
+		<dict>
+			<key>Track ID</key><integer>4279</integer>
+			<key>Name</key><string>Letter From An Occupant</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Composer</key><string>The New Pornographers</string>
+			<key>Album</key><string>Mass Romantic</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4552830</integer>
+			<key>Total Time</key><integer>225975</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Track Count</key><integer>15</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:28Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2018-09-13T04:32:15Z</date>
+			<key>Date Added</key><date>2018-09-13T04:31:43Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619780001</integer>
+			<key>Play Date UTC</key><date>2018-09-14T21:26:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>8594</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Sort Composer</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>5C72633852421A8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2000%20-%20Mass%20Romantic/Letter%20From%20An%20Occupant.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4281</key>
+		<dict>
+			<key>Track ID</key><integer>4281</integer>
+			<key>Name</key><string>Mass Romantic</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Composer</key><string>The New Pornographers</string>
+			<key>Album</key><string>Mass Romantic</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5064305</integer>
+			<key>Total Time</key><integer>251099</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2018-09-13T04:32:16Z</date>
+			<key>Date Added</key><date>2018-09-13T04:31:43Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>7101</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Sort Composer</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>C9042521F5ECDE23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2000%20-%20Mass%20Romantic/Mass%20Romantic.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4293</key>
+		<dict>
+			<key>Track ID</key><integer>4293</integer>
+			<key>Name</key><string>Joseph, Who Understood</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Album</key><string>The Spirit of Giving</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6316137</integer>
+			<key>Total Time</key><integer>180666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-13T04:34:51Z</date>
+			<key>Date Added</key><date>2018-09-13T04:34:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3405355086</integer>
-			<key>Play Date UTC</key><date>2011-11-29T01:58:06Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2011-01-12T23:40:31Z</date>
-			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Release Date</key><date>2007-11-27T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>5349</integer>
+			<key>Normalization</key><integer>4215</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>AE421A9C9B1FC7C8</string>
+			<key>Sort Album</key><string>Spirit of Giving</string>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>063FBBB67A34D277</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/Middle%20Cyclone%20(Bonus%20Track%20Version)/14%20Red%20Tide.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2007%20-%20The%20Spirit%20of%20Giving/02%20Joseph,%20Who%20Understood.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129256</key>
+		<key>4297</key>
 		<dict>
-			<key>Track ID</key><integer>129256</integer>
-			<key>Name</key><string>If You Knew</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>The Tigers Have Spoken</string>
-			<key>Genre</key><string>Rock</string>
+			<key>Track ID</key><integer>4297</integer>
+			<key>Name</key><string>Crash Years</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Album</key><string>Together</string>
+			<key>Genre</key><string>Indie </string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4896193</integer>
-			<key>Total Time</key><integer>150622</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:34Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>253</integer>
+			<key>Size</key><integer>6512269</integer>
+			<key>Total Time</key><integer>246622</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-13T04:36:54Z</date>
+			<key>Date Added</key><date>2018-09-13T04:36:16Z</date>
+			<key>Bit Rate</key><integer>209</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3396205756</integer>
-			<key>Play Date UTC</key><date>2011-08-15T04:29:16Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Rating</key><integer>100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623238927</integer>
+			<key>Play Date UTC</key><date>2018-10-24T22:15:27Z</date>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Sort Album</key><string>Tigers Have Spoken</string>
-			<key>Persistent ID</key><string>890BE4877297FD5E</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>CA8970CDCC02841D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/The%20Tigers%20Have%20Spoken/01%20If%20You%20Knew.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2010%20-%20Together/02%20-%20Crash%20Years.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>129259</key>
+		<key>4327</key>
 		<dict>
-			<key>Track ID</key><integer>129259</integer>
-			<key>Name</key><string>Hex</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>The Tigers Have Spoken</string>
+			<key>Track ID</key><integer>4327</integer>
+			<key>Name</key><string>These Are The Fables</string>
+			<key>Artist</key><string>The New Pornographers</string>
+			<key>Album Artist</key><string>The New Pornographers</string>
+			<key>Composer</key><string>A.C. Newman</string>
+			<key>Album</key><string>Twin Cinema</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>8790442</integer>
-			<key>Total Time</key><integer>299911</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:34Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>231</integer>
+			<key>Size</key><integer>5055449</integer>
+			<key>Total Time</key><integer>209632</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-09-13T15:48:19Z</date>
+			<key>Date Added</key><date>2018-09-13T04:38:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3620577169</integer>
+			<key>Play Date UTC</key><date>2018-09-24T02:52:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album Artist</key><string>New Pornographers</string>
+			<key>Sort Artist</key><string>New Pornographers</string>
+			<key>Persistent ID</key><string>0A77E515380A712B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20New%20Pornographers/2005%20-%20Twin%20Cinema/07%20-%20These%20Are%20The%20Fables.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6243</key>
+		<dict>
+			<key>Track ID</key><integer>6243</integer>
+			<key>Name</key><string>Don't Forget Me</string>
+			<key>Artist</key><string>Neko Case</string>
+			<key>Album Artist</key><string>Neko Case</string>
+			<key>Album</key><string>Middle Cyclone</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6581247</integer>
+			<key>Total Time</key><integer>187733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-09-10T02:09:19Z</date>
+			<key>Date Added</key><date>2018-10-04T15:50:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3396197766</integer>
-			<key>Play Date UTC</key><date>2011-08-15T02:16:06Z</date>
-			<key>Skip Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621594586</integer>
+			<key>Play Date UTC</key><date>2018-10-05T21:29:46Z</date>
+			<key>Release Date</key><date>2009-03-03T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Sort Album</key><string>Tigers Have Spoken</string>
-			<key>Persistent ID</key><string>93AB39B9BB8E5027</string>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>2974</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15C76C25EC82D5AF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/The%20Tigers%20Have%20Spoken/03%20Hex.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129262</key>
-		<dict>
-			<key>Track ID</key><integer>129262</integer>
-			<key>Name</key><string>Favorite</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>The Tigers Have Spoken</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6725667</integer>
-			<key>Total Time</key><integer>216711</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:36Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>243</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3399568014</integer>
-			<key>Play Date UTC</key><date>2011-09-23T02:26:54Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2012-01-10T21:44:07Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Sort Album</key><string>Tigers Have Spoken</string>
-			<key>Persistent ID</key><string>85A709B362E3616C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/The%20Tigers%20Have%20Spoken/08%20Favorite.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129265</key>
-		<dict>
-			<key>Track ID</key><integer>129265</integer>
-			<key>Name</key><string>Rated X</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>The Tigers Have Spoken</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6053292</integer>
-			<key>Total Time</key><integer>169639</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:36Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>279</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3425313749</integer>
-			<key>Play Date UTC</key><date>2012-07-17T02:02:29Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-04-26T00:25:19Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Sort Album</key><string>Tigers Have Spoken</string>
-			<key>Persistent ID</key><string>7BFE126057F9972B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/The%20Tigers%20Have%20Spoken/09%20Rated%20X.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>129268</key>
-		<dict>
-			<key>Track ID</key><integer>129268</integer>
-			<key>Name</key><string>Wayfaring Stranger</string>
-			<key>Artist</key><string>Neko Case</string>
-			<key>Album</key><string>The Tigers Have Spoken</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5482813</integer>
-			<key>Total Time</key><integer>196414</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Date Modified</key><date>2011-03-19T21:59:38Z</date>
-			<key>Date Added</key><date>2012-11-04T21:28:22Z</date>
-			<key>Bit Rate</key><integer>218</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK]</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3417324957</integer>
-			<key>Play Date UTC</key><date>2012-04-15T14:55:57Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2011-11-12T13:16:59Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Sort Album</key><string>Tigers Have Spoken</string>
-			<key>Persistent ID</key><string>124EC3DFBCC67360</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/GK/Music/Neko%20Case/The%20Tigers%20Have%20Spoken/11%20Wayfaring%20Stranger.mp3</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Neko%20Case/2008%20-%20Middle%20Cyclone/12%20Don't%20Forget%20Me.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -576,61 +1330,137 @@
 	<array>
 		<dict>
 			<key>Name</key><string>Neko Case faves</string>
-			<key>Playlist ID</key><integer>129386</integer>
-			<key>Playlist Persistent ID</key><string>44F4F887A2B1E7A7</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>566225</integer>
+			<key>Playlist Persistent ID</key><string>4B1BD97F13E6BD4C</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>129218</integer>
+					<key>Track ID</key><integer>4297</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129223</integer>
+					<key>Track ID</key><integer>3807</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129226</integer>
+					<key>Track ID</key><integer>3805</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129229</integer>
+					<key>Track ID</key><integer>3815</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129232</integer>
+					<key>Track ID</key><integer>4327</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129235</integer>
+					<key>Track ID</key><integer>4293</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129238</integer>
+					<key>Track ID</key><integer>4279</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129241</integer>
+					<key>Track ID</key><integer>4281</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129244</integer>
+					<key>Track ID</key><integer>4261</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129250</integer>
+					<key>Track ID</key><integer>4255</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129253</integer>
+					<key>Track ID</key><integer>4245</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129256</integer>
+					<key>Track ID</key><integer>3801</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129259</integer>
+					<key>Track ID</key><integer>3803</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129262</integer>
+					<key>Track ID</key><integer>3809</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129265</integer>
+					<key>Track ID</key><integer>3845</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129268</integer>
+					<key>Track ID</key><integer>3843</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129247</integer>
+					<key>Track ID</key><integer>3841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3833</integer>
 				</dict>
 			</array>
 		</dict>

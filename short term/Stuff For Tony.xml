@@ -4,16 +4,16 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-08-14T17:52:21Z</date>
+	<key>Date</key><date>2018-11-01T21:41:04Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6533</key>
+		<key>2803</key>
 		<dict>
-			<key>Track ID</key><integer>6533</integer>
+			<key>Track ID</key><integer>2803</integer>
 			<key>Name</key><string>Eviscerate (Version)</string>
 			<key>Artist</key><string>Squarepusher</string>
 			<key>Album Artist</key><string>Squarepusher</string>
@@ -25,7 +25,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2018-05-24T04:13:20Z</date>
-			<key>Date Added</key><date>2018-05-30T01:15:15Z</date>
+			<key>Date Added</key><date>2018-08-14T18:21:04Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
@@ -33,11 +33,65 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>BC35CA367FE6F638</string>
+			<key>Persistent ID</key><string>0C87C4CF09BE478B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Squarepusher/1997%20-%20Burningn'n%20Tree/10%20Eviscerate%20(Version).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3247</key>
+		<dict>
+			<key>Track ID</key><integer>3247</integer>
+			<key>Name</key><string>Below Minus 4</string>
+			<key>Artist</key><string>Opiate</string>
+			<key>Album Artist</key><string>Opiate</string>
+			<key>Composer</key><string>Thomas Knak</string>
+			<key>Album</key><string>Objects For An Ideal Home</string>
+			<key>Genre</key><string>Electronic / Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6093724</integer>
+			<key>Total Time</key><integer>253361</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-08-29T17:12:54Z</date>
+			<key>Date Added</key><date>2018-08-29T04:09:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>asmadeus</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1090867AD852365</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Opiate/2007%20-%20Objects%20For%20An%20Ideal%20Home/10%20-%20Below%20Minus%204.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3895</key>
+		<dict>
+			<key>Track ID</key><integer>3895</integer>
+			<key>Name</key><string>No Time For A Change, Pt.1</string>
+			<key>Artist</key><string>Nonagon</string>
+			<key>Album</key><string>Days Away</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12764935</integer>
+			<key>Total Time</key><integer>316969</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-09-10T02:35:04Z</date>
+			<key>Date Added</key><date>2018-09-10T02:34:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F33985A9FB72C97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Nonagon/2009%20-%20Days%20Away/02%20No%20Time%20For%20A%20Change,%20Pt.1.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -45,13 +99,19 @@
 		<dict>
 			<key>Name</key><string>Stuff For Tony</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>46882</integer>
-			<key>Playlist Persistent ID</key><string>07493703ACC62038</string>
+			<key>Playlist ID</key><integer>16968</integer>
+			<key>Playlist Persistent ID</key><string>3CF2E23BEACCE331</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6533</integer>
+					<key>Track ID</key><integer>2803</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3895</integer>
 				</dict>
 			</array>
 		</dict>
