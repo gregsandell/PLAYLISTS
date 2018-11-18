@@ -4,16 +4,50 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-11-01T21:41:04Z</date>
+	<key>Date</key><date>2018-11-18T18:28:04Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>2803</key>
+		<key>2761</key>
 		<dict>
-			<key>Track ID</key><integer>2803</integer>
+			<key>Track ID</key><integer>2761</integer>
+			<key>Name</key><string>Midnight Sun (New York, February 26, 1952)</string>
+			<key>Artist</key><string>Coleman Hawkins</string>
+			<key>Album Artist</key><string>Coleman Hawkins</string>
+			<key>Composer</key><string>Sonny Burke/Lionel Hampton/Johnny Mercer</string>
+			<key>Album</key><string>Past Perfect - Bean's Talking Again - CD 10</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5133192</integer>
+			<key>Total Time</key><integer>175490</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2018-04-06T06:15:34Z</date>
+			<key>Date Added</key><date>2018-08-14T18:20:53Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3605973124</integer>
+			<key>Play Date UTC</key><date>2018-04-08T02:12:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>39BA6A545E4F0B7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/11.2%20-%20Midnight%20Sun%20(New%20York,%20February%2026,%201952).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2783</key>
+		<dict>
+			<key>Track ID</key><integer>2783</integer>
 			<key>Name</key><string>Eviscerate (Version)</string>
 			<key>Artist</key><string>Squarepusher</string>
 			<key>Album Artist</key><string>Squarepusher</string>
@@ -39,9 +73,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>3247</key>
+		<key>3211</key>
 		<dict>
-			<key>Track ID</key><integer>3247</integer>
+			<key>Track ID</key><integer>3211</integer>
 			<key>Name</key><string>Below Minus 4</string>
 			<key>Artist</key><string>Opiate</string>
 			<key>Album Artist</key><string>Opiate</string>
@@ -53,23 +87,26 @@
 			<key>Total Time</key><integer>253361</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2018-08-29T17:12:54Z</date>
+			<key>Date Modified</key><date>2018-08-29T18:12:54Z</date>
 			<key>Date Added</key><date>2018-08-29T04:09:42Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3625213063</integer>
+			<key>Play Date UTC</key><date>2018-11-16T19:37:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C1090867AD852365</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Opiate/2007%20-%20Objects%20For%20An%20Ideal%20Home/10%20-%20Below%20Minus%204.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>3895</key>
+		<key>3855</key>
 		<dict>
-			<key>Track ID</key><integer>3895</integer>
+			<key>Track ID</key><integer>3855</integer>
 			<key>Name</key><string>No Time For A Change, Pt.1</string>
 			<key>Artist</key><string>Nonagon</string>
 			<key>Album</key><string>Days Away</string>
@@ -90,8 +127,8 @@
 			<key>Persistent ID</key><string>1F33985A9FB72C97</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Nonagon/2009%20-%20Days%20Away/02%20No%20Time%20For%20A%20Change,%20Pt.1.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -99,19 +136,22 @@
 		<dict>
 			<key>Name</key><string>Stuff For Tony</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>16968</integer>
+			<key>Playlist ID</key><integer>17425</integer>
 			<key>Playlist Persistent ID</key><string>3CF2E23BEACCE331</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>2803</integer>
+					<key>Track ID</key><integer>2783</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3247</integer>
+					<key>Track ID</key><integer>3211</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3895</integer>
+					<key>Track ID</key><integer>3855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2761</integer>
 				</dict>
 			</array>
 		</dict>

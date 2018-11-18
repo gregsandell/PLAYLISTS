@@ -4,16 +4,16 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-11-01T21:36:45Z</date>
+	<key>Date</key><date>2018-11-18T18:23:13Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>2533</key>
+		<key>2513</key>
 		<dict>
-			<key>Track ID</key><integer>2533</integer>
+			<key>Track ID</key><integer>2513</integer>
 			<key>Name</key><string>Beli Dvor</string>
 			<key>Artist</key><string>Boban Marković Orkestar &#38; Marko Markovic</string>
 			<key>Album Artist</key><string>Boban Marković Orkestar &#38; Marko Markovic</string>
@@ -27,7 +27,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>16</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2018-08-13T17:59:57Z</date>
+			<key>Date Modified</key><date>2018-08-13T18:59:57Z</date>
 			<key>Date Added</key><date>2018-08-14T18:14:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -38,7 +38,6 @@
 			<key>Release Date</key><date>2006-05-16T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4490</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Promise</string>
@@ -49,9 +48,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>2535</key>
+		<key>2515</key>
 		<dict>
-			<key>Track ID</key><integer>2535</integer>
+			<key>Track ID</key><integer>2515</integer>
 			<key>Name</key><string>Baro Biav</string>
 			<key>Artist</key><string>Boban Marković Orkestar &#38; Marko Markovic</string>
 			<key>Album Artist</key><string>Boban Marković Orkestar &#38; Marko Markovic</string>
@@ -70,13 +69,12 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3623562650</integer>
-			<key>Play Date UTC</key><date>2018-10-28T16:10:50Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3625203197</integer>
+			<key>Play Date UTC</key><date>2018-11-16T16:53:17Z</date>
 			<key>Release Date</key><date>2006-05-16T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6702</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Promise</string>
@@ -93,19 +91,16 @@
 		<dict>
 			<key>Name</key><string>More Ethnic</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>722724</integer>
+			<key>Playlist ID</key><integer>15926</integer>
 			<key>Playlist Persistent ID</key><string>0E4034DB4223552B</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>2533</integer>
+					<key>Track ID</key><integer>2513</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>2535</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2535</integer>
+					<key>Track ID</key><integer>2515</integer>
 				</dict>
 			</array>
 		</dict>

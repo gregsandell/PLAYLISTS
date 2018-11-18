@@ -4,16 +4,16 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-11-01T21:38:01Z</date>
+	<key>Date</key><date>2018-11-18T18:24:56Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>3387</key>
+		<key>3347</key>
 		<dict>
-			<key>Track ID</key><integer>3387</integer>
+			<key>Track ID</key><integer>3347</integer>
 			<key>Name</key><string>Wassup Wassup (feat. Rye Rye) [Crookers Remix]</string>
 			<key>Artist</key><string>Diplo</string>
 			<key>Album Artist</key><string>Diplo</string>
@@ -34,6 +34,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3623233483</integer>
 			<key>Play Date UTC</key><date>2018-10-24T20:44:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T17:38:05Z</date>
 			<key>Release Date</key><date>2008-10-28T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -43,12 +45,48 @@
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diplo/2008%20-%20Blow%20Your%20Head/03%20Wassup%20Wassup%20(feat.%20Rye%20Rye)%20%5BCrookers%20Remix%5D.m4a</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>4135</key>
+		<key>3707</key>
 		<dict>
-			<key>Track ID</key><integer>4135</integer>
+			<key>Track ID</key><integer>3707</integer>
+			<key>Name</key><string>Let's Play Clowns</string>
+			<key>Artist</key><string>Minus The Bear</string>
+			<key>Composer</key><string>Minus The Bear</string>
+			<key>Album</key><string>They Make Beer Commercials Like This</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3798771</integer>
+			<key>Total Time</key><integer>217280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-09-07T05:37:41Z</date>
+			<key>Date Added</key><date>2018-09-07T05:37:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3624446541</integer>
+			<key>Play Date UTC</key><date>2018-11-07T22:42:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-12T13:48:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6898</integer>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Persistent ID</key><string>B08E923E2F27F550</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Minus%20The%20Bear/2004%20-%20They%20Make%20Beer%20Commercials%20Like%20This/02%20Let's%20Play%20Clowns.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4095</key>
+		<dict>
+			<key>Track ID</key><integer>4095</integer>
 			<key>Name</key><string>Butter</string>
 			<key>Artist</key><string>The Bloody Beetroots</string>
 			<key>Album Artist</key><string>The Bloody Beetroots</string>
@@ -66,9 +104,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3620024692</integer>
-			<key>Play Date UTC</key><date>2018-09-17T17:24:52Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3625229055</integer>
+			<key>Play Date UTC</key><date>2018-11-17T00:04:15Z</date>
 			<key>Release Date</key><date>2008-09-09T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -90,16 +128,19 @@
 		<dict>
 			<key>Name</key><string>More Saturday Night</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>609646</integer>
+			<key>Playlist ID</key><integer>16022</integer>
 			<key>Playlist Persistent ID</key><string>D94F470FE8084E3F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4135</integer>
+					<key>Track ID</key><integer>4095</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3387</integer>
+					<key>Track ID</key><integer>3347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3707</integer>
 				</dict>
 			</array>
 		</dict>
