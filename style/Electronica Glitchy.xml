@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-11-18T18:19:35Z</date>
+	<key>Date</key><date>2018-11-19T03:00:06Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -356,7 +356,7 @@
 			<key>Total Time</key><integer>236408</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2018-08-13T18:57:06Z</date>
+			<key>Date Modified</key><date>2018-08-13T17:57:06Z</date>
 			<key>Date Added</key><date>2018-08-14T18:14:39Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -448,7 +448,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>29</integer>
 			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2018-09-03T05:32:54Z</date>
+			<key>Date Modified</key><date>2018-09-03T04:32:54Z</date>
 			<key>Date Added</key><date>2018-09-03T04:32:29Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -557,7 +557,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2018-09-04T05:25:46Z</date>
+			<key>Date Modified</key><date>2018-09-04T04:25:46Z</date>
 			<key>Date Added</key><date>2018-09-04T04:25:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -929,6 +929,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>6149</key>
+		<dict>
+			<key>Track ID</key><integer>6149</integer>
+			<key>Name</key><string>Figment</string>
+			<key>Artist</key><string>L'usine</string>
+			<key>Album</key><string>Serial Hodgepodge</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11575062</integer>
+			<key>Total Time</key><integer>350511</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-09-05T04:10:08Z</date>
+			<key>Date Added</key><date>2018-10-04T15:50:02Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3625396937</integer>
+			<key>Play Date UTC</key><date>2018-11-18T22:42:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Persistent ID</key><string>A2D3648FB042330F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2004%20-%20Serial%20Hodgepodge/10%20Figment.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
@@ -941,28 +970,37 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>3341</integer>
+					<key>Track ID</key><integer>2619</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>2637</integer>
+					<key>Track ID</key><integer>2619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2619</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>2275</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3577</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2261</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3703</integer>
+					<key>Track ID</key><integer>2391</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>2623</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>2219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3341</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>3421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2637</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>2225</integer>
@@ -971,16 +1009,49 @@
 					<key>Track ID</key><integer>3439</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3893</integer>
+					<key>Track ID</key><integer>3575</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>2619</integer>
+					<key>Track ID</key><integer>3577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3641</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>3635</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>6149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3705</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>3419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3893</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>2307</integer>
@@ -989,52 +1060,13 @@
 					<key>Track ID</key><integer>2253</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4357</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2633</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2219</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2391</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2619</integer>
+					<key>Track ID</key><integer>2261</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>4357</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3615</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3705</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3683</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3641</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3685</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2673</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2669</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3577</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>3575</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>2619</integer>
+					<key>Track ID</key><integer>4357</integer>
 				</dict>
 			</array>
 		</dict>

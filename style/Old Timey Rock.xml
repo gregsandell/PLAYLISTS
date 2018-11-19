@@ -4,48 +4,18 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2017-07-23T02:10:44Z</date>
-	<key>Application Version</key><string>12.6.2.20</string>
+	<key>Date</key><date>2018-11-19T03:03:12Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8344</key>
+		<key>3323</key>
 		<dict>
-			<key>Track ID</key><integer>8344</integer>
-			<key>Name</key><string>Furry's Blues</string>
-			<key>Artist</key><string>David Johansen and the Harry Smiths</string>
-			<key>Album</key><string>Shaker</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4536305</integer>
-			<key>Total Time</key><integer>201195</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>14</integer>
-			<key>Date Modified</key><date>2011-03-19T21:34:26Z</date>
-			<key>Date Added</key><date>2017-02-02T04:02:02Z</date>
-			<key>Bit Rate</key><integer>180</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3581959433</integer>
-			<key>Play Date UTC</key><date>2017-07-04T03:43:53Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>1272</integer>
-			<key>Persistent ID</key><string>E5A6DF02FE556B2F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/David%20Johansen%20and%20the%20Harry%20Smiths/Shaker/Furry's%20Blues.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8552</key>
-		<dict>
-			<key>Track ID</key><integer>8552</integer>
+			<key>Track ID</key><integer>3323</integer>
 			<key>Name</key><string>Bron-Y-Aur Stomp</string>
-			<key>Artist</key><string>Devil in a Woodpile</string>
+			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
 			<key>Genre</key><string>Blues</string>
 			<key>Kind</key><string>AAC audio file</string>
@@ -54,27 +24,26 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2011-03-19T20:56:26Z</date>
-			<key>Date Added</key><date>2017-02-04T05:12:20Z</date>
+			<key>Date Modified</key><date>2018-09-03T17:04:13Z</date>
+			<key>Date Added</key><date>2018-09-03T01:54:39Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> [ARTWORK] [FIXED]</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3581945880</integer>
-			<key>Play Date UTC</key><date>2017-07-03T23:58:00Z</date>
+			<key>Comments</key><string>GK</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T17:42:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2644</integer>
 			<key>Artwork Count</key><integer>4</integer>
-			<key>Persistent ID</key><string>5987274F72DEBFA1</string>
+			<key>Persistent ID</key><string>5507C03676A57D4F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/GK/Music/Devil%20in%20a%20Woodpile/In%20Your%20Lonesome%20Town/04%20Bron-Y-Aur%20Stomp.m4a</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/2005%20-%20In%20Your%20Lonesome%20Town/04%20Bron-Y-Aur%20Stomp.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9296</key>
+		<key>99893</key>
 		<dict>
-			<key>Track ID</key><integer>9296</integer>
+			<key>Track ID</key><integer>99893</integer>
 			<key>Name</key><string>Pony</string>
 			<key>Artist</key><string>Moonshine Willy</string>
 			<key>Album</key><string>Pecadores</string>
@@ -85,27 +54,24 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Date Modified</key><date>2011-03-19T22:22:24Z</date>
-			<key>Date Added</key><date>2017-03-12T08:03:05Z</date>
+			<key>Date Added</key><date>2018-11-19T02:22:33Z</date>
 			<key>Bit Rate</key><integer>179</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3574688688</integer>
-			<key>Play Date UTC</key><date>2017-04-11T00:04:48Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-01-23T20:24:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5555</integer>
-			<key>Persistent ID</key><string>383474E8D204D456</string>
+			<key>Persistent ID</key><string>BE0417283A5BBA34</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Moonshine%20Willy/Pecadores/Pony.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9298</key>
+		<key>99968</key>
 		<dict>
-			<key>Track ID</key><integer>9298</integer>
+			<key>Track ID</key><integer>99968</integer>
 			<key>Name</key><string>Fox - Waco Brothers</string>
 			<key>Artist</key><string>The Bottle Let Me Down</string>
 			<key>Album</key><string>The Bottle Let Me Down</string>
@@ -117,12 +83,12 @@
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>2002</integer>
 			<key>Date Modified</key><date>2011-03-19T22:55:28Z</date>
-			<key>Date Added</key><date>2017-03-12T08:03:05Z</date>
+			<key>Date Added</key><date>2018-11-19T02:22:33Z</date>
 			<key>Bit Rate</key><integer>187</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3581959878</integer>
-			<key>Play Date UTC</key><date>2017-07-04T03:51:18Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3430473536</integer>
+			<key>Play Date UTC</key><date>2012-09-14T20:18:56Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-06-15T22:25:01Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -131,15 +97,44 @@
 			<key>Normalization</key><integer>6127</integer>
 			<key>Sort Album</key><string>Bottle Let Me Down</string>
 			<key>Sort Artist</key><string>Bottle Let Me Down</string>
-			<key>Persistent ID</key><string>BC96F73E89731CFB</string>
+			<key>Persistent ID</key><string>8CC5AF92EE20471D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bottle%20Let%20Me%20Down/The%20Bottle%20Let%20Me%20Down/Fox%20-%20Waco%20Brothers.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9594</key>
+		<key>103078</key>
 		<dict>
-			<key>Track ID</key><integer>9594</integer>
+			<key>Track ID</key><integer>103078</integer>
+			<key>Name</key><string>Furry's Blues</string>
+			<key>Artist</key><string>David Johansen and the Harry Smiths</string>
+			<key>Album</key><string>Shaker</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4536305</integer>
+			<key>Total Time</key><integer>201195</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2011-03-19T21:34:26Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
+			<key>Bit Rate</key><integer>180</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3581959433</integer>
+			<key>Play Date UTC</key><date>2017-07-04T03:43:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1272</integer>
+			<key>Persistent ID</key><string>72CDD160DEC4C534</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/David%20Johansen%20and%20the%20Harry%20Smiths/Shaker/Furry's%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>103083</key>
+		<dict>
+			<key>Track ID</key><integer>103083</integer>
 			<key>Name</key><string>Jambalaya</string>
 			<key>Artist</key><string>Doug Kershaw</string>
 			<key>Album</key><string>Hot Diggidy Doug</string>
@@ -151,7 +146,7 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>1989</integer>
 			<key>Date Modified</key><date>2017-02-02T04:25:01Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:23Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>freedbID : 95087E0C</string>
@@ -162,15 +157,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F1B293A244ED71FD</string>
+			<key>Persistent ID</key><string>71B652E0CF2BAD9A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Doug%20Kershaw/1989%20-%20Hot%20Diggidy%20Doug/03%20-%20Jambalaya.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9664</key>
+		<key>103086</key>
 		<dict>
-			<key>Track ID</key><integer>9664</integer>
+			<key>Track ID</key><integer>103086</integer>
 			<key>Name</key><string>By Hook or by Crook</string>
 			<key>Artist</key><string>Dan Hicks and The Hot Licks</string>
 			<key>Album</key><string>Where's the Money?</string>
@@ -180,7 +175,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1971</integer>
 			<key>Date Modified</key><date>2017-02-07T02:42:27Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:36Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -190,15 +185,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>96C2D62B49C9FEDA</string>
+			<key>Persistent ID</key><string>B06B650EB6DD558E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dan%20Hicks/1971%20-%20Where's%20the%20Money/07.%20By%20Hook%20or%20by%20Crook.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9866</key>
+		<key>103089</key>
 		<dict>
-			<key>Track ID</key><integer>9866</integer>
+			<key>Track ID</key><integer>103089</integer>
 			<key>Name</key><string>The Buzzard Was Their Friend</string>
 			<key>Artist</key><string>Dan Hicks and The Hot Licks</string>
 			<key>Album</key><string>Return To Hicksville: The Best of Dan Hicks and his Hot Licks</string>
@@ -208,7 +203,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2017-02-07T02:47:32Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:56Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -219,15 +214,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Buzzard Was Their Friend</string>
-			<key>Persistent ID</key><string>021B191ADF2A1B91</string>
+			<key>Persistent ID</key><string>35FB55340226ADD0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dan%20Hicks/1997%20-%20Return%20To%20Hicksville,%20The%20Best%20of/04.%20The%20Buzzard%20Was%20Their%20Friend.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9868</key>
+		<key>103092</key>
 		<dict>
-			<key>Track ID</key><integer>9868</integer>
+			<key>Track ID</key><integer>103092</integer>
 			<key>Name</key><string>Chattanooga Shoe-Shine Boy</string>
 			<key>Artist</key><string>Dan Hicks &#38; The Hot Licks</string>
 			<key>Album Artist</key><string>Dan Hicks &#38; The Hot Licks</string>
@@ -239,7 +234,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2000</integer>
 			<key>Date Modified</key><date>2017-02-07T02:48:57Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:56Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -249,15 +244,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DB3210E995B4FF01</string>
+			<key>Persistent ID</key><string>2732B9B394C7958F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dan%20Hicks/2000%20-%20Beatin'%20The%20Heat/11%20Chattanooga%20Shoe-Shine%20Boy.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9870</key>
+		<key>103095</key>
 		<dict>
-			<key>Track ID</key><integer>9870</integer>
+			<key>Track ID</key><integer>103095</integer>
 			<key>Name</key><string>The Buzzard Was Their Friend</string>
 			<key>Artist</key><string>Dan Hicks &#38; The Hot Licks</string>
 			<key>Album</key><string>Featuring An All Star Cast Of Friends</string>
@@ -268,7 +263,7 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2017-02-07T02:49:47Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:56Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -279,15 +274,15 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Buzzard Was Their Friend</string>
-			<key>Persistent ID</key><string>52F5C9CA5E49B8AF</string>
+			<key>Persistent ID</key><string>9302BE9D11B870BA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dan%20Hicks/2003%20-%20Featuring%20An%20All%20Star%20Cast%20Of%20Friends/13%20The%20Buzzard%20Was%20Their%20Friend.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9872</key>
+		<key>103098</key>
 		<dict>
-			<key>Track ID</key><integer>9872</integer>
+			<key>Track ID</key><integer>103098</integer>
 			<key>Name</key><string>03 You Only Love Me For My Lunchbox</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Mommy Says No!</string>
@@ -296,7 +291,7 @@
 			<key>Total Time</key><integer>307226</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2017-02-22T06:12:51Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:56Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -306,15 +301,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>ECBA04E3598B581D</string>
+			<key>Persistent ID</key><string>FF3A609E8595772B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2007%20Mommy%20Says%20No!/03%20You%20Only%20Love%20Me%20For%20My%20Lunchbox.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9874</key>
+		<key>103101</key>
 		<dict>
-			<key>Track ID</key><integer>9874</integer>
+			<key>Track ID</key><integer>103101</integer>
 			<key>Name</key><string>06 When I Grow Up</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Mommy Says No!</string>
@@ -323,7 +318,7 @@
 			<key>Total Time</key><integer>320470</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2017-02-22T06:12:51Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:56Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -333,15 +328,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8AEA762C04CDA91E</string>
+			<key>Persistent ID</key><string>6093E6DC17C65707</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2007%20Mommy%20Says%20No!/06%20When%20I%20Grow%20Up.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9876</key>
+		<key>103104</key>
 		<dict>
-			<key>Track ID</key><integer>9876</integer>
+			<key>Track ID</key><integer>103104</integer>
 			<key>Name</key><string>08 Don't Turn Out the Light</string>
 			<key>Artist</key><string>Asylum Street Spankers</string>
 			<key>Album</key><string>Mommy Says No!</string>
@@ -350,7 +345,7 @@
 			<key>Total Time</key><integer>287869</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2017-02-22T06:12:52Z</date>
-			<key>Date Added</key><date>2017-03-13T03:55:56Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -362,15 +357,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>76BFC7EC0A8AD00A</string>
+			<key>Persistent ID</key><string>50487AF48D9D5C78</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2007%20Mommy%20Says%20No!/09%20Don't%20Turn%20Out%20the%20Light.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11664</key>
+		<key>103107</key>
 		<dict>
-			<key>Track ID</key><integer>11664</integer>
+			<key>Track ID</key><integer>103107</integer>
 			<key>Name</key><string>The Mobile Line</string>
 			<key>Artist</key><string>The Quiet American</string>
 			<key>Album</key><string>YouTube</string>
@@ -378,7 +373,7 @@
 			<key>Size</key><integer>4723818</integer>
 			<key>Total Time</key><integer>196649</integer>
 			<key>Date Modified</key><date>2017-03-18T05:01:57Z</date>
-			<key>Date Added</key><date>2017-04-01T05:21:48Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:43Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -389,15 +384,15 @@
 			<key>Sort Album</key><string>YouTube</string>
 			<key>Sort Artist</key><string>Quiet American</string>
 			<key>Sort Name</key><string>Mobile Line</string>
-			<key>Persistent ID</key><string>A67514793F9DD927</string>
+			<key>Persistent ID</key><string>C57ED8B9D28032F4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Jug%20Band%20misc/The%20Quiet%20American%20-%20The%20Mobile%20Line.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11666</key>
+		<key>103110</key>
 		<dict>
-			<key>Track ID</key><integer>11666</integer>
+			<key>Track ID</key><integer>103110</integer>
 			<key>Name</key><string>Talkin' To Your Mama (1950)</string>
 			<key>Artist</key><string>Blind Willie McTell</string>
 			<key>Album</key><string>The Devil's Music</string>
@@ -411,7 +406,7 @@
 			<key>Track Count</key><integer>26</integer>
 			<key>Year</key><integer>1950</integer>
 			<key>Date Modified</key><date>2017-02-20T19:34:20Z</date>
-			<key>Date Added</key><date>2017-04-01T05:22:05Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:44Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -427,15 +422,15 @@
 			<key>Sort Album</key><string>Devil's Music</string>
 			<key>Sort Artist</key><string>Blind Willie McTell</string>
 			<key>Sort Name</key><string>Talkin' To Your Mama (1950)</string>
-			<key>Persistent ID</key><string>ADB5BBBAD61727B3</string>
+			<key>Persistent ID</key><string>57F10159BF638C03</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Uncut/The%20Devil's%20Music/Talkin'%20To%20Your%20Mama%20-%20Blind%20Willie%20McTell.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12466</key>
+		<key>103113</key>
 		<dict>
-			<key>Track ID</key><integer>12466</integer>
+			<key>Track ID</key><integer>103113</integer>
 			<key>Name</key><string>09 - Black Dog</string>
 			<key>Artist</key><string>Steve 'N' Seagulls</string>
 			<key>Album</key><string>Live at Trans Musicales</string>
@@ -446,7 +441,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>Date Modified</key><date>2017-04-02T01:04:08Z</date>
-			<key>Date Added</key><date>2017-04-09T06:21:28Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:44Z</date>
 			<key>Bit Rate</key><integer>166</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -456,15 +451,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>0B3440AB78C09B81</string>
+			<key>Persistent ID</key><string>4BC87F8975D788DC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Steve%20'N'%20Seagulls/2015%20-%20Live%20at%20Trans%20Musicales/09%20-%20Black%20Dog.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12468</key>
+		<key>103116</key>
 		<dict>
-			<key>Track ID</key><integer>12468</integer>
+			<key>Track ID</key><integer>103116</integer>
 			<key>Name</key><string>The Pretender</string>
 			<key>Artist</key><string>Steve ‘n’ Seagulls</string>
 			<key>Album Artist</key><string>Steve ‘n’ Seagulls</string>
@@ -477,7 +472,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2016</integer>
 			<key>Date Modified</key><date>2017-04-02T01:05:13Z</date>
-			<key>Date Added</key><date>2017-04-09T06:21:28Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -490,15 +485,15 @@
 			<key>Sort Album</key><string>brothers in farms</string>
 			<key>Sort Album Artist</key><string>steve n seagulls</string>
 			<key>Sort Name</key><string>pretender</string>
-			<key>Persistent ID</key><string>33E603B6B8E7471B</string>
+			<key>Persistent ID</key><string>0B78E36EBA9CEBA7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Steve%20'N'%20Seagulls/2016%20-%20Brothers%20In%20Farms/11-Pretender.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12470</key>
+		<key>103119</key>
 		<dict>
-			<key>Track ID</key><integer>12470</integer>
+			<key>Track ID</key><integer>103119</integer>
 			<key>Name</key><string>Born To Be Wild</string>
 			<key>Artist</key><string>Steve ‘n’ Seagulls</string>
 			<key>Album Artist</key><string>Steve ‘n’ Seagulls</string>
@@ -511,7 +506,7 @@
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>2016</integer>
 			<key>Date Modified</key><date>2017-04-02T01:05:14Z</date>
-			<key>Date Added</key><date>2017-04-09T06:21:28Z</date>
+			<key>Date Added</key><date>2018-11-19T02:33:44Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -524,7 +519,7 @@
 			<key>Sort Album</key><string>brothers in farms</string>
 			<key>Sort Album Artist</key><string>steve n seagulls</string>
 			<key>Sort Name</key><string>born to be wild</string>
-			<key>Persistent ID</key><string>D14EDD9A58F7DFEB</string>
+			<key>Persistent ID</key><string>72CD5A7B08C9280D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Steve%20'N'%20Seagulls/2016%20-%20Brothers%20In%20Farms/14-Born%20To%20Be%20Wild.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
@@ -536,61 +531,61 @@
 		<dict>
 			<key>Name</key><string>Old Timey Rock</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>36217</integer>
-			<key>Playlist Persistent ID</key><string>285C756D34171CAE</string>
+			<key>Playlist ID</key><integer>103122</integer>
+			<key>Playlist Persistent ID</key><string>2521341BCBDEF221</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8552</integer>
+					<key>Track ID</key><integer>3323</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9870</integer>
+					<key>Track ID</key><integer>103095</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9866</integer>
+					<key>Track ID</key><integer>103089</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9664</integer>
+					<key>Track ID</key><integer>103086</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9868</integer>
+					<key>Track ID</key><integer>103092</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9298</integer>
+					<key>Track ID</key><integer>99968</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8344</integer>
+					<key>Track ID</key><integer>103078</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9594</integer>
+					<key>Track ID</key><integer>103083</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9296</integer>
+					<key>Track ID</key><integer>99893</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11666</integer>
+					<key>Track ID</key><integer>103110</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9872</integer>
+					<key>Track ID</key><integer>103098</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9874</integer>
+					<key>Track ID</key><integer>103101</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9876</integer>
+					<key>Track ID</key><integer>103104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11664</integer>
+					<key>Track ID</key><integer>103107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12466</integer>
+					<key>Track ID</key><integer>103113</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12468</integer>
+					<key>Track ID</key><integer>103116</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12470</integer>
+					<key>Track ID</key><integer>103119</integer>
 				</dict>
 			</array>
 		</dict>
