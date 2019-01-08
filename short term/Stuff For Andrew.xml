@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-01-08T00:23:08Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4791</key>
+		<dict>
+			<key>Track ID</key><integer>4791</integer>
+			<key>Name</key><string>All Things</string>
+			<key>Artist</key><string>The Cinematic Orchestra</string>
+			<key>Album Artist</key><string>The Cinematic Orchestra</string>
+			<key>Album</key><string>Man With a Movie Camera</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12416156</integer>
+			<key>Total Time</key><integer>366946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-09-13T00:14:33Z</date>
+			<key>Date Added</key><date>2018-12-19T19:44:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3625199789</integer>
+			<key>Play Date UTC</key><date>2018-11-16T15:56:29Z</date>
+			<key>Release Date</key><date>2003-06-03T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1223</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cinematic Orchestra</string>
+			<key>Sort Artist</key><string>Cinematic Orchestra</string>
+			<key>Persistent ID</key><string>042FE3724D43838D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Cinematic%20Orchestra/2003%20-%20Man%20With%20a%20Movie%20Camera/17%20All%20Things.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7941</key>
+		<dict>
+			<key>Track ID</key><integer>7941</integer>
+			<key>Name</key><string>Moonlight Sonata</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>Silver Rain</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14768101</integer>
+			<key>Total Time</key><integer>458057</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-01-05T04:58:15Z</date>
+			<key>Date Added</key><date>2018-12-19T19:47:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3628409353</integer>
+			<key>Play Date UTC</key><date>2018-12-23T19:29:13Z</date>
+			<key>Release Date</key><date>2005-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BFDE865452EE2BCD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2005%20-%20Silver%20Rain/06%20-%20Moonlight%20Sonata.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Stuff For Andrew</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>27679</integer>
+			<key>Playlist Persistent ID</key><string>21C5FD7CA0528DD7</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7941</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

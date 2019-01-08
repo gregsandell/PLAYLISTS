@@ -4,16 +4,48 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-11-18T18:28:04Z</date>
+	<key>Date</key><date>2019-01-08T00:23:25Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>2761</key>
+		<key>4697</key>
 		<dict>
-			<key>Track ID</key><integer>2761</integer>
+			<key>Track ID</key><integer>4697</integer>
+			<key>Name</key><string>Below Minus 4</string>
+			<key>Artist</key><string>Opiate</string>
+			<key>Album Artist</key><string>Opiate</string>
+			<key>Composer</key><string>Thomas Knak</string>
+			<key>Album</key><string>Objects For An Ideal Home</string>
+			<key>Genre</key><string>Electronic / Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6093724</integer>
+			<key>Total Time</key><integer>253361</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-08-29T17:12:54Z</date>
+			<key>Date Added</key><date>2018-12-19T19:44:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 0000032B 000003EA 000028BE 0000310D 00009C57 00009C57 00008000 00008000 00035B60 00013880</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3625213063</integer>
+			<key>Play Date UTC</key><date>2018-11-16T19:37:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1191EDE9A6971C01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Opiate/2007%20-%20Objects%20For%20An%20Ideal%20Home/10%20-%20Below%20Minus%204.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8145</key>
+		<dict>
+			<key>Track ID</key><integer>8145</integer>
 			<key>Name</key><string>Midnight Sun (New York, February 26, 1952)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -29,25 +61,27 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:34Z</date>
-			<key>Date Added</key><date>2018-08-14T18:20:53Z</date>
+			<key>Date Added</key><date>2018-12-19T19:48:22Z</date>
 			<key>Bit Rate</key><integer>232</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3605973124</integer>
 			<key>Play Date UTC</key><date>2018-04-08T02:12:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-14T21:46:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>39BA6A545E4F0B7D</string>
+			<key>Persistent ID</key><string>4611A19BC66B2ED2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/11.2%20-%20Midnight%20Sun%20(New%20York,%20February%2026,%201952).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>2783</key>
+		<key>8199</key>
 		<dict>
-			<key>Track ID</key><integer>2783</integer>
+			<key>Track ID</key><integer>8199</integer>
 			<key>Name</key><string>Eviscerate (Version)</string>
 			<key>Artist</key><string>Squarepusher</string>
 			<key>Album Artist</key><string>Squarepusher</string>
@@ -59,7 +93,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2018-05-24T04:13:20Z</date>
-			<key>Date Added</key><date>2018-08-14T18:21:04Z</date>
+			<key>Date Added</key><date>2018-12-19T19:48:35Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
@@ -67,66 +101,65 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0C87C4CF09BE478B</string>
+			<key>Persistent ID</key><string>01DB0A085CE6B490</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Squarepusher/1997%20-%20Burningn'n%20Tree/10%20Eviscerate%20(Version).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>3211</key>
+		<key>8201</key>
 		<dict>
-			<key>Track ID</key><integer>3211</integer>
-			<key>Name</key><string>Below Minus 4</string>
-			<key>Artist</key><string>Opiate</string>
-			<key>Album Artist</key><string>Opiate</string>
-			<key>Composer</key><string>Thomas Knak</string>
-			<key>Album</key><string>Objects For An Ideal Home</string>
-			<key>Genre</key><string>Electronic / Ambient</string>
+			<key>Track ID</key><integer>8201</integer>
+			<key>Name</key><string>Red Baron</string>
+			<key>Artist</key><string>Marcus Miller</string>
+			<key>Album</key><string>M Squared</string>
+			<key>Genre</key><string>Fusion</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6093724</integer>
-			<key>Total Time</key><integer>253361</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>1999</integer>
-			<key>Date Modified</key><date>2018-08-29T18:12:54Z</date>
-			<key>Date Added</key><date>2018-08-29T04:09:42Z</date>
-			<key>Bit Rate</key><integer>192</integer>
+			<key>Size</key><integer>12853697</integer>
+			<key>Total Time</key><integer>398210</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2017-01-05T04:59:42Z</date>
+			<key>Date Added</key><date>2018-12-19T19:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>asmadeus</string>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3625213063</integer>
-			<key>Play Date UTC</key><date>2018-11-16T19:37:43Z</date>
+			<key>Play Date</key><integer>3588779072</integer>
+			<key>Play Date UTC</key><date>2017-09-21T02:04:32Z</date>
+			<key>Release Date</key><date>2001-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C1090867AD852365</string>
+			<key>Persistent ID</key><string>562EE37915AD2AE9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Opiate/2007%20-%20Objects%20For%20An%20Ideal%20Home/10%20-%20Below%20Minus%204.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/12%20-%20Red%20Baron.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>3855</key>
+		<key>129926</key>
 		<dict>
-			<key>Track ID</key><integer>3855</integer>
-			<key>Name</key><string>No Time For A Change, Pt.1</string>
-			<key>Artist</key><string>Nonagon</string>
-			<key>Album</key><string>Days Away</string>
+			<key>Track ID</key><integer>129926</integer>
+			<key>Name</key><string>Pres's Instruments [Drums/Tenor Saxophone]</string>
+			<key>Artist</key><string>Lester Young</string>
+			<key>Album Artist</key><string>Lester Young</string>
+			<key>Album</key><string>The Complete Lester Young Studio Sessions On Verve 08</string>
+			<key>Genre</key><string>Jazz</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12764935</integer>
-			<key>Total Time</key><integer>316969</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2018-09-10T02:35:04Z</date>
-			<key>Date Added</key><date>2018-09-10T02:34:51Z</date>
+			<key>Size</key><integer>14244693</integer>
+			<key>Total Time</key><integer>354142</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2018-08-03T02:28:02Z</date>
+			<key>Date Added</key><date>2019-01-06T19:14:05Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Rating</key><integer>100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1F33985A9FB72C97</string>
+			<key>Sort Album</key><string>Complete Lester Young Studio Sessions On Verve 08</string>
+			<key>Persistent ID</key><string>8C35D2CAF2B67B31</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Nonagon/2009%20-%20Days%20Away/02%20No%20Time%20For%20A%20Change,%20Pt.1.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lester%20Young/Complete%20Studio%20Sessions%20On%20Verve%20(1946-1959)%20(8%20CD)/08/09-%20Pres's%20Instruments%20%5BDrumsTenor%20Saxophone%5D.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -136,22 +169,25 @@
 		<dict>
 			<key>Name</key><string>Stuff For Tony</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>17425</integer>
-			<key>Playlist Persistent ID</key><string>3CF2E23BEACCE331</string>
+			<key>Playlist ID</key><integer>27806</integer>
+			<key>Playlist Persistent ID</key><string>51A2F04F2CF4F3DF</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>2783</integer>
+					<key>Track ID</key><integer>8199</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3211</integer>
+					<key>Track ID</key><integer>4697</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3855</integer>
+					<key>Track ID</key><integer>129926</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>2761</integer>
+					<key>Track ID</key><integer>8145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8201</integer>
 				</dict>
 			</array>
 		</dict>
