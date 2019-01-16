@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-01-16T20:30:47Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>314687</key>
+		<dict>
+			<key>Track ID</key><integer>314687</integer>
+			<key>Name</key><string>Defocus</string>
+			<key>Artist</key><string>Amon Tobin</string>
+			<key>Album Artist</key><string>Amon Tobin</string>
+			<key>Composer</key><string>Amon Tobin</string>
+			<key>Album</key><string>Bricolage</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4977233</integer>
+			<key>Total Time</key><integer>310413</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2011-03-19T21:16:16Z</date>
+			<key>Date Added</key><date>2019-01-10T17:28:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>033CA0CEB9DCBA9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Amon%20Tobin/Bricolage/Defocus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Rhythm Reorientation</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>362936</integer>
+			<key>Playlist Persistent ID</key><string>A34F4E97A60F16E4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>314687</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

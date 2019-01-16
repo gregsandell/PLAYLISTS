@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-01-08T00:22:33Z</date>
+	<key>Date</key><date>2019-01-16T20:30:57Z</date>
 	<key>Application Version</key><string>12.8.0.150</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -233,9 +233,12 @@
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Volume Adjustment</key><integer>255</integer>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3605670822</integer>
-			<key>Play Date UTC</key><date>2018-04-04T14:13:42Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3630481077</integer>
+			<key>Play Date UTC</key><date>2019-01-16T18:57:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>833201C735F3D1BD</string>
 			<key>Track Type</key><string>File</string>
@@ -560,9 +563,9 @@
 			<key>Date Added</key><date>2018-12-19T19:46:46Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3627725109</integer>
-			<key>Play Date UTC</key><date>2018-12-15T21:25:09Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3630134258</integer>
+			<key>Play Date UTC</key><date>2019-01-12T18:37:38Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-12T19:07:11Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -975,39 +978,6 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6591</key>
-		<dict>
-			<key>Track ID</key><integer>6591</integer>
-			<key>Name</key><string>T-Bone Shuffle</string>
-			<key>Artist</key><string>Doug Sahm</string>
-			<key>Album</key><string>The Last Real Texas Blues Band</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>6888888</integer>
-			<key>Total Time</key><integer>333762</integer>
-			<key>Track Number</key><integer>16</integer>
-			<key>Track Count</key><integer>17</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2017-02-06T06:31:18Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:47Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3612521421</integer>
-			<key>Play Date UTC</key><date>2018-06-22T21:10:21Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2018-02-04T20:23:59Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>2687</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Last Real Texas Blues Band</string>
-			<key>Persistent ID</key><string>ACF8862D67B57D2B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Doug%20Sahm/The%20Last%20Real%20Texas%20Blues%20Band/T-Bone%20Shuffle.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
 		<key>6593</key>
 		<dict>
 			<key>Track ID</key><integer>6593</integer>
@@ -1290,69 +1260,6 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6613</key>
-		<dict>
-			<key>Track ID</key><integer>6613</integer>
-			<key>Name</key><string>Highway 49</string>
-			<key>Artist</key><string>Howlin' Wolf</string>
-			<key>Album</key><string>The London Howlin' Wolf Sessions</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3420252</integer>
-			<key>Total Time</key><integer>168412</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Track Count</key><integer>16</integer>
-			<key>Date Modified</key><date>2011-03-19T21:53:20Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:47Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3598165255</integer>
-			<key>Play Date UTC</key><date>2018-01-07T18:20:55Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>5499</integer>
-			<key>Sort Album</key><string>London Howlin' Wolf Sessions</string>
-			<key>Persistent ID</key><string>373B7AFB856D28C5</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions/Highway%2049.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6615</key>
-		<dict>
-			<key>Track ID</key><integer>6615</integer>
-			<key>Name</key><string>Highway - Big Joe Williams</string>
-			<key>Artist</key><string>Howlin' Wolf</string>
-			<key>Album</key><string>The London Howlin' Wolf Sessions (Extras)</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>4475479</integer>
-			<key>Total Time</key><integer>221168</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T21:53:26Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:47Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3568830248</integer>
-			<key>Play Date UTC</key><date>2017-02-02T05:44:08Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-17T21:18:33Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>3738</integer>
-			<key>Sort Album</key><string>London Howlin' Wolf Sessions (Extras)</string>
-			<key>Persistent ID</key><string>A676B36679C2A88D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions%20(Extras)/Highway%20-%20Big%20Joe%20Williams.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
 		<key>6617</key>
 		<dict>
 			<key>Track ID</key><integer>6617</integer>
@@ -1571,37 +1478,6 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6631</key>
-		<dict>
-			<key>Track ID</key><integer>6631</integer>
-			<key>Name</key><string>Done Somebody Wrong</string>
-			<key>Artist</key><string>Elmore James</string>
-			<key>Album</key><string>Dust My Broom</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2884520</integer>
-			<key>Total Time</key><integer>138893</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Track Count</key><integer>15</integer>
-			<key>Date Modified</key><date>2011-03-19T21:39:50Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:48Z</date>
-			<key>Bit Rate</key><integer>166</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3628338088</integer>
-			<key>Play Date UTC</key><date>2018-12-22T23:41:28Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2018-08-12T06:40:35Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>5225</integer>
-			<key>Persistent ID</key><string>53E9CEBCFE2ECAD3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elmore%20James/Dust%20My%20Broom/Done%20Somebody%20Wrong.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
 		<key>6633</key>
 		<dict>
 			<key>Track ID</key><integer>6633</integer>
@@ -1629,71 +1505,6 @@
 			<key>Persistent ID</key><string>B7528824F4907986</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Gloria%20Coleman%20Quartet/Soul%20Sisters/Que%20Baby.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6635</key>
-		<dict>
-			<key>Track ID</key><integer>6635</integer>
-			<key>Name</key><string>Who's Been Talking?</string>
-			<key>Artist</key><string>Howlin' Wolf</string>
-			<key>Album</key><string>The London Howlin' Wolf Sessions</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3733722</integer>
-			<key>Total Time</key><integer>184086</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Track Count</key><integer>16</integer>
-			<key>Date Modified</key><date>2011-03-19T21:53:24Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:48Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3628427050</integer>
-			<key>Play Date UTC</key><date>2018-12-24T00:24:10Z</date>
-			<key>Skip Count</key><integer>7</integer>
-			<key>Skip Date</key><date>2017-02-17T20:51:03Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>3890</integer>
-			<key>Sort Album</key><string>London Howlin' Wolf Sessions</string>
-			<key>Persistent ID</key><string>933036BB298CCBEA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions/Who's%20Been%20Talking_.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6637</key>
-		<dict>
-			<key>Track ID</key><integer>6637</integer>
-			<key>Name</key><string>What A Woman! - James Oden</string>
-			<key>Artist</key><string>Howlin' Wolf</string>
-			<key>Album</key><string>The London Howlin' Wolf Sessions (Extras)</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3886553</integer>
-			<key>Total Time</key><integer>191725</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T21:53:28Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:48Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3629362747</integer>
-			<key>Play Date UTC</key><date>2019-01-03T20:19:07Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-17T21:13:05Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>7149</integer>
-			<key>Sort Album</key><string>London Howlin' Wolf Sessions (Extras)</string>
-			<key>Persistent ID</key><string>28B746710686F01C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions%20(Extras)/What%20A%20Woman!%20-%20James%20Oden%201.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -2337,39 +2148,6 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6677</key>
-		<dict>
-			<key>Track ID</key><integer>6677</integer>
-			<key>Name</key><string>Reconsider Baby</string>
-			<key>Artist</key><string>Doug Sahm</string>
-			<key>Album</key><string>The Last Real Texas Blues Band</string>
-			<key>Genre</key><string>Blues</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>5970188</integer>
-			<key>Total Time</key><integer>288227</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>17</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2017-02-06T06:31:18Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:48Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3568889192</integer>
-			<key>Play Date UTC</key><date>2017-02-02T22:06:32Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-02-17T21:21:50Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>3116</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Last Real Texas Blues Band</string>
-			<key>Persistent ID</key><string>CE4A9D254DA3933E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Doug%20Sahm/The%20Last%20Real%20Texas%20Blues%20Band/Reconsider%20Baby.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
 		<key>6679</key>
 		<dict>
 			<key>Track ID</key><integer>6679</integer>
@@ -2515,8 +2293,8 @@
 			<key>Play Date UTC</key><date>2018-05-04T20:11:07Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-12T22:03:37Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>YouTube</string>
 			<key>Persistent ID</key><string>49C517A9A123D7D2</string>
@@ -2542,8 +2320,8 @@
 			<key>Comments</key><string>converted by convert2mp3.net</string>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-23T16:06:37Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>YouTube</string>
 			<key>Persistent ID</key><string>A367B7BF0F85A9DE</string>
@@ -2651,9 +2429,9 @@
 			<key>Date Added</key><date>2018-12-19T19:46:49Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3572844685</integer>
-			<key>Play Date UTC</key><date>2017-03-20T15:51:25Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3630049304</integer>
+			<key>Play Date UTC</key><date>2019-01-11T19:01:44Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-12T22:00:52Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -2678,6 +2456,9 @@
 			<key>Date Added</key><date>2018-12-19T19:46:49Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3630149908</integer>
+			<key>Play Date UTC</key><date>2019-01-12T22:58:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Sort Album</key><string>YouTube</string>
@@ -3995,9 +3776,74 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8635</key>
+		<key>272290</key>
 		<dict>
-			<key>Track ID</key><integer>8635</integer>
+			<key>Track ID</key><integer>272290</integer>
+			<key>Name</key><string>Who's Been Talking?</string>
+			<key>Artist</key><string>Howlin' Wolf</string>
+			<key>Album</key><string>The London Howlin' Wolf Sessions</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3733722</integer>
+			<key>Total Time</key><integer>184086</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2011-03-19T21:53:24Z</date>
+			<key>Date Added</key><date>2019-01-10T16:46:16Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3628427050</integer>
+			<key>Play Date UTC</key><date>2018-12-24T00:24:10Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2017-02-17T20:51:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3890</integer>
+			<key>Sort Album</key><string>London Howlin' Wolf Sessions</string>
+			<key>Persistent ID</key><string>E43C476B2C809CB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions/Who's%20Been%20Talking_.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>272293</key>
+		<dict>
+			<key>Track ID</key><integer>272293</integer>
+			<key>Name</key><string>What A Woman! - James Oden</string>
+			<key>Artist</key><string>Howlin' Wolf</string>
+			<key>Album</key><string>The London Howlin' Wolf Sessions (Extras)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3886553</integer>
+			<key>Total Time</key><integer>191725</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T21:53:28Z</date>
+			<key>Date Added</key><date>2019-01-10T16:46:16Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3629362747</integer>
+			<key>Play Date UTC</key><date>2019-01-03T20:19:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T21:13:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7149</integer>
+			<key>Sort Album</key><string>London Howlin' Wolf Sessions (Extras)</string>
+			<key>Persistent ID</key><string>F58AB6861D69EF47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions%20(Extras)/What%20A%20Woman!%20-%20James%20Oden%201.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>272359</key>
+		<dict>
+			<key>Track ID</key><integer>272359</integer>
 			<key>Name</key><string>Sno-Cone</string>
 			<key>Artist</key><string>The J. Geils Band</string>
 			<key>Album</key><string>The J. Geils Band</string>
@@ -4008,7 +3854,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1970</integer>
 			<key>Date Modified</key><date>2012-10-28T13:06:59Z</date>
-			<key>Date Added</key><date>2018-12-19T19:51:07Z</date>
+			<key>Date Added</key><date>2019-01-10T16:46:16Z</date>
 			<key>Bit Rate</key><integer>297</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>http://www.bubaneemusic.com/ 
@@ -4022,102 +3868,44 @@ http://www.thelocalbay.com/</string>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>J. Geils Band</string>
 			<key>Sort Artist</key><string>J. Geils Band</string>
-			<key>Persistent ID</key><string>2E7A2C0CF3C21C43</string>
+			<key>Persistent ID</key><string>8A35EE16C65C9464</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20J.%20Geils%20Band/1970%20-%20J.%20Geils%20Band%20(Self%20Titled)/11%20-%20Sno-Cone.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8683</key>
+		<key>272680</key>
 		<dict>
-			<key>Track ID</key><integer>8683</integer>
-			<key>Name</key><string>Crossroads</string>
-			<key>Artist</key><string>Lynyrd Skynyrd</string>
-			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
-			<key>Album</key><string>One More From The Road Disc 2</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10819334</integer>
-			<key>Total Time</key><integer>265848</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1976</integer>
-			<key>Date Modified</key><date>2012-10-19T04:29:37Z</date>
-			<key>Date Added</key><date>2018-12-19T19:51:08Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8C7CD78F53744E4B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20One%20More%20From%20The%20Road%20(1976)/Disc%202/05.Crossroads.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>9369</key>
-		<dict>
-			<key>Track ID</key><integer>9369</integer>
-			<key>Name</key><string>Le Grande Chaine/Yellow Barber/Shenandoah Falls</string>
+			<key>Track ID</key><integer>272680</integer>
+			<key>Name</key><string>Hangman's Reel</string>
 			<key>Artist</key><string>String Beings/Late for the Dance</string>
 			<key>Album</key><string>String Beings/Late For The Dance</string>
 			<key>Genre</key><string>Country &#38; Folk</string>
 			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>12881660</integer>
-			<key>Total Time</key><integer>340533</integer>
-			<key>Track Number</key><integer>2</integer>
+			<key>Size</key><integer>9035363</integer>
+			<key>Total Time</key><integer>235333</integer>
+			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>14</integer>
-			<key>Date Modified</key><date>2012-11-08T03:36:54Z</date>
-			<key>Date Added</key><date>2018-12-19T19:51:21Z</date>
+			<key>Date Modified</key><date>2012-11-08T03:37:37Z</date>
+			<key>Date Added</key><date>2019-01-10T16:46:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3629696570</integer>
-			<key>Play Date UTC</key><date>2019-01-07T17:02:50Z</date>
+			<key>Play Date</key><integer>3629728877</integer>
+			<key>Play Date UTC</key><date>2019-01-08T02:01:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>1628</integer>
-			<key>Persistent ID</key><string>92B90F79AC9AA9F8</string>
+			<key>Normalization</key><integer>2654</integer>
+			<key>Persistent ID</key><string>74DEA529412FEC45</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/String%20Beings/Late%20For%20The%20Dance/02%20Le%20Grande%20Chaine_Yellow%20Barber_Shenandoah%20Falls.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/String%20Beings/Late%20For%20The%20Dance/03%20Hangman's%20Reel.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9391</key>
+		<key>272713</key>
 		<dict>
-			<key>Track ID</key><integer>9391</integer>
-			<key>Name</key><string>I'm Not Rough</string>
-			<key>Artist</key><string>The J. Geils Band</string>
-			<key>Album</key><string>Monkey Island</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6369772</integer>
-			<key>Total Time</key><integer>183379</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>1977</integer>
-			<key>Date Modified</key><date>2012-10-28T13:08:59Z</date>
-			<key>Date Added</key><date>2018-12-19T19:51:21Z</date>
-			<key>Bit Rate</key><integer>275</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>http://www.bubaneemusic.com/ 
-http://www.thelocalbay.com/</string>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-11-13T23:00:10Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Artist</key><string>J. Geils Band</string>
-			<key>Persistent ID</key><string>310A6D054512CCCB</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20J.%20Geils%20Band/1977%20-%20Monkey%20Island/07%20-%20I'm%20Not%20Rough.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>9505</key>
-		<dict>
-			<key>Track ID</key><integer>9505</integer>
+			<key>Track ID</key><integer>272713</integer>
 			<key>Name</key><string>Mr. Pushkin Came To Shove</string>
 			<key>Artist</key><string>Combustible Edison</string>
 			<key>Album</key><string>The Impossible World</string>
@@ -4129,7 +3917,7 @@ http://www.thelocalbay.com/</string>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2017-02-12T07:12:49Z</date>
-			<key>Date Added</key><date>2018-12-19T19:52:59Z</date>
+			<key>Date Added</key><date>2019-01-10T16:46:21Z</date>
 			<key>Bit Rate</key><integer>179</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -4138,9 +3926,319 @@ http://www.thelocalbay.com/</string>
 			<key>Normalization</key><integer>3209</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Impossible World</string>
-			<key>Persistent ID</key><string>7F6941196A77649F</string>
+			<key>Persistent ID</key><string>691AEC7284C39F9E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Combustible%20Edison/The%20Impossible%20World/Mr.%20Pushkin%20Came%20To%20Shove.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275294</key>
+		<dict>
+			<key>Track ID</key><integer>275294</integer>
+			<key>Name</key><string>T-Bone Shuffle</string>
+			<key>Artist</key><string>Doug Sahm</string>
+			<key>Album</key><string>The Last Real Texas Blues Band</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6888888</integer>
+			<key>Total Time</key><integer>333762</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-02-06T06:31:18Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3612521421</integer>
+			<key>Play Date UTC</key><date>2018-06-22T21:10:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-04T20:23:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2687</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Real Texas Blues Band</string>
+			<key>Persistent ID</key><string>23B3EA9CC53929B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Doug%20Sahm/The%20Last%20Real%20Texas%20Blues%20Band/T-Bone%20Shuffle.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275299</key>
+		<dict>
+			<key>Track ID</key><integer>275299</integer>
+			<key>Name</key><string>Highway 49</string>
+			<key>Artist</key><string>Howlin' Wolf</string>
+			<key>Album</key><string>The London Howlin' Wolf Sessions</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3420252</integer>
+			<key>Total Time</key><integer>168412</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2011-03-19T21:53:20Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3598165255</integer>
+			<key>Play Date UTC</key><date>2018-01-07T18:20:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5499</integer>
+			<key>Sort Album</key><string>London Howlin' Wolf Sessions</string>
+			<key>Persistent ID</key><string>4A83EEE0E62465D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions/Highway%2049.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275302</key>
+		<dict>
+			<key>Track ID</key><integer>275302</integer>
+			<key>Name</key><string>Highway - Big Joe Williams</string>
+			<key>Artist</key><string>Howlin' Wolf</string>
+			<key>Album</key><string>The London Howlin' Wolf Sessions (Extras)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4475479</integer>
+			<key>Total Time</key><integer>221168</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T21:53:26Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3568830248</integer>
+			<key>Play Date UTC</key><date>2017-02-02T05:44:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T21:18:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3738</integer>
+			<key>Sort Album</key><string>London Howlin' Wolf Sessions (Extras)</string>
+			<key>Persistent ID</key><string>E89D4A3463AEC3AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Howlin'%20Wolf/The%20London%20Howlin'%20Wolf%20Sessions%20(Extras)/Highway%20-%20Big%20Joe%20Williams.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275305</key>
+		<dict>
+			<key>Track ID</key><integer>275305</integer>
+			<key>Name</key><string>Done Somebody Wrong</string>
+			<key>Artist</key><string>Elmore James</string>
+			<key>Album</key><string>Dust My Broom</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2884520</integer>
+			<key>Total Time</key><integer>138893</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2011-03-19T21:39:50Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>166</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3628338088</integer>
+			<key>Play Date UTC</key><date>2018-12-22T23:41:28Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-08-12T06:40:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5225</integer>
+			<key>Persistent ID</key><string>69A71EAAEA4C4D4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Elmore%20James/Dust%20My%20Broom/Done%20Somebody%20Wrong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275308</key>
+		<dict>
+			<key>Track ID</key><integer>275308</integer>
+			<key>Name</key><string>Reconsider Baby</string>
+			<key>Artist</key><string>Doug Sahm</string>
+			<key>Album</key><string>The Last Real Texas Blues Band</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5970188</integer>
+			<key>Total Time</key><integer>288227</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-02-06T06:31:18Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3568889192</integer>
+			<key>Play Date UTC</key><date>2017-02-02T22:06:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-17T21:21:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3116</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Real Texas Blues Band</string>
+			<key>Persistent ID</key><string>C19087994D6DCFD4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Doug%20Sahm/The%20Last%20Real%20Texas%20Blues%20Band/Reconsider%20Baby.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275311</key>
+		<dict>
+			<key>Track ID</key><integer>275311</integer>
+			<key>Name</key><string>Crossroads</string>
+			<key>Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Album Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Album</key><string>One More From The Road Disc 2</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10819334</integer>
+			<key>Total Time</key><integer>265848</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2012-10-19T04:29:37Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9BE5C40205E89AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lynyrd%20Skynyrd/Lynyrd%20Skynyrd%20-%20One%20More%20From%20The%20Road%20(1976)/Disc%202/05.Crossroads.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275314</key>
+		<dict>
+			<key>Track ID</key><integer>275314</integer>
+			<key>Name</key><string>Le Grande Chaine/Yellow Barber/Shenandoah Falls</string>
+			<key>Artist</key><string>String Beings/Late for the Dance</string>
+			<key>Album</key><string>String Beings/Late For The Dance</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12881660</integer>
+			<key>Total Time</key><integer>340533</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2012-11-08T03:36:54Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3629696570</integer>
+			<key>Play Date UTC</key><date>2019-01-07T17:02:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1628</integer>
+			<key>Persistent ID</key><string>9BABC8C2EED757DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/String%20Beings/Late%20For%20The%20Dance/02%20Le%20Grande%20Chaine_Yellow%20Barber_Shenandoah%20Falls.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>275317</key>
+		<dict>
+			<key>Track ID</key><integer>275317</integer>
+			<key>Name</key><string>I'm Not Rough</string>
+			<key>Artist</key><string>The J. Geils Band</string>
+			<key>Album</key><string>Monkey Island</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6369772</integer>
+			<key>Total Time</key><integer>183379</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2012-10-28T13:08:59Z</date>
+			<key>Date Added</key><date>2019-01-10T16:47:37Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-13T23:00:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>J. Geils Band</string>
+			<key>Persistent ID</key><string>EA88A0DF6EB7D5BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20J.%20Geils%20Band/1977%20-%20Monkey%20Island/07%20-%20I'm%20Not%20Rough.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>312377</key>
+		<dict>
+			<key>Track ID</key><integer>312377</integer>
+			<key>Name</key><string>Nat Dee Special</string>
+			<key>Artist</key><string>Memphis Slim</string>
+			<key>Album</key><string>The Come Back</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3110421</integer>
+			<key>Total Time</key><integer>170200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-02-24T05:31:05Z</date>
+			<key>Date Added</key><date>2019-01-10T17:24:58Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Piano solo is constant throughout song</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3409307358</integer>
+			<key>Play Date UTC</key><date>2012-01-13T21:49:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-17T01:38:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1279</integer>
+			<key>Sort Album</key><string>Come Back</string>
+			<key>Persistent ID</key><string>1EBFB261B3E84A0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Memphis%20Slim/The%20Come%20Back/Nat%20Dee%20Special.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>314346</key>
+		<dict>
+			<key>Track ID</key><integer>314346</integer>
+			<key>Name</key><string>The Curly Shuffle </string>
+			<key>Artist</key><string>Jump In The Saddle Band</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2812132</integer>
+			<key>Total Time</key><integer>174654</integer>
+			<key>Date Modified</key><date>2012-09-05T02:24:06Z</date>
+			<key>Date Added</key><date>2019-01-10T17:27:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3445933511</integer>
+			<key>Play Date UTC</key><date>2013-03-12T18:45:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Sort Name</key><string>Curly Shuffle </string>
+			<key>Persistent ID</key><string>B7277040EFC6719F</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dr.%20Demento/Dr.%20Demento%20and%20other%20novelty%20songs/Dr%20Demento%20(Jump%20N%20The%20Saddle)%20-%20The%20Curly%20Shuffle%20@.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -4150,8 +4248,8 @@ http://www.thelocalbay.com/</string>
 		<dict>
 			<key>Name</key><string>Saturday Night Cooking</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>26758</integer>
-			<key>Playlist Persistent ID</key><string>94E9F782874349EB</string>
+			<key>Playlist ID</key><integer>275320</integer>
+			<key>Playlist Persistent ID</key><string>4ADCD7E8B85D16A0</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
@@ -4228,10 +4326,13 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6617</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8683</integer>
+					<key>Track ID</key><integer>275311</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>314346</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6759</integer>
@@ -4249,7 +4350,7 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6697</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6631</integer>
+					<key>Track ID</key><integer>275305</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6749</integer>
@@ -4285,16 +4386,19 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6659</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>272680</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>6553</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6781</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6615</integer>
+					<key>Track ID</key><integer>275302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6613</integer>
+					<key>Track ID</key><integer>275299</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6349</integer>
@@ -4318,7 +4422,7 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6649</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9391</integer>
+					<key>Track ID</key><integer>275317</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6655</integer>
@@ -4354,7 +4458,7 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6619</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9369</integer>
+					<key>Track ID</key><integer>275314</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6567</integer>
@@ -4396,10 +4500,13 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6585</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9505</integer>
+					<key>Track ID</key><integer>272713</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>312377</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6629</integer>
@@ -4438,10 +4545,7 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>5559</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6677</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6677</integer>
+					<key>Track ID</key><integer>275308</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6597</integer>
@@ -4492,7 +4596,7 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6641</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8635</integer>
+					<key>Track ID</key><integer>272359</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6719</integer>
@@ -4504,7 +4608,7 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6767</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6591</integer>
+					<key>Track ID</key><integer>275294</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6673</integer>
@@ -4534,10 +4638,10 @@ http://www.thelocalbay.com/</string>
 					<key>Track ID</key><integer>6623</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6637</integer>
+					<key>Track ID</key><integer>272293</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6635</integer>
+					<key>Track ID</key><integer>272290</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6573</integer>
