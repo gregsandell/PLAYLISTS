@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-03-01T20:42:06Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13179</key>
+		<dict>
+			<key>Track ID</key><integer>13179</integer>
+			<key>Name</key><string>Paloma Triste</string>
+			<key>Artist</key><string>Isolée</string>
+			<key>Album</key><string>Well Spent Youth</string>
+			<key>Genre</key><string>Techno</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9931862</integer>
+			<key>Total Time</key><integer>309263</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-11T16:53:23Z</date>
+			<key>Date Added</key><date>2019-02-11T16:52:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633412863</integer>
+			<key>Play Date UTC</key><date>2019-02-19T17:21:03Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69E26C750A8B5608</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Isole%CC%81e/2011%20-%20Well%20Spent%20Youth/01%20Paloma%20Triste.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Isoleé unrated</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>31147</integer>
+			<key>Playlist Persistent ID</key><string>CDE6F0EE6064B132</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13179</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
