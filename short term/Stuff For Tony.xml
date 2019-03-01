@@ -4,17 +4,76 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-01-08T00:23:25Z</date>
-	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Date</key><date>2019-03-01T20:47:12Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4697</key>
+		<key>4061</key>
 		<dict>
-			<key>Track ID</key><integer>4697</integer>
+			<key>Track ID</key><integer>4061</integer>
+			<key>Name</key><string>Seven Days</string>
+			<key>Artist</key><string>Sting</string>
+			<key>Album</key><string>Ten Summoner's Tales</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9020134</integer>
+			<key>Total Time</key><integer>279013</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-08-06T03:19:21Z</date>
+			<key>Date Added</key><date>2018-12-19T19:44:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3631952565</integer>
+			<key>Play Date UTC</key><date>2019-02-02T19:42:45Z</date>
+			<key>Release Date</key><date>1993-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7833C4D6BBD14EDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sting/1993%20-%20Ten%20Summoners%20Tales/06.%20Seven%20Days.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8633</key>
+		<dict>
+			<key>Track ID</key><integer>8633</integer>
+			<key>Name</key><string>Vertigogo</string>
+			<key>Artist</key><string>Combustible Edison</string>
+			<key>Album</key><string>Four Rooms (soundtrack)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8124823</integer>
+			<key>Total Time</key><integer>335725</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2017-02-12T07:18:08Z</date>
+			<key>Date Added</key><date>2019-01-10T16:46:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3632117491</integer>
+			<key>Play Date UTC</key><date>2019-02-04T17:31:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Four Rooms (soundtrack)</string>
+			<key>Sort Artist</key><string>Combustible Edison</string>
+			<key>Persistent ID</key><string>C4361114A6C71B41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Combustible%20Edison/1995%20-%20Four%20Rooms%20(soundtrack)/Vertigogo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8991</key>
+		<dict>
+			<key>Track ID</key><integer>8991</integer>
 			<key>Name</key><string>Below Minus 4</string>
 			<key>Artist</key><string>Opiate</string>
 			<key>Album Artist</key><string>Opiate</string>
@@ -27,7 +86,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1999</integer>
 			<key>Date Modified</key><date>2018-08-29T17:12:54Z</date>
-			<key>Date Added</key><date>2018-12-19T19:44:52Z</date>
+			<key>Date Added</key><date>2019-01-17T17:12:34Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> 0000032B 000003EA 000028BE 0000310D 00009C57 00009C57 00008000 00008000 00035B60 00013880</string>
@@ -37,15 +96,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1191EDE9A6971C01</string>
+			<key>Persistent ID</key><string>CA8366EB4188E987</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Opiate/2007%20-%20Objects%20For%20An%20Ideal%20Home/10%20-%20Below%20Minus%204.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8145</key>
+		<key>9993</key>
 		<dict>
-			<key>Track ID</key><integer>8145</integer>
+			<key>Track ID</key><integer>9993</integer>
 			<key>Name</key><string>Midnight Sun (New York, February 26, 1952)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -61,7 +120,7 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:34Z</date>
-			<key>Date Added</key><date>2018-12-19T19:48:22Z</date>
+			<key>Date Added</key><date>2019-01-17T17:14:57Z</date>
 			<key>Bit Rate</key><integer>232</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -73,15 +132,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>4611A19BC66B2ED2</string>
+			<key>Persistent ID</key><string>EBDBA83F738DB38A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/11.2%20-%20Midnight%20Sun%20(New%20York,%20February%2026,%201952).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8199</key>
+		<key>10035</key>
 		<dict>
-			<key>Track ID</key><integer>8199</integer>
+			<key>Track ID</key><integer>10035</integer>
 			<key>Name</key><string>Eviscerate (Version)</string>
 			<key>Artist</key><string>Squarepusher</string>
 			<key>Album Artist</key><string>Squarepusher</string>
@@ -93,23 +152,25 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2018-05-24T04:13:20Z</date>
-			<key>Date Added</key><date>2018-12-19T19:48:35Z</date>
+			<key>Date Added</key><date>2019-01-17T17:15:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-03T20:24:15Z</date>
 			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>01DB0A085CE6B490</string>
+			<key>Persistent ID</key><string>6A5CBD69BF8B53CE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Squarepusher/1997%20-%20Burningn'n%20Tree/10%20Eviscerate%20(Version).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8201</key>
+		<key>10037</key>
 		<dict>
-			<key>Track ID</key><integer>8201</integer>
+			<key>Track ID</key><integer>10037</integer>
 			<key>Name</key><string>Red Baron</string>
 			<key>Artist</key><string>Marcus Miller</string>
 			<key>Album</key><string>M Squared</string>
@@ -120,7 +181,7 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2017-01-05T04:59:42Z</date>
-			<key>Date Added</key><date>2018-12-19T19:48:35Z</date>
+			<key>Date Added</key><date>2019-01-17T17:15:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -130,15 +191,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>562EE37915AD2AE9</string>
+			<key>Persistent ID</key><string>A52218C957878234</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Marcus%20Miller/2001%20-%20M2/12%20-%20Red%20Baron.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>129926</key>
+		<key>10039</key>
 		<dict>
-			<key>Track ID</key><integer>129926</integer>
+			<key>Track ID</key><integer>10039</integer>
 			<key>Name</key><string>Pres's Instruments [Drums/Tenor Saxophone]</string>
 			<key>Artist</key><string>Lester Young</string>
 			<key>Album Artist</key><string>Lester Young</string>
@@ -149,7 +210,7 @@
 			<key>Total Time</key><integer>354142</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Date Modified</key><date>2018-08-03T02:28:02Z</date>
-			<key>Date Added</key><date>2019-01-06T19:14:05Z</date>
+			<key>Date Added</key><date>2019-01-17T17:15:08Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Volume Adjustment</key><integer>255</integer>
@@ -157,9 +218,233 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Lester Young Studio Sessions On Verve 08</string>
-			<key>Persistent ID</key><string>8C35D2CAF2B67B31</string>
+			<key>Persistent ID</key><string>285ECCC162832F4F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lester%20Young/Complete%20Studio%20Sessions%20On%20Verve%20(1946-1959)%20(8%20CD)/08/09-%20Pres's%20Instruments%20%5BDrumsTenor%20Saxophone%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10041</key>
+		<dict>
+			<key>Track ID</key><integer>10041</integer>
+			<key>Name</key><string>They're Coming to Take Me Away, Ha-Haaa!</string>
+			<key>Artist</key><string>Napoleon XIV</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Bonaparte</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5223360</integer>
+			<key>Total Time</key><integer>130560</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-03-05T03:39:35Z</date>
+			<key>Date Added</key><date>2019-01-17T17:15:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3629963197</integer>
+			<key>Play Date UTC</key><date>2019-01-10T19:06:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>708FB2AE8E7AC652</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dr.%20Demento/Dr.%20Demento%2020th%20Anniversary%20Collection-%20The%20Greatest%20Novelty%20Records%20of%20All%20Time/Dr.%20Demento%2020th%20Anniversary%20Collection-%20The%20Greatest%20Novelty%20Records%20of%20All%20Time%20Disc%202/18%20They're%20Coming%20to%20Take%20Me%20Away,%20Ha-Haaa!.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10377</key>
+		<dict>
+			<key>Track ID</key><integer>10377</integer>
+			<key>Name</key><string>Choo Choo Ch'Boogie (1950)</string>
+			<key>Artist</key><string>Kenny Roberts</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4220386</integer>
+			<key>Total Time</key><integer>175673</integer>
+			<key>Date Modified</key><date>2017-03-03T07:56:28Z</date>
+			<key>Date Added</key><date>2019-01-17T17:15:51Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633001604</integer>
+			<key>Play Date UTC</key><date>2019-02-14T23:06:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>6989C0A7706B9D94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Western%20Swing%20misc/Kenny%20Roberts%20-%20Choo%20Choo%20Ch'Boogie%20(1950).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10833</key>
+		<dict>
+			<key>Track ID</key><integer>10833</integer>
+			<key>Name</key><string>The Chant</string>
+			<key>Artist</key><string>Jelly Roll Morton</string>
+			<key>Album</key><string>Complete Recorded Sides 1926-1930, Disc 4</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6400987</integer>
+			<key>Total Time</key><integer>198791</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2018-02-11T00:40:15Z</date>
+			<key>Date Added</key><date>2019-01-17T17:16:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3631192102</integer>
+			<key>Play Date UTC</key><date>2019-01-25T00:28:22Z</date>
+			<key>Release Date</key><date>2000-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Chant</string>
+			<key>Persistent ID</key><string>D065F6B845C131CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jelly%20Roll%20Morton/Complete%20Recorded%20Sides%201926-1930/Disc%204/01%20-%20The%20Chant.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10887</key>
+		<dict>
+			<key>Track ID</key><integer>10887</integer>
+			<key>Name</key><string>The Chant</string>
+			<key>Artist</key><string>Jelly Roll Morton</string>
+			<key>Album</key><string>The Centennial - His Complete Victor Recordings (5 CD)</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6152113</integer>
+			<key>Total Time</key><integer>191529</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2018-02-16T17:44:05Z</date>
+			<key>Date Added</key><date>2019-01-17T17:16:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606712920</integer>
+			<key>Play Date UTC</key><date>2018-04-16T15:42:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Centennial - His Complete Victor Recordings (5 CD)</string>
+			<key>Sort Name</key><string>Chant</string>
+			<key>Persistent ID</key><string>E252462BE70A3086</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jelly%20Roll%20Morton/The%20Centennial%20-%20His%20Complete%20Victor%20Recordings%20(5%20CD)/CD%201/03-TheChant.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11413</key>
+		<dict>
+			<key>Track ID</key><integer>11413</integer>
+			<key>Name</key><string>Dear Prudence-ABcomparison-origVs2018</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album</key><string>White Album</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7966881</integer>
+			<key>Total Time</key><integer>497920</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2019-02-03T20:22:32Z</date>
+			<key>Date Added</key><date>2019-02-03T20:23:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3632127794</integer>
+			<key>Play Date UTC</key><date>2019-02-04T20:23:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>2D35E7BE3025536B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Beatles/2018%20-%20White%20Album%202018%20Re-release/Dear%20Prudence-ABcomparison.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11845</key>
+		<dict>
+			<key>Track ID</key><integer>11845</integer>
+			<key>Name</key><string>Hurricane</string>
+			<key>Artist</key><string>The Surfrajettes</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2879763</integer>
+			<key>Total Time</key><integer>119013</integer>
+			<key>Date Modified</key><date>2018-08-14T18:07:04Z</date>
+			<key>Date Added</key><date>2019-02-05T05:56:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633687521</integer>
+			<key>Play Date UTC</key><date>2019-02-22T21:38:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Surfrajettes</string>
+			<key>Persistent ID</key><string>05FDACEAFB76AB3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Surfrajettes/YouTube/Hurricane.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11867</key>
+		<dict>
+			<key>Track ID</key><integer>11867</integer>
+			<key>Name</key><string>Let There Be Drums</string>
+			<key>Artist</key><string>Sandy Nelson</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Genre</key><string>Instrumental;Oldie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3367561</integer>
+			<key>Total Time</key><integer>138109</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2018-08-14T18:07:01Z</date>
+			<key>Date Added</key><date>2019-02-05T05:56:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>asmadeus</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3632987384</integer>
+			<key>Play Date UTC</key><date>2019-02-14T19:09:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80312BB42356C792</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sandy%20Nelson/singles/Let%20There%20Be%20Drums.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12827</key>
+		<dict>
+			<key>Track ID</key><integer>12827</integer>
+			<key>Name</key><string>Peaches en Regalia</string>
+			<key>Artist</key><string>The Dixie Dregs</string>
+			<key>Album</key><string>California Screamin'</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8206709</integer>
+			<key>Total Time</key><integer>203546</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-02-10T04:02:38Z</date>
+			<key>Date Added</key><date>2019-02-10T04:02:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Dixie Dregs</string>
+			<key>Persistent ID</key><string>2D3D3042C7E38F9A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dixie%20Dregs/2000%20-%20California%20Screamin'/02%20Peaches%20en%20Regalia.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -169,25 +454,58 @@
 		<dict>
 			<key>Name</key><string>Stuff For Tony</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>27806</integer>
-			<key>Playlist Persistent ID</key><string>51A2F04F2CF4F3DF</string>
+			<key>Playlist ID</key><integer>33284</integer>
+			<key>Playlist Persistent ID</key><string>FD91DE5EC54258C9</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8199</integer>
+					<key>Track ID</key><integer>10035</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4697</integer>
+					<key>Track ID</key><integer>8991</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>129926</integer>
+					<key>Track ID</key><integer>10039</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8145</integer>
+					<key>Track ID</key><integer>9993</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8201</integer>
+					<key>Track ID</key><integer>10037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10377</integer>
 				</dict>
 			</array>
 		</dict>

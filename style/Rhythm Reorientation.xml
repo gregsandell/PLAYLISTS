@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-01-16T20:30:47Z</date>
-	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Date</key><date>2019-03-01T20:45:11Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>314687</key>
+		<key>9955</key>
 		<dict>
-			<key>Track ID</key><integer>314687</integer>
+			<key>Track ID</key><integer>9955</integer>
 			<key>Name</key><string>Defocus</string>
 			<key>Artist</key><string>Amon Tobin</string>
 			<key>Album Artist</key><string>Amon Tobin</string>
@@ -27,16 +27,47 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1997</integer>
 			<key>Date Modified</key><date>2011-03-19T21:16:16Z</date>
-			<key>Date Added</key><date>2019-01-10T17:28:16Z</date>
+			<key>Date Added</key><date>2019-01-17T17:14:11Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>033CA0CEB9DCBA9C</string>
+			<key>Persistent ID</key><string>57A9CD36319437FE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Amon%20Tobin/Bricolage/Defocus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9995</key>
+		<dict>
+			<key>Track ID</key><integer>9995</integer>
+			<key>Name</key><string>She's Got To Be Somewhere</string>
+			<key>Artist</key><string>David Crosby</string>
+			<key>Album Artist</key><string>David Crosby</string>
+			<key>Album</key><string>Sky Trails</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11528347</integer>
+			<key>Total Time</key><integer>286145</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-04-27T04:33:27Z</date>
+			<key>Date Added</key><date>2019-01-17T17:14:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3629883037</integer>
+			<key>Play Date UTC</key><date>2019-01-09T20:50:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>F735564F8B5A7E71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/David%20Crosby/2017%20-%20Sky%20Trails/01%20-%20She's%20Got%20To%20Be%20Somewhere.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -46,13 +77,16 @@
 		<dict>
 			<key>Name</key><string>Rhythm Reorientation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>362936</integer>
-			<key>Playlist Persistent ID</key><string>A34F4E97A60F16E4</string>
+			<key>Playlist ID</key><integer>32168</integer>
+			<key>Playlist Persistent ID</key><string>EAA9D181543C3D9D</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>314687</integer>
+					<key>Track ID</key><integer>9955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9995</integer>
 				</dict>
 			</array>
 		</dict>
