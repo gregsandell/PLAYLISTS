@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-03-01T20:37:54Z</date>
+	<key>Date</key><date>2019-03-12T16:08:34Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8997</key>
+		<key>9040</key>
 		<dict>
-			<key>Track ID</key><integer>8997</integer>
+			<key>Track ID</key><integer>9040</integer>
 			<key>Name</key><string>Heavy Load</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Silver Mountain</string>
@@ -47,9 +47,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8999</key>
+		<key>9042</key>
 		<dict>
-			<key>Track ID</key><integer>8999</integer>
+			<key>Track ID</key><integer>9042</integer>
 			<key>Name</key><string>I'm Not A Stealer</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Deadstring Brothers</string>
@@ -74,9 +74,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9115</key>
+		<key>9158</key>
 		<dict>
-			<key>Track ID</key><integer>9115</integer>
+			<key>Track ID</key><integer>9158</integer>
 			<key>Name</key><string>11 - Long Black Veil</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Deadstring Brothers</string>
@@ -101,9 +101,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9849</key>
+		<key>9892</key>
 		<dict>
-			<key>Track ID</key><integer>9849</integer>
+			<key>Track ID</key><integer>9892</integer>
 			<key>Name</key><string>Tennessee Sure Enough</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Silver Mountain</string>
@@ -136,9 +136,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11067</key>
+		<key>11110</key>
 		<dict>
-			<key>Track ID</key><integer>11067</integer>
+			<key>Track ID</key><integer>11110</integer>
 			<key>Name</key><string>The Light Shines Within</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Silver Mountain</string>
@@ -172,9 +172,36 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13253</key>
+		<key>13014</key>
 		<dict>
-			<key>Track ID</key><integer>13253</integer>
+			<key>Track ID</key><integer>13014</integer>
+			<key>Name</key><string>Like a California Wildfire</string>
+			<key>Artist</key><string>Deadstring Brothers</string>
+			<key>Album Artist</key><string>Deadstring Brothers</string>
+			<key>Album</key><string>Cannery Row</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8373033</integer>
+			<key>Total Time</key><integer>260127</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-12T16:57:09Z</date>
+			<key>Date Added</key><date>2019-02-12T16:56:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25D20E2C7E901E88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Deadstring%20Brothers/2013%20-%20Cannery%20Row/01%20-%20Like%20a%20California%20Wildfire.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13016</key>
+		<dict>
+			<key>Track ID</key><integer>13016</integer>
 			<key>Name</key><string>It's Morning Irene</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album Artist</key><string>Deadstring Brothers</string>
@@ -192,7 +219,6 @@
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D5AB931B2C5A2CF0</string>
 			<key>Track Type</key><string>File</string>
@@ -200,9 +226,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13255</key>
+		<key>13018</key>
 		<dict>
-			<key>Track ID</key><integer>13255</integer>
+			<key>Track ID</key><integer>13018</integer>
 			<key>Name</key><string>Oh Me, Oh My</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album Artist</key><string>Deadstring Brothers</string>
@@ -223,7 +249,6 @@
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4BBD754C9C214C06</string>
 			<key>Track Type</key><string>File</string>
@@ -231,9 +256,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13257</key>
+		<key>13020</key>
 		<dict>
-			<key>Track ID</key><integer>13257</integer>
+			<key>Track ID</key><integer>13020</integer>
 			<key>Name</key><string>The Lonely Ride</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album Artist</key><string>Deadstring Brothers</string>
@@ -254,7 +279,6 @@
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Lonely Ride</string>
 			<key>Persistent ID</key><string>5C6882121CEB9012</string>
@@ -263,9 +287,36 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13261</key>
+		<key>13022</key>
 		<dict>
-			<key>Track ID</key><integer>13261</integer>
+			<key>Track ID</key><integer>13022</integer>
+			<key>Name</key><string>Cannery Row</string>
+			<key>Artist</key><string>Deadstring Brothers</string>
+			<key>Album Artist</key><string>Deadstring Brothers</string>
+			<key>Album</key><string>Cannery Row</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7781187</integer>
+			<key>Total Time</key><integer>241632</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-12T16:57:11Z</date>
+			<key>Date Added</key><date>2019-02-12T16:56:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>257AC01CA70B30FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Deadstring%20Brothers/2013%20-%20Cannery%20Row/05%20-%20Cannery%20Row.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13024</key>
+		<dict>
+			<key>Track ID</key><integer>13024</integer>
 			<key>Name</key><string>Lucille's Honky Tonk</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album Artist</key><string>Deadstring Brothers</string>
@@ -283,7 +334,6 @@
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7ACCB975525ECCC3</string>
 			<key>Track Type</key><string>File</string>
@@ -291,9 +341,37 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13265</key>
+		<key>13026</key>
 		<dict>
-			<key>Track ID</key><integer>13265</integer>
+			<key>Track ID</key><integer>13026</integer>
+			<key>Name</key><string>The Mansion</string>
+			<key>Artist</key><string>Deadstring Brothers</string>
+			<key>Album Artist</key><string>Deadstring Brothers</string>
+			<key>Album</key><string>Cannery Row</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7595614</integer>
+			<key>Total Time</key><integer>235833</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-12T16:57:12Z</date>
+			<key>Date Added</key><date>2019-02-12T16:56:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Mansion</string>
+			<key>Persistent ID</key><string>213173BD34B62B47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Deadstring%20Brothers/2013%20-%20Cannery%20Row/08%20-%20The%20Mansion.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13028</key>
+		<dict>
+			<key>Track ID</key><integer>13028</integer>
 			<key>Name</key><string>Talkin' With a Man in Montana</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album Artist</key><string>Deadstring Brothers</string>
@@ -314,7 +392,6 @@
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1E5F076843DA88C5</string>
 			<key>Track Type</key><string>File</string>
@@ -322,9 +399,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13441</key>
+		<key>13182</key>
 		<dict>
-			<key>Track ID</key><integer>13441</integer>
+			<key>Track ID</key><integer>13182</integer>
 			<key>Name</key><string>27 Hours</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Deadstring Brothers</string>
@@ -346,9 +423,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13443</key>
+		<key>13184</key>
 		<dict>
-			<key>Track ID</key><integer>13443</integer>
+			<key>Track ID</key><integer>13184</integer>
 			<key>Name</key><string>If You Want Me To</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Silver Mountain</string>
@@ -376,9 +453,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13445</key>
+		<key>13186</key>
 		<dict>
-			<key>Track ID</key><integer>13445</integer>
+			<key>Track ID</key><integer>13186</integer>
 			<key>Name</key><string>Silver Mountain</string>
 			<key>Artist</key><string>Deadstring Brothers</string>
 			<key>Album</key><string>Silver Mountain</string>
@@ -412,49 +489,58 @@
 		<dict>
 			<key>Name</key><string>Deadstring Bros faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>29447</integer>
+			<key>Playlist ID</key><integer>28987</integer>
 			<key>Playlist Persistent ID</key><string>AD90AEDB01E60EBF</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>13261</integer>
+					<key>Track ID</key><integer>13024</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8999</integer>
+					<key>Track ID</key><integer>9042</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13441</integer>
+					<key>Track ID</key><integer>13182</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8997</integer>
+					<key>Track ID</key><integer>9040</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13443</integer>
+					<key>Track ID</key><integer>13184</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9849</integer>
+					<key>Track ID</key><integer>9892</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13445</integer>
+					<key>Track ID</key><integer>13186</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11067</integer>
+					<key>Track ID</key><integer>11110</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9115</integer>
+					<key>Track ID</key><integer>9158</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13265</integer>
+					<key>Track ID</key><integer>13028</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13253</integer>
+					<key>Track ID</key><integer>13016</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13257</integer>
+					<key>Track ID</key><integer>13020</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13255</integer>
+					<key>Track ID</key><integer>13018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13026</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13014</integer>
 				</dict>
 			</array>
 		</dict>
