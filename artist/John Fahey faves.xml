@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-03-12T16:16:32Z</date>
+	<key>Date</key><date>2019-03-13T21:28:12Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -590,6 +590,31 @@
 			<key>Persistent ID</key><string>7D35FA2D44F7D7B0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1965%20-%20The%20Transfiguration%20of%20Blind%20Joe%20Death/09-Bicycle_Built_for_Two.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13680</key>
+		<dict>
+			<key>Track ID</key><integer>13680</integer>
+			<key>Name</key><string>Brenda_s_Blues</string>
+			<key>Artist</key><string>John Fahey   </string>
+			<key>Album</key><string>The Transfiguration of Blind Joe Death</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3581662</integer>
+			<key>Total Time</key><integer>109688</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1965</integer>
+			<key>Date Modified</key><date>2019-03-08T04:17:54Z</date>
+			<key>Date Added</key><date>2019-03-08T04:15:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Transfiguration of Blind Joe Death</string>
+			<key>Persistent ID</key><string>1504FFB63B76525D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1965%20-%20The%20Transfiguration%20of%20Blind%20Joe%20Death/11-Brenda_s_Blues.mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1989,6 +2014,32 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>13830</key>
+		<dict>
+			<key>Track ID</key><integer>13830</integer>
+			<key>Name</key><string>Beverly</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>After The Ball</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9255074</integer>
+			<key>Total Time</key><integer>288208</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2019-03-09T17:26:50Z</date>
+			<key>Date Added</key><date>2019-03-09T17:26:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1973-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>136871F469B50CDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1973%20-%20After%20The%20Ball/03%20-%20Beverly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 		<key>13832</key>
 		<dict>
 			<key>Track ID</key><integer>13832</integer>
@@ -2008,7 +2059,6 @@
 			<key>Release Date</key><date>1973-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>10EB26FDAC3066D6</string>
 			<key>Track Type</key><string>File</string>
@@ -2038,7 +2088,6 @@
 			<key>Release Date</key><date>1973-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3E51D70DB3CF2125</string>
 			<key>Track Type</key><string>File</string>
@@ -2070,7 +2119,6 @@
 			<key>Release Date</key><date>1973-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AE2D168497383897</string>
 			<key>Track Type</key><string>File</string>
@@ -2097,7 +2145,6 @@
 			<key>Release Date</key><date>1973-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A6025D773422D72</string>
 			<key>Track Type</key><string>File</string>
@@ -2124,7 +2171,6 @@
 			<key>Release Date</key><date>1973-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1CBF0B40627D3DD1</string>
 			<key>Track Type</key><string>File</string>
@@ -2299,9 +2345,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13940</key>
+		<key>13928</key>
 		<dict>
-			<key>Track ID</key><integer>13940</integer>
+			<key>Track ID</key><integer>13928</integer>
 			<key>Name</key><string>Introduction By Stefan Markovitch / On The Sunny Side Of The Ocean / Tasmanian Two-Step / Tiger</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Live In Tasmania</string>
@@ -2326,9 +2372,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13942</key>
+		<key>13930</key>
 		<dict>
-			<key>Track ID</key><integer>13942</integer>
+			<key>Track ID</key><integer>13930</integer>
 			<key>Name</key><string>Waltzing Matilda</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Live In Tasmania</string>
@@ -2356,9 +2402,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13944</key>
+		<key>13932</key>
 		<dict>
-			<key>Track ID</key><integer>13944</integer>
+			<key>Track ID</key><integer>13932</integer>
 			<key>Name</key><string>Indian-Pacific R.R. Blues</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Live In Tasmania</string>
@@ -2383,9 +2429,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14004</key>
+		<key>13992</key>
 		<dict>
-			<key>Track ID</key><integer>14004</integer>
+			<key>Track ID</key><integer>13992</integer>
 			<key>Name</key><string>Yes! Jesus Loves Me</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Yes! Jesus Loves Me (Guitar Hymns)</string>
@@ -2405,7 +2451,6 @@
 			<key>Release Date</key><date>1980-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>75E50E696AF1CC1D</string>
 			<key>Track Type</key><string>File</string>
@@ -2413,9 +2458,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14008</key>
+		<key>13994</key>
 		<dict>
-			<key>Track ID</key><integer>14008</integer>
+			<key>Track ID</key><integer>13994</integer>
+			<key>Name</key><string>Stand Up, Stand Up For Jesus</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Yes! Jesus Loves Me (Guitar Hymns)</string>
+			<key>Genre</key><string>Gospel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2354322</integer>
+			<key>Total Time</key><integer>72437</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2019-03-10T07:41:03Z</date>
+			<key>Date Added</key><date>2019-03-10T07:40:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635226191</integer>
+			<key>Play Date UTC</key><date>2019-03-12T16:03:11Z</date>
+			<key>Release Date</key><date>1980-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C9898B6BA230B80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1980%20-%20Yes!%20Jesus%20Loves%20Me%20(Guitar%20Hymns)/02%20Stand%20Up,%20Stand%20Up%20For%20Jesus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13996</key>
+		<dict>
+			<key>Track ID</key><integer>13996</integer>
 			<key>Name</key><string>Oh Come, Oh Come Emmanuel</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Yes! Jesus Loves Me (Guitar Hymns)</string>
@@ -2435,7 +2509,6 @@
 			<key>Release Date</key><date>1980-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FF8532070A57D02A</string>
 			<key>Track Type</key><string>File</string>
@@ -2443,9 +2516,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14010</key>
+		<key>13998</key>
 		<dict>
-			<key>Track ID</key><integer>14010</integer>
+			<key>Track ID</key><integer>13998</integer>
 			<key>Name</key><string>For All The Saints</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Yes! Jesus Loves Me (Guitar Hymns)</string>
@@ -2465,7 +2538,6 @@
 			<key>Release Date</key><date>1980-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D39B72D061C94B2D</string>
 			<key>Track Type</key><string>File</string>
@@ -2473,9 +2545,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14014</key>
+		<key>14000</key>
 		<dict>
-			<key>Track ID</key><integer>14014</integer>
+			<key>Track ID</key><integer>14000</integer>
 			<key>Name</key><string>Lord, I Want To Be A Christian In My Heart</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Yes! Jesus Loves Me (Guitar Hymns)</string>
@@ -2495,7 +2567,6 @@
 			<key>Release Date</key><date>1980-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>11AB295033107F22</string>
 			<key>Track Type</key><string>File</string>
@@ -2503,9 +2574,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14016</key>
+		<key>14002</key>
 		<dict>
-			<key>Track ID</key><integer>14016</integer>
+			<key>Track ID</key><integer>14002</integer>
 			<key>Name</key><string>Faith Of Our Fathers</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Yes! Jesus Loves Me (Guitar Hymns)</string>
@@ -2525,7 +2596,6 @@
 			<key>Release Date</key><date>1980-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EB8BEE8587680966</string>
 			<key>Track Type</key><string>File</string>
@@ -2533,9 +2603,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14098</key>
+		<key>14012</key>
 		<dict>
-			<key>Track ID</key><integer>14098</integer>
+			<key>Track ID</key><integer>14012</integer>
 			<key>Name</key><string>Frisco Leaving Birmingham</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Railroad I</string>
@@ -2552,7 +2622,6 @@
 			<key>Release Date</key><date>1983-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>819D458F2EEB1FA8</string>
 			<key>Track Type</key><string>File</string>
@@ -2560,9 +2629,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14104</key>
+		<key>14014</key>
 		<dict>
-			<key>Track ID</key><integer>14104</integer>
+			<key>Track ID</key><integer>14014</integer>
 			<key>Name</key><string>Steve Talbot On The Keddie Wye</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Railroad I</string>
@@ -2579,7 +2648,6 @@
 			<key>Release Date</key><date>1983-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B3980D31692CC3F0</string>
 			<key>Track Type</key><string>File</string>
@@ -2587,9 +2655,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14106</key>
+		<key>14016</key>
 		<dict>
-			<key>Track ID</key><integer>14106</integer>
+			<key>Track ID</key><integer>14016</integer>
 			<key>Name</key><string>Afternoon Espee Through Salem</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Railroad I</string>
@@ -2609,7 +2677,6 @@
 			<key>Release Date</key><date>1983-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4DE60AF283641DCF</string>
 			<key>Track Type</key><string>File</string>
@@ -2617,9 +2684,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14110</key>
+		<key>14018</key>
 		<dict>
-			<key>Track ID</key><integer>14110</integer>
+			<key>Track ID</key><integer>14018</integer>
 			<key>Name</key><string>Charlie Becker's Meditation</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Railroad I</string>
@@ -2636,7 +2703,6 @@
 			<key>Release Date</key><date>1983-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>119C9B34FABD2BB8</string>
 			<key>Track Type</key><string>File</string>
@@ -2644,9 +2710,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14114</key>
+		<key>14020</key>
 		<dict>
-			<key>Track ID</key><integer>14114</integer>
+			<key>Track ID</key><integer>14020</integer>
 			<key>Name</key><string>Life Is Like A Mountain Railroad</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Railroad I</string>
@@ -2666,7 +2732,6 @@
 			<key>Release Date</key><date>1983-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FB92A9C94D70A29D</string>
 			<key>Track Type</key><string>File</string>
@@ -2674,9 +2739,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14126</key>
+		<key>14022</key>
 		<dict>
-			<key>Track ID</key><integer>14126</integer>
+			<key>Track ID</key><integer>14022</integer>
 			<key>Name</key><string>Lullaby And Finale From The Firebird</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Rain Forests, Oceans, And Other Themes</string>
@@ -2704,9 +2769,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14128</key>
+		<key>14024</key>
 		<dict>
-			<key>Track ID</key><integer>14128</integer>
+			<key>Track ID</key><integer>14024</integer>
 			<key>Name</key><string>Atlantic High</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Rain Forests, Oceans, And Other Themes</string>
@@ -2731,9 +2796,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14132</key>
+		<key>14026</key>
 		<dict>
-			<key>Track ID</key><integer>14132</integer>
+			<key>Track ID</key><integer>14026</integer>
 			<key>Name</key><string>Theme And Variations</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Rain Forests, Oceans, And Other Themes</string>
@@ -2758,9 +2823,9 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14134</key>
+		<key>14028</key>
 		<dict>
-			<key>Track ID</key><integer>14134</integer>
+			<key>Track ID</key><integer>14028</integer>
 			<key>Name</key><string>May This Be Love/Casey Jones</string>
 			<key>Artist</key><string>John Fahey</string>
 			<key>Album</key><string>Rain Forests, Oceans, And Other Themes</string>
@@ -2788,13 +2853,684 @@
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>14060</key>
+		<dict>
+			<key>Track ID</key><integer>14060</integer>
+			<key>Name</key><string>Medley: Hark the Herald Angels Sing / O Come All Ye Faithful</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8832463</integer>
+			<key>Total Time</key><integer>272065</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:02:00Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C2E97114F756BB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/03%20-%20Medley_%20Hark%20the%20Herald%20Angels%20Sing%20_%20O%20Come%20All%20Ye%20Faithful.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14062</key>
+		<dict>
+			<key>Track ID</key><integer>14062</integer>
+			<key>Name</key><string>Auld Lange Syne</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4288366</integer>
+			<key>Total Time</key><integer>130063</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:02:00Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8A3CA5F562F9F6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/04%20-%20Auld%20Lange%20Syne.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14064</key>
+		<dict>
+			<key>Track ID</key><integer>14064</integer>
+			<key>Name</key><string>We Three Kings Of Orient Are</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3712431</integer>
+			<key>Total Time</key><integer>112065</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:59Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3635236033</integer>
+			<key>Play Date UTC</key><date>2019-03-12T18:47:13Z</date>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9640A5DD12308FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/07%20-%20We%20Three%20Kings%20Of%20Orient%20Are.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14066</key>
+		<dict>
+			<key>Track ID</key><integer>14066</integer>
+			<key>Name</key><string>God Rest Ye Merry Gentlemen Fantasy</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5888334</integer>
+			<key>Total Time</key><integer>180062</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:59Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>77661385757A5640</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/09%20-%20God%20Rest%20Ye%20Merry%20Gentlemen%20Fantasy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14068</key>
+		<dict>
+			<key>Track ID</key><integer>14068</integer>
+			<key>Name</key><string>The Skater's Waltz</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7760775</integer>
+			<key>Total Time</key><integer>238576</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:58Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Skater's Waltz</string>
+			<key>Persistent ID</key><string>A052B6C398159752</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/12%20-%20The%20Skater's%20Waltz.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14070</key>
+		<dict>
+			<key>Track ID</key><integer>14070</integer>
+			<key>Name</key><string>The Christmas Song</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4832553</integer>
+			<key>Total Time</key><integer>147069</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:58Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635235710</integer>
+			<key>Play Date UTC</key><date>2019-03-12T18:41:50Z</date>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Christmas Song</string>
+			<key>Persistent ID</key><string>59560DC1BB717549</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/13%20-%20The%20Christmas%20Song.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14072</key>
+		<dict>
+			<key>Track ID</key><integer>14072</integer>
+			<key>Name</key><string>Medley: Christmas Time's A-Coming / Rudolph the Red-Nosed Reindeer</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8111909</integer>
+			<key>Total Time</key><integer>249547</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:58Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5B74046B4B8855B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/14%20-%20Medley_%20Christmas%20Time's%20A-Coming%20_%20Rudolph%20the%20Red-Nosed%20Reindeer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14074</key>
+		<dict>
+			<key>Track ID</key><integer>14074</integer>
+			<key>Name</key><string>Apple Blossom Time</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3296135</integer>
+			<key>Total Time</key><integer>99056</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:57Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3635241432</integer>
+			<key>Play Date UTC</key><date>2019-03-12T20:17:12Z</date>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C562DE23E04003BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/16%20-%20Apple%20Blossom%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14076</key>
+		<dict>
+			<key>Track ID</key><integer>14076</integer>
+			<key>Name</key><string>The First Noel</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7680523</integer>
+			<key>Total Time</key><integer>236068</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:57Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>First Noel</string>
+			<key>Persistent ID</key><string>F4F6027D86070876</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/18%20-%20The%20First%20Noel.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14078</key>
+		<dict>
+			<key>Track ID</key><integer>14078</integer>
+			<key>Name</key><string>Good King Wenceslas</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2304737</integer>
+			<key>Total Time</key><integer>68075</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:57Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635236615</integer>
+			<key>Play Date UTC</key><date>2019-03-12T18:56:55Z</date>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2108CEA86396DB8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/19%20-%20Good%20King%20Wenceslas.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14080</key>
+		<dict>
+			<key>Track ID</key><integer>14080</integer>
+			<key>Name</key><string>Away In A Manger (2)</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5056581</integer>
+			<key>Total Time</key><integer>154070</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:56Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC8CE507B76FCD5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/21%20-%20Away%20In%20A%20Manger%20(2).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14082</key>
+		<dict>
+			<key>Track ID</key><integer>14082</integer>
+			<key>Name</key><string>Medley: Jesus, Won't You Come By Here / Go Tell It On the Mountain</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6784470</integer>
+			<key>Total Time</key><integer>208065</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:56Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635237059</integer>
+			<key>Play Date UTC</key><date>2019-03-12T19:04:19Z</date>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E3F56DAF4091C01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/24%20-%20Medley_%20Jesus,%20Won't%20You%20Come%20By%20Here%20_%20Go%20Tell%20It%20On%20the%20Mountain.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14084</key>
+		<dict>
+			<key>Track ID</key><integer>14084</integer>
+			<key>Name</key><string>Silent Night, Holy Night</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>Christmas Guitar</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6336376</integer>
+			<key>Total Time</key><integer>194063</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2019-03-12T16:01:55Z</date>
+			<key>Date Added</key><date>2019-03-12T16:01:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635241711</integer>
+			<key>Play Date UTC</key><date>2019-03-12T20:21:51Z</date>
+			<key>Release Date</key><date>1986-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43DCAF06BC8D2F68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1986%20-%20Christmas%20Guitar/26%20-%20Silent%20Night,%20Holy%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14124</key>
+		<dict>
+			<key>Track ID</key><integer>14124</integer>
+			<key>Name</key><string>You'll Find Her Name Written There</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>I Remember Blind Joe Death</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3117123</integer>
+			<key>Total Time</key><integer>96287</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2019-03-12T22:44:12Z</date>
+			<key>Date Added</key><date>2019-03-12T22:43:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3635281982</integer>
+			<key>Play Date UTC</key><date>2019-03-13T07:33:02Z</date>
+			<key>Release Date</key><date>1987-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28381245EEEBF1AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1987%20-%20I%20Remember%20Blind%20Joe%20Death/02%20You'll%20Find%20Her%20Name%20Written%20There.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14126</key>
+		<dict>
+			<key>Track ID</key><integer>14126</integer>
+			<key>Name</key><string>Are You From Dixie</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>I Remember Blind Joe Death</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5329783</integer>
+			<key>Total Time</key><integer>165433</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2019-03-12T22:44:12Z</date>
+			<key>Date Added</key><date>2019-03-12T22:43:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635283166</integer>
+			<key>Play Date UTC</key><date>2019-03-13T07:52:46Z</date>
+			<key>Release Date</key><date>1987-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E520DF7C98E8908</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1987%20-%20I%20Remember%20Blind%20Joe%20Death/04%20Are%20You%20From%20Dixie.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14128</key>
+		<dict>
+			<key>Track ID</key><integer>14128</integer>
+			<key>Name</key><string>Steel Guitar Rag</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>I Remember Blind Joe Death</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4739622</integer>
+			<key>Total Time</key><integer>146991</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2019-03-12T22:44:11Z</date>
+			<key>Date Added</key><date>2019-03-12T22:43:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635279174</integer>
+			<key>Play Date UTC</key><date>2019-03-13T06:46:14Z</date>
+			<key>Release Date</key><date>1987-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DBFCBAECA6EE9E68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1987%20-%20I%20Remember%20Blind%20Joe%20Death/06%20Steel%20Guitar%20Rag.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14130</key>
+		<dict>
+			<key>Track ID</key><integer>14130</integer>
+			<key>Name</key><string>Let Me Call You Sweetheart</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>I Remember Blind Joe Death</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4284057</integer>
+			<key>Total Time</key><integer>132754</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2019-03-12T22:44:10Z</date>
+			<key>Date Added</key><date>2019-03-12T22:43:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635278854</integer>
+			<key>Play Date UTC</key><date>2019-03-13T06:40:54Z</date>
+			<key>Release Date</key><date>1987-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70D834FCB3649199</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1987%20-%20I%20Remember%20Blind%20Joe%20Death/08%20Let%20Me%20Call%20You%20Sweetheart.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14132</key>
+		<dict>
+			<key>Track ID</key><integer>14132</integer>
+			<key>Name</key><string>Lava On Waikiki</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>I Remember Blind Joe Death</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4472964</integer>
+			<key>Total Time</key><integer>138657</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2019-03-12T22:44:09Z</date>
+			<key>Date Added</key><date>2019-03-12T22:43:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3635280896</integer>
+			<key>Play Date UTC</key><date>2019-03-13T07:14:56Z</date>
+			<key>Release Date</key><date>1987-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>876AF47C4B536249</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1987%20-%20I%20Remember%20Blind%20Joe%20Death/11%20Lava%20On%20Waikiki.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14134</key>
+		<dict>
+			<key>Track ID</key><integer>14134</integer>
+			<key>Name</key><string>Revelation</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>God, Time and Causality</string>
+			<key>Genre</key><string>American Primitive</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7365403</integer>
+			<key>Total Time</key><integer>228832</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2019-03-12T22:47:11Z</date>
+			<key>Date Added</key><date>2019-03-12T22:46:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635257755</integer>
+			<key>Play Date UTC</key><date>2019-03-13T00:49:15Z</date>
+			<key>Release Date</key><date>1989-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5A97D2A425147FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1989%20-%20God,%20Time%20and%20Causality/01%20Revelation.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14136</key>
+		<dict>
+			<key>Track ID</key><integer>14136</integer>
+			<key>Name</key><string>Lion</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>God, Time and Causality</string>
+			<key>Genre</key><string>American Primitive</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12825616</integer>
+			<key>Total Time</key><integer>399464</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2019-03-12T22:47:10Z</date>
+			<key>Date Added</key><date>2019-03-12T22:46:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1989-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3A5261E7868D7C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1989%20-%20God,%20Time%20and%20Causality/03%20Lion.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14172</key>
+		<dict>
+			<key>Track ID</key><integer>14172</integer>
+			<key>Name</key><string>Chelsey Silver, Please Come Home</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>City of Refuge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8715590</integer>
+			<key>Total Time</key><integer>271699</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2019-03-13T17:27:15Z</date>
+			<key>Date Added</key><date>2019-03-13T17:26:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3635325222</integer>
+			<key>Play Date UTC</key><date>2019-03-13T19:33:42Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F917CA574B0740ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1997%20-%20City%20of%20Refuge/03%20-%20Chelsey%20Silver,%20Please%20Come%20Home.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14176</key>
+		<dict>
+			<key>Track ID</key><integer>14176</integer>
+			<key>Name</key><string>City of Refuge III</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>City of Refuge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12509809</integer>
+			<key>Total Time</key><integer>390269</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2019-03-13T17:27:13Z</date>
+			<key>Date Added</key><date>2019-03-13T17:26:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4611EEEB8F43125</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1997%20-%20City%20of%20Refuge/05%20-%20City%20of%20Refuge%20III.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14178</key>
+		<dict>
+			<key>Track ID</key><integer>14178</integer>
+			<key>Name</key><string>Hope Slumbers Eternal</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>City of Refuge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9768000</integer>
+			<key>Total Time</key><integer>304587</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2019-03-13T17:27:13Z</date>
+			<key>Date Added</key><date>2019-03-13T17:26:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3635323949</integer>
+			<key>Play Date UTC</key><date>2019-03-13T19:12:29Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60C45FAD0A8BB18E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1997%20-%20City%20of%20Refuge/06%20-%20Hope%20Slumbers%20Eternal.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>74547</key>
+		<dict>
+			<key>Track ID</key><integer>74547</integer>
+			<key>Name</key><string>The_Story_Of_Dorothy_Gooch_Part_I</string>
+			<key>Artist</key><string>John Fahey</string>
+			<key>Album</key><string>The Voice of the Turtle</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10529680</integer>
+			<key>Total Time</key><integer>327026</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2019-03-08T22:58:48Z</date>
+			<key>Date Added</key><date>2019-03-13T21:28:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Voice of the Turtle</string>
+			<key>Persistent ID</key><string>FB05B4A31F8DB7AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/John%20Fahey/1968%20-%20The%20Voice%20of%20the%20Turtle/10-The_Story_Of_Dorothy_Gooch_Part_I.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>John Fahey faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>30943</integer>
+			<key>Playlist ID</key><integer>30816</integer>
 			<key>Playlist Persistent ID</key><string>24EF6A7CEA137DA1</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
@@ -2804,6 +3540,9 @@
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>13658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>74547</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>13664</integer>
@@ -3031,13 +3770,13 @@
 					<key>Track ID</key><integer>13832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14016</integer>
+					<key>Track ID</key><integer>14002</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14014</integer>
+					<key>Track ID</key><integer>14000</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14008</integer>
+					<key>Track ID</key><integer>13996</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>13846</integer>
@@ -3049,13 +3788,13 @@
 					<key>Track ID</key><integer>13842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13944</integer>
+					<key>Track ID</key><integer>13932</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13942</integer>
+					<key>Track ID</key><integer>13930</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13940</integer>
+					<key>Track ID</key><integer>13928</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>13852</integer>
@@ -3070,10 +3809,94 @@
 					<key>Track ID</key><integer>13834</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>14028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14026</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14078</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14072</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14068</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14066</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14064</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14062</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14060</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14084</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14082</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14070</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14136</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>14134</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>14132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14130</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>14128</integer>
@@ -3082,25 +3905,19 @@
 					<key>Track ID</key><integer>14126</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14114</integer>
+					<key>Track ID</key><integer>14124</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14110</integer>
+					<key>Track ID</key><integer>14178</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14106</integer>
+					<key>Track ID</key><integer>14176</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14104</integer>
+					<key>Track ID</key><integer>14172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14010</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14004</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14098</integer>
+					<key>Track ID</key><integer>13680</integer>
 				</dict>
 			</array>
 		</dict>
