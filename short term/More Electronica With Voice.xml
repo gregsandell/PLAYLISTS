@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-03-12T16:15:05Z</date>
+	<key>Date</key><date>2019-03-27T21:50:49Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12108</key>
+		<key>12122</key>
 		<dict>
-			<key>Track ID</key><integer>12108</integer>
+			<key>Track ID</key><integer>12122</integer>
 			<key>Name</key><string>Gyroscope</string>
 			<key>Artist</key><string>Boards of Canada</string>
 			<key>Album Artist</key><string>Boards of Canada</string>
@@ -33,7 +33,7 @@
 			<key>Play Date</key><integer>3634824831</integer>
 			<key>Play Date UTC</key><date>2019-03-08T01:33:51Z</date>
 			<key>Release Date</key><date>2002-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>40</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FB2C9BF280A913A9</string>
@@ -42,33 +42,56 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12124</key>
+		<key>12150</key>
 		<dict>
-			<key>Track ID</key><integer>12124</integer>
-			<key>Name</key><string>Turquoise Hexagon Sun</string>
+			<key>Track ID</key><integer>12150</integer>
+			<key>Name</key><string>Aquarius</string>
 			<key>Artist</key><string>Boards of Canada</string>
 			<key>Album Artist</key><string>Boards of Canada</string>
-			<key>Album</key><string>Boc Maxima</string>
-			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Album</key><string>Aquarius</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10085265</integer>
-			<key>Total Time</key><integer>312267</integer>
-			<key>Track Number</key><integer>18</integer>
-			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2019-02-05T06:57:29Z</date>
-			<key>Date Added</key><date>2019-02-05T06:56:54Z</date>
+			<key>Size</key><integer>11740833</integer>
+			<key>Total Time</key><integer>365505</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2019-02-05T07:02:23Z</date>
+			<key>Date Added</key><date>2019-02-05T07:01:53Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3634817933</integer>
-			<key>Play Date UTC</key><date>2019-03-07T23:38:53Z</date>
-			<key>Release Date</key><date>1996-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>40</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Release Date</key><date>1998-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>21A1AFF8426BFA34</string>
+			<key>Persistent ID</key><string>5FB01DF45DA560FC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Boards%20of%20Canada/1996%20-%20Boc%20Maxima/18%20Turquoise%20Hexagon%20Sun.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Boards%20of%20Canada/1998%20-%20Aquarius/01%20Aquarius.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13202</key>
+		<dict>
+			<key>Track ID</key><integer>13202</integer>
+			<key>Name</key><string>Bleu</string>
+			<key>Artist</key><string>Isolée</string>
+			<key>Album Artist</key><string>Isolée</string>
+			<key>Album</key><string>Westernstore</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8677261</integer>
+			<key>Total Time</key><integer>328907</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-08-13T17:57:46Z</date>
+			<key>Date Added</key><date>2019-02-19T21:48:32Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>asmadeus</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1D708893EE088C05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Isole%CC%81e/2006%20-%20Westernstore/01%20-%20bleu-mbs.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -76,18 +99,21 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Name</key><string>Boards of Canada unrated</string>
+			<key>Name</key><string>More Electronica With Voice </string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>28890</integer>
-			<key>Playlist Persistent ID</key><string>8D8B2193765D95A8</string>
+			<key>Playlist ID</key><integer>31569</integer>
+			<key>Playlist Persistent ID</key><string>CF446554EB9694A0</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12108</integer>
+					<key>Track ID</key><integer>12150</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12124</integer>
+					<key>Track ID</key><integer>12122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13202</integer>
 				</dict>
 			</array>
 		</dict>

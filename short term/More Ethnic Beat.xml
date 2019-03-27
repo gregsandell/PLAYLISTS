@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-03-27T21:50:59Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12566</key>
+		<dict>
+			<key>Track ID</key><integer>12566</integer>
+			<key>Name</key><string>Turceasca</string>
+			<key>Artist</key><string>Taraf de Haidouks</string>
+			<key>Album</key><string>Honourable Brigands, Magic Horses, and Evil Eye</string>
+			<key>Genre</key><string>Gypsy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14875271</integer>
+			<key>Total Time</key><integer>371095</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-02-09T01:13:48Z</date>
+			<key>Date Added</key><date>2019-02-09T01:13:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3632637828</integer>
+			<key>Play Date UTC</key><date>2019-02-10T18:03:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C8898750C23A838</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Taraf%20de%20Haidouks/1994%20-%20Honourable%20Brigands,%20Magic%20Horses%20And%20The%20Evil%20Eye/10%20-%20Turceasca.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12658</key>
+		<dict>
+			<key>Track ID</key><integer>12658</integer>
+			<key>Name</key><string>Ice Cakes</string>
+			<key>Artist</key><string>The Dixie Dregs</string>
+			<key>Album Artist</key><string>The Dixie Dregs</string>
+			<key>Composer</key><string>Steve Morse</string>
+			<key>Album</key><string>What If</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11289799</integer>
+			<key>Total Time</key><integer>280581</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2019-02-10T03:58:10Z</date>
+			<key>Date Added</key><date>2019-02-10T03:57:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3633424113</integer>
+			<key>Play Date UTC</key><date>2019-02-19T20:28:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Dixie Dregs</string>
+			<key>Sort Artist</key><string>Dixie Dregs</string>
+			<key>Persistent ID</key><string>6F3AD74265E4FD97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dixie%20Dregs/1978%20-%20What%20If/05%20Ice%20Cakes.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>More Ethnic Beat</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>31575</integer>
+			<key>Playlist Persistent ID</key><string>E34099A7C255A203</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12566</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
