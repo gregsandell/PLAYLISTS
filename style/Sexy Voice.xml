@@ -4,47 +4,47 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-01-17T17:05:56Z</date>
-	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Date</key><date>2019-04-17T22:52:05Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6251</key>
+		<key>3866</key>
 		<dict>
-			<key>Track ID</key><integer>6251</integer>
-			<key>Name</key><string>Nightingale</string>
-			<key>Artist</key><string>Nora O'Connor</string>
-			<key>Album</key><string>Til The Dawn</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3136734</integer>
-			<key>Total Time</key><integer>174493</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
+			<key>Track ID</key><integer>3866</integer>
+			<key>Name</key><string>No More Lies (feat. Michel'le)</string>
+			<key>Artist</key><string>Dr. Dre</string>
+			<key>Album</key><string>Concrete Roots</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9002301</integer>
+			<key>Total Time</key><integer>222406</integer>
 			<key>Track Number</key><integer>8</integer>
-			<key>Track Count</key><integer>9</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2018-09-10T02:36:14Z</date>
-			<key>Date Added</key><date>2018-12-19T19:46:20Z</date>
-			<key>Bit Rate</key><integer>128</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-04-25T00:01:05Z</date>
+			<key>Date Added</key><date>2018-12-19T19:45:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3626936957</integer>
+			<key>Play Date UTC</key><date>2018-12-06T18:29:17Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>3816</integer>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>8F5AF65BAE1A0626</string>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5710B7B5F5B3E413</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Nora%20O'Connor/2004%20-%20Til%20The%20Dawn/08%20Nightingale.m4a</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dr.%20Dre/Dr.%20Dre%20(1994)%20-%20Concrete%20Roots/08%20-%20Dr.%20Dre%20-%20No%20More%20Lies%20(feat.%20Michel'le).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6361</key>
+		<key>4252</key>
 		<dict>
-			<key>Track ID</key><integer>6361</integer>
+			<key>Track ID</key><integer>4252</integer>
 			<key>Name</key><string>Catfish John [f/Alison Krauss]</string>
 			<key>Artist</key><string>The Nitty Gritty Dirt Band</string>
 			<key>Composer</key><string>Bob McDill &#38; Allen Reynolds</string>
@@ -78,9 +78,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6407</key>
+		<key>4282</key>
 		<dict>
-			<key>Track ID</key><integer>6407</integer>
+			<key>Track ID</key><integer>4282</integer>
 			<key>Name</key><string>Thomas The Rhymer</string>
 			<key>Artist</key><string>Steeleye Span</string>
 			<key>Album Artist</key><string>Steeleye Span</string>
@@ -111,9 +111,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6553</key>
+		<key>4380</key>
 		<dict>
-			<key>Track ID</key><integer>6553</integer>
+			<key>Track ID</key><integer>4380</integer>
 			<key>Name</key><string>He Thinks He'll Keep Her</string>
 			<key>Artist</key><string>Mary Chapin Carpenter</string>
 			<key>Album</key><string>Come on Come On</string>
@@ -129,6 +129,11 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3622538160</integer>
 			<key>Play Date UTC</key><date>2018-10-16T19:36:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-29T22:58:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>80496997B7CF800F</string>
 			<key>Track Type</key><string>File</string>
@@ -136,9 +141,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6573</key>
+		<key>4386</key>
 		<dict>
-			<key>Track ID</key><integer>6573</integer>
+			<key>Track ID</key><integer>4386</integer>
 			<key>Name</key><string>Wine Red</string>
 			<key>Artist</key><string>The Hush Sound</string>
 			<key>Composer</key><string>Greta Salpeter/Bob Morris</string>
@@ -156,9 +161,9 @@
 			<key>Date Added</key><date>2018-12-19T19:46:46Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3626948728</integer>
-			<key>Play Date UTC</key><date>2018-12-06T21:45:28Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3637348900</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:41:40Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2013-06-09T20:19:34Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -172,9 +177,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6575</key>
+		<key>4388</key>
 		<dict>
-			<key>Track ID</key><integer>6575</integer>
+			<key>Track ID</key><integer>4388</integer>
 			<key>Name</key><string>Ay La Bah</string>
 			<key>Artist</key><string>Dolly Cooper</string>
 			<key>Album</key><string>YouTube</string>
@@ -185,9 +190,9 @@
 			<key>Date Added</key><date>2018-12-19T19:46:46Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3573481083</integer>
-			<key>Play Date UTC</key><date>2017-03-28T00:38:03Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3631616736</integer>
+			<key>Play Date UTC</key><date>2019-01-29T22:25:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Sort Album</key><string>YouTube</string>
@@ -197,9 +202,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6577</key>
+		<key>4390</key>
 		<dict>
-			<key>Track ID</key><integer>6577</integer>
+			<key>Track ID</key><integer>4390</integer>
 			<key>Name</key><string>An Seanduine Dóite</string>
 			<key>Artist</key><string>Relativity</string>
 			<key>Album</key><string>Relativity</string>
@@ -229,9 +234,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6789</key>
+		<key>4548</key>
 		<dict>
-			<key>Track ID</key><integer>6789</integer>
+			<key>Track ID</key><integer>4548</integer>
 			<key>Name</key><string>Rated X (Loretta Lynn Cover) ˜ Neko Case</string>
 			<key>Artist</key><string>Making Singles Drinking Doubles</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -253,15 +258,18 @@
 			<key>Play Date UTC</key><date>2017-03-17T00:19:35Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2017-02-01T17:30:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>C39F11AA511B0351</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Making%20Singles%20Drinking%20Doubles/Making%20Singles%20Drinking%20Doubles/Rated%20X%20(Loretta%20Lynn%20Cover)%20%E2%80%94%20Neko.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6791</key>
+		<key>4550</key>
 		<dict>
-			<key>Track ID</key><integer>6791</integer>
+			<key>Track ID</key><integer>4550</integer>
 			<key>Name</key><string>Single Ladies</string>
 			<key>Artist</key><string>Pomplamoose</string>
 			<key>Album Artist</key><string>Pomplamoose</string>
@@ -294,9 +302,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6793</key>
+		<key>4552</key>
 		<dict>
-			<key>Track ID</key><integer>6793</integer>
+			<key>Track ID</key><integer>4552</integer>
 			<key>Name</key><string>Telephone</string>
 			<key>Artist</key><string>Pomplamoose</string>
 			<key>Album Artist</key><string>Pomplamoose</string>
@@ -330,9 +338,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6795</key>
+		<key>4554</key>
 		<dict>
-			<key>Track ID</key><integer>6795</integer>
+			<key>Track ID</key><integer>4554</integer>
 			<key>Name</key><string>Wannabe</string>
 			<key>Artist</key><string>Spice Girls</string>
 			<key>Album</key><string>Spice</string>
@@ -358,9 +366,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6797</key>
+		<key>4556</key>
 		<dict>
-			<key>Track ID</key><integer>6797</integer>
+			<key>Track ID</key><integer>4556</integer>
 			<key>Name</key><string>At Last</string>
 			<key>Artist</key><string>Etta James</string>
 			<key>Composer</key><string>Gordon, Mack/Warren, Harry</string>
@@ -383,6 +391,9 @@
 			<key>Play Date UTC</key><date>2016-06-16T16:54:09Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2017-02-10T00:51:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2536</integer>
 			<key>Persistent ID</key><string>61E2F49C8D22DD90</string>
 			<key>Track Type</key><string>File</string>
@@ -390,36 +401,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6799</key>
+		<key>4558</key>
 		<dict>
-			<key>Track ID</key><integer>6799</integer>
-			<key>Name</key><string>Wichita Skyline</string>
-			<key>Artist</key><string>Shawn Colvin</string>
-			<key>Album</key><string>A Few Small Repairs</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7006336</integer>
-			<key>Total Time</key><integer>218906</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2011-03-19T22:44:42Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>11</integer>
-			<key>Play Date</key><integer>3630470505</integer>
-			<key>Play Date UTC</key><date>2019-01-16T16:01:45Z</date>
-			<key>Skip Count</key><integer>5</integer>
-			<key>Skip Date</key><date>2017-02-01T17:06:39Z</date>
-			<key>Sort Album</key><string>Few Small Repairs</string>
-			<key>Persistent ID</key><string>07CA6EF670FF304B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Shawn%20Colvin/A%20Few%20Small%20Repairs/Shawn_Colvin_-_A_Few_Small_Repairs_-_08_.Wichita_Skyline.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6801</key>
-		<dict>
-			<key>Track ID</key><integer>6801</integer>
+			<key>Track ID</key><integer>4558</integer>
 			<key>Name</key><string>My Irish Molly-O</string>
 			<key>Artist</key><string>De Danann</string>
 			<key>Album</key><string>The De Danann Collection</string>
@@ -433,6 +417,9 @@
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637506024</integer>
+			<key>Play Date UTC</key><date>2019-04-08T01:20:24Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T17:17:23Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -446,9 +433,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6803</key>
+		<key>4560</key>
 		<dict>
-			<key>Track ID</key><integer>6803</integer>
+			<key>Track ID</key><integer>4560</integer>
 			<key>Name</key><string>Groove Is in the Heart</string>
 			<key>Artist</key><string>Deee-Lite</string>
 			<key>Album</key><string>World Clique</string>
@@ -464,6 +451,9 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3573627240</integer>
 			<key>Play Date UTC</key><date>2017-03-29T17:14:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>98896E56D8075766</string>
 			<key>Track Type</key><string>File</string>
@@ -471,34 +461,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6805</key>
+		<key>4562</key>
 		<dict>
-			<key>Track ID</key><integer>6805</integer>
-			<key>Name</key><string>Sex Without Bodies</string>
-			<key>Artist</key><string>Dave's True Story</string>
-			<key>Album</key><string>Sex Without Bodies</string>
-			<key>Genre</key><string>Romantic/Dinner</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3563439</integer>
-			<key>Total Time</key><integer>222066</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2011-03-19T21:33:50Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3629556068</integer>
-			<key>Play Date UTC</key><date>2019-01-06T02:01:08Z</date>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>ED52D450617F752D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave's%20True%20Story/Sex%20Without%20Bodies/Sex%20Without%20Bodies.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6807</key>
-		<dict>
-			<key>Track ID</key><integer>6807</integer>
+			<key>Track ID</key><integer>4562</integer>
 			<key>Name</key><string>Extraordinary</string>
 			<key>Artist</key><string>Liz Phair</string>
 			<key>Album Artist</key><string>Liz Phair</string>
@@ -514,9 +479,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>24</integer>
-			<key>Play Date</key><integer>3571475766</integer>
-			<key>Play Date UTC</key><date>2017-03-04T20:36:06Z</date>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3637977536</integer>
+			<key>Play Date UTC</key><date>2019-04-13T12:18:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Persistent ID</key><string>AA260D9305271759</string>
@@ -525,9 +490,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6809</key>
+		<key>4564</key>
 		<dict>
-			<key>Track ID</key><integer>6809</integer>
+			<key>Track ID</key><integer>4564</integer>
 			<key>Name</key><string>Polyester Bride</string>
 			<key>Artist</key><string>Liz Phair</string>
 			<key>Album Artist</key><string>Liz Phair</string>
@@ -536,16 +501,16 @@
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>5897332</integer>
-			<key>Total Time</key><integer>245524</integer>
+			<key>Total Time</key><integer>245498</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1998</integer>
 			<key>Date Modified</key><date>2011-03-19T22:13:24Z</date>
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>24</integer>
-			<key>Play Date</key><integer>3399627181</integer>
-			<key>Play Date UTC</key><date>2011-09-23T19:53:01Z</date>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3637351317</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:21:57Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2012-07-28T05:40:08Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -557,9 +522,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6811</key>
+		<key>4566</key>
 		<dict>
-			<key>Track ID</key><integer>6811</integer>
+			<key>Track ID</key><integer>4566</integer>
 			<key>Name</key><string>My Humps</string>
 			<key>Artist</key><string>The Black Eyed Peas</string>
 			<key>Album</key><string>Monkey Business</string>
@@ -572,9 +537,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3448253080</integer>
-			<key>Play Date UTC</key><date>2013-04-08T15:04:40Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3631113113</integer>
+			<key>Play Date UTC</key><date>2019-01-24T02:31:53Z</date>
 			<key>Skip Count</key><integer>4</integer>
 			<key>Skip Date</key><date>2017-06-10T21:57:05Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -587,9 +552,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6813</key>
+		<key>4568</key>
 		<dict>
-			<key>Track ID</key><integer>6813</integer>
+			<key>Track ID</key><integer>4568</integer>
 			<key>Name</key><string>Who Put The Alphabet In Alphabetical Order?</string>
 			<key>Artist</key><string>They Might Be Giants</string>
 			<key>Album</key><string>Here Come The A B C's: Orignal Songs About The Alphabet</string>
@@ -606,11 +571,14 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3448951744</integer>
-			<key>Play Date UTC</key><date>2013-04-16T17:09:04Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3637347566</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:19:26Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-02-01T17:26:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3853</integer>
 			<key>Persistent ID</key><string>1D53A5ED9136618C</string>
 			<key>Track Type</key><string>File</string>
@@ -618,41 +586,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6815</key>
+		<key>4570</key>
 		<dict>
-			<key>Track ID</key><integer>6815</integer>
-			<key>Name</key><string>Exactly Like You</string>
-			<key>Artist</key><string>Hot Club Of Cowtown</string>
-			<key>Album</key><string>Continental Stomp</string>
-			<key>Genre</key><string>Country</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>5299812</integer>
-			<key>Total Time</key><integer>262639</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Track Count</key><integer>14</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T22:52:58Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3417524448</integer>
-			<key>Play Date UTC</key><date>2012-04-17T23:20:48Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-02-01T15:48:03Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>2314</integer>
-			<key>Persistent ID</key><string>D863B5B251FF5D2B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/Continental%20Stomp/Exactly%20Like%20You.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6817</key>
-		<dict>
-			<key>Track ID</key><integer>6817</integer>
+			<key>Track ID</key><integer>4570</integer>
 			<key>Name</key><string>Send In The Clowns</string>
 			<key>Artist</key><string>Judy Collins</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -662,9 +598,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3576184373</integer>
-			<key>Play Date UTC</key><date>2017-04-28T07:32:53Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3637351072</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:17:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -675,9 +611,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6819</key>
+		<key>4572</key>
 		<dict>
-			<key>Track ID</key><integer>6819</integer>
+			<key>Track ID</key><integer>4572</integer>
 			<key>Name</key><string>All Around My Hat</string>
 			<key>Artist</key><string>Steeleye Span</string>
 			<key>Album Artist</key><string>Steeleye Span</string>
@@ -708,9 +644,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6821</key>
+		<key>4574</key>
 		<dict>
-			<key>Track ID</key><integer>6821</integer>
+			<key>Track ID</key><integer>4574</integer>
 			<key>Name</key><string>Cry, Cry Darlin'</string>
 			<key>Artist</key><string>Dolly Parton</string>
 			<key>Album Artist</key><string>Ricky Skaggs</string>
@@ -726,6 +662,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>CRC : 7032AA89</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3637347824</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:23:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -735,9 +674,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6823</key>
+		<key>4576</key>
 		<dict>
-			<key>Track ID</key><integer>6823</integer>
+			<key>Track ID</key><integer>4576</integer>
 			<key>Name</key><string>Little Bird</string>
 			<key>Artist</key><string>Annie Lennox</string>
 			<key>Album</key><string>Diva</string>
@@ -750,6 +689,12 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3631111439</integer>
+			<key>Play Date UTC</key><date>2019-01-24T02:03:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C56A9AA4952578DF</string>
 			<key>Track Type</key><string>File</string>
@@ -757,9 +702,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6825</key>
+		<key>4578</key>
 		<dict>
-			<key>Track ID</key><integer>6825</integer>
+			<key>Track ID</key><integer>4578</integer>
 			<key>Name</key><string>Street Life</string>
 			<key>Artist</key><string>Randy Crawford</string>
 			<key>Composer</key><string>Sample, Joe/Jennings, Will</string>
@@ -777,6 +722,8 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2046</integer>
 			<key>Compilation</key><true/>
 			<key>Persistent ID</key><string>76465603A6F85B42</string>
@@ -785,9 +732,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6827</key>
+		<key>4580</key>
 		<dict>
-			<key>Track ID</key><integer>6827</integer>
+			<key>Track ID</key><integer>4580</integer>
 			<key>Name</key><string>Love's in Need of Love Today</string>
 			<key>Artist</key><string>Joan Osborne</string>
 			<key>Album Artist</key><string>Joan Osborne</string>
@@ -803,6 +750,12 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637977133</integer>
+			<key>Play Date UTC</key><date>2019-04-13T12:12:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>127BA82DF576D75A</string>
 			<key>Track Type</key><string>File</string>
@@ -810,9 +763,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6829</key>
+		<key>4582</key>
 		<dict>
-			<key>Track ID</key><integer>6829</integer>
+			<key>Track ID</key><integer>4582</integer>
 			<key>Name</key><string>Roar</string>
 			<key>Artist</key><string>Katy Perry</string>
 			<key>Album</key><string>YouTube</string>
@@ -832,9 +785,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6833</key>
+		<key>4584</key>
 		<dict>
-			<key>Track ID</key><integer>6833</integer>
+			<key>Track ID</key><integer>4584</integer>
 			<key>Name</key><string>Brass in Pocket</string>
 			<key>Artist</key><string>The Pretenders</string>
 			<key>Album</key><string>The Singles</string>
@@ -847,6 +800,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637571034</integer>
+			<key>Play Date UTC</key><date>2019-04-08T19:23:54Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-03-28T04:31:32Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -861,65 +817,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6835</key>
+		<key>4586</key>
 		<dict>
-			<key>Track ID</key><integer>6835</integer>
-			<key>Name</key><string>01 Digga Digga Doo</string>
-			<key>Artist</key><string>Asylum Street Spankers</string>
-			<key>Album</key><string>Mercurial</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4041772</integer>
-			<key>Total Time</key><integer>248581</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2016-12-31T04:02:34Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3575451337</integer>
-			<key>Play Date UTC</key><date>2017-04-19T19:55:37Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Mercurial</string>
-			<key>Sort Artist</key><string>Asylum Street Spankers</string>
-			<key>Persistent ID</key><string>A530B1B78B102CCB</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2004%20Mercurial/01%20Digga%20Digga%20Doo.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6837</key>
-		<dict>
-			<key>Track ID</key><integer>6837</integer>
-			<key>Name</key><string>11 Tight Like That</string>
-			<key>Artist</key><string>Asylum Street Spankers</string>
-			<key>Album</key><string>Mercurial</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3464152</integer>
-			<key>Total Time</key><integer>212480</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2016-12-31T04:02:35Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:05Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3572974320</integer>
-			<key>Play Date UTC</key><date>2017-03-22T03:52:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Mercurial</string>
-			<key>Sort Artist</key><string>Asylum Street Spankers</string>
-			<key>Persistent ID</key><string>5B78BCA5690B8F92</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2004%20Mercurial/11%20Tight%20Like%20That.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6839</key>
-		<dict>
-			<key>Track ID</key><integer>6839</integer>
+			<key>Track ID</key><integer>4586</integer>
 			<key>Name</key><string>You're Lookin' At Country</string>
 			<key>Artist</key><string>Loretta Lynn</string>
 			<key>Album</key><string>YouTube</string>
@@ -942,9 +842,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6841</key>
+		<key>4588</key>
 		<dict>
-			<key>Track ID</key><integer>6841</integer>
+			<key>Track ID</key><integer>4588</integer>
 			<key>Name</key><string>Louisiana Woman Mississippi Man</string>
 			<key>Artist</key><string>Loretta Lynn And Conway Twitty</string>
 			<key>Album</key><string>YouTube</string>
@@ -968,9 +868,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6843</key>
+		<key>4590</key>
 		<dict>
-			<key>Track ID</key><integer>6843</integer>
+			<key>Track ID</key><integer>4590</integer>
 			<key>Name</key><string>Stop! In The Name Of Love</string>
 			<key>Artist</key><string>The Supremes</string>
 			<key>Album Artist</key><string>Diana Ross &#38; The Supremes</string>
@@ -985,6 +885,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3637505799</integer>
+			<key>Play Date UTC</key><date>2019-04-08T01:16:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -995,9 +898,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6845</key>
+		<key>4592</key>
 		<dict>
-			<key>Track ID</key><integer>6845</integer>
+			<key>Track ID</key><integer>4592</integer>
 			<key>Name</key><string>I Hear A Symphony</string>
 			<key>Artist</key><string>The Supremes</string>
 			<key>Album Artist</key><string>Diana Ross &#38; The Supremes</string>
@@ -1022,9 +925,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6847</key>
+		<key>4594</key>
 		<dict>
-			<key>Track ID</key><integer>6847</integer>
+			<key>Track ID</key><integer>4594</integer>
 			<key>Name</key><string>You Can't Hurry Love</string>
 			<key>Artist</key><string>The Supremes</string>
 			<key>Album Artist</key><string>Diana Ross &#38; The Supremes</string>
@@ -1042,8 +945,8 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3581949966</integer>
 			<key>Play Date UTC</key><date>2017-07-04T01:06:06Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-03-28T02:17:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-04-06T05:02:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1054,9 +957,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6849</key>
+		<key>4596</key>
 		<dict>
-			<key>Track ID</key><integer>6849</integer>
+			<key>Track ID</key><integer>4596</integer>
 			<key>Name</key><string>You Keep Me Hangin' On</string>
 			<key>Artist</key><string>The Supremes</string>
 			<key>Album Artist</key><string>Diana Ross &#38; The Supremes</string>
@@ -1071,6 +974,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637347566</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:19:26Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-03-28T02:17:41Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1083,9 +989,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6851</key>
+		<key>4598</key>
 		<dict>
-			<key>Track ID</key><integer>6851</integer>
+			<key>Track ID</key><integer>4598</integer>
 			<key>Name</key><string>Reflections</string>
 			<key>Artist</key><string>Diana Ross &#38; The Supremes</string>
 			<key>Album Artist</key><string>Diana Ross &#38; The Supremes</string>
@@ -1109,9 +1015,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6853</key>
+		<key>4600</key>
 		<dict>
-			<key>Track ID</key><integer>6853</integer>
+			<key>Track ID</key><integer>4600</integer>
 			<key>Name</key><string>Where Did Our Love Go?</string>
 			<key>Artist</key><string>The Supremes</string>
 			<key>Composer</key><string>Brian Holland, Lamont Dozier, Edward Holland Jr.</string>
@@ -1129,8 +1035,8 @@
 			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
 			<key>Bit Rate</key><integer>260</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-03-28T02:20:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-04-06T05:03:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1142,9 +1048,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6857</key>
+		<key>4604</key>
 		<dict>
-			<key>Track ID</key><integer>6857</integer>
+			<key>Track ID</key><integer>4604</integer>
 			<key>Name</key><string>Baby Love</string>
 			<key>Artist</key><string>Diana Ross &#38; The Supremes</string>
 			<key>Composer</key><string>Lamont Dozier, Brian Holland and Edward Holland Jr.</string>
@@ -1158,6 +1064,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3636967626</integer>
+			<key>Play Date UTC</key><date>2019-04-01T19:47:06Z</date>
 			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -1168,9 +1077,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6859</key>
+		<key>4606</key>
 		<dict>
-			<key>Track ID</key><integer>6859</integer>
+			<key>Track ID</key><integer>4606</integer>
 			<key>Name</key><string>You Can't Hurry Love</string>
 			<key>Artist</key><string>Diana Ross &#38; The Supremes</string>
 			<key>Composer</key><string>Lamont Dozier, Brian Holland and Edward Holland Jr.</string>
@@ -1187,6 +1096,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3564571468</integer>
 			<key>Play Date UTC</key><date>2016-12-14T22:44:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-04-06T05:03:06Z</date>
 			<key>Release Date</key><date>1966-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -1197,9 +1108,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6861</key>
+		<key>4608</key>
 		<dict>
-			<key>Track ID</key><integer>6861</integer>
+			<key>Track ID</key><integer>4608</integer>
 			<key>Name</key><string>I'm Living In Shame</string>
 			<key>Artist</key><string>Diana Ross &#38; The Supremes</string>
 			<key>Composer</key><string>Pamela Sawyer, Henry Cosby, Berry Gordy, Frank Wilson and R. Dean Taylor</string>
@@ -1223,123 +1134,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6863</key>
+		<key>4610</key>
 		<dict>
-			<key>Track ID</key><integer>6863</integer>
-			<key>Name</key><string>Rockin' Around the Christmas Tree</string>
-			<key>Artist</key><string>Brenda Lee</string>
-			<key>Album</key><string>YouTube</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2993215</integer>
-			<key>Total Time</key><integer>124081</integer>
-			<key>Date Modified</key><date>2018-08-14T18:04:46Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>converted by convert2mp3.net</string>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>66D6CD53E54CEEF3</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Brenda%20Lee/YouTube/Brenda%20Lee%20-%20Rockin'%20Around%20the%20Christmas%20Tree.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6865</key>
-		<dict>
-			<key>Track ID</key><integer>6865</integer>
-			<key>Name</key><string>Only You Can Bring Me Cheer (Gentleman's Lady)</string>
-			<key>Artist</key><string>Alison Krauss</string>
-			<key>Album Artist</key><string>Various Artists</string>
-			<key>Composer</key><string>Alison Krauss, Viktor Krauss</string>
-			<key>Album</key><string>A Very Special Acoustic Christmas</string>
-			<key>Genre</key><string>Holiday</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>3477859</integer>
-			<key>Total Time</key><integer>216153</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>4097</integer>
-			<key>Compilation</key><true/>
-			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
-			<key>Persistent ID</key><string>010D2A1FE0FAB678</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/05%20Only%20You%20Can%20Bring%20Me%20Cheer%20(Gent.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6867</key>
-		<dict>
-			<key>Track ID</key><integer>6867</integer>
-			<key>Name</key><string>Silver Flowers</string>
-			<key>Artist</key><string>Talvin Singh</string>
-			<key>Album Artist</key><string>Talvin Singh</string>
-			<key>Composer</key><string>Talvin Singh</string>
-			<key>Album</key><string>Ha</string>
-			<key>Genre</key><string>Electronica</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6785152</integer>
-			<key>Total Time</key><integer>286171</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2011-03-19T22:52:04Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:06Z</date>
-			<key>Bit Rate</key><integer>189</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string> </string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3573090816</integer>
-			<key>Play Date UTC</key><date>2017-03-23T12:13:36Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2017-02-01T06:00:37Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>A666F35368C1FBC1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Talvin%20Singh/Ha/Talvin_Singh_-_Ha_-_10_.Silver_Flowers.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6869</key>
-		<dict>
-			<key>Track ID</key><integer>6869</integer>
-			<key>Name</key><string>T'Ain't Whatcha Say It's Whatcha Do (1956)</string>
-			<key>Artist</key><string>Little Esther</string>
-			<key>Album</key><string>YouTube</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4063651</integer>
-			<key>Total Time</key><integer>169142</integer>
-			<key>Year</key><integer>1956</integer>
-			<key>Date Modified</key><date>2017-03-05T07:01:10Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3628179182</integer>
-			<key>Play Date UTC</key><date>2018-12-21T03:33:02Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>7B876625CD6EFAF0</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Boogie%20Woogie/Little%20Esther%20-%20T'Ain't%20Whatcha%20Say%20It's%20Whatcha%20Do%20(1956).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6871</key>
-		<dict>
-			<key>Track ID</key><integer>6871</integer>
+			<key>Track ID</key><integer>4610</integer>
 			<key>Name</key><string>I Want To Rock (1951)</string>
 			<key>Artist</key><string>Little Miss Sharecropper</string>
 			<key>Album</key><string>YouTube</string>
@@ -1360,9 +1157,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6873</key>
+		<key>4612</key>
 		<dict>
-			<key>Track ID</key><integer>6873</integer>
+			<key>Track ID</key><integer>4612</integer>
 			<key>Name</key><string>Cupid's Boogie (1950)</string>
 			<key>Artist</key><string>Little Esther Phillips</string>
 			<key>Album</key><string>YouTube</string>
@@ -1387,30 +1184,33 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6875</key>
+		<key>4614</key>
 		<dict>
-			<key>Track ID</key><integer>6875</integer>
-			<key>Name</key><string>What's the Matter With the Milk?</string>
+			<key>Track ID</key><integer>4614</integer>
+			<key>Name</key><string>What's the Matter With the Mill?</string>
 			<key>Artist</key><string>Hot Club of Cowtown</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>4772719</integer>
 			<key>Total Time</key><integer>198687</integer>
-			<key>Date Modified</key><date>2018-12-06T20:47:21Z</date>
+			<key>Date Modified</key><date>2019-04-06T05:03:29Z</date>
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637977332</integer>
+			<key>Play Date UTC</key><date>2019-04-13T12:15:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>FEE8C4E628E3D579</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/YouTube/Hot%20Club%20of%20Cowtown%20-%20What's%20the%20Matter%20With%20the%20Milk_.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6877</key>
+		<key>4616</key>
 		<dict>
-			<key>Track ID</key><integer>6877</integer>
+			<key>Track ID</key><integer>4616</integer>
 			<key>Name</key><string>One Step Closer</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Wishful Thinking</string>
@@ -1425,9 +1225,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>175</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3575452399</integer>
-			<key>Play Date UTC</key><date>2017-04-19T20:13:19Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637348045</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:27:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1438,9 +1238,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6879</key>
+		<key>4618</key>
 		<dict>
-			<key>Track ID</key><integer>6879</integer>
+			<key>Track ID</key><integer>4618</integer>
 			<key>Name</key><string>Keeper of My Heart</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>What Makes Bob Holler</string>
@@ -1465,9 +1265,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6881</key>
+		<key>4620</key>
 		<dict>
-			<key>Track ID</key><integer>6881</integer>
+			<key>Track ID</key><integer>4620</integer>
 			<key>Name</key><string>What's the Matter With the Mill</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>What Makes Bob Holler</string>
@@ -1482,6 +1282,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3573388770</integer>
 			<key>Play Date UTC</key><date>2017-03-26T22:59:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-04-06T06:24:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1492,9 +1294,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6883</key>
+		<key>4622</key>
 		<dict>
-			<key>Track ID</key><integer>6883</integer>
+			<key>Track ID</key><integer>4622</integer>
 			<key>Name</key><string>Bonaparte's Retreat</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Tall Tales</string>
@@ -1506,9 +1308,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3573718325</integer>
-			<key>Play Date UTC</key><date>2017-03-30T18:32:05Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637347566</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:19:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1519,9 +1321,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6885</key>
+		<key>4624</key>
 		<dict>
-			<key>Track ID</key><integer>6885</integer>
+			<key>Track ID</key><integer>4624</integer>
 			<key>Name</key><string>There'll Be Some Changes Made</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Tall Tales</string>
@@ -1533,9 +1335,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3575362018</integer>
-			<key>Play Date UTC</key><date>2017-04-18T19:06:58Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637348251</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:30:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1546,9 +1348,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6887</key>
+		<key>4626</key>
 		<dict>
-			<key>Track ID</key><integer>6887</integer>
+			<key>Track ID</key><integer>4626</integer>
 			<key>Name</key><string>Melancholy Baby</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Composer</key><string>G. Norton/E. Burnett</string>
@@ -1574,9 +1376,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6889</key>
+		<key>4628</key>
 		<dict>
-			<key>Track ID</key><integer>6889</integer>
+			<key>Track ID</key><integer>4628</integer>
 			<key>Name</key><string>Slow Boat To China</string>
 			<key>Artist</key><string>The Hot Club Of Cowtown</string>
 			<key>Composer</key><string>Frank Loesser</string>
@@ -1591,6 +1393,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637348746</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:39:06Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-06-05T22:33:09Z</date>
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
@@ -1604,9 +1409,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6891</key>
+		<key>4630</key>
 		<dict>
-			<key>Track ID</key><integer>6891</integer>
+			<key>Track ID</key><integer>4630</integer>
 			<key>Name</key><string>Before You</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Ghost Trains</string>
@@ -1618,9 +1423,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3575451074</integer>
-			<key>Play Date UTC</key><date>2017-04-19T19:51:14Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638021825</integer>
+			<key>Play Date UTC</key><date>2019-04-14T00:37:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1631,9 +1436,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6893</key>
+		<key>4632</key>
 		<dict>
-			<key>Track ID</key><integer>6893</integer>
+			<key>Track ID</key><integer>4632</integer>
 			<key>Name</key><string>Home</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Ghost Trains</string>
@@ -1645,9 +1450,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3573720450</integer>
-			<key>Play Date UTC</key><date>2017-03-30T19:07:30Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637349519</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:51:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -1658,9 +1463,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6895</key>
+		<key>4634</key>
 		<dict>
-			<key>Track ID</key><integer>6895</integer>
+			<key>Track ID</key><integer>4634</integer>
 			<key>Name</key><string>You Took Advantage of Me</string>
 			<key>Artist</key><string>The Hot Club of Cowtown</string>
 			<key>Album</key><string>Ghost Trains</string>
@@ -1687,9 +1492,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6897</key>
+		<key>4636</key>
 		<dict>
-			<key>Track ID</key><integer>6897</integer>
+			<key>Track ID</key><integer>4636</integer>
 			<key>Name</key><string>Billy Dale</string>
 			<key>Artist</key><string>Dolly Parton with Asleep At The Wheel</string>
 			<key>Album Artist</key><string>Asleep At The Wheel</string>
@@ -1715,39 +1520,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6899</key>
+		<key>4638</key>
 		<dict>
-			<key>Track ID</key><integer>6899</integer>
-			<key>Name</key><string>Boogie Woogie Santa Claus (1947)</string>
-			<key>Artist</key><string>Mabel Scott</string>
-			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5763303</integer>
-			<key>Total Time</key><integer>139676</integer>
-			<key>Year</key><integer>1947</integer>
-			<key>Date Modified</key><date>2017-02-20T18:59:00Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3573626832</integer>
-			<key>Play Date UTC</key><date>2017-03-29T17:07:12Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
-			<key>Sort Artist</key><string>Mabel Scott</string>
-			<key>Sort Name</key><string>Boogie Woogie Santa Claus (1947)</string>
-			<key>Persistent ID</key><string>41EC5063068E6411</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/33.%20Mabel%20Scott%20-%20Boogie%20Woogie%20Santa%20Claus%20%20(1947).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6901</key>
-		<dict>
-			<key>Track ID</key><integer>6901</integer>
+			<key>Track ID</key><integer>4638</integer>
 			<key>Name</key><string>Jimmy Mo Mhíle Stór</string>
 			<key>Artist</key><string>Dolores Keane &#38; John Faulkner</string>
 			<key>Album</key><string>Sail Óg Rua</string>
@@ -1759,9 +1534,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3575291596</integer>
-			<key>Play Date UTC</key><date>2017-04-17T23:33:16Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3632728901</integer>
+			<key>Play Date UTC</key><date>2019-02-11T19:21:41Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-04-19T19:56:26Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1774,39 +1549,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6903</key>
+		<key>4640</key>
 		<dict>
-			<key>Track ID</key><integer>6903</integer>
-			<key>Name</key><string>The Wee Weaver</string>
-			<key>Artist</key><string>Dolores Keane &#38; John Faulkner</string>
-			<key>Album</key><string>Sail Óg Rua</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3892199</integer>
-			<key>Total Time</key><integer>157805</integer>
-			<key>Year</key><integer>1983</integer>
-			<key>Date Modified</key><date>2017-03-28T03:53:03Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3575966521</integer>
-			<key>Play Date UTC</key><date>2017-04-25T19:02:01Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-23T11:46:09Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Name</key><string>Wee Weaver</string>
-			<key>Persistent ID</key><string>085D5767B0CD771D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dolores%20Keane/1983%20-%20Sail%20O%CC%81g%20Rua/02%20-%20Delores%20Keane%20-%20The%20Wee%20Weaver.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6905</key>
-		<dict>
-			<key>Track ID</key><integer>6905</integer>
+			<key>Track ID</key><integer>4640</integer>
 			<key>Name</key><string>Thuas Ag Gort an Chornáin</string>
 			<key>Artist</key><string>Dolores Keane &#38; John Faulkner</string>
 			<key>Album</key><string>Sail Óg Rua</string>
@@ -1818,9 +1563,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3630308260</integer>
-			<key>Play Date UTC</key><date>2019-01-14T18:57:40Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3637350653</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:10:53Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-03-31T04:57:19Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1833,9 +1578,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6907</key>
+		<key>4642</key>
 		<dict>
-			<key>Track ID</key><integer>6907</integer>
+			<key>Track ID</key><integer>4642</integer>
 			<key>Name</key><string>Green Grow the Laurels</string>
 			<key>Artist</key><string>Dolores Keane &#38; John Faulkner</string>
 			<key>Album</key><string>Sail Óg Rua</string>
@@ -1847,9 +1592,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3576648602</integer>
-			<key>Play Date UTC</key><date>2017-05-03T16:30:02Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3636287352</integer>
+			<key>Play Date UTC</key><date>2019-03-24T22:49:12Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-04-19T19:55:43Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1862,9 +1607,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6909</key>
+		<key>4644</key>
 		<dict>
-			<key>Track ID</key><integer>6909</integer>
+			<key>Track ID</key><integer>4644</integer>
 			<key>Name</key><string>My Dear Own Galway Bay</string>
 			<key>Artist</key><string>Dolores Keane &#38; John Faulkner</string>
 			<key>Album</key><string>YouTube</string>
@@ -1875,6 +1620,11 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3633071759</integer>
+			<key>Play Date UTC</key><date>2019-02-15T18:35:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-04-08T01:04:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1884,9 +1634,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6911</key>
+		<key>4646</key>
 		<dict>
-			<key>Track ID</key><integer>6911</integer>
+			<key>Track ID</key><integer>4646</integer>
 			<key>Name</key><string>Gathering Pace</string>
 			<key>Artist</key><string>Relativity</string>
 			<key>Album</key><string>Gathering Pace</string>
@@ -1900,9 +1650,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:07Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3629799972</integer>
-			<key>Play Date UTC</key><date>2019-01-08T21:46:12Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3636278137</integer>
+			<key>Play Date UTC</key><date>2019-03-24T20:15:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -1912,9 +1662,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6913</key>
+		<key>4648</key>
 		<dict>
-			<key>Track ID</key><integer>6913</integer>
+			<key>Track ID</key><integer>4648</integer>
 			<key>Name</key><string>There Was a Lady</string>
 			<key>Artist</key><string>Relativity</string>
 			<key>Album</key><string>Relativity</string>
@@ -1941,9 +1691,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6915</key>
+		<key>4650</key>
 		<dict>
-			<key>Track ID</key><integer>6915</integer>
+			<key>Track ID</key><integer>4650</integer>
 			<key>Name</key><string>When Barney Flew Over The Hills</string>
 			<key>Artist</key><string>Relativity</string>
 			<key>Album</key><string>Relativity</string>
@@ -1957,9 +1707,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3575451957</integer>
-			<key>Play Date UTC</key><date>2017-04-19T20:05:57Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3637506220</integer>
+			<key>Play Date UTC</key><date>2019-04-08T01:23:40Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-04-13T03:37:20Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1972,9 +1722,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6917</key>
+		<key>4652</key>
 		<dict>
-			<key>Track ID</key><integer>6917</integer>
+			<key>Track ID</key><integer>4652</integer>
 			<key>Name</key><string>When I Was a Fair Maid</string>
 			<key>Artist</key><string>Tríona Ní Dhomhnaill</string>
 			<key>Album</key><string>Tríona</string>
@@ -1998,9 +1748,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6919</key>
+		<key>4654</key>
 		<dict>
-			<key>Track ID</key><integer>6919</integer>
+			<key>Track ID</key><integer>4654</integer>
 			<key>Name</key><string>Trampled Rose</string>
 			<key>Artist</key><string>Robert Plant &#38; Alison Krauss</string>
 			<key>Album</key><string>Raising Sand</string>
@@ -2030,39 +1780,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6923</key>
+		<key>4656</key>
 		<dict>
-			<key>Track ID</key><integer>6923</integer>
-			<key>Name</key><string>Sota</string>
-			<key>Artist</key><string>Shantel</string>
-			<key>Album</key><string>Disko Partizani</string>
-			<key>Genre</key><string>World</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4751721</integer>
-			<key>Total Time</key><integer>195970</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2017-05-25T19:34:39Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>25</integer>
-			<key>Play Date</key><integer>3581965632</integer>
-			<key>Play Date UTC</key><date>2017-07-04T05:27:12Z</date>
-			<key>Skip Count</key><integer>4</integer>
-			<key>Skip Date</key><date>2012-06-17T03:53:58Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>49F10B379C2E37EA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Shantel/Disko%20Partizani/07_Shantel_-_Sota_(Disko_Partizani).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6925</key>
-		<dict>
-			<key>Track ID</key><integer>6925</integer>
+			<key>Track ID</key><integer>4656</integer>
 			<key>Name</key><string>Dubstar Bugarskji</string>
 			<key>Artist</key><string>Shantel</string>
 			<key>Album</key><string>Disko Partizani</string>
@@ -2088,37 +1808,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6927</key>
+		<key>4658</key>
 		<dict>
-			<key>Track ID</key><integer>6927</integer>
-			<key>Name</key><string>Meggyujtom A Pipam</string>
-			<key>Artist</key><string>Besh O Drom</string>
-			<key>Album</key><string>Balkanbeats</string>
-			<key>Genre</key><string>Other</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6472843</integer>
-			<key>Total Time</key><integer>231157</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-21T04:31:14Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>224</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>22</integer>
-			<key>Play Date</key><integer>3350890363</integer>
-			<key>Play Date UTC</key><date>2010-03-08T18:52:43Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>B7543D7D385CDBDA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Balkanbeats/02_Besh_O_Drom_-_Meggyujtom_A_Pipam_(Balkanbeats).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6929</key>
-		<dict>
-			<key>Track ID</key><integer>6929</integer>
+			<key>Track ID</key><integer>4658</integer>
 			<key>Name</key><string>Oi Dai</string>
 			<key>Artist</key><string>Värttinä</string>
 			<key>Album</key><string>Oi Dai</string>
@@ -2146,38 +1838,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6931</key>
+		<key>4660</key>
 		<dict>
-			<key>Track ID</key><integer>6931</integer>
-			<key>Name</key><string>La Ratjake Cheja (The Night Girls)</string>
-			<key>Artist</key><string>Kalyi Jag Group</string>
-			<key>Album</key><string>Gypsy Road: Musical Migration India to Spain</string>
-			<key>Genre</key><string>World</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2566523</integer>
-			<key>Total Time</key><integer>159503</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2011-03-21T04:31:32Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3575490504</integer>
-			<key>Play Date UTC</key><date>2017-04-20T06:48:24Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-15T22:54:09Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2789726A529B0B71</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Gypsy%20Road%20-%20Musical%20Migration/Kalyi%20Jag%20Group/Gypsy%20Road_%20Musical%20Migration%20India%20to%20S/La%20Ratjake%20Cheja%20(The%20Night%20Girls).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6933</key>
-		<dict>
-			<key>Track ID</key><integer>6933</integer>
+			<key>Track ID</key><integer>4660</integer>
 			<key>Name</key><string>The Rootsman - Ta Travudia</string>
 			<key>Artist</key><string>Shantel</string>
 			<key>Album</key><string>Bucovina Club</string>
@@ -2207,67 +1870,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6935</key>
+		<key>4662</key>
 		<dict>
-			<key>Track ID</key><integer>6935</integer>
-			<key>Name</key><string>Mamo Marie Mamo</string>
-			<key>Artist</key><string>His Bulgarian Wedding Band / Ivo Papasov</string>
-			<key>Album</key><string>Orpheus Ascending</string>
-			<key>Genre</key><string>World</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4281451</integer>
-			<key>Total Time</key><integer>266814</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2011-03-21T04:31:36Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3575378260</integer>
-			<key>Play Date UTC</key><date>2017-04-18T23:37:40Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C160D52A010CB365</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Ivo%20Papasov/Orpheus%20Ascending/Mamo%20Marie%20Mamo.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6937</key>
-		<dict>
-			<key>Track ID</key><integer>6937</integer>
-			<key>Name</key><string>14 - Ziomni ma</string>
-			<key>Artist</key><string>Bulgari</string>
-			<key>Album</key><string>Bulgarian Rhapsody</string>
-			<key>Genre</key><string>World</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2451448</integer>
-			<key>Total Time</key><integer>145005</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2017-04-15T22:51:33Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3630323174</integer>
-			<key>Play Date UTC</key><date>2019-01-14T23:06:14Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-19T00:24:44Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>569E0545F175E760</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bulgari/2000%20-%20Bulgarian%20Rhapsody/14%20-%20Ziomni%20ma.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6939</key>
-		<dict>
-			<key>Track ID</key><integer>6939</integer>
+			<key>Track ID</key><integer>4662</integer>
 			<key>Name</key><string>Amour T'es Là</string>
 			<key>Artist</key><string>Snarky Puppy with Magda Giannikou</string>
 			<key>Album Artist</key><string>Snarky Puppy</string>
@@ -2280,6 +1885,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637349799</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:56:39Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2017-04-24T06:36:49Z</date>
 			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
@@ -2293,9 +1901,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6941</key>
+		<key>4664</key>
 		<dict>
-			<key>Track ID</key><integer>6941</integer>
+			<key>Track ID</key><integer>4664</integer>
 			<key>Name</key><string>Lay My Burden Down</string>
 			<key>Artist</key><string>Alison Krauss &#38; Union Station</string>
 			<key>Album</key><string>Paper Airplane</string>
@@ -2316,9 +1924,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6943</key>
+		<key>4666</key>
 		<dict>
-			<key>Track ID</key><integer>6943</integer>
+			<key>Track ID</key><integer>4666</integer>
 			<key>Name</key><string>Miles To Go</string>
 			<key>Artist</key><string>Alison Krauss &#38; Union Station</string>
 			<key>Album</key><string>Paper Airplane</string>
@@ -2342,60 +1950,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6945</key>
+		<key>4668</key>
 		<dict>
-			<key>Track ID</key><integer>6945</integer>
-			<key>Name</key><string>Dzelem Dzelem</string>
-			<key>Artist</key><string>Esma Redzepova</string>
-			<key>Album</key><string>YouTube</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7206642</integer>
-			<key>Total Time</key><integer>299546</integer>
-			<key>Date Modified</key><date>2017-04-26T05:35:31Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3629872374</integer>
-			<key>Play Date UTC</key><date>2019-01-09T17:52:54Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2017-04-26T16:17:07Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>1744A7A7C8D05147</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Eastern%20Euro%20Folk/Esma%20Redzepova%20-%20Dzelem%20Dzelem.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6947</key>
-		<dict>
-			<key>Track ID</key><integer>6947</integer>
-			<key>Name</key><string>Za Duby</string>
-			<key>Artist</key><string>DakhaBrakha</string>
-			<key>Album</key><string>Yahudky</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3480217</integer>
-			<key>Total Time</key><integer>139702</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2017-05-12T23:45:16Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>693B08E1FF5720CA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Za%20Duby.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6949</key>
-		<dict>
-			<key>Track ID</key><integer>6949</integer>
+			<key>Track ID</key><integer>4668</integer>
 			<key>Name</key><string>New Favorite</string>
 			<key>Artist</key><string>Alison Krauss &#38; Union Station</string>
 			<key>Album</key><string>New Favorite</string>
@@ -2407,6 +1964,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3631111160</integer>
+			<key>Play Date UTC</key><date>2019-01-24T01:59:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2416,9 +1976,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6951</key>
+		<key>4670</key>
 		<dict>
-			<key>Track ID</key><integer>6951</integer>
+			<key>Track ID</key><integer>4670</integer>
 			<key>Name</key><string>Take Me For Longing</string>
 			<key>Artist</key><string>Alison Krauss &#38; Union Station</string>
 			<key>Album</key><string>New Favorite</string>
@@ -2430,6 +1990,9 @@
 			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3631112005</integer>
+			<key>Play Date UTC</key><date>2019-01-24T02:13:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -2439,9 +2002,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6953</key>
+		<key>4672</key>
 		<dict>
-			<key>Track ID</key><integer>6953</integer>
+			<key>Track ID</key><integer>4672</integer>
 			<key>Name</key><string>Ciganka Medley</string>
 			<key>Artist</key><string>Shantel</string>
 			<key>Album Artist</key><string>Shantel</string>
@@ -2457,9 +2020,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string> </string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3579517559</integer>
-			<key>Play Date UTC</key><date>2017-06-05T21:25:59Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3631111834</integer>
+			<key>Play Date UTC</key><date>2019-01-24T02:10:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -2469,9 +2032,833 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>6955</key>
+		<key>7750</key>
 		<dict>
-			<key>Track ID</key><integer>6955</integer>
+			<key>Track ID</key><integer>7750</integer>
+			<key>Name</key><string>Za Duby</string>
+			<key>Artist</key><string>DakhaBrakha</string>
+			<key>Album</key><string>Yahudky</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3480217</integer>
+			<key>Total Time</key><integer>139702</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-12T23:45:16Z</date>
+			<key>Date Added</key><date>2019-01-17T17:12:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F00BEBAB9E5521E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/DakhaBrakha/2007%20-%20Yahudky/Za%20Duby.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8030</key>
+		<dict>
+			<key>Track ID</key><integer>8030</integer>
+			<key>Name</key><string>Sex Without Bodies</string>
+			<key>Artist</key><string>Dave's True Story</string>
+			<key>Album</key><string>Sex Without Bodies</string>
+			<key>Genre</key><string>Romantic/Dinner</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3563439</integer>
+			<key>Total Time</key><integer>222066</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2011-03-19T21:33:50Z</date>
+			<key>Date Added</key><date>2019-01-17T17:14:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3637561908</integer>
+			<key>Play Date UTC</key><date>2019-04-08T16:51:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E28685A024C2B9C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dave's%20True%20Story/Sex%20Without%20Bodies/Sex%20Without%20Bodies.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8032</key>
+		<dict>
+			<key>Track ID</key><integer>8032</integer>
+			<key>Name</key><string>T'Ain't Whatcha Say It's Whatcha Do (1956)</string>
+			<key>Artist</key><string>Little Esther</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4063651</integer>
+			<key>Total Time</key><integer>169142</integer>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2017-03-05T07:01:10Z</date>
+			<key>Date Added</key><date>2019-01-17T17:14:26Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637351486</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:24:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>YouTube</string>
+			<key>Persistent ID</key><string>10582993B63DD3DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Boogie%20Woogie/Little%20Esther%20-%20T'Ain't%20Whatcha%20Say%20It's%20Whatcha%20Do%20(1956).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8034</key>
+		<dict>
+			<key>Track ID</key><integer>8034</integer>
+			<key>Name</key><string>The Wee Weaver</string>
+			<key>Artist</key><string>Dolores Keane &#38; John Faulkner</string>
+			<key>Album</key><string>Sail Óg Rua</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3892199</integer>
+			<key>Total Time</key><integer>157805</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2017-03-28T03:53:03Z</date>
+			<key>Date Added</key><date>2019-01-17T17:14:26Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3637350811</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:13:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-02-20T23:02:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Wee Weaver</string>
+			<key>Persistent ID</key><string>B2AC9739192CC482</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dolores%20Keane/1983%20-%20Sail%20O%CC%81g%20Rua/02%20-%20Delores%20Keane%20-%20The%20Wee%20Weaver.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8844</key>
+		<dict>
+			<key>Track ID</key><integer>8844</integer>
+			<key>Name</key><string>01 Digga Digga Doo</string>
+			<key>Artist</key><string>Asylum Street Spankers</string>
+			<key>Album</key><string>Mercurial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4041772</integer>
+			<key>Total Time</key><integer>248581</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-12-31T04:02:34Z</date>
+			<key>Date Added</key><date>2019-04-01T15:35:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3575451337</integer>
+			<key>Play Date UTC</key><date>2017-04-19T19:55:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mercurial</string>
+			<key>Sort Artist</key><string>Asylum Street Spankers</string>
+			<key>Persistent ID</key><string>D80B7CECE07DCC25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2004%20Mercurial/01%20Digga%20Digga%20Doo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9288</key>
+		<dict>
+			<key>Track ID</key><integer>9288</integer>
+			<key>Name</key><string>What Can I Say</string>
+			<key>Artist</key><string>Yo La Tengo</string>
+			<key>Album</key><string>Fakebook</string>
+			<key>Genre</key><string>Experimental Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3916714</integer>
+			<key>Total Time</key><integer>130272</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2019-02-10T19:56:38Z</date>
+			<key>Date Added</key><date>2019-04-01T15:36:00Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BB17DD2F316C55B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Yo%20La%20Tengo/1990%20-%20Fakebook/16%20-%20What%20Can%20I%20Say.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9648</key>
+		<dict>
+			<key>Track ID</key><integer>9648</integer>
+			<key>Name</key><string>This Isn't Farm Life</string>
+			<key>Artist</key><string>The Essex Green</string>
+			<key>Album</key><string>Cannibal Sea</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5952187</integer>
+			<key>Total Time</key><integer>246517</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-03-10T07:28:06Z</date>
+			<key>Date Added</key><date>2019-04-01T15:37:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Essex Green</string>
+			<key>Persistent ID</key><string>2CAC90FC0EF75B1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Essex%20Green/2006%20-%20Cannibal%20Sea/01%20-%20The%20Essex%20Green%20-%20This%20Isnt%20Farm%20Life.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9658</key>
+		<dict>
+			<key>Track ID</key><integer>9658</integer>
+			<key>Name</key><string>Sin City</string>
+			<key>Artist</key><string>The Essex Green</string>
+			<key>Album</key><string>Cannibal Sea</string>
+			<key>Genre</key><string>Indie;Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3808712</integer>
+			<key>Total Time</key><integer>157204</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-03-10T07:27:59Z</date>
+			<key>Date Added</key><date>2019-04-01T15:37:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3638022732</integer>
+			<key>Play Date UTC</key><date>2019-04-14T00:52:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Essex Green</string>
+			<key>Persistent ID</key><string>4AE8804B0581F6B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Essex%20Green/2006%20-%20Cannibal%20Sea/10%20-%20Sin%20City.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9788</key>
+		<dict>
+			<key>Track ID</key><integer>9788</integer>
+			<key>Name</key><string>Love So Fine (version 2)</string>
+			<key>Artist</key><string>Roger Nichols &#38; The Small Circle of Friends</string>
+			<key>Album</key><string>Roger Nichols &#38; The Small Circle of Friends</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3175448</integer>
+			<key>Total Time</key><integer>129724</integer>
+			<key>Date Modified</key><date>2017-11-26T04:02:22Z</date>
+			<key>Date Added</key><date>2019-04-01T15:40:26Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3635269968</integer>
+			<key>Play Date UTC</key><date>2019-03-13T04:12:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-12-10T08:27:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB1CD52DAA12977B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Roger%20Nichols%20and%20The%20Small%20Circle%20of%20Friends/1968%20-%20Roger%20Nichols%20and%20The%20Small%20Circle%20of%20Friends/Love%20So%20Fine%20(version%202).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10542</key>
+		<dict>
+			<key>Track ID</key><integer>10542</integer>
+			<key>Name</key><string>14 - Ziomni ma</string>
+			<key>Artist</key><string>Bulgari</string>
+			<key>Album</key><string>Bulgarian Rhapsody</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2451448</integer>
+			<key>Total Time</key><integer>145005</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-04-15T22:51:33Z</date>
+			<key>Date Added</key><date>2019-04-01T15:53:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3630323174</integer>
+			<key>Play Date UTC</key><date>2019-01-14T23:06:14Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-01-30T22:26:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>5180547C553AF723</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bulgari/2000%20-%20Bulgarian%20Rhapsody/14%20-%20Ziomni%20ma.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10554</key>
+		<dict>
+			<key>Track ID</key><integer>10554</integer>
+			<key>Name</key><string>Aneta i Mollika   Slusni me majko stara</string>
+			<key>Artist</key><string>Unknown Performer</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3611065</integer>
+			<key>Total Time</key><integer>225044</integer>
+			<key>Date Modified</key><date>2017-06-14T23:00:10Z</date>
+			<key>Date Added</key><date>2019-04-01T15:53:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3579602959</integer>
+			<key>Play Date UTC</key><date>2017-06-06T21:09:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-06T21:29:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>09127B5A57808FD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Macedonian%20Folk/Aneta%20i%20Mollika%20%20%20Slusni%20me%20majko%20stara%20-%20Unknown%20Performer.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10780</key>
+		<dict>
+			<key>Track ID</key><integer>10780</integer>
+			<key>Name</key><string>Mamo Marie Mamo</string>
+			<key>Artist</key><string>His Bulgarian Wedding Band / Ivo Papasov</string>
+			<key>Album</key><string>Orpheus Ascending</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4281451</integer>
+			<key>Total Time</key><integer>266814</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2011-03-21T04:31:36Z</date>
+			<key>Date Added</key><date>2019-04-01T15:54:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3632730047</integer>
+			<key>Play Date UTC</key><date>2019-02-11T19:40:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E05DD1EA159D1CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Ivo%20Papasov/Orpheus%20Ascending/Mamo%20Marie%20Mamo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10782</key>
+		<dict>
+			<key>Track ID</key><integer>10782</integer>
+			<key>Name</key><string>Dzelem Dzelem</string>
+			<key>Artist</key><string>Esma Redzepova</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7206642</integer>
+			<key>Total Time</key><integer>299546</integer>
+			<key>Date Modified</key><date>2017-04-26T05:35:31Z</date>
+			<key>Date Added</key><date>2019-04-01T15:54:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637350081</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:01:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-26T16:17:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E280F333A293468D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Eastern%20Euro%20Folk/Esma%20Redzepova%20-%20Dzelem%20Dzelem.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10948</key>
+		<dict>
+			<key>Track ID</key><integer>10948</integer>
+			<key>Name</key><string>Again &#38; Again</string>
+			<key>Artist</key><string>The Bird and the Bee</string>
+			<key>Album Artist</key><string>The Bird and the Bee</string>
+			<key>Album</key><string>The Bird and the Bee</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5492424</integer>
+			<key>Total Time</key><integer>165603</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-13T00:07:11Z</date>
+			<key>Date Added</key><date>2019-04-01T17:17:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633430875</integer>
+			<key>Play Date UTC</key><date>2019-02-19T22:21:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T01:51:50Z</date>
+			<key>Release Date</key><date>2007-01-23T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bird and the Bee</string>
+			<key>Sort Album Artist</key><string>Bird and the Bee</string>
+			<key>Sort Artist</key><string>Bird and the Bee</string>
+			<key>Persistent ID</key><string>254DB11A0EC15871</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bird%20and%20the%20Bee/2006%20-%20The%20Bird%20and%20the%20Bee/01%20Again%20&#38;%20Again.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10980</key>
+		<dict>
+			<key>Track ID</key><integer>10980</integer>
+			<key>Name</key><string>La la La</string>
+			<key>Artist</key><string>The Bird and the Bee</string>
+			<key>Album Artist</key><string>The Bird and the Bee</string>
+			<key>Album</key><string>The Bird and the Bee</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6581539</integer>
+			<key>Total Time</key><integer>199179</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-13T00:07:10Z</date>
+			<key>Date Added</key><date>2019-04-01T17:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3637350483</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:08:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T01:48:50Z</date>
+			<key>Release Date</key><date>2007-01-23T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bird and the Bee</string>
+			<key>Sort Album Artist</key><string>Bird and the Bee</string>
+			<key>Sort Artist</key><string>Bird and the Bee</string>
+			<key>Persistent ID</key><string>7AB4D11A56B9E4D8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Bird%20and%20the%20Bee/2006%20-%20The%20Bird%20and%20the%20Bee/05%20La%20la%20La.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11132</key>
+		<dict>
+			<key>Track ID</key><integer>11132</integer>
+			<key>Name</key><string>Our Lady In Havana</string>
+			<key>Artist</key><string>The Essex Green</string>
+			<key>Album</key><string>The Long Goodbye</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9345464</integer>
+			<key>Total Time</key><integer>290795</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-09-13T00:25:12Z</date>
+			<key>Date Added</key><date>2019-04-01T17:18:30Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3631799092</integer>
+			<key>Play Date UTC</key><date>2019-02-01T01:04:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-12-23T04:30:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>4</integer>
+			<key>Sort Album</key><string>Long Goodbye</string>
+			<key>Sort Artist</key><string>Essex Green</string>
+			<key>Persistent ID</key><string>C759E93CAB466902</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Essex%20Green/2003%20-%20The%20Long%20Goodbye/03%20Our%20Lady%20In%20Havana.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11202</key>
+		<dict>
+			<key>Track ID</key><integer>11202</integer>
+			<key>Name</key><string>When The Lovelight Starts Shining Through His Eyes</string>
+			<key>Artist</key><string>The Supremes</string>
+			<key>Album Artist</key><string>The Supremes</string>
+			<key>Album</key><string>20 Golden Greats +</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8255175</integer>
+			<key>Total Time</key><integer>183170</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-12-26T20:24:02Z</date>
+			<key>Date Added</key><date>2019-04-01T17:24:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Supremes</string>
+			<key>Sort Artist</key><string>Supremes</string>
+			<key>Persistent ID</key><string>96790B6C0E1F91D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diana%20Ross%20&#38;%20The%20Supremes/60%20Golden%20Motown%20Greats/01-When%20The%20Lovelight%20Starts%20Shining%20Through%20His%20Eyes.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11208</key>
+		<dict>
+			<key>Track ID</key><integer>11208</integer>
+			<key>Name</key><string>My World Is Empty Without You</string>
+			<key>Artist</key><string>The Supremes</string>
+			<key>Album Artist</key><string>Diana Ross &#38; The Supremes</string>
+			<key>Album</key><string>20 Golden Greats +</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6256902</integer>
+			<key>Total Time</key><integer>155036</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-12-14T05:12:01Z</date>
+			<key>Date Added</key><date>2019-04-01T17:24:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637347566</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:19:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-12-15T01:31:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Supremes</string>
+			<key>Persistent ID</key><string>09CD9434221034DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diana%20Ross%20&#38;%20The%20Supremes/60%20Golden%20Motown%20Greats/09-My%20World%20Is%20Empty%20Without%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11266</key>
+		<dict>
+			<key>Track ID</key><integer>11266</integer>
+			<key>Name</key><string>Someday We'll Be Together</string>
+			<key>Artist</key><string>The Supremes</string>
+			<key>Composer</key><string>Jackey Beavers, John Bristol, Harvey Fuqua</string>
+			<key>Album</key><string>The Supremes [Box Set]</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7313153</integer>
+			<key>Total Time</key><integer>212062</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2016-12-26T20:24:06Z</date>
+			<key>Date Added</key><date>2019-04-01T17:24:43Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Supremes [Box Set]</string>
+			<key>Sort Artist</key><string>Supremes</string>
+			<key>Persistent ID</key><string>955B833C8AC5A1BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diana%20Ross%20&#38;%20The%20Supremes/Box%20Set/3-23%20Someday%20We'll%20Be%20Together.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11280</key>
+		<dict>
+			<key>Track ID</key><integer>11280</integer>
+			<key>Name</key><string>Exactly Like You</string>
+			<key>Artist</key><string>Hot Club Of Cowtown</string>
+			<key>Album</key><string>Continental Stomp</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5299812</integer>
+			<key>Total Time</key><integer>262639</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T22:52:58Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3637348513</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:35:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-02-01T15:48:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2314</integer>
+			<key>Persistent ID</key><string>DDC66FD7F1D478BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hot%20Club%20Of%20Cowtown/Continental%20Stomp/Exactly%20Like%20You.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11282</key>
+		<dict>
+			<key>Track ID</key><integer>11282</integer>
+			<key>Name</key><string>11 Tight Like That</string>
+			<key>Artist</key><string>Asylum Street Spankers</string>
+			<key>Album</key><string>Mercurial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3464152</integer>
+			<key>Total Time</key><integer>212480</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-12-31T04:02:35Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3572974320</integer>
+			<key>Play Date UTC</key><date>2017-03-22T03:52:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mercurial</string>
+			<key>Sort Artist</key><string>Asylum Street Spankers</string>
+			<key>Persistent ID</key><string>14920C4D527E467B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Asylum%20Street%20Spankers/2004%20Mercurial/11%20Tight%20Like%20That.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11284</key>
+		<dict>
+			<key>Track ID</key><integer>11284</integer>
+			<key>Name</key><string>Rockin' Around the Christmas Tree</string>
+			<key>Artist</key><string>Brenda Lee</string>
+			<key>Album</key><string>YouTube</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2993215</integer>
+			<key>Total Time</key><integer>124081</integer>
+			<key>Date Modified</key><date>2018-08-14T18:04:46Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>25C31806796AF0BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Brenda%20Lee/YouTube/Brenda%20Lee%20-%20Rockin'%20Around%20the%20Christmas%20Tree.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11286</key>
+		<dict>
+			<key>Track ID</key><integer>11286</integer>
+			<key>Name</key><string>Only You Can Bring Me Cheer (Gentleman's Lady)</string>
+			<key>Artist</key><string>Alison Krauss</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Alison Krauss, Viktor Krauss</string>
+			<key>Album</key><string>A Very Special Acoustic Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3477859</integer>
+			<key>Total Time</key><integer>216153</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:48Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4097</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Very Special Acoustic Christmas</string>
+			<key>Persistent ID</key><string>DF55A7686CCFF514</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Compilations/A%20Very%20Special%20Acoustic%20Christmas/05%20Only%20You%20Can%20Bring%20Me%20Cheer%20(Gent.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11288</key>
+		<dict>
+			<key>Track ID</key><integer>11288</integer>
+			<key>Name</key><string>Silver Flowers</string>
+			<key>Artist</key><string>Talvin Singh</string>
+			<key>Album Artist</key><string>Talvin Singh</string>
+			<key>Composer</key><string>Talvin Singh</string>
+			<key>Album</key><string>Ha</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6785152</integer>
+			<key>Total Time</key><integer>286171</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2011-03-19T22:52:04Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3573090816</integer>
+			<key>Play Date UTC</key><date>2017-03-23T12:13:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-02-01T06:00:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>E2E657BDD52A34F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Talvin%20Singh/Ha/Talvin_Singh_-_Ha_-_10_.Silver_Flowers.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11290</key>
+		<dict>
+			<key>Track ID</key><integer>11290</integer>
+			<key>Name</key><string>Boogie Woogie Santa Claus (1947)</string>
+			<key>Artist</key><string>Mabel Scott</string>
+			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5763303</integer>
+			<key>Total Time</key><integer>139676</integer>
+			<key>Year</key><integer>1947</integer>
+			<key>Date Modified</key><date>2017-02-20T18:59:00Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3573626832</integer>
+			<key>Play Date UTC</key><date>2017-03-29T17:07:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
+			<key>Sort Artist</key><string>Mabel Scott</string>
+			<key>Sort Name</key><string>Boogie Woogie Santa Claus (1947)</string>
+			<key>Persistent ID</key><string>FF0D45498DEF1528</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/33.%20Mabel%20Scott%20-%20Boogie%20Woogie%20Santa%20Claus%20%20(1947).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11292</key>
+		<dict>
+			<key>Track ID</key><integer>11292</integer>
+			<key>Name</key><string>Sota</string>
+			<key>Artist</key><string>Shantel</string>
+			<key>Album</key><string>Disko Partizani</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4751721</integer>
+			<key>Total Time</key><integer>195970</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-05-25T19:34:39Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3637350278</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:04:38Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2012-06-17T03:53:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4AD055238F31904B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Shantel/Disko%20Partizani/07_Shantel_-_Sota_(Disko_Partizani).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11294</key>
+		<dict>
+			<key>Track ID</key><integer>11294</integer>
+			<key>Name</key><string>Meggyujtom A Pipam</string>
+			<key>Artist</key><string>Besh O Drom</string>
+			<key>Album</key><string>Balkanbeats</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6472843</integer>
+			<key>Total Time</key><integer>231157</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-03-21T04:31:14Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3350890363</integer>
+			<key>Play Date UTC</key><date>2010-03-08T18:52:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>56D0C8B9DF1C9E19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Balkanbeats/02_Besh_O_Drom_-_Meggyujtom_A_Pipam_(Balkanbeats).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11296</key>
+		<dict>
+			<key>Track ID</key><integer>11296</integer>
+			<key>Name</key><string>La Ratjake Cheja (The Night Girls)</string>
+			<key>Artist</key><string>Kalyi Jag Group</string>
+			<key>Album</key><string>Gypsy Road: Musical Migration India to Spain</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2566523</integer>
+			<key>Total Time</key><integer>159503</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2011-03-21T04:31:32Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3575490504</integer>
+			<key>Play Date UTC</key><date>2017-04-20T06:48:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-15T22:54:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7C509ABE8C632D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Gypsy%20Road%20-%20Musical%20Migration/Kalyi%20Jag%20Group/Gypsy%20Road_%20Musical%20Migration%20India%20to%20S/La%20Ratjake%20Cheja%20(The%20Night%20Girls).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11298</key>
+		<dict>
+			<key>Track ID</key><integer>11298</integer>
 			<key>Name</key><string>Jovano Jovanke</string>
 			<key>Artist</key><string>Bilja Krstic</string>
 			<key>Album</key><string>YouTube</string>
@@ -2479,20 +2866,112 @@
 			<key>Size</key><integer>10293563</integer>
 			<key>Total Time</key><integer>427911</integer>
 			<key>Date Modified</key><date>2017-06-20T04:45:25Z</date>
-			<key>Date Added</key><date>2018-12-19T19:47:08Z</date>
+			<key>Date Added</key><date>2019-04-01T19:47:23Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3581513191</integer>
-			<key>Play Date UTC</key><date>2017-06-28T23:46:31Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3637349328</integer>
+			<key>Play Date UTC</key><date>2019-04-06T05:48:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>3F3F2AB68FA7BDC5</string>
+			<key>Persistent ID</key><string>195FEFA1A2F9AC22</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bilja%20Krstic/Bilja%20Krstic%20-%20Jovano%20Jovanke.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11570</key>
+		<dict>
+			<key>Track ID</key><integer>11570</integer>
+			<key>Name</key><string>Nightingale</string>
+			<key>Artist</key><string>Nora O'Connor</string>
+			<key>Album</key><string>Til The Dawn</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3136734</integer>
+			<key>Total Time</key><integer>174493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-09-10T02:36:14Z</date>
+			<key>Date Added</key><date>2019-04-06T04:58:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637043116</integer>
+			<key>Play Date UTC</key><date>2019-04-02T16:45:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3816</integer>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Persistent ID</key><string>BD30AA932A4A32F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Nora%20O'Connor/2004%20-%20Til%20The%20Dawn/08%20Nightingale.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11584</key>
+		<dict>
+			<key>Track ID</key><integer>11584</integer>
+			<key>Name</key><string>Wichita Skyline</string>
+			<key>Artist</key><string>Shawn Colvin</string>
+			<key>Album</key><string>A Few Small Repairs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7006336</integer>
+			<key>Total Time</key><integer>218906</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2011-03-19T22:44:42Z</date>
+			<key>Date Added</key><date>2019-04-06T04:58:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3632582885</integer>
+			<key>Play Date UTC</key><date>2019-02-10T02:48:05Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-02-01T17:06:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Sort Album</key><string>Few Small Repairs</string>
+			<key>Persistent ID</key><string>870DA140CE97B2CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Shawn%20Colvin/A%20Few%20Small%20Repairs/Shawn_Colvin_-_A_Few_Small_Repairs_-_08_.Wichita_Skyline.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11730</key>
+		<dict>
+			<key>Track ID</key><integer>11730</integer>
+			<key>Name</key><string>Lu</string>
+			<key>Artist</key><string>Laura Nyro</string>
+			<key>Album</key><string>Eli And The Thirteenth Confession</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6745893</integer>
+			<key>Total Time</key><integer>167941</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2019-04-06T05:21:48Z</date>
+			<key>Date Added</key><date>2019-04-06T05:20:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637353599</integer>
+			<key>Play Date UTC</key><date>2019-04-06T06:59:59Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE2245DC3D09C035</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Laura%20Nyro/1968%20-%20Eli%20And%20The%20Thirteenth%20Confession/02%20-%20Lu.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -2500,274 +2979,313 @@
 		<dict>
 			<key>Name</key><string>Sexy Voice</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>26893</integer>
-			<key>Playlist Persistent ID</key><string>CFD1A43832AA9662</string>
+			<key>Playlist ID</key><integer>26315</integer>
+			<key>Playlist Persistent ID</key><string>64B5CF669A672087</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6819</integer>
+					<key>Track ID</key><integer>10542</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6939</integer>
+					<key>Track ID</key><integer>11282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6797</integer>
+					<key>Track ID</key><integer>8844</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6575</integer>
+					<key>Track ID</key><integer>7750</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6857</integer>
+					<key>Track ID</key><integer>4586</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6891</integer>
+					<key>Track ID</key><integer>4634</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6897</integer>
+					<key>Track ID</key><integer>4596</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6883</integer>
+					<key>Track ID</key><integer>4594</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6899</integer>
+					<key>Track ID</key><integer>4606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6833</integer>
+					<key>Track ID</key><integer>4386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6361</integer>
+					<key>Track ID</key><integer>11584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6953</integer>
+					<key>Track ID</key><integer>4568</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6821</integer>
+					<key>Track ID</key><integer>4600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6873</integer>
+					<key>Track ID</key><integer>11202</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6925</integer>
+					<key>Track ID</key><integer>4652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6945</integer>
+					<key>Track ID</key><integer>4650</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6815</integer>
+					<key>Track ID</key><integer>4620</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6807</integer>
+					<key>Track ID</key><integer>4614</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6911</integer>
+					<key>Track ID</key><integer>9288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6907</integer>
+					<key>Track ID</key><integer>8034</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6803</integer>
+					<key>Track ID</key><integer>4554</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6553</integer>
+					<key>Track ID</key><integer>4654</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6893</integer>
+					<key>Track ID</key><integer>4640</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6845</integer>
+					<key>Track ID</key><integer>4282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6871</integer>
+					<key>Track ID</key><integer>9648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6861</integer>
+					<key>Track ID</key><integer>4624</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6901</integer>
+					<key>Track ID</key><integer>4648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6955</integer>
+					<key>Track ID</key><integer>4552</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6879</integer>
+					<key>Track ID</key><integer>4670</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6931</integer>
+					<key>Track ID</key><integer>8032</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6941</integer>
+					<key>Track ID</key><integer>4578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6823</integer>
+					<key>Track ID</key><integer>4590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6841</integer>
+					<key>Track ID</key><integer>11292</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6827</integer>
+					<key>Track ID</key><integer>11266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6935</integer>
+					<key>Track ID</key><integer>4628</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6927</integer>
+					<key>Track ID</key><integer>4550</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6887</integer>
+					<key>Track ID</key><integer>9658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6943</integer>
+					<key>Track ID</key><integer>11288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6909</integer>
+					<key>Track ID</key><integer>8030</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6811</integer>
+					<key>Track ID</key><integer>4570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6801</integer>
+					<key>Track ID</key><integer>4390</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6949</integer>
+					<key>Track ID</key><integer>4660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6251</integer>
+					<key>Track ID</key><integer>11284</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6929</integer>
+					<key>Track ID</key><integer>4582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6877</integer>
+					<key>Track ID</key><integer>4598</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6865</integer>
+					<key>Track ID</key><integer>4548</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6809</integer>
+					<key>Track ID</key><integer>4564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6789</integer>
+					<key>Track ID</key><integer>11132</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6851</integer>
+					<key>Track ID</key><integer>11286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6829</integer>
+					<key>Track ID</key><integer>4616</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6863</integer>
+					<key>Track ID</key><integer>4658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6933</integer>
+					<key>Track ID</key><integer>3866</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6577</integer>
+					<key>Track ID</key><integer>11570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6817</integer>
+					<key>Track ID</key><integer>4668</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6805</integer>
+					<key>Track ID</key><integer>11208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6867</integer>
+					<key>Track ID</key><integer>4558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6791</integer>
+					<key>Track ID</key><integer>4566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6889</integer>
+					<key>Track ID</key><integer>4644</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6923</integer>
+					<key>Track ID</key><integer>4666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6843</integer>
+					<key>Track ID</key><integer>4626</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6825</integer>
+					<key>Track ID</key><integer>11294</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6869</integer>
+					<key>Track ID</key><integer>10780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6951</integer>
+					<key>Track ID</key><integer>4580</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6793</integer>
+					<key>Track ID</key><integer>9788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6913</integer>
+					<key>Track ID</key><integer>4588</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6885</integer>
+					<key>Track ID</key><integer>4576</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6407</integer>
+					<key>Track ID</key><integer>4664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6905</integer>
+					<key>Track ID</key><integer>11296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6919</integer>
+					<key>Track ID</key><integer>10980</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6795</integer>
+					<key>Track ID</key><integer>4618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6903</integer>
+					<key>Track ID</key><integer>11298</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6875</integer>
+					<key>Track ID</key><integer>4638</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6881</integer>
+					<key>Track ID</key><integer>4608</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6915</integer>
+					<key>Track ID</key><integer>4610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6917</integer>
+					<key>Track ID</key><integer>4592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6853</integer>
+					<key>Track ID</key><integer>4632</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6813</integer>
+					<key>Track ID</key><integer>4380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6799</integer>
+					<key>Track ID</key><integer>4560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6573</integer>
+					<key>Track ID</key><integer>4642</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6859</integer>
+					<key>Track ID</key><integer>4646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6847</integer>
+					<key>Track ID</key><integer>4562</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6849</integer>
+					<key>Track ID</key><integer>11280</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6895</integer>
+					<key>Track ID</key><integer>10782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6839</integer>
+					<key>Track ID</key><integer>4656</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6947</integer>
+					<key>Track ID</key><integer>4612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6835</integer>
+					<key>Track ID</key><integer>4574</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6837</integer>
+					<key>Track ID</key><integer>4672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6937</integer>
+					<key>Track ID</key><integer>4252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4662</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11730</integer>
 				</dict>
 			</array>
 		</dict>
