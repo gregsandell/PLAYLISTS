@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-04-17T22:51:39Z</date>
+	<key>Date</key><date>2019-05-08T14:09:59Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12148</key>
+		<key>12154</key>
 		<dict>
-			<key>Track ID</key><integer>12148</integer>
+			<key>Track ID</key><integer>12154</integer>
 			<key>Name</key><string>A Certain Girl</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -34,14 +34,13 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Certain Girl</string>
 			<key>Persistent ID</key><string>3B54748C03E0B54A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/22.%20Warren%20Zevon%20-%20A%20Certain%20Girl.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -49,13 +48,13 @@
 		<dict>
 			<key>Name</key><string>More Warren Zevon</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>25863</integer>
+			<key>Playlist ID</key><integer>28436</integer>
 			<key>Playlist Persistent ID</key><string>9C4633C76790A582</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12148</integer>
+					<key>Track ID</key><integer>12154</integer>
 				</dict>
 			</array>
 		</dict>

@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-04-17T22:53:32Z</date>
+	<key>Date</key><date>2019-05-08T14:12:58Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12020</key>
+		<key>12040</key>
 		<dict>
-			<key>Track ID</key><integer>12020</integer>
+			<key>Track ID</key><integer>12040</integer>
 			<key>Name</key><string>Love Tko</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album</key><string>Sexual Healing</string>
@@ -24,7 +24,7 @@
 			<key>Total Time</key><integer>287947</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2019-04-08T02:40:56Z</date>
+			<key>Date Modified</key><date>2019-04-08T02:41:31Z</date>
 			<key>Date Added</key><date>2019-04-08T02:40:11Z</date>
 			<key>Bit Rate</key><integer>198</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -33,16 +33,15 @@
 			<key>Play Date UTC</key><date>2019-04-11T19:19:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Persistent ID</key><string>35E80FDD16F716D2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20Forever%20Gold%20-%20Sexual%20Healing/14%20-%20Love%20Tko.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12086</key>
+		<key>12100</key>
 		<dict>
-			<key>Track ID</key><integer>12086</integer>
+			<key>Track ID</key><integer>12100</integer>
 			<key>Name</key><string>When Somebody Loves You Back</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -63,18 +62,17 @@
 			<key>Play Date UTC</key><date>2019-04-11T22:58:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 1</string>
 			<key>Persistent ID</key><string>94CAF92105404304</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%201/02%20When%20Somebody%20Loves%20You%20Back.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12088</key>
+		<key>12102</key>
 		<dict>
-			<key>Track ID</key><integer>12088</integer>
+			<key>Track ID</key><integer>12102</integer>
 			<key>Name</key><string>Somebody Told Me</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -92,20 +90,19 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 1</string>
 			<key>Persistent ID</key><string>B87540DC6CFC9AAC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%201/05%20Somebody%20Told%20Me.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12090</key>
+		<key>12104</key>
 		<dict>
-			<key>Track ID</key><integer>12090</integer>
+			<key>Track ID</key><integer>12104</integer>
 			<key>Name</key><string>Don't Leave Me This Way</string>
-			<key>Artist</key><string>Teddy Pendergrass wity Harold Melvin &#38; the Blue Notes</string>
+			<key>Artist</key><string>Teddy Pendergrass with Harold Melvin &#38; the Blue Notes </string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
 			<key>Composer</key><string>C. Gilbert; K. Gamble; L. Huff</string>
 			<key>Album</key><string>The Essential Teddy Pendergrass Disc 1</string>
@@ -115,7 +112,7 @@
 			<key>Total Time</key><integer>367072</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2019-04-08T03:52:30Z</date>
+			<key>Date Modified</key><date>2019-04-23T18:55:57Z</date>
 			<key>Date Added</key><date>2019-04-08T03:50:33Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -124,20 +121,19 @@
 			<key>Play Date UTC</key><date>2019-04-11T18:41:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 1</string>
 			<key>Persistent ID</key><string>2040A32BAD82BA19</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%201/09%20Don't%20Leave%20Me%20This%20Way.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12092</key>
+		<key>12106</key>
 		<dict>
-			<key>Track ID</key><integer>12092</integer>
+			<key>Track ID</key><integer>12106</integer>
 			<key>Name</key><string>The Love I Lost</string>
-			<key>Artist</key><string>Teddy Pendergrass wity Harold Melvin &#38; the Blue Notes</string>
+			<key>Artist</key><string>Teddy Pendergrass with Harold Melvin &#38; the Blue Notes </string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
 			<key>Composer</key><string>K. Gamble; L. Huff</string>
 			<key>Album</key><string>The Essential Teddy Pendergrass Disc 1</string>
@@ -147,27 +143,26 @@
 			<key>Total Time</key><integer>385541</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2019-04-08T03:52:30Z</date>
+			<key>Date Modified</key><date>2019-04-23T18:55:57Z</date>
 			<key>Date Added</key><date>2019-04-08T03:50:33Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 1</string>
 			<key>Sort Name</key><string>Love I Lost</string>
 			<key>Persistent ID</key><string>3B1C762E0A475A21</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%201/11%20The%20Love%20I%20Lost.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12094</key>
+		<key>12108</key>
 		<dict>
-			<key>Track ID</key><integer>12094</integer>
+			<key>Track ID</key><integer>12108</integer>
 			<key>Name</key><string>If You Don't Know Me by Now</string>
-			<key>Artist</key><string>Teddy Pendergrass wity Harold Melvin &#38; the Blue Notes </string>
+			<key>Artist</key><string>Teddy Pendergrass with Harold Melvin &#38; the Blue Notes </string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
 			<key>Composer</key><string>K. Gamble; L. Huff</string>
 			<key>Album</key><string>The Essential Teddy Pendergrass Disc 1</string>
@@ -177,7 +172,7 @@
 			<key>Total Time</key><integer>206524</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2019-04-08T03:52:17Z</date>
+			<key>Date Modified</key><date>2019-04-23T18:55:57Z</date>
 			<key>Date Added</key><date>2019-04-08T03:50:33Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -186,18 +181,17 @@
 			<key>Play Date UTC</key><date>2019-04-11T13:26:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 1</string>
 			<key>Persistent ID</key><string>FA68702B886473EC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%201/14%20If%20You%20Don't%20Know%20Me%20by%20Now.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12096</key>
+		<key>12110</key>
 		<dict>
-			<key>Track ID</key><integer>12096</integer>
+			<key>Track ID</key><integer>12110</integer>
 			<key>Name</key><string>Turn off the Lights</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -215,18 +209,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 2</string>
 			<key>Persistent ID</key><string>10B0A271E061461A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%202/04%20Turn%20off%20the%20Lights.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12098</key>
+		<key>12112</key>
 		<dict>
-			<key>Track ID</key><integer>12098</integer>
+			<key>Track ID</key><integer>12112</integer>
 			<key>Name</key><string>Bad Luck</string>
 			<key>Artist</key><string>Harold Melvin &#38; the Blue Notes; Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -244,18 +237,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 2</string>
 			<key>Persistent ID</key><string>71E4693780511495</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%202/06%20Bad%20Luck.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12100</key>
+		<key>12114</key>
 		<dict>
-			<key>Track ID</key><integer>12100</integer>
+			<key>Track ID</key><integer>12114</integer>
 			<key>Name</key><string>Only You</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -273,18 +265,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 2</string>
 			<key>Persistent ID</key><string>123AA028B4D5A244</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%202/07%20Only%20You.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12102</key>
+		<key>12116</key>
 		<dict>
-			<key>Track ID</key><integer>12102</integer>
+			<key>Track ID</key><integer>12116</integer>
 			<key>Name</key><string>Get Up, Get Down, Get Funky, Get Loose</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -302,18 +293,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 2</string>
 			<key>Persistent ID</key><string>C96F4E716689DC94</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%202/08%20Get%20Up,%20Get%20Down,%20Get%20Funky,%20Get%20Loose.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12104</key>
+		<key>12118</key>
 		<dict>
-			<key>Track ID</key><integer>12104</integer>
+			<key>Track ID</key><integer>12118</integer>
 			<key>Name</key><string>Hold Me</string>
 			<key>Artist</key><string>Teddy Pendergrass; Whitney Houston</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -331,18 +321,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 2</string>
 			<key>Persistent ID</key><string>5C3BB05057C39917</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%202/10%20Hold%20Me.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12106</key>
+		<key>12120</key>
 		<dict>
-			<key>Track ID</key><integer>12106</integer>
+			<key>Track ID</key><integer>12120</integer>
 			<key>Name</key><string>This Gift of Life</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -363,18 +352,17 @@
 			<key>Play Date UTC</key><date>2019-04-10T21:44:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 2</string>
 			<key>Persistent ID</key><string>EF0EF3F0D2330AF8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%202/12%20This%20Gift%20of%20Life.mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12112</key>
+		<key>12122</key>
 		<dict>
-			<key>Track ID</key><integer>12112</integer>
+			<key>Track ID</key><integer>12122</integer>
 			<key>Name</key><string>Hold Me</string>
 			<key>Artist</key><string>Teddy Pendergrass with Whitney Houston</string>
 			<key>Album</key><string>The Very Best Of - CD1</string>
@@ -390,14 +378,410 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Very Best Of - CD1</string>
 			<key>Persistent ID</key><string>740E602B436C7560</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2009%20-%20The%20Very%20Best%20Of/CD1/05%20Hold%20Me%20(With%20Whitney%20Houston).mp3</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12454</key>
+		<dict>
+			<key>Track ID</key><integer>12454</integer>
+			<key>Name</key><string>Two Hearts</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>The Very Best Of - CD2</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11290600</integer>
+			<key>Total Time</key><integer>280424</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-04-23T18:54:19Z</date>
+			<key>Date Added</key><date>2019-04-23T18:53:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of - CD2</string>
+			<key>Persistent ID</key><string>D9207F050ED1F820</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2009%20-%20The%20Very%20Best%20Of/CD2/07%20Two%20Hearts.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12456</key>
+		<dict>
+			<key>Track ID</key><integer>12456</integer>
+			<key>Name</key><string>Glad To Be Alive</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>The Very Best Of - CD2</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11963521</integer>
+			<key>Total Time</key><integer>297247</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-04-23T18:54:19Z</date>
+			<key>Date Added</key><date>2019-04-23T18:53:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of - CD2</string>
+			<key>Persistent ID</key><string>0A579A5088758F96</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2009%20-%20The%20Very%20Best%20Of/CD2/08%20Glad%20To%20Be%20Alive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12458</key>
+		<dict>
+			<key>Track ID</key><integer>12458</integer>
+			<key>Name</key><string>I Don't Love You Anymore</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>The Very Best Of - CD2</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9663709</integer>
+			<key>Total Time</key><integer>239751</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-04-23T18:54:20Z</date>
+			<key>Date Added</key><date>2019-04-23T18:53:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of - CD2</string>
+			<key>Persistent ID</key><string>7300DEE01813F6B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2009%20-%20The%20Very%20Best%20Of/CD2/10%20I%20Don't%20Love%20You%20Anymore.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12460</key>
+		<dict>
+			<key>Track ID</key><integer>12460</integer>
+			<key>Name</key><string>The More I Get, The More I Want</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>The Very Best Of - CD2</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10763994</integer>
+			<key>Total Time</key><integer>267258</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-04-23T18:54:21Z</date>
+			<key>Date Added</key><date>2019-04-23T18:53:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of - CD2</string>
+			<key>Sort Name</key><string>More I Get, The More I Want</string>
+			<key>Persistent ID</key><string>393628E7F689D815</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2009%20-%20The%20Very%20Best%20Of/CD2/11%20The%20More%20I%20Get,%20The%20More%20I%20Want.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12462</key>
+		<dict>
+			<key>Track ID</key><integer>12462</integer>
+			<key>Name</key><string>Satisfaction Guaranteed</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>The Very Best Of - CD2</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8486108</integer>
+			<key>Total Time</key><integer>210311</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-04-23T18:54:21Z</date>
+			<key>Date Added</key><date>2019-04-23T18:53:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of - CD2</string>
+			<key>Persistent ID</key><string>D3B2FEFB07CF63A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2009%20-%20The%20Very%20Best%20Of/CD2/12%20Satisfaction%20Guaranteed.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12466</key>
+		<dict>
+			<key>Track ID</key><integer>12466</integer>
+			<key>Name</key><string>The More I Get, The More I Want</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Teddy Pendergrass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10780798</integer>
+			<key>Total Time</key><integer>268042</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2019-04-24T16:43:20Z</date>
+			<key>Date Added</key><date>2019-04-24T16:42:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638950968</integer>
+			<key>Play Date UTC</key><date>2019-04-24T18:42:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Name</key><string>More I Get, The More I Want</string>
+			<key>Persistent ID</key><string>38157D2BF581CC6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1977%20-%20Teddy%20Pendergrass/08.%20The%20More%20I%20Get,%20The%20More%20I%20Want.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12468</key>
+		<dict>
+			<key>Track ID</key><integer>12468</integer>
+			<key>Name</key><string>If You Know Like I Know</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Teddy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12240683</integer>
+			<key>Total Time</key><integer>304431</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2019-04-25T16:14:30Z</date>
+			<key>Date Added</key><date>2019-04-25T16:14:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3D2152745F1832A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1979%20-%20Teddy/05.%20If%20You%20Know%20Like%20I%20Know.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12470</key>
+		<dict>
+			<key>Track ID</key><integer>12470</integer>
+			<key>Name</key><string>Do Me</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Teddy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11308580</integer>
+			<key>Total Time</key><integer>281129</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2019-04-25T16:14:29Z</date>
+			<key>Date Added</key><date>2019-04-25T16:14:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D84E2227F304409</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1979%20-%20Teddy/06.%20Do%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12472</key>
+		<dict>
+			<key>Track ID</key><integer>12472</integer>
+			<key>Name</key><string>Set Me Free</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Teddy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12281398</integer>
+			<key>Total Time</key><integer>305449</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2019-04-25T16:14:29Z</date>
+			<key>Date Added</key><date>2019-04-25T16:14:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2931D4A36D741C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1979%20-%20Teddy/07.%20Set%20Me%20Free.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12474</key>
+		<dict>
+			<key>Track ID</key><integer>12474</integer>
+			<key>Name</key><string>This Gift Of Life</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>This One's For You </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10895973</integer>
+			<key>Total Time</key><integer>269871</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2019-04-25T16:17:19Z</date>
+			<key>Date Added</key><date>2019-04-25T16:16:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D0552861DF21C0EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1982%20-%20This%20One's%20For%20You/04.%20This%20Gift%20Of%20Life.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12478</key>
+		<dict>
+			<key>Track ID</key><integer>12478</integer>
+			<key>Name</key><string>Judge For Yourself</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Heaven Only Knows</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12666797</integer>
+			<key>Total Time</key><integer>314880</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2019-04-26T15:25:00Z</date>
+			<key>Date Added</key><date>2019-04-26T15:24:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E66112A01A671F19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1983%20-%20Heaven%20Only%20Knows/02.%20Judge%20For%20Yourself.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12480</key>
+		<dict>
+			<key>Track ID</key><integer>12480</integer>
+			<key>Name</key><string>Never Felt Like Dancin'</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Workin' It Back</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10838968</integer>
+			<key>Total Time</key><integer>269583</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2019-04-26T15:26:13Z</date>
+			<key>Date Added</key><date>2019-04-26T15:25:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F292B26B39A76B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1985%20-%20Workin'%20It%20Back/03.%20Never%20Felt%20Like%20Dancin'.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12482</key>
+		<dict>
+			<key>Track ID</key><integer>12482</integer>
+			<key>Name</key><string>Workin' It Back</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Workin' It Back</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6824454</integer>
+			<key>Total Time</key><integer>169221</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2019-04-26T15:26:10Z</date>
+			<key>Date Added</key><date>2019-04-26T15:25:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>868872E9FBB60D5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1985%20-%20Workin'%20It%20Back/07.%20Workin'%20It%20Back.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12484</key>
+		<dict>
+			<key>Track ID</key><integer>12484</integer>
+			<key>Name</key><string>Good To You</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Joy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12710779</integer>
+			<key>Total Time</key><integer>316290</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2019-04-26T15:26:45Z</date>
+			<key>Date Added</key><date>2019-04-26T15:26:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640086877</integer>
+			<key>Play Date UTC</key><date>2019-05-07T22:14:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8C3995AEC116FCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1988%20-%20Joy/03.%20Good%20To%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12486</key>
+		<dict>
+			<key>Track ID</key><integer>12486</integer>
+			<key>Name</key><string>I'm Ready</string>
+			<key>Artist</key><string>Teddy Pendergrass</string>
+			<key>Album</key><string>Joy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12479853</integer>
+			<key>Total Time</key><integer>310517</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2019-04-26T15:26:45Z</date>
+			<key>Date Added</key><date>2019-04-26T15:26:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A1BD41C44F6E4D5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/1988%20-%20Joy/04.%20I'm%20Ready.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -405,49 +789,94 @@
 		<dict>
 			<key>Name</key><string>Teddy Pendergrass faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>27479</integer>
+			<key>Playlist ID</key><integer>30543</integer>
 			<key>Playlist Persistent ID</key><string>D4CCB4ACAB2DE5C0</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12112</integer>
+					<key>Track ID</key><integer>12118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12098</integer>
+					<key>Track ID</key><integer>12122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12108</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>12106</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12100</integer>
-				</dict>
-				<dict>
 					<key>Track ID</key><integer>12104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12094</integer>
+					<key>Track ID</key><integer>12482</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12092</integer>
+					<key>Track ID</key><integer>12480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12090</integer>
+					<key>Track ID</key><integer>12462</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12020</integer>
+					<key>Track ID</key><integer>12460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12110</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>12102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12096</integer>
+					<key>Track ID</key><integer>12100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12086</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12088</integer>
+					<key>Track ID</key><integer>12112</integer>
 				</dict>
 			</array>
 		</dict>

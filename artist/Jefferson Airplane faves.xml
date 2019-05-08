@@ -4,16 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2018-08-14T17:41:06Z</date>
-	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Date</key><date>2019-05-08T14:08:18Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7653</key>
+		<key>4996</key>
 		<dict>
-			<key>Track ID</key><integer>7653</integer>
+			<key>Track ID</key><integer>4996</integer>
 			<key>Name</key><string>Triad</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -24,25 +25,24 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:52:16Z</date>
-			<key>Date Added</key><date>2018-05-30T04:28:09Z</date>
+			<key>Date Added</key><date>2018-12-19T19:47:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3611920734</integer>
-			<key>Play Date UTC</key><date>2018-06-15T22:18:54Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3639748733</integer>
+			<key>Play Date UTC</key><date>2019-05-04T00:18:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>CB83842901A33A29</string>
+			<key>Persistent ID</key><string>58CA9228900D419A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/17%20-%20Triad.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19681</key>
+		<key>11680</key>
 		<dict>
-			<key>Track ID</key><integer>19681</integer>
+			<key>Track ID</key><integer>11680</integer>
 			<key>Name</key><string>Somebody to Love</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -52,7 +52,7 @@
 			<key>Total Time</key><integer>181603</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Date Modified</key><date>2017-01-13T02:20:52Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:26Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -60,18 +60,17 @@
 			<key>Play Date UTC</key><date>2017-01-17T17:09:04Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>1E232D096C7EEF4F</string>
+			<key>Persistent ID</key><string>B4F587C9BD95599A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/01.%20Somebody%20to%20Love.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19683</key>
+		<key>11682</key>
 		<dict>
-			<key>Track ID</key><integer>19683</integer>
+			<key>Track ID</key><integer>11682</integer>
 			<key>Name</key><string>White Rabbit</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -81,7 +80,7 @@
 			<key>Total Time</key><integer>154514</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Date Modified</key><date>2017-01-13T02:20:58Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -91,18 +90,17 @@
 			<key>Skip Date</key><date>2018-08-01T06:04:21Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>9EC9FEDAA63C13A5</string>
+			<key>Persistent ID</key><string>80AE0ECAC48E267E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/02.%20White%20Rabbit.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19685</key>
+		<key>11684</key>
 		<dict>
-			<key>Track ID</key><integer>19685</integer>
+			<key>Track ID</key><integer>11684</integer>
 			<key>Name</key><string>Embryonic Journey</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -112,26 +110,25 @@
 			<key>Total Time</key><integer>116140</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Date Modified</key><date>2017-01-13T02:21:12Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3567489604</integer>
-			<key>Play Date UTC</key><date>2017-01-17T17:20:04Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638519909</integer>
+			<key>Play Date UTC</key><date>2019-04-19T18:58:29Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>FF64160221413301</string>
+			<key>Persistent ID</key><string>2F1102756DD31EBA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/03.%20Embryonic%20Journey.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19687</key>
+		<key>11686</key>
 		<dict>
-			<key>Track ID</key><integer>19687</integer>
+			<key>Track ID</key><integer>11686</integer>
 			<key>Name</key><string>Come Up the Years</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -141,26 +138,25 @@
 			<key>Total Time</key><integer>154671</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Date Modified</key><date>2017-01-13T02:21:53Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3615960091</integer>
-			<key>Play Date UTC</key><date>2018-08-01T16:21:31Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638518734</integer>
+			<key>Play Date UTC</key><date>2019-04-19T18:38:54Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>C3ADED5F12EDD7F4</string>
+			<key>Persistent ID</key><string>659CAF43476D3760</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/06.%20Come%20Up%20the%20Years.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19689</key>
+		<key>11688</key>
 		<dict>
-			<key>Track ID</key><integer>19689</integer>
+			<key>Track ID</key><integer>11688</integer>
 			<key>Name</key><string>Blues From an Airplane</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -170,26 +166,25 @@
 			<key>Total Time</key><integer>132205</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Date Modified</key><date>2017-01-13T02:22:42Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3567492931</integer>
-			<key>Play Date UTC</key><date>2017-01-17T18:15:31Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3638519649</integer>
+			<key>Play Date UTC</key><date>2019-04-19T18:54:09Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>43FC1A6EC44AA2B9</string>
+			<key>Persistent ID</key><string>B47783F50F9AECAF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/07.%20Blues%20From%20an%20Airplane.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19691</key>
+		<key>11690</key>
 		<dict>
-			<key>Track ID</key><integer>19691</integer>
+			<key>Track ID</key><integer>11690</integer>
 			<key>Name</key><string>Plastic Fantastic Lover</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -199,26 +194,25 @@
 			<key>Total Time</key><integer>159738</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Date Modified</key><date>2017-01-13T02:23:05Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3572469722</integer>
-			<key>Play Date UTC</key><date>2017-03-16T07:42:02Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3639303719</integer>
+			<key>Play Date UTC</key><date>2019-04-28T20:41:59Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>994E242A9C86ADBF</string>
+			<key>Persistent ID</key><string>5FF145C610B3F90A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/08.%20Plastic%20Fantastic%20Lover.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19693</key>
+		<key>11692</key>
 		<dict>
-			<key>Track ID</key><integer>19693</integer>
+			<key>Track ID</key><integer>11692</integer>
 			<key>Name</key><string>Volunteers</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -228,7 +222,7 @@
 			<key>Total Time</key><integer>129776</integer>
 			<key>Track Number</key><integer>13</integer>
 			<key>Date Modified</key><date>2017-01-13T02:24:19Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -238,18 +232,17 @@
 			<key>Skip Date</key><date>2018-08-01T16:10:06Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>9C6403F018D7CF36</string>
+			<key>Persistent ID</key><string>DE8507A71AE09E9B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/13.%20Volunteers.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19695</key>
+		<key>11694</key>
 		<dict>
-			<key>Track ID</key><integer>19695</integer>
+			<key>Track ID</key><integer>11694</integer>
 			<key>Name</key><string>Triad</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -259,23 +252,22 @@
 			<key>Total Time</key><integer>298318</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Date Modified</key><date>2017-01-13T02:24:29Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>ADAE669D885BB7EC</string>
+			<key>Persistent ID</key><string>4C074744F1C3055F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/14.%20Triad.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19697</key>
+		<key>11696</key>
 		<dict>
-			<key>Track ID</key><integer>19697</integer>
+			<key>Track ID</key><integer>11696</integer>
 			<key>Name</key><string>We Can Be Together</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -285,7 +277,7 @@
 			<key>Total Time</key><integer>351085</integer>
 			<key>Track Number</key><integer>15</integer>
 			<key>Date Modified</key><date>2017-01-13T02:24:42Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -293,18 +285,17 @@
 			<key>Play Date UTC</key><date>2017-01-17T17:52:51Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>5140C6C87551B290</string>
+			<key>Persistent ID</key><string>87E98321A702D433</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/15.%20We%20Can%20Be%20Together.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19699</key>
+		<key>11698</key>
 		<dict>
-			<key>Track ID</key><integer>19699</integer>
+			<key>Track ID</key><integer>11698</integer>
 			<key>Name</key><string>Wooden Ships</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>The Best of Jefferson Airplane</string>
@@ -314,25 +305,24 @@
 			<key>Total Time</key><integer>382302</integer>
 			<key>Track Number</key><integer>16</integer>
 			<key>Date Modified</key><date>2017-01-13T02:25:18Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-01T16:16:27Z</date>
 			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>Best of Jefferson Airplane</string>
-			<key>Persistent ID</key><string>5B103395D3014BFC</string>
+			<key>Persistent ID</key><string>2C636E45D538D0E3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/2007%20-%20The%20Best%20Of/16.%20Wooden%20Ships.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19701</key>
+		<key>11700</key>
 		<dict>
-			<key>Track ID</key><integer>19701</integer>
+			<key>Track ID</key><integer>11700</integer>
 			<key>Name</key><string>Bringing Me Down</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Takes Off</string>
@@ -343,24 +333,24 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1966</integer>
 			<key>Date Modified</key><date>2017-01-18T06:47:45Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3568650146</integer>
-			<key>Play Date UTC</key><date>2017-01-31T03:42:26Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638434126</integer>
+			<key>Play Date UTC</key><date>2019-04-18T19:08:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6E3A706DB6CB1376</string>
+			<key>Persistent ID</key><string>A9E512B0A95E8A16</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1966%5D%20Takes%20Off/03%20-%20Bringing%20Me%20Down.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19703</key>
+		<key>11702</key>
 		<dict>
-			<key>Track ID</key><integer>19703</integer>
+			<key>Track ID</key><integer>11702</integer>
 			<key>Name</key><string>It's No Secret</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Takes Off</string>
@@ -371,7 +361,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1966</integer>
 			<key>Date Modified</key><date>2017-01-18T06:35:54Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -380,15 +370,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1C6FFFBCEB3FC763</string>
+			<key>Persistent ID</key><string>9C940027056B9E60</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1966%5D%20Takes%20Off/04%20-%20It's%20No%20Secret.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19705</key>
+		<key>11704</key>
 		<dict>
-			<key>Track ID</key><integer>19705</integer>
+			<key>Track ID</key><integer>11704</integer>
 			<key>Name</key><string>Tobacco Road</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Takes Off</string>
@@ -399,24 +389,24 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1966</integer>
 			<key>Date Modified</key><date>2017-01-18T06:56:23Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3567889498</integer>
-			<key>Play Date UTC</key><date>2017-01-22T08:24:58Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638382331</integer>
+			<key>Play Date UTC</key><date>2019-04-18T04:45:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>678F6851158E1ED8</string>
+			<key>Persistent ID</key><string>59FC07D3A9BED524</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1966%5D%20Takes%20Off/05%20-%20Tobacco%20Road.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19707</key>
+		<key>11706</key>
 		<dict>
-			<key>Track ID</key><integer>19707</integer>
+			<key>Track ID</key><integer>11706</integer>
 			<key>Name</key><string>Chauffeur Blues</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Takes Off</string>
@@ -427,7 +417,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1966</integer>
 			<key>Date Modified</key><date>2017-01-18T06:55:39Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -436,15 +426,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A575CAD0265F0972</string>
+			<key>Persistent ID</key><string>5352A815706DA660</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1966%5D%20Takes%20Off/10%20-%20Chauffeur%20Blues.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19709</key>
+		<key>11708</key>
 		<dict>
-			<key>Track ID</key><integer>19709</integer>
+			<key>Track ID</key><integer>11708</integer>
 			<key>Name</key><string>And I Like It</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Takes Off</string>
@@ -455,7 +445,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1966</integer>
 			<key>Date Modified</key><date>2017-01-18T06:58:40Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -466,15 +456,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3D81CADED266B641</string>
+			<key>Persistent ID</key><string>B49152184FBB32D1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1966%5D%20Takes%20Off/11%20-%20And%20I%20Like%20It.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19711</key>
+		<key>11710</key>
 		<dict>
-			<key>Track ID</key><integer>19711</integer>
+			<key>Track ID</key><integer>11710</integer>
 			<key>Name</key><string>The Ballad Of You &#38; Me &#38; Pooneil</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>After Bathing At Baxter's</string>
@@ -485,26 +475,25 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:55:15Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3572469078</integer>
 			<key>Play Date UTC</key><date>2017-03-16T07:31:18Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Ballad Of You &#38; Me &#38; Pooneil</string>
-			<key>Persistent ID</key><string>8506173072DB9235</string>
+			<key>Persistent ID</key><string>B99A87AECF8F1760</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20After%20Bathing%20At%20Baxter's/01%20-%20The%20Ballad%20Of%20You%20&#38;%20Me%20&#38;%20Pooneil.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19713</key>
+		<key>11712</key>
 		<dict>
-			<key>Track ID</key><integer>19713</integer>
+			<key>Track ID</key><integer>11712</integer>
 			<key>Name</key><string>Martha</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>After Bathing At Baxter's</string>
@@ -515,25 +504,24 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:57:31Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3568045444</integer>
-			<key>Play Date UTC</key><date>2017-01-24T03:44:04Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638449538</integer>
+			<key>Play Date UTC</key><date>2019-04-18T23:25:38Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>5F8C9DB53D6C82EF</string>
+			<key>Persistent ID</key><string>1ABB6C04E39D57A7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20After%20Bathing%20At%20Baxter's/04%20-%20Martha.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19715</key>
+		<key>11714</key>
 		<dict>
-			<key>Track ID</key><integer>19715</integer>
+			<key>Track ID</key><integer>11714</integer>
 			<key>Name</key><string>Rejoyce</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>After Bathing At Baxter's</string>
@@ -544,22 +532,24 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:53:25Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638450327</integer>
+			<key>Play Date UTC</key><date>2019-04-18T23:38:47Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3B8EF88B986D7A43</string>
+			<key>Persistent ID</key><string>2B91777D80ACE3A7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20After%20Bathing%20At%20Baxter's/07%20-%20Rejoyce.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19717</key>
+		<key>11716</key>
 		<dict>
-			<key>Track ID</key><integer>19717</integer>
+			<key>Track ID</key><integer>11716</integer>
 			<key>Name</key><string>Won't You Try Saturday Afternoon</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>After Bathing At Baxter's</string>
@@ -570,22 +560,21 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T07:00:33Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>43EB88C6F6A824B0</string>
+			<key>Persistent ID</key><string>01163411979E760A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20After%20Bathing%20At%20Baxter's/11%20-%20Won't%20You%20Try%20Saturday%20Afternoon.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19719</key>
+		<key>11718</key>
 		<dict>
-			<key>Track ID</key><integer>19719</integer>
+			<key>Track ID</key><integer>11718</integer>
 			<key>Name</key><string>Somebody To Love</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Surrealistic Pillow</string>
@@ -596,24 +585,23 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:32:23Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-01T15:42:56Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>818D61F14CA3209D</string>
+			<key>Persistent ID</key><string>5ABC7A53B8BB1D70</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20Surrealistic%20Pillow/02%20-%20Somebody%20To%20Love.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19721</key>
+		<key>11720</key>
 		<dict>
-			<key>Track ID</key><integer>19721</integer>
+			<key>Track ID</key><integer>11720</integer>
 			<key>Name</key><string>3/5 Of A Mile In 10 Seconds</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Surrealistic Pillow</string>
@@ -624,22 +612,21 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:22:23Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>28B5982A0AF9BB01</string>
+			<key>Persistent ID</key><string>775B0D4119B56EF0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20Surrealistic%20Pillow/06%20-%2035%20Of%20A%20Mile%20In%2010%20Seconds.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19723</key>
+		<key>11722</key>
 		<dict>
-			<key>Track ID</key><integer>19723</integer>
+			<key>Track ID</key><integer>11722</integer>
 			<key>Name</key><string>Embryonic Journey</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Surrealistic Pillow</string>
@@ -650,25 +637,24 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:29:41Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3567780193</integer>
-			<key>Play Date UTC</key><date>2017-01-21T02:03:13Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638519500</integer>
+			<key>Play Date UTC</key><date>2019-04-19T18:51:40Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3FAA77B46D769B90</string>
+			<key>Persistent ID</key><string>4A1CAA3C2F02C650</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20Surrealistic%20Pillow/09%20-%20Embryonic%20Journey.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19725</key>
+		<key>11724</key>
 		<dict>
-			<key>Track ID</key><integer>19725</integer>
+			<key>Track ID</key><integer>11724</integer>
 			<key>Name</key><string>White Rabbit</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Surrealistic Pillow</string>
@@ -679,22 +665,21 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1967</integer>
 			<key>Date Modified</key><date>2017-01-18T06:30:04Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:27Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B9794C9DC52226E8</string>
+			<key>Persistent ID</key><string>F88B4FF2C1F46CE2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1967%5D%20Surrealistic%20Pillow/10%20-%20White%20Rabbit.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19727</key>
+		<key>11726</key>
 		<dict>
-			<key>Track ID</key><integer>19727</integer>
+			<key>Track ID</key><integer>11726</integer>
 			<key>Name</key><string>Crown Of Creation</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Crown Of Creation</string>
@@ -705,24 +690,23 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1968</integer>
 			<key>Date Modified</key><date>2017-01-18T07:02:49Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-01T06:08:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8DCF0FF899635EBB</string>
+			<key>Persistent ID</key><string>F7A96FECE4D473E6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1968%5D%20Crown%20Of%20Creation/08%20-%20Crown%20Of%20Creation.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19729</key>
+		<key>11728</key>
 		<dict>
-			<key>Track ID</key><integer>19729</integer>
+			<key>Track ID</key><integer>11728</integer>
 			<key>Name</key><string>Ice Cream Phoenix</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Crown Of Creation</string>
@@ -733,27 +717,26 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1968</integer>
 			<key>Date Modified</key><date>2017-01-18T06:46:38Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3567659047</integer>
-			<key>Play Date UTC</key><date>2017-01-19T16:24:07Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3637416814</integer>
+			<key>Play Date UTC</key><date>2019-04-07T00:33:34Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2018-08-01T16:47:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>5C8979BFDB3B17C3</string>
+			<key>Persistent ID</key><string>797876F471F6CE77</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1968%5D%20Crown%20Of%20Creation/09%20-%20Ice%20Cream%20Phoenix.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19731</key>
+		<key>11730</key>
 		<dict>
-			<key>Track ID</key><integer>19731</integer>
+			<key>Track ID</key><integer>11730</integer>
 			<key>Name</key><string>3/5 Of A Mile In 10 Seconds</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bless Its Pointed Little Head</string>
@@ -764,24 +747,23 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T07:03:53Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-01T16:54:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1AE73AF661E98A45</string>
+			<key>Persistent ID</key><string>FE6D8AFA67E45544</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Bless%20Its%20Pointed%20Little%20Head/02%20-%2035%20Of%20A%20Mile%20In%2010%20Seconds.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19733</key>
+		<key>11732</key>
 		<dict>
-			<key>Track ID</key><integer>19733</integer>
+			<key>Track ID</key><integer>11732</integer>
 			<key>Name</key><string>Somebody To Love</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bless Its Pointed Little Head</string>
@@ -792,24 +774,23 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T06:46:44Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-01T16:54:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>85EE76EB14004FB3</string>
+			<key>Persistent ID</key><string>5D3CFAE9B9291957</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Bless%20Its%20Pointed%20Little%20Head/03%20-%20Somebody%20To%20Love.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19735</key>
+		<key>11734</key>
 		<dict>
-			<key>Track ID</key><integer>19735</integer>
+			<key>Track ID</key><integer>11734</integer>
 			<key>Name</key><string>Fat Angel</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bless Its Pointed Little Head</string>
@@ -820,7 +801,7 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T07:02:05Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -828,17 +809,16 @@
 			<key>Play Date UTC</key><date>2017-01-18T22:55:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>BF101DAF4E3EC0C1</string>
+			<key>Persistent ID</key><string>13A75B173ED742B5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Bless%20Its%20Pointed%20Little%20Head/04%20-%20Fat%20Angel.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19737</key>
+		<key>11736</key>
 		<dict>
-			<key>Track ID</key><integer>19737</integer>
+			<key>Track ID</key><integer>11736</integer>
 			<key>Name</key><string>Rock Me Baby</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bless Its Pointed Little Head</string>
@@ -849,22 +829,21 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T07:03:20Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EB925BE6DFA9BB88</string>
+			<key>Persistent ID</key><string>F56FF9A15C16714E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Bless%20Its%20Pointed%20Little%20Head/05%20-%20Rock%20Me%20Baby.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19739</key>
+		<key>11738</key>
 		<dict>
-			<key>Track ID</key><integer>19739</integer>
+			<key>Track ID</key><integer>11738</integer>
 			<key>Name</key><string>Plastic Fantastic Lover</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bless Its Pointed Little Head</string>
@@ -875,22 +854,24 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T06:51:45Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637417039</integer>
+			<key>Play Date UTC</key><date>2019-04-07T00:37:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3B371B6EFBDEF3A9</string>
+			<key>Persistent ID</key><string>70D5CEEC62D4C963</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Bless%20Its%20Pointed%20Little%20Head/08%20-%20Plastic%20Fantastic%20Lover.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19741</key>
+		<key>11740</key>
 		<dict>
-			<key>Track ID</key><integer>19741</integer>
+			<key>Track ID</key><integer>11740</integer>
 			<key>Name</key><string>Wooden Ships</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Volunteers</string>
@@ -901,22 +882,21 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T07:01:42Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>80119BD98063B225</string>
+			<key>Persistent ID</key><string>5DEA8BAFC815557A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Volunteers/06%20-%20Wooden%20Ships.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19743</key>
+		<key>11742</key>
 		<dict>
-			<key>Track ID</key><integer>19743</integer>
+			<key>Track ID</key><integer>11742</integer>
 			<key>Name</key><string>Eskimo  Blue Day</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Volunteers</string>
@@ -927,22 +907,21 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T07:01:40Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8F03E1F6DA0FF809</string>
+			<key>Persistent ID</key><string>07E6D186D47AF690</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Volunteers/07%20-%20Eskimo%20%20Blue%20Day.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19745</key>
+		<key>11744</key>
 		<dict>
-			<key>Track ID</key><integer>19745</integer>
+			<key>Track ID</key><integer>11744</integer>
 			<key>Name</key><string>Volunteers</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Volunteers</string>
@@ -953,25 +932,24 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1969</integer>
 			<key>Date Modified</key><date>2017-01-18T06:57:42Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3567626475</integer>
-			<key>Play Date UTC</key><date>2017-01-19T07:21:15Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638381579</integer>
+			<key>Play Date UTC</key><date>2019-04-18T04:32:59Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6419F32C332D4AC3</string>
+			<key>Persistent ID</key><string>1F56C6CEBC1408C8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1969%5D%20Volunteers/10%20-%20Volunteers.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19747</key>
+		<key>11746</key>
 		<dict>
-			<key>Track ID</key><integer>19747</integer>
+			<key>Track ID</key><integer>11746</integer>
 			<key>Name</key><string>Pretty As You Feel</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bark</string>
@@ -982,22 +960,21 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1971</integer>
 			<key>Date Modified</key><date>2017-01-18T07:00:26Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>5BE89AB30541EB25</string>
+			<key>Persistent ID</key><string>30CC7470FD4FA759</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1971%5D%20Bark/04%20-%20Pretty%20As%20You%20Feel.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19749</key>
+		<key>11748</key>
 		<dict>
-			<key>Track ID</key><integer>19749</integer>
+			<key>Track ID</key><integer>11748</integer>
 			<key>Name</key><string>Lawman</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bark</string>
@@ -1008,25 +985,24 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1971</integer>
 			<key>Date Modified</key><date>2017-01-18T06:53:12Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3567677163</integer>
 			<key>Play Date UTC</key><date>2017-01-19T21:26:03Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E9591BB90579F0B2</string>
+			<key>Persistent ID</key><string>33952337DCEC621A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1971%5D%20Bark/06%20-%20Lawman.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19751</key>
+		<key>11750</key>
 		<dict>
-			<key>Track ID</key><integer>19751</integer>
+			<key>Track ID</key><integer>11750</integer>
 			<key>Name</key><string>Third Week In The Chelsea</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bark</string>
@@ -1037,22 +1013,21 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1971</integer>
 			<key>Date Modified</key><date>2017-01-18T06:56:05Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9D5B5803953AEEBA</string>
+			<key>Persistent ID</key><string>F18F2279DEECA687</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1971%5D%20Bark/08%20-%20Third%20Week%20In%20The%20Chelsea.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19753</key>
+		<key>11752</key>
 		<dict>
-			<key>Track ID</key><integer>19753</integer>
+			<key>Track ID</key><integer>11752</integer>
 			<key>Name</key><string>War Movie</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Bark</string>
@@ -1063,24 +1038,23 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1971</integer>
 			<key>Date Modified</key><date>2017-01-18T06:58:01Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-08-01T16:54:45Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3D47BCE08B55AA26</string>
+			<key>Persistent ID</key><string>94554704B055021B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1971%5D%20Bark/11%20-%20War%20Movie.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19755</key>
+		<key>11754</key>
 		<dict>
-			<key>Track ID</key><integer>19755</integer>
+			<key>Track ID</key><integer>11754</integer>
 			<key>Name</key><string>Aerie (Gang Of Eagles)</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Long John Silver</string>
@@ -1091,22 +1065,24 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1972</integer>
 			<key>Date Modified</key><date>2017-01-18T06:52:03Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638432783</integer>
+			<key>Play Date UTC</key><date>2019-04-18T18:46:23Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>131382B7C8D6BC8C</string>
+			<key>Persistent ID</key><string>C52A31BD21F9C898</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1972%5D%20Long%20John%20Silver/02%20-%20Aerie%20(Gang%20Of%20Eagles).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19757</key>
+		<key>11756</key>
 		<dict>
-			<key>Track ID</key><integer>19757</integer>
+			<key>Track ID</key><integer>11756</integer>
 			<key>Name</key><string>Feel So Good</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Thirty Seconds Over Winterland</string>
@@ -1117,22 +1093,21 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-18T07:04:12Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D503DD2BA200DA28</string>
+			<key>Persistent ID</key><string>FE3300A39FC31449</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1973%5D%20Thirty%20Seconds%20Over%20Winterland/02%20-%20Feel%20So%20Good.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19759</key>
+		<key>11758</key>
 		<dict>
-			<key>Track ID</key><integer>19759</integer>
+			<key>Track ID</key><integer>11758</integer>
 			<key>Name</key><string>Trial By Fire</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Thirty Seconds Over Winterland</string>
@@ -1143,22 +1118,21 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1973</integer>
 			<key>Date Modified</key><date>2017-01-18T07:01:26Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DBE0670F09E80EA9</string>
+			<key>Persistent ID</key><string>3036E14C76571361</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1973%5D%20Thirty%20Seconds%20Over%20Winterland/06%20-%20Trial%20By%20Fire.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19761</key>
+		<key>11760</key>
 		<dict>
-			<key>Track ID</key><integer>19761</integer>
+			<key>Track ID</key><integer>11760</integer>
 			<key>Name</key><string>Solidarity</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Jefferson Airplane</string>
@@ -1169,24 +1143,23 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1989</integer>
 			<key>Date Modified</key><date>2017-01-18T06:44:54Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3572469562</integer>
 			<key>Play Date UTC</key><date>2017-03-16T07:39:22Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>C19362E91C1740A0</string>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>DB79553C43356147</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1989%5D%20Jefferson%20Airplane%20(Reunion)/03%20-%20Solidarity.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19763</key>
+		<key>11762</key>
 		<dict>
-			<key>Track ID</key><integer>19763</integer>
+			<key>Track ID</key><integer>11762</integer>
 			<key>Name</key><string>Ice Age</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Jefferson Airplane</string>
@@ -1197,21 +1170,20 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1989</integer>
 			<key>Date Modified</key><date>2017-01-18T06:49:18Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>C756F351792FC8E3</string>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>89E7BC63180CF125</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1989%5D%20Jefferson%20Airplane%20(Reunion)/04%20-%20Ice%20Age.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19765</key>
+		<key>11764</key>
 		<dict>
-			<key>Track ID</key><integer>19765</integer>
+			<key>Track ID</key><integer>11764</integer>
 			<key>Name</key><string>Summer Of Love</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Jefferson Airplane</string>
@@ -1222,24 +1194,23 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1989</integer>
 			<key>Date Modified</key><date>2017-01-18T06:55:13Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3615961264</integer>
 			<key>Play Date UTC</key><date>2018-08-01T16:41:04Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>1D844ED71C28C31C</string>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>5E0C78E1894662E9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1989%5D%20Jefferson%20Airplane%20(Reunion)/05%20-%20Summer%20Of%20Love.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19767</key>
+		<key>11766</key>
 		<dict>
-			<key>Track ID</key><integer>19767</integer>
+			<key>Track ID</key><integer>11766</integer>
 			<key>Name</key><string>The Wheel</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Jefferson Airplane</string>
@@ -1250,25 +1221,24 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1989</integer>
 			<key>Date Modified</key><date>2017-01-18T06:59:13Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3567685500</integer>
 			<key>Play Date UTC</key><date>2017-01-19T23:45:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Name</key><string>Wheel</string>
-			<key>Persistent ID</key><string>40D1CB9BC47768E6</string>
+			<key>Persistent ID</key><string>F8670A341C580E32</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1989%5D%20Jefferson%20Airplane%20(Reunion)/07%20-%20The%20Wheel.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19769</key>
+		<key>11768</key>
 		<dict>
-			<key>Track ID</key><integer>19769</integer>
+			<key>Track ID</key><integer>11768</integer>
 			<key>Name</key><string>Now Is The Time</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Jefferson Airplane</string>
@@ -1279,21 +1249,20 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1989</integer>
 			<key>Date Modified</key><date>2017-01-18T06:59:42Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:13Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>7AE5CCDBCC0334E3</string>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>57D08A7C5DAD8921</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1989%5D%20Jefferson%20Airplane%20(Reunion)/11%20-%20Now%20Is%20The%20Time.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19771</key>
+		<key>11770</key>
 		<dict>
-			<key>Track ID</key><integer>19771</integer>
+			<key>Track ID</key><integer>11770</integer>
 			<key>Name</key><string>Embryonic Journey</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1304,25 +1273,24 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:55:20Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:28Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3568097506</integer>
-			<key>Play Date UTC</key><date>2017-01-24T18:11:46Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638520822</integer>
+			<key>Play Date UTC</key><date>2019-04-19T19:13:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>41E29FCF5E7896C7</string>
+			<key>Persistent ID</key><string>BAB89477D2342BD8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/01%20-%20Embryonic%20Journey.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19773</key>
+		<key>11772</key>
 		<dict>
-			<key>Track ID</key><integer>19773</integer>
+			<key>Track ID</key><integer>11772</integer>
 			<key>Name</key><string>It's No Secret</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1333,7 +1301,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T07:04:04Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
@@ -1342,16 +1310,15 @@
 			<key>Play Date UTC</key><date>2017-01-24T22:17:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>DFDE3F18E597D65E</string>
+			<key>Persistent ID</key><string>31D0E71828BB4832</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/03%20-%20It's%20No%20Secret.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19775</key>
+		<key>11774</key>
 		<dict>
-			<key>Track ID</key><integer>19775</integer>
+			<key>Track ID</key><integer>11774</integer>
 			<key>Name</key><string>Somebody To Love</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1362,22 +1329,24 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T07:03:46Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638434753</integer>
+			<key>Play Date UTC</key><date>2019-04-18T19:19:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>C0616247D0A783C0</string>
+			<key>Persistent ID</key><string>AC43B3CCC2EDF469</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/05%20-%20Somebody%20To%20Love.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19777</key>
+		<key>11776</key>
 		<dict>
-			<key>Track ID</key><integer>19777</integer>
+			<key>Track ID</key><integer>11776</integer>
 			<key>Name</key><string>White Rabbit</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1388,7 +1357,7 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:50:44Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
@@ -1399,16 +1368,15 @@
 			<key>Skip Date</key><date>2018-08-01T16:47:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>A2E22F25E3490976</string>
+			<key>Persistent ID</key><string>7E7FB0A5A727057E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/07%20-%20White%20Rabbit.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19779</key>
+		<key>11778</key>
 		<dict>
-			<key>Track ID</key><integer>19779</integer>
+			<key>Track ID</key><integer>11778</integer>
 			<key>Name</key><string>Plastic Fantastic Lover</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1419,7 +1387,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:44:38Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
@@ -1430,16 +1398,15 @@
 			<key>Skip Date</key><date>2018-08-01T16:54:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>46C63C9C9B4DAD2B</string>
+			<key>Persistent ID</key><string>2BA8BB544C776B3C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/08%20-%20Plastic%20Fantastic%20Lover.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19781</key>
+		<key>11780</key>
 		<dict>
-			<key>Track ID</key><integer>19781</integer>
+			<key>Track ID</key><integer>11780</integer>
 			<key>Name</key><string>Crown Of Creation</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1450,25 +1417,24 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:37:40Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3572469254</integer>
-			<key>Play Date UTC</key><date>2017-03-16T07:34:14Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638433969</integer>
+			<key>Play Date UTC</key><date>2019-04-18T19:06:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>B6C5121D540CCBAD</string>
+			<key>Persistent ID</key><string>B91971695530534D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/11%20-%20Crown%20Of%20Creation.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19783</key>
+		<key>11782</key>
 		<dict>
-			<key>Track ID</key><integer>19783</integer>
+			<key>Track ID</key><integer>11782</integer>
 			<key>Name</key><string>Lather</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1479,22 +1445,21 @@
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:47:49Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>E98CFCC715538F7C</string>
+			<key>Persistent ID</key><string>5E5E254A094F2B4B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/12%20-%20Lather.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19785</key>
+		<key>11784</key>
 		<dict>
-			<key>Track ID</key><integer>19785</integer>
+			<key>Track ID</key><integer>11784</integer>
 			<key>Name</key><string>The Last Wall Of The Castle</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1505,7 +1470,7 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:59:57Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
@@ -1513,17 +1478,16 @@
 			<key>Skip Date</key><date>2017-01-31T01:45:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Sort Name</key><string>Last Wall Of The Castle</string>
-			<key>Persistent ID</key><string>1447133A7C249FA4</string>
+			<key>Persistent ID</key><string>F2085EA64040BFAF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/13%20-%20The%20Last%20Wall%20Of%20The%20Castle.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19787</key>
+		<key>11786</key>
 		<dict>
-			<key>Track ID</key><integer>19787</integer>
+			<key>Track ID</key><integer>11786</integer>
 			<key>Name</key><string>Greasy Heart</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1534,25 +1498,24 @@
 			<key>Track Number</key><integer>14</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:54:41Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3567774896</integer>
-			<key>Play Date UTC</key><date>2017-01-21T00:34:56Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638535882</integer>
+			<key>Play Date UTC</key><date>2019-04-19T23:24:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>E98B4FD00F89908C</string>
+			<key>Persistent ID</key><string>DEEEE2AF3CA0D892</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/14%20-%20Greasy%20Heart.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19789</key>
+		<key>11788</key>
 		<dict>
-			<key>Track ID</key><integer>19789</integer>
+			<key>Track ID</key><integer>11788</integer>
 			<key>Name</key><string>Volunteers</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1563,7 +1526,7 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T06:36:51Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
@@ -1571,16 +1534,15 @@
 			<key>Skip Date</key><date>2018-08-01T16:32:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>3E99EE07F837E005</string>
+			<key>Persistent ID</key><string>889389CD7DE6053E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/15%20-%20Volunteers.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19791</key>
+		<key>11790</key>
 		<dict>
-			<key>Track ID</key><integer>19791</integer>
+			<key>Track ID</key><integer>11790</integer>
 			<key>Name</key><string>We Can Be Together</string>
 			<key>Artist</key><string>Jefferson Airplane</string>
 			<key>Album</key><string>Journey: The Best Of</string>
@@ -1591,14 +1553,16 @@
 			<key>Track Number</key><integer>18</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2017-01-18T07:02:12Z</date>
-			<key>Date Added</key><date>2018-08-01T05:28:29Z</date>
+			<key>Date Added</key><date>2019-04-06T05:06:14Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>VS collection (0day.kiev.ua)</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638451168</integer>
+			<key>Play Date UTC</key><date>2019-04-18T23:52:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>EE3F9C07E859A1F6</string>
+			<key>Persistent ID</key><string>2331704E63CAF6A4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jefferson%20Airplane/%5B1996%5D%20Journey%20%5BThe%20Best%20Of%5D/18%20-%20We%20Can%20Be%20Together.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
@@ -1610,181 +1574,181 @@
 		<dict>
 			<key>Name</key><string>Jefferson Airplane faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>44081</integer>
-			<key>Playlist Persistent ID</key><string>7D2703D32366E0D0</string>
+			<key>Playlist ID</key><integer>28182</integer>
+			<key>Playlist Persistent ID</key><string>28218DDA44A4DD95</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>19699</integer>
+					<key>Track ID</key><integer>11744</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19695</integer>
+					<key>Track ID</key><integer>11742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19693</integer>
+					<key>Track ID</key><integer>11740</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19689</integer>
+					<key>Track ID</key><integer>11758</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19687</integer>
+					<key>Track ID</key><integer>11756</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19685</integer>
+					<key>Track ID</key><integer>11708</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19683</integer>
+					<key>Track ID</key><integer>11706</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19681</integer>
+					<key>Track ID</key><integer>11704</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19747</integer>
+					<key>Track ID</key><integer>11702</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19753</integer>
+					<key>Track ID</key><integer>11700</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19731</integer>
+					<key>Track ID</key><integer>11724</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19733</integer>
+					<key>Track ID</key><integer>11722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19735</integer>
+					<key>Track ID</key><integer>11720</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19737</integer>
+					<key>Track ID</key><integer>11718</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19697</integer>
+					<key>Track ID</key><integer>11754</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19691</integer>
+					<key>Track ID</key><integer>11790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19751</integer>
+					<key>Track ID</key><integer>4996</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19749</integer>
+					<key>Track ID</key><integer>11788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19717</integer>
+					<key>Track ID</key><integer>11786</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19727</integer>
+					<key>Track ID</key><integer>11784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19761</integer>
+					<key>Track ID</key><integer>11782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19759</integer>
+					<key>Track ID</key><integer>11780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19745</integer>
+					<key>Track ID</key><integer>11778</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19767</integer>
+					<key>Track ID</key><integer>11776</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19765</integer>
+					<key>Track ID</key><integer>11774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19787</integer>
+					<key>Track ID</key><integer>11772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19789</integer>
+					<key>Track ID</key><integer>11770</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19719</integer>
+					<key>Track ID</key><integer>11768</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19723</integer>
+					<key>Track ID</key><integer>11766</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19725</integer>
+					<key>Track ID</key><integer>11764</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19711</integer>
+					<key>Track ID</key><integer>11762</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19781</integer>
+					<key>Track ID</key><integer>11760</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19791</integer>
+					<key>Track ID</key><integer>11728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19775</integer>
+					<key>Track ID</key><integer>11726</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19703</integer>
+					<key>Track ID</key><integer>11738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19757</integer>
+					<key>Track ID</key><integer>11736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19741</integer>
+					<key>Track ID</key><integer>11734</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19743</integer>
+					<key>Track ID</key><integer>11732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19713</integer>
+					<key>Track ID</key><integer>11730</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19715</integer>
+					<key>Track ID</key><integer>11698</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19771</integer>
+					<key>Track ID</key><integer>11696</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19773</integer>
+					<key>Track ID</key><integer>11694</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19777</integer>
+					<key>Track ID</key><integer>11692</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19779</integer>
+					<key>Track ID</key><integer>11690</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19707</integer>
+					<key>Track ID</key><integer>11688</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19739</integer>
+					<key>Track ID</key><integer>11686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19729</integer>
+					<key>Track ID</key><integer>11684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19763</integer>
+					<key>Track ID</key><integer>11682</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19769</integer>
+					<key>Track ID</key><integer>11680</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19783</integer>
+					<key>Track ID</key><integer>11752</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19785</integer>
+					<key>Track ID</key><integer>11750</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19721</integer>
+					<key>Track ID</key><integer>11748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19701</integer>
+					<key>Track ID</key><integer>11746</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19705</integer>
+					<key>Track ID</key><integer>11716</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19709</integer>
+					<key>Track ID</key><integer>11714</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19755</integer>
+					<key>Track ID</key><integer>11712</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7653</integer>
+					<key>Track ID</key><integer>11710</integer>
 				</dict>
 			</array>
 		</dict>

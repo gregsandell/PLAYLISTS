@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-04-17T22:49:48Z</date>
+	<key>Date</key><date>2019-05-08T14:05:49Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>11766</key>
+		<key>11826</key>
 		<dict>
-			<key>Track ID</key><integer>11766</integer>
+			<key>Track ID</key><integer>11826</integer>
 			<key>Name</key><string>What Is Success</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Allen Toussaint Collection</string>
@@ -28,20 +28,22 @@
 			<key>Date Added</key><date>2019-04-06T05:32:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638438471</integer>
+			<key>Play Date UTC</key><date>2019-04-18T20:21:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Allen Toussaint Collection</string>
 			<key>Persistent ID</key><string>9B24D7F474DA8A78</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/1991%20-%20The%20Allen%20Toussaint%20Collection/02-What%20Is%20Success.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11772</key>
+		<key>11828</key>
 		<dict>
-			<key>Track ID</key><integer>11772</integer>
+			<key>Track ID</key><integer>11828</integer>
 			<key>Name</key><string>Soul Sister</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Allen Toussaint Collection</string>
@@ -57,18 +59,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Allen Toussaint Collection</string>
 			<key>Persistent ID</key><string>233B69DD711DFE29</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/1991%20-%20The%20Allen%20Toussaint%20Collection/05-Soul%20Sister.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11782</key>
+		<key>11830</key>
 		<dict>
-			<key>Track ID</key><integer>11782</integer>
+			<key>Track ID</key><integer>11830</integer>
 			<key>Name</key><string>Night People</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Allen Toussaint Collection</string>
@@ -82,23 +83,22 @@
 			<key>Date Added</key><date>2019-04-06T05:32:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3637413685</integer>
-			<key>Play Date UTC</key><date>2019-04-06T23:41:25Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638431714</integer>
+			<key>Play Date UTC</key><date>2019-04-18T18:28:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Allen Toussaint Collection</string>
 			<key>Persistent ID</key><string>61631723BE28D3F4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/1991%20-%20The%20Allen%20Toussaint%20Collection/11-Night%20People.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11786</key>
+		<key>11832</key>
 		<dict>
-			<key>Track ID</key><integer>11786</integer>
+			<key>Track ID</key><integer>11832</integer>
 			<key>Name</key><string>Viva La Money</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Allen Toussaint Collection</string>
@@ -112,20 +112,22 @@
 			<key>Date Added</key><date>2019-04-06T05:32:18Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638424901</integer>
+			<key>Play Date UTC</key><date>2019-04-18T16:35:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Allen Toussaint Collection</string>
 			<key>Persistent ID</key><string>8C163A738FEBB8AA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/1991%20-%20The%20Allen%20Toussaint%20Collection/14-Viva%20La%20Money.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11788</key>
+		<key>11834</key>
 		<dict>
-			<key>Track ID</key><integer>11788</integer>
+			<key>Track ID</key><integer>11834</integer>
 			<key>Name</key><string>Happiness</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Allen Toussaint Collection</string>
@@ -144,18 +146,17 @@
 			<key>Play Date UTC</key><date>2019-04-07T01:45:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Allen Toussaint Collection</string>
 			<key>Persistent ID</key><string>87A15665AD4AC50A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/1991%20-%20The%20Allen%20Toussaint%20Collection/15-Happiness.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11790</key>
+		<key>11836</key>
 		<dict>
-			<key>Track ID</key><integer>11790</integer>
+			<key>Track ID</key><integer>11836</integer>
 			<key>Name</key><string>With You In Mind</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Allen Toussaint Collection</string>
@@ -171,18 +172,17 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Allen Toussaint Collection</string>
 			<key>Persistent ID</key><string>C851192DDA34C647</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/1991%20-%20The%20Allen%20Toussaint%20Collection/16-With%20You%20In%20Mind.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11900</key>
+		<key>11920</key>
 		<dict>
-			<key>Track ID</key><integer>11900</integer>
+			<key>Track ID</key><integer>11920</integer>
 			<key>Name</key><string>Egyptian Fantasy - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -204,12 +204,12 @@
 			<key>Persistent ID</key><string>B1D95ACA1B2BC18C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/01%20-%20Egyptian%20Fantasy%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11902</key>
+		<key>11922</key>
 		<dict>
-			<key>Track ID</key><integer>11902</integer>
+			<key>Track ID</key><integer>11922</integer>
 			<key>Name</key><string>A Dear Old Southland - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -232,12 +232,12 @@
 			<key>Persistent ID</key><string>A3335662971988EF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/02%20-%20A%20Dear%20Old%20Southland%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11904</key>
+		<key>11924</key>
 		<dict>
-			<key>Track ID</key><integer>11904</integer>
+			<key>Track ID</key><integer>11924</integer>
 			<key>Name</key><string>Singin' The Blues - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -259,12 +259,12 @@
 			<key>Persistent ID</key><string>1973C054152228CF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/04%20-%20Singin'%20The%20Blues%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11906</key>
+		<key>11926</key>
 		<dict>
-			<key>Track ID</key><integer>11906</integer>
+			<key>Track ID</key><integer>11926</integer>
 			<key>Name</key><string>West End Blues - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -278,9 +278,9 @@
 			<key>Date Added</key><date>2019-04-06T06:12:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3637476196</integer>
-			<key>Play Date UTC</key><date>2019-04-07T17:03:16Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3638885215</integer>
+			<key>Play Date UTC</key><date>2019-04-24T00:26:55Z</date>
 			<key>Release Date</key><date>2009-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -289,12 +289,12 @@
 			<key>Persistent ID</key><string>F5FDB9BE497F6342</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/06%20-%20West%20End%20Blues%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11908</key>
+		<key>11928</key>
 		<dict>
-			<key>Track ID</key><integer>11908</integer>
+			<key>Track ID</key><integer>11928</integer>
 			<key>Name</key><string>Blue Drag - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -308,6 +308,9 @@
 			<key>Date Added</key><date>2019-04-06T06:12:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638424556</integer>
+			<key>Play Date UTC</key><date>2019-04-18T16:29:16Z</date>
 			<key>Release Date</key><date>2009-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -316,12 +319,12 @@
 			<key>Persistent ID</key><string>C0D2F378BE002748</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/07%20-%20Blue%20Drag%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11910</key>
+		<key>11930</key>
 		<dict>
-			<key>Track ID</key><integer>11910</integer>
+			<key>Track ID</key><integer>11930</integer>
 			<key>Name</key><string>Just A Closer Walk With Thee - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -343,12 +346,12 @@
 			<key>Persistent ID</key><string>1BCD874EED7402C5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/08%20-%20Just%20A%20Closer%20Walk%20With%20Thee%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11912</key>
+		<key>11932</key>
 		<dict>
-			<key>Track ID</key><integer>11912</integer>
+			<key>Track ID</key><integer>11932</integer>
 			<key>Name</key><string>The Bright Mississippi - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -371,12 +374,12 @@
 			<key>Persistent ID</key><string>57D2BDB9126C84CE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/09%20-%20The%20Bright%20Mississippi%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11914</key>
+		<key>11934</key>
 		<dict>
-			<key>Track ID</key><integer>11914</integer>
+			<key>Track ID</key><integer>11934</integer>
 			<key>Name</key><string>Day Dream - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -398,12 +401,12 @@
 			<key>Persistent ID</key><string>0857931A652642BE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/10%20-%20Day%20Dream%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11916</key>
+		<key>11936</key>
 		<dict>
-			<key>Track ID</key><integer>11916</integer>
+			<key>Track ID</key><integer>11936</integer>
 			<key>Name</key><string>Long Long Journey - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -428,12 +431,12 @@
 			<key>Persistent ID</key><string>55356461139524D1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/11%20-%20Long%20Long%20Journey%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11918</key>
+		<key>11938</key>
 		<dict>
-			<key>Track ID</key><integer>11918</integer>
+			<key>Track ID</key><integer>11938</integer>
 			<key>Name</key><string>Solitude - Allen Toussaint</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>The Bright Mississippi</string>
@@ -455,12 +458,12 @@
 			<key>Persistent ID</key><string>CEC4107BCEF2F95B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2009%20-%20The%20Bright%20Mississippi/12%20-%20Solitude%20-%20Allen%20Toussaint.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11920</key>
+		<key>11940</key>
 		<dict>
-			<key>Track ID</key><integer>11920</integer>
+			<key>Track ID</key><integer>11940</integer>
 			<key>Name</key><string>Victims Of The Darkness</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -477,17 +480,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AC98E018E7719DAD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/01%20-%20Victims%20Of%20The%20Darkness.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11922</key>
+		<key>11942</key>
 		<dict>
-			<key>Track ID</key><integer>11922</integer>
+			<key>Track ID</key><integer>11942</integer>
 			<key>Name</key><string>Am I Expecting Too Much?</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -504,17 +506,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6885EA48E4084E58</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/02%20-%20Am%20I%20Expecting%20Too%20Much.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11924</key>
+		<key>11944</key>
 		<dict>
-			<key>Track ID</key><integer>11924</integer>
+			<key>Track ID</key><integer>11944</integer>
 			<key>Name</key><string>Goin' Down</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -528,23 +529,22 @@
 			<key>Date Added</key><date>2019-04-06T06:15:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3637604370</integer>
-			<key>Play Date UTC</key><date>2019-04-09T04:39:30Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3638442725</integer>
+			<key>Play Date UTC</key><date>2019-04-18T21:32:05Z</date>
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>48EC32D8E3BE5E1A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/04%20-%20Goin'%20Down.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11926</key>
+		<key>11946</key>
 		<dict>
-			<key>Track ID</key><integer>11926</integer>
+			<key>Track ID</key><integer>11946</integer>
 			<key>Name</key><string>She Once Belonged To Me</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -561,17 +561,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>34D02BA7FE77BAA9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/05%20-%20She%20Once%20Belonged%20To%20Me.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11928</key>
+		<key>11948</key>
 		<dict>
-			<key>Track ID</key><integer>11928</integer>
+			<key>Track ID</key><integer>11948</integer>
 			<key>Name</key><string>Out Of The City (Into Country Life)</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -591,17 +590,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5C0BF7F48BD1EC89</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/06%20-%20Out%20Of%20The%20City%20(Into%20Country%20Life).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11930</key>
+		<key>11950</key>
 		<dict>
-			<key>Track ID</key><integer>11930</integer>
+			<key>Track ID</key><integer>11950</integer>
 			<key>Name</key><string>Soul Sister</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -618,17 +616,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B935935DFB18BC37</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/07%20-%20Soul%20Sister.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11932</key>
+		<key>11952</key>
 		<dict>
-			<key>Track ID</key><integer>11932</integer>
+			<key>Track ID</key><integer>11952</integer>
 			<key>Name</key><string>Fingers And Toes</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -645,17 +642,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3E2523B6023A5535</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/08%20-%20Fingers%20And%20Toes.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11934</key>
+		<key>11954</key>
 		<dict>
-			<key>Track ID</key><integer>11934</integer>
+			<key>Track ID</key><integer>11954</integer>
 			<key>Name</key><string>I've Got To Convince Myself</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -675,17 +671,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AADE3C4E4546B059</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/09%20-%20I've%20Got%20To%20Convince%20Myself.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11936</key>
+		<key>11956</key>
 		<dict>
-			<key>Track ID</key><integer>11936</integer>
+			<key>Track ID</key><integer>11956</integer>
 			<key>Name</key><string>Gone Too Far</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -705,17 +700,16 @@
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6E374FAEB488684E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/11%20-%20Gone%20Too%20Far.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11938</key>
+		<key>11958</key>
 		<dict>
-			<key>Track ID</key><integer>11938</integer>
+			<key>Track ID</key><integer>11958</integer>
 			<key>Name</key><string>Electricity</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Life, Love And Faith</string>
@@ -729,23 +723,22 @@
 			<key>Date Added</key><date>2019-04-06T06:15:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3637519259</integer>
-			<key>Play Date UTC</key><date>2019-04-08T05:00:59Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638437948</integer>
+			<key>Play Date UTC</key><date>2019-04-18T20:12:28Z</date>
 			<key>Release Date</key><date>1972-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B4B6504E4AF9646B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2006%20-%20Life,%20Love%20and%20Faith/12%20-%20Electricity.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12118</key>
+		<key>12128</key>
 		<dict>
-			<key>Track ID</key><integer>12118</integer>
+			<key>Track ID</key><integer>12128</integer>
 			<key>Name</key><string>Here Come The Girls</string>
 			<key>Artist</key><string>Ernie K-Doe</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -759,23 +752,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3637674130</integer>
-			<key>Play Date UTC</key><date>2019-04-10T00:02:10Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638448124</integer>
+			<key>Play Date UTC</key><date>2019-04-18T23:02:04Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B8898DD5CC4CF7C0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/01.%20Ernie%20K-Doe%20-%20Here%20Come%20The%20Girls.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12122</key>
+		<key>12130</key>
 		<dict>
-			<key>Track ID</key><integer>12122</integer>
+			<key>Track ID</key><integer>12130</integer>
 			<key>Name</key><string>What Is Success</string>
 			<key>Artist</key><string>Bonnie Raitt</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -789,23 +781,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3637671741</integer>
-			<key>Play Date UTC</key><date>2019-04-09T23:22:21Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638447321</integer>
+			<key>Play Date UTC</key><date>2019-04-18T22:48:41Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>24643B709870E7AD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/03.%20Bonnie%20Raitt%20-%20What%20Is%20Success.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12124</key>
+		<key>12132</key>
 		<dict>
-			<key>Track ID</key><integer>12124</integer>
+			<key>Track ID</key><integer>12132</integer>
 			<key>Name</key><string>Occapella</string>
 			<key>Artist</key><string>Lee Dorsey</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -819,20 +810,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638530596</integer>
+			<key>Play Date UTC</key><date>2019-04-19T21:56:36Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3109373968AD20F8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/04.%20Lee%20Dorsey%20-%20Occapella.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12126</key>
+		<key>12134</key>
 		<dict>
-			<key>Track ID</key><integer>12126</integer>
+			<key>Track ID</key><integer>12134</integer>
 			<key>Name</key><string>Everything I Do Gonh Be Funky (From Now On)</string>
 			<key>Artist</key><string>Don Covay</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -846,20 +839,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3638448693</integer>
+			<key>Play Date UTC</key><date>2019-04-18T23:11:33Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F3DE9D966F093229</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/06.%20Don%20Covay%20-%20Everything%20I%20Do%20Gonh%20Be%20Funky%20(From%20Now%20On).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12128</key>
+		<key>12136</key>
 		<dict>
-			<key>Track ID</key><integer>12128</integer>
+			<key>Track ID</key><integer>12136</integer>
 			<key>Name</key><string>Soul Sister</string>
 			<key>Artist</key><string>Allen Toussaint</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -879,17 +874,16 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B1AA52BED6FD8DEC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/08.%20Allen%20Toussaint%20-%20Soul%20Sister.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12130</key>
+		<key>12138</key>
 		<dict>
-			<key>Track ID</key><integer>12130</integer>
+			<key>Track ID</key><integer>12138</integer>
 			<key>Name</key><string>Working In The Coal Mine</string>
 			<key>Artist</key><string>The Judds</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -906,18 +900,17 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Judds</string>
 			<key>Persistent ID</key><string>5BAE3921568B11A7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/09.%20The%20Judds%20-%20Working%20In%20The%20Coal%20Mine.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12132</key>
+		<key>12140</key>
 		<dict>
-			<key>Track ID</key><integer>12132</integer>
+			<key>Track ID</key><integer>12140</integer>
 			<key>Name</key><string>Get Out Of My Life Woman</string>
 			<key>Artist</key><string>Solomon Burke</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -937,17 +930,16 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>261F2880A44ADBAF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/10.%20Solomon%20Burke%20-%20Get%20Out%20Of%20My%20Life%20Woman.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12134</key>
+		<key>12142</key>
 		<dict>
-			<key>Track ID</key><integer>12134</integer>
+			<key>Track ID</key><integer>12142</integer>
 			<key>Name</key><string>Sweet Touch Of Love</string>
 			<key>Artist</key><string>Irma Thomas</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -961,23 +953,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3637674532</integer>
-			<key>Play Date UTC</key><date>2019-04-10T00:08:52Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3638434572</integer>
+			<key>Play Date UTC</key><date>2019-04-18T19:16:12Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>278ECA6BCC12BC3F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/11.%20Irma%20Thomas%20-%20Sweet%20Touch%20Of%20Love.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12136</key>
+		<key>12144</key>
 		<dict>
-			<key>Track ID</key><integer>12136</integer>
+			<key>Track ID</key><integer>12144</integer>
 			<key>Name</key><string>Fortune Teller</string>
 			<key>Artist</key><string>Benny Spellman</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -997,17 +988,16 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EEA2E3F698C2640C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/14.%20Benny%20Spellman%20-%20Fortune%20Teller.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12138</key>
+		<key>12146</key>
 		<dict>
-			<key>Track ID</key><integer>12138</integer>
+			<key>Track ID</key><integer>12146</integer>
 			<key>Name</key><string>Freedom For The Stallion</string>
 			<key>Artist</key><string>Bill Medley</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1021,23 +1011,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3637733674</integer>
-			<key>Play Date UTC</key><date>2019-04-10T16:34:34Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3638448498</integer>
+			<key>Play Date UTC</key><date>2019-04-18T23:08:18Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>48B9BF2CED0D46ED</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/15.%20Bill%20Medley%20-%20Freedom%20For%20The%20Stallion.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12140</key>
+		<key>12148</key>
 		<dict>
-			<key>Track ID</key><integer>12140</integer>
+			<key>Track ID</key><integer>12148</integer>
 			<key>Name</key><string>Sneakin' Sally Thru' The Alley</string>
 			<key>Artist</key><string>Robert Palmer</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1054,17 +1043,16 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CF5E45A7568DF052</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/16.%20Robert%20Palmer%20-%20Sneakin'%20Sally%20Thru'%20The%20Alley.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12144</key>
+		<key>12150</key>
 		<dict>
-			<key>Track ID</key><integer>12144</integer>
+			<key>Track ID</key><integer>12150</integer>
 			<key>Name</key><string>Brickyard Blues (Play Somethin' Sweet)</string>
 			<key>Artist</key><string>Maria Muldaur</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1084,17 +1072,16 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4275E11E5344AB67</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/18.%20Maria%20Muldaur%20-%20Brickyard%20Blues%20(Play%20Somethin'%20Sweet).mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12146</key>
+		<key>12152</key>
 		<dict>
-			<key>Track ID</key><integer>12146</integer>
+			<key>Track ID</key><integer>12152</integer>
 			<key>Name</key><string>What Do You Want The Girl To Do</string>
 			<key>Artist</key><string>Lowell George</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1108,23 +1095,22 @@
 			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3637810889</integer>
-			<key>Play Date UTC</key><date>2019-04-11T14:01:29Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3638523403</integer>
+			<key>Play Date UTC</key><date>2019-04-19T19:56:43Z</date>
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D088442FC993A806</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/19.%20Lowell%20George%20-%20What%20Do%20You%20Want%20The%20Girl%20To%20Do.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12148</key>
+		<key>12154</key>
 		<dict>
-			<key>Track ID</key><integer>12148</integer>
+			<key>Track ID</key><integer>12154</integer>
 			<key>Name</key><string>A Certain Girl</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1144,18 +1130,17 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Certain Girl</string>
 			<key>Persistent ID</key><string>3B54748C03E0B54A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/22.%20Warren%20Zevon%20-%20A%20Certain%20Girl.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12150</key>
+		<key>12156</key>
 		<dict>
-			<key>Track ID</key><integer>12150</integer>
+			<key>Track ID</key><integer>12156</integer>
 			<key>Name</key><string>Holy Cow</string>
 			<key>Artist</key><string>Lee Dorsey</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1172,17 +1157,16 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4AD763C3FE349C17</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/23.%20Lee%20Dorsey%20-%20Holy%20Cow.mp3</string>
-			<key>File Folder Count</key><integer>4</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12152</key>
+		<key>12158</key>
 		<dict>
-			<key>Track ID</key><integer>12152</integer>
+			<key>Track ID</key><integer>12158</integer>
 			<key>Name</key><string>Southern Nights</string>
 			<key>Artist</key><string>Glen Campbell</string>
 			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
@@ -1202,11 +1186,1192 @@
 			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>26940B123135A626</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/24.%20Glen%20Campbell%20-%20Southern%20Nights.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12938</key>
+		<dict>
+			<key>Track ID</key><integer>12938</integer>
+			<key>Name</key><string>Victims Of The Darkness</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6767325</integer>
+			<key>Total Time</key><integer>210834</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:17Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3639994199</integer>
+			<key>Play Date UTC</key><date>2019-05-06T20:29:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>E22CDC48DCD44DDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/1%20Victims%20Of%20The%20Darkness.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12940</key>
+		<dict>
+			<key>Track ID</key><integer>12940</integer>
+			<key>Name</key><string>Am I Expecting Too Much</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5487534</integer>
+			<key>Total Time</key><integer>170840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:18Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3639993896</integer>
+			<key>Play Date UTC</key><date>2019-05-06T20:24:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>909C84127A019738</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/2%20Am%20I%20Expecting%20Too%20Much.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12942</key>
+		<dict>
+			<key>Track ID</key><integer>12942</integer>
+			<key>Name</key><string>My Baby Is The Real Thing</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5949799</integer>
+			<key>Total Time</key><integer>185286</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:18Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3639985713</integer>
+			<key>Play Date UTC</key><date>2019-05-06T18:08:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>3BFACD054CF9DB87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/3%20My%20Baby%20Is%20The%20Real%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12944</key>
+		<dict>
+			<key>Track ID</key><integer>12944</integer>
+			<key>Name</key><string>Goin' Down</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5746655</integer>
+			<key>Total Time</key><integer>178938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:18Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>4C63A58AEFD8CF52</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/4%20Goin'%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12946</key>
+		<dict>
+			<key>Track ID</key><integer>12946</integer>
+			<key>Name</key><string>She Once Belonged To Me</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5518463</integer>
+			<key>Total Time</key><integer>171807</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:18Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3639993718</integer>
+			<key>Play Date UTC</key><date>2019-05-06T20:21:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>0CFEEB24D3E7DF26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/5%20She%20Once%20Belonged%20To%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12948</key>
+		<dict>
+			<key>Track ID</key><integer>12948</integer>
+			<key>Name</key><string>Soul Sister</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5459101</integer>
+			<key>Total Time</key><integer>169952</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:19Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>46CC738987D5F51C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/7%20Soul%20Sister.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12950</key>
+		<dict>
+			<key>Track ID</key><integer>12950</integer>
+			<key>Name</key><string>Fingers And Toes</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7941783</integer>
+			<key>Total Time</key><integer>247536</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:19Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>E0E0904F9899BEA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/8%20Fingers%20And%20Toes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12952</key>
+		<dict>
+			<key>Track ID</key><integer>12952</integer>
+			<key>Name</key><string>I've Got To Convince Myself</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5244286</integer>
+			<key>Total Time</key><integer>163239</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:19Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3639986544</integer>
+			<key>Play Date UTC</key><date>2019-05-06T18:22:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>39B338554DB21789</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/9%20I've%20Got%20To%20Convince%20Myself.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12954</key>
+		<dict>
+			<key>Track ID</key><integer>12954</integer>
+			<key>Name</key><string>On Your Way Down</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7731133</integer>
+			<key>Total Time</key><integer>240953</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:19Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3639976986</integer>
+			<key>Play Date UTC</key><date>2019-05-06T15:43:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>3793F4C2F2AF1A3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/10%20On%20Your%20Way%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12956</key>
+		<dict>
+			<key>Track ID</key><integer>12956</integer>
+			<key>Name</key><string>Gone Too Far</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6677872</integer>
+			<key>Total Time</key><integer>208039</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:19Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>5DD5CCF5F08D2999</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/11%20Gone%20Too%20Far.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12958</key>
+		<dict>
+			<key>Track ID</key><integer>12958</integer>
+			<key>Name</key><string>Electricity</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4919934</integer>
+			<key>Total Time</key><integer>153103</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:19Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640003211</integer>
+			<key>Play Date UTC</key><date>2019-05-06T23:00:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>9F1B1685AB0B3FB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/12%20Electricity.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12960</key>
+		<dict>
+			<key>Track ID</key><integer>12960</integer>
+			<key>Name</key><string>Last Train</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5840279</integer>
+			<key>Total Time</key><integer>181864</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:20Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3640000787</integer>
+			<key>Play Date UTC</key><date>2019-05-06T22:19:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>3B1D045C480F465E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/13%20Last%20Train.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12962</key>
+		<dict>
+			<key>Track ID</key><integer>12962</integer>
+			<key>Name</key><string>Worldwide</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5224206</integer>
+			<key>Total Time</key><integer>162612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:20Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3639976073</integer>
+			<key>Play Date UTC</key><date>2019-05-06T15:27:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>1188D0A831772B39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/14%20Worldwide.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12964</key>
+		<dict>
+			<key>Track ID</key><integer>12964</integer>
+			<key>Name</key><string>Back In Baby's Arms</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9277585</integer>
+			<key>Total Time</key><integer>289280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:20Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3639999653</integer>
+			<key>Play Date UTC</key><date>2019-05-06T22:00:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>A3B1F541CFBC805B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/15%20Back%20In%20Baby's%20Arms.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12966</key>
+		<dict>
+			<key>Track ID</key><integer>12966</integer>
+			<key>Name</key><string>Country John</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9164729</integer>
+			<key>Total Time</key><integer>285753</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:21Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3639999364</integer>
+			<key>Play Date UTC</key><date>2019-05-06T21:56:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>3611E42D1330A4F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/16%20Country%20John.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12968</key>
+		<dict>
+			<key>Track ID</key><integer>12968</integer>
+			<key>Name</key><string>Basic Lady</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5749164</integer>
+			<key>Total Time</key><integer>179017</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:21Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3639978068</integer>
+			<key>Play Date UTC</key><date>2019-05-06T16:01:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>21F6F48DB5C5178A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/17%20Basic%20Lady.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12970</key>
+		<dict>
+			<key>Track ID</key><integer>12970</integer>
+			<key>Name</key><string>Southern Nights</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6954564</integer>
+			<key>Total Time</key><integer>216685</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:21Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-05-06T19:06:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>85B610ADD2732551</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/18%20Southern%20Nights.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12972</key>
+		<dict>
+			<key>Track ID</key><integer>12972</integer>
+			<key>Name</key><string>You Will Not Lose</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7129272</integer>
+			<key>Total Time</key><integer>222145</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:21Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3640000492</integer>
+			<key>Play Date UTC</key><date>2019-05-06T22:14:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>ED9154C4C74D37E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/19%20You%20Will%20Not%20Lose.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12974</key>
+		<dict>
+			<key>Track ID</key><integer>12974</integer>
+			<key>Name</key><string>What Do You Want The Girl To Do?</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7069937</integer>
+			<key>Total Time</key><integer>220290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:22Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>20F91BBD21484E78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/20%20What%20Do%20You%20Want%20The%20Girl%20To%20Do.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12976</key>
+		<dict>
+			<key>Track ID</key><integer>12976</integer>
+			<key>Name</key><string>Country John</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8607171</integer>
+			<key>Total Time</key><integer>268329</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:23Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>5161B06D7CBDF2EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/23%20Country%20John.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12978</key>
+		<dict>
+			<key>Track ID</key><integer>12978</integer>
+			<key>Name</key><string>Night People</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8362247</integer>
+			<key>Total Time</key><integer>260675</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:23Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>FC5A9DBD342A5A73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/24%20Night%20People.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12980</key>
+		<dict>
+			<key>Track ID</key><integer>12980</integer>
+			<key>Name</key><string>Just A Kiss Away</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8040422</integer>
+			<key>Total Time</key><integer>250618</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:23Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-05-06T05:54:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>C4C6850BDCA2E866</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/25%20Just%20A%20Kiss%20Away.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12982</key>
+		<dict>
+			<key>Track ID</key><integer>12982</integer>
+			<key>Name</key><string>With You In Mind</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7176919</integer>
+			<key>Total Time</key><integer>223634</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:24Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>0E87432EFCD24E7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/26%20With%20You%20In%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12984</key>
+		<dict>
+			<key>Track ID</key><integer>12984</integer>
+			<key>Name</key><string>Viva La Money</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6898555</integer>
+			<key>Total Time</key><integer>214935</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:25Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>56E9A6871E166DA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/30%20Viva%20La%20Money.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12986</key>
+		<dict>
+			<key>Track ID</key><integer>12986</integer>
+			<key>Name</key><string>Declaration Of Love</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9050215</integer>
+			<key>Total Time</key><integer>282174</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:25Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3639987470</integer>
+			<key>Play Date UTC</key><date>2019-05-06T18:37:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>C1C4CCD616784EF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/31%20Declaration%20Of%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12988</key>
+		<dict>
+			<key>Track ID</key><integer>12988</integer>
+			<key>Name</key><string>Happiness</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6621026</integer>
+			<key>Total Time</key><integer>206262</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:25Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3640001918</integer>
+			<key>Play Date UTC</key><date>2019-05-06T22:38:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>E18D55FA2FD6DB3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/32%20Happiness.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12990</key>
+		<dict>
+			<key>Track ID</key><integer>12990</integer>
+			<key>Name</key><string>The Optimism Blues</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5952300</integer>
+			<key>Total Time</key><integer>185364</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>33</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:26Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Sort Name</key><string>Optimism Blues</string>
+			<key>Persistent ID</key><string>F8D9DD0B2B56CFA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/33%20The%20Optimism%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12992</key>
+		<dict>
+			<key>Track ID</key><integer>12992</integer>
+			<key>Name</key><string>Intro / High Life (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3719583</integer>
+			<key>Total Time</key><integer>115591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>34</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:26Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3639985057</integer>
+			<key>Play Date UTC</key><date>2019-05-06T17:57:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>EA0BB1285488B78B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/34%20Intro,%20High%20Life%20%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12994</key>
+		<dict>
+			<key>Track ID</key><integer>12994</integer>
+			<key>Name</key><string>Touch Of Love (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6080213</integer>
+			<key>Total Time</key><integer>189361</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>35</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:26Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3639924553</integer>
+			<key>Play Date UTC</key><date>2019-05-06T01:09:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-05-06T01:33:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>E43D96BC703C709F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/35%20Touch%20Of%20Love%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12996</key>
+		<dict>
+			<key>Track ID</key><integer>12996</integer>
+			<key>Name</key><string>Brickyard Blues (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7207033</integer>
+			<key>Total Time</key><integer>224574</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>36</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:26Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>B252C44699E61F0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/36%20Brickyard%20Blues%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12998</key>
+		<dict>
+			<key>Track ID</key><integer>12998</integer>
+			<key>Name</key><string>What Is Success (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6241547</integer>
+			<key>Total Time</key><integer>194403</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>37</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:27Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3639926450</integer>
+			<key>Play Date UTC</key><date>2019-05-06T01:40:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>D418C5B6A3BB5351</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/37%20What%20Is%20Success%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13000</key>
+		<dict>
+			<key>Track ID</key><integer>13000</integer>
+			<key>Name</key><string>Freedom For The Stallion (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6591806</integer>
+			<key>Total Time</key><integer>205348</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>38</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:27Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>C342C3F5619A4622</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/38%20Freedom%20For%20The%20Stallion%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13002</key>
+		<dict>
+			<key>Track ID</key><integer>13002</integer>
+			<key>Name</key><string>Last Train (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5661415</integer>
+			<key>Total Time</key><integer>176274</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>39</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:27Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>05B029FFC77A4ABC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/39%20Last%20Train%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13004</key>
+		<dict>
+			<key>Track ID</key><integer>13004</integer>
+			<key>Name</key><string>Shoo-Ra (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6726372</integer>
+			<key>Total Time</key><integer>209554</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>40</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:29Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3640003050</integer>
+			<key>Play Date UTC</key><date>2019-05-06T22:57:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>3409B31C1C3C6873</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/40%20Shoo-Ra%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13006</key>
+		<dict>
+			<key>Track ID</key><integer>13006</integer>
+			<key>Name</key><string>Allen And Gary Brown (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23567626</integer>
+			<key>Total Time</key><integer>735843</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>41</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:30Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3639925875</integer>
+			<key>Play Date UTC</key><date>2019-05-06T01:31:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>45F60C377E966534</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/41%20Allen%20And%20Gary%20Brown%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13008</key>
+		<dict>
+			<key>Track ID</key><integer>13008</integer>
+			<key>Name</key><string>Southern Nights (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8260290</integer>
+			<key>Total Time</key><integer>257488</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>42</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:30Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>CDBC46BDD9C583B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/42%20Southern%20Nights%20(Previously%20Unissued).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13010</key>
+		<dict>
+			<key>Track ID</key><integer>13010</integer>
+			<key>Name</key><string>Allen's Closing Remarks (Previously Unissued)</string>
+			<key>Artist</key><string>Allen Toussaint</string>
+			<key>Album Artist</key><string>Allen Toussaint</string>
+			<key>Album</key><string>The Complete Warner Bros. Recordings</string>
+			<key>Genre</key><string>Pop / Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1923190</integer>
+			<key>Total Time</key><integer>59454</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>43</integer>
+			<key>Track Count</key><integer>43</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-05-04T18:24:30Z</date>
+			<key>Date Added</key><date>2019-05-04T18:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3639985772</integer>
+			<key>Play Date UTC</key><date>2019-05-06T18:09:32Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-05-06T01:41:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Warner Bros. Recordings</string>
+			<key>Persistent ID</key><string>B7B4612801185048</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2003%20-%20The%20Complete%20Warner%20Bros.%20Recordings/43%20Allen's%20Closing%20Remarks%20(Previously%20Unissued).mp3</string>
 			<key>File Folder Count</key><integer>4</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1216,19 +2381,217 @@
 		<dict>
 			<key>Name</key><string>Allen Toussaint faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>24057</integer>
+			<key>Playlist ID</key><integer>26168</integer>
 			<key>Playlist Persistent ID</key><string>AD11D454363A1658</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
+					<key>Track ID</key><integer>12154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12156</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11958</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11946</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11942</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12980</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12976</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12972</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12970</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12968</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12962</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12958</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12946</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12942</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12938</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>11938</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11936</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>11934</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>11932</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>11930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11928</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>11926</integer>
@@ -1243,109 +2606,22 @@
 					<key>Track ID</key><integer>11920</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11916</integer>
+					<key>Track ID</key><integer>11836</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11914</integer>
+					<key>Track ID</key><integer>11834</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11912</integer>
+					<key>Track ID</key><integer>11832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11910</integer>
+					<key>Track ID</key><integer>11830</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11908</integer>
+					<key>Track ID</key><integer>11828</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11906</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11904</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11902</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11900</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11790</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11788</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11772</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11766</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11936</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11918</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12150</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12130</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12134</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12122</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12140</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12144</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12126</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12148</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12132</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12146</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12124</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12136</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12152</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12118</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12138</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>12128</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11932</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11928</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11786</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>11782</integer>
+					<key>Track ID</key><integer>11826</integer>
 				</dict>
 			</array>
 		</dict>

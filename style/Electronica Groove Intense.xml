@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-04-06T04:51:08Z</date>
+	<key>Date</key><date>2019-05-08T14:06:41Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7675</key>
+		<key>7772</key>
 		<dict>
-			<key>Track ID</key><integer>7675</integer>
+			<key>Track ID</key><integer>7772</integer>
 			<key>Name</key><string>Trommelstunde - Original Mix</string>
 			<key>Artist</key><string>Gabriel Ananda</string>
 			<key>Album Artist</key><string>Gabriel Ananda</string>
@@ -43,9 +43,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7685</key>
+		<key>7782</key>
 		<dict>
-			<key>Track ID</key><integer>7685</integer>
+			<key>Track ID</key><integer>7782</integer>
 			<key>Name</key><string>Cosmo Retro Intro Outro</string>
 			<key>Artist</key><string>Amon Tobin</string>
 			<key>Album Artist</key><string>Amon Tobin</string>
@@ -76,9 +76,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9087</key>
+		<key>9184</key>
 		<dict>
-			<key>Track ID</key><integer>9087</integer>
+			<key>Track ID</key><integer>9184</integer>
 			<key>Name</key><string>June 9th</string>
 			<key>Artist</key><string>Boards of Canada</string>
 			<key>Album Artist</key><string>Boards of Canada</string>
@@ -95,6 +95,8 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3632482806</integer>
 			<key>Play Date UTC</key><date>2019-02-08T23:00:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-04-28T00:04:41Z</date>
 			<key>Release Date</key><date>1996-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
@@ -105,9 +107,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9181</key>
+		<key>9278</key>
 		<dict>
-			<key>Track ID</key><integer>9181</integer>
+			<key>Track ID</key><integer>9278</integer>
 			<key>Name</key><string>Schnee</string>
 			<key>Artist</key><string>ill.gates</string>
 			<key>Album Artist</key><string>ill.gates</string>
@@ -141,22 +143,22 @@
 		<dict>
 			<key>Name</key><string>Electronica Groove Intense</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>23615</integer>
-			<key>Playlist Persistent ID</key><string>415BD2C8E4D0D7E8</string>
+			<key>Playlist ID</key><integer>26305</integer>
+			<key>Playlist Persistent ID</key><string>3CB9D2F01ADC4241</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>7685</integer>
+					<key>Track ID</key><integer>7782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9087</integer>
+					<key>Track ID</key><integer>9184</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9181</integer>
+					<key>Track ID</key><integer>9278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7675</integer>
+					<key>Track ID</key><integer>7772</integer>
 				</dict>
 			</array>
 		</dict>
