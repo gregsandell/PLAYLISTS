@@ -4,17 +4,80 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2012-12-03T01:26:25Z</date>
-	<key>Application Version</key><string>10.7</string>
+	<key>Date</key><date>2019-05-14T18:37:30Z</date>
+	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4772</key>
+		<key>7037</key>
 		<dict>
-			<key>Track ID</key><integer>4772</integer>
+			<key>Track ID</key><integer>7037</integer>
+			<key>Name</key><string>Keep Me In Your Heart</string>
+			<key>Artist</key><string>Warren Zevon</string>
+			<key>Album</key><string>The Wind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4212506</integer>
+			<key>Total Time</key><integer>208026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-03-19T23:16:40Z</date>
+			<key>Date Added</key><date>2019-01-02T18:50:35Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3639501700</integer>
+			<key>Play Date UTC</key><date>2019-05-01T03:41:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2245</integer>
+			<key>Sort Album</key><string>Wind</string>
+			<key>Persistent ID</key><string>0FAA80B45FF70385</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Keep%20Me%20In%20Your%20Heart.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10799</key>
+		<dict>
+			<key>Track ID</key><integer>10799</integer>
+			<key>Name</key><string>A Certain Girl</string>
+			<key>Artist</key><string>Warren Zevon</string>
+			<key>Album</key><string>Rolling With Punches - The Allen Toussaint Songbook</string>
+			<key>Genre</key><string>Rhythm &#38; Blues, New Orleans R&#38;B, Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5360927</integer>
+			<key>Total Time</key><integer>163160</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-04-09T20:14:04Z</date>
+			<key>Date Added</key><date>2019-04-09T20:12:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3637828625</integer>
+			<key>Play Date UTC</key><date>2019-04-11T18:57:05Z</date>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Certain Girl</string>
+			<key>Persistent ID</key><string>3B54748C03E0B54A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Allen%20Toussaint/2012%20-%20Rolling%20With%20Punches/22.%20Warren%20Zevon%20-%20A%20Certain%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>72463</key>
+		<dict>
+			<key>Track ID</key><integer>72463</integer>
 			<key>Name</key><string>A Certain Girl</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -25,8 +88,8 @@
 			<key>Total Time</key><integer>188264</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>12</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:06Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:06Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -34,15 +97,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1807</integer>
 			<key>Sort Name</key><string>Certain Girl</string>
-			<key>Persistent ID</key><string>65FE0979454997C3</string>
+			<key>Persistent ID</key><string>3247331B523CE5E6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Bad%20Luck%20Streak%20In%20Dancing%20School/A%20Certain%20Girl.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Bad%20Luck%20Streak%20In%20Dancing%20School/A%20Certain%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4774</key>
+		<key>72468</key>
 		<dict>
-			<key>Track ID</key><integer>4774</integer>
+			<key>Track ID</key><integer>72468</integer>
 			<key>Name</key><string>Bill Lee</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -53,26 +116,26 @@
 			<key>Total Time</key><integer>97123</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>12</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:08Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:08Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>164</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3434169507</integer>
+			<key>Play Date</key><integer>3434165907</integer>
 			<key>Play Date UTC</key><date>2012-10-27T13:58:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>695</integer>
-			<key>Persistent ID</key><string>7B753B225DCB69F2</string>
+			<key>Persistent ID</key><string>B7E00962DA438DD5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Bad%20Luck%20Streak%20In%20Dancing%20School/Bill%20Lee.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Bad%20Luck%20Streak%20In%20Dancing%20School/Bill%20Lee.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4776</key>
+		<key>72471</key>
 		<dict>
-			<key>Track ID</key><integer>4776</integer>
+			<key>Track ID</key><integer>72471</integer>
 			<key>Name</key><string>Accidentally Like A Martyr</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -84,26 +147,26 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:10Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:10Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>170</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3436460804</integer>
+			<key>Play Date</key><integer>3436453604</integer>
 			<key>Play Date UTC</key><date>2012-11-23T02:26:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>768</integer>
-			<key>Persistent ID</key><string>E303658CDD27BC92</string>
+			<key>Persistent ID</key><string>732F489DC7620822</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Accidentally%20Like%20A%20Martyr.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Accidentally%20Like%20A%20Martyr.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4778</key>
+		<key>72474</key>
 		<dict>
-			<key>Track ID</key><integer>4778</integer>
+			<key>Track ID</key><integer>72474</integer>
 			<key>Name</key><string>Excitable Boy</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -115,26 +178,26 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:10Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:10Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>172</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3434167945</integer>
+			<key>Play Date</key><integer>3434164345</integer>
 			<key>Play Date UTC</key><date>2012-10-27T13:32:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1043</integer>
-			<key>Persistent ID</key><string>4E55D7F3E190CD13</string>
+			<key>Persistent ID</key><string>C6A84968529AF101</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Excitable%20Boy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Excitable%20Boy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4780</key>
+		<key>72477</key>
 		<dict>
-			<key>Track ID</key><integer>4780</integer>
+			<key>Track ID</key><integer>72477</integer>
 			<key>Name</key><string>Nighttime In The Switching Yard</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -146,26 +209,26 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:10Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:10Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>177</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3436858088</integer>
+			<key>Play Date</key><integer>3436850888</integer>
 			<key>Play Date UTC</key><date>2012-11-27T16:48:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1225</integer>
-			<key>Persistent ID</key><string>242B719D7D267042</string>
+			<key>Persistent ID</key><string>D039FB4F5CAA9732</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Nighttime%20In%20The%20Switching%20Yard.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Nighttime%20In%20The%20Switching%20Yard.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4782</key>
+		<key>72480</key>
 		<dict>
-			<key>Track ID</key><integer>4782</integer>
+			<key>Track ID</key><integer>72480</integer>
 			<key>Name</key><string>Roland The Headless Thompson Gunner</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -177,23 +240,23 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:10Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:10Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>171</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>756</integer>
-			<key>Persistent ID</key><string>3C685396AF10591A</string>
+			<key>Persistent ID</key><string>B7C9C9DA8B93E649</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Roland%20The%20Headless%20Thompson%20Gunner.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Excitable%20Boy/Roland%20The%20Headless%20Thompson%20Gunner.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4784</key>
+		<key>72483</key>
 		<dict>
-			<key>Track ID</key><integer>4784</integer>
+			<key>Track ID</key><integer>72483</integer>
 			<key>Name</key><string>Roll With the Punches</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -204,26 +267,26 @@
 			<key>Total Time</key><integer>143830</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:12Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:12Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>169</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3433733735</integer>
+			<key>Play Date</key><integer>3433730135</integer>
 			<key>Play Date UTC</key><date>2012-10-22T12:55:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5243</integer>
-			<key>Persistent ID</key><string>AAA214C8DF355F4C</string>
+			<key>Persistent ID</key><string>4F836AA81AB8D70A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/I'll%20Sleep%20When%20I'm%20Dead%20(An%20Anthology)/Roll%20With%20the%20Punches.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/I'll%20Sleep%20When%20I'm%20Dead%20(An%20Anthology)/Roll%20With%20the%20Punches.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4786</key>
+		<key>72486</key>
 		<dict>
-			<key>Track ID</key><integer>4786</integer>
+			<key>Track ID</key><integer>72486</integer>
 			<key>Name</key><string>Excitable Boy</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -237,23 +300,23 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>17</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:14Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:14Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>169</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1804</integer>
-			<key>Persistent ID</key><string>94341546C13800EB</string>
+			<key>Persistent ID</key><string>0A9039C6B2F9F0F3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Learning%20To%20Flinch/Excitable%20Boy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Learning%20To%20Flinch/Excitable%20Boy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4788</key>
+		<key>72489</key>
 		<dict>
-			<key>Track ID</key><integer>4788</integer>
+			<key>Track ID</key><integer>72489</integer>
 			<key>Name</key><string>Play It All Night Long</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -267,23 +330,23 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>17</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:14Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:14Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>166</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>782</integer>
-			<key>Persistent ID</key><string>516C0A685686BB32</string>
+			<key>Persistent ID</key><string>79CA3D2AE866D9A3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Learning%20To%20Flinch/Play%20It%20All%20Night%20Long.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Learning%20To%20Flinch/Play%20It%20All%20Night%20Long.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4790</key>
+		<key>72492</key>
 		<dict>
-			<key>Track ID</key><integer>4790</integer>
+			<key>Track ID</key><integer>72492</integer>
 			<key>Name</key><string>Search For A Heart</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -297,8 +360,8 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>17</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:16Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:16Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>170</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -307,15 +370,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1602</integer>
-			<key>Persistent ID</key><string>01E5F393FB36B27D</string>
+			<key>Persistent ID</key><string>C009AF45B9E3F36C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Learning%20To%20Flinch/Search%20For%20A%20Heart.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Learning%20To%20Flinch/Search%20For%20A%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4792</key>
+		<key>72495</key>
 		<dict>
-			<key>Track ID</key><integer>4792</integer>
+			<key>Track ID</key><integer>72495</integer>
 			<key>Name</key><string>Back In The High Life Again</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -327,26 +390,26 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:18Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:18Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>175</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3436774951</integer>
+			<key>Play Date</key><integer>3436767751</integer>
 			<key>Play Date UTC</key><date>2012-11-26T17:42:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1715</integer>
-			<key>Persistent ID</key><string>C691CC93C40FDEFE</string>
+			<key>Persistent ID</key><string>07AC7EE60FF2D0E8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/Back%20In%20The%20High%20Life%20Again.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/Back%20In%20The%20High%20Life%20Again.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4794</key>
+		<key>72498</key>
 		<dict>
-			<key>Track ID</key><integer>4794</integer>
+			<key>Track ID</key><integer>72498</integer>
 			<key>Name</key><string>Dirty Little Religion</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -358,26 +421,26 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:20Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:20Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>175</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433227847</integer>
+			<key>Play Date</key><integer>3433224247</integer>
 			<key>Play Date UTC</key><date>2012-10-16T16:24:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4299</integer>
-			<key>Persistent ID</key><string>ACA9E4928C60F1BA</string>
+			<key>Persistent ID</key><string>48C62C5EC4D4AD1A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/Dirty%20Little%20Religion.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/Dirty%20Little%20Religion.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4796</key>
+		<key>72501</key>
 		<dict>
-			<key>Track ID</key><integer>4796</integer>
+			<key>Track ID</key><integer>72501</integer>
 			<key>Name</key><string>For My Next Trick I'll Need A Volunteer</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -389,26 +452,26 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:20Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:20Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>175</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3435901346</integer>
+			<key>Play Date</key><integer>3435894146</integer>
 			<key>Play Date UTC</key><date>2012-11-16T15:02:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6200</integer>
-			<key>Persistent ID</key><string>32166023D25C2428</string>
+			<key>Persistent ID</key><string>F2D04D11EF32A317</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/For%20My%20Next%20Trick%20I'll%20Need%20A%20Volunteer.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/For%20My%20Next%20Trick%20I'll%20Need%20A%20Volunteer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4798</key>
+		<key>72504</key>
 		<dict>
-			<key>Track ID</key><integer>4798</integer>
+			<key>Track ID</key><integer>72504</integer>
 			<key>Name</key><string>I Was In The House When The House Burned Down</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -420,23 +483,23 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:20Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:20Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8170</integer>
-			<key>Persistent ID</key><string>592CBC710397B488</string>
+			<key>Persistent ID</key><string>7BEF2D21BE7D09C4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/I%20Was%20In%20The%20House%20When%20The%20House%20Burned%20Down.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/I%20Was%20In%20The%20House%20When%20The%20House%20Burned%20Down.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4800</key>
+		<key>72507</key>
 		<dict>
-			<key>Track ID</key><integer>4800</integer>
+			<key>Track ID</key><integer>72507</integer>
 			<key>Name</key><string>Life'll Kill Ya</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -448,26 +511,26 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:22Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:22Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>172</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433440866</integer>
+			<key>Play Date</key><integer>3433437266</integer>
 			<key>Play Date UTC</key><date>2012-10-19T03:34:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4466</integer>
-			<key>Persistent ID</key><string>7CEC5907F5FF72FC</string>
+			<key>Persistent ID</key><string>10A812F4F2D01DA9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/Life'll%20Kill%20Ya.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/Life'll%20Kill%20Ya.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4802</key>
+		<key>72510</key>
 		<dict>
-			<key>Track ID</key><integer>4802</integer>
+			<key>Track ID</key><integer>72510</integer>
 			<key>Name</key><string>My Shit's Fucked Up</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -479,26 +542,26 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:22Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:22Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>180</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433694595</integer>
+			<key>Play Date</key><integer>3433690995</integer>
 			<key>Play Date UTC</key><date>2012-10-22T02:03:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1485</integer>
-			<key>Persistent ID</key><string>D3A5449D99FA767A</string>
+			<key>Persistent ID</key><string>A73124AD55891AD1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/My%20Shit's%20Fucked%20Up.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Life'll%20Kill%20Ya/My%20Shit's%20Fucked%20Up.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4804</key>
+		<key>72513</key>
 		<dict>
-			<key>Track ID</key><integer>4804</integer>
+			<key>Track ID</key><integer>72513</integer>
 			<key>Name</key><string>Finishing Touches</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -509,23 +572,23 @@
 			<key>Total Time</key><integer>246125</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:22Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:22Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>175</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1491</integer>
-			<key>Persistent ID</key><string>CC4C31D383ABF4C8</string>
+			<key>Persistent ID</key><string>019792B571946E61</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Finishing%20Touches.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Finishing%20Touches.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4806</key>
+		<key>72516</key>
 		<dict>
-			<key>Track ID</key><integer>4806</integer>
+			<key>Track ID</key><integer>72516</integer>
 			<key>Name</key><string>Heartache Spoken Here</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -536,8 +599,8 @@
 			<key>Total Time</key><integer>228388</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:22Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:22Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>177</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -546,15 +609,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1293</integer>
-			<key>Persistent ID</key><string>60224E275090BF7B</string>
+			<key>Persistent ID</key><string>D3DBF3C3CBBDE052</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Heartache%20Spoken%20Here.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Heartache%20Spoken%20Here.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4808</key>
+		<key>72519</key>
 		<dict>
-			<key>Track ID</key><integer>4808</integer>
+			<key>Track ID</key><integer>72519</integer>
 			<key>Name</key><string>Mr. Bad Example</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -565,26 +628,26 @@
 			<key>Total Time</key><integer>201691</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:24Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:24Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433043169</integer>
+			<key>Play Date</key><integer>3433039569</integer>
 			<key>Play Date UTC</key><date>2012-10-14T13:06:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3309</integer>
-			<key>Persistent ID</key><string>4F89F09D67C94240</string>
+			<key>Persistent ID</key><string>319D4E05CA7CCCE2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Mr.%20Bad%20Example.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Mr.%20Bad%20Example.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4810</key>
+		<key>72522</key>
 		<dict>
-			<key>Track ID</key><integer>4810</integer>
+			<key>Track ID</key><integer>72522</integer>
 			<key>Name</key><string>Renegade</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -595,23 +658,23 @@
 			<key>Total Time</key><integer>290847</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:24Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:24Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>172</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1332</integer>
-			<key>Persistent ID</key><string>3049791023743F91</string>
+			<key>Persistent ID</key><string>3B233635D4753C70</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Renegade.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mr.%20Bad%20Example/Renegade.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4812</key>
+		<key>72525</key>
 		<dict>
-			<key>Track ID</key><integer>4812</integer>
+			<key>Track ID</key><integer>72525</integer>
 			<key>Name</key><string>Rottweiler Blues</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -625,23 +688,23 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:26Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:26Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>170</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6185</integer>
-			<key>Persistent ID</key><string>1BF853AB2188D6FB</string>
+			<key>Persistent ID</key><string>07E696AB614008FE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mutineer/Rottweiler%20Blues.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Mutineer/Rottweiler%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4814</key>
+		<key>72528</key>
 		<dict>
-			<key>Track ID</key><integer>4814</integer>
+			<key>Track ID</key><integer>72528</integer>
 			<key>Name</key><string>Hit Somebody! (The Hockey Song)</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -655,26 +718,26 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:30Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:30Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>171</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3434036551</integer>
+			<key>Play Date</key><integer>3434032951</integer>
 			<key>Play Date UTC</key><date>2012-10-26T01:02:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6257</integer>
-			<key>Persistent ID</key><string>37502DB9E778EB5C</string>
+			<key>Persistent ID</key><string>F6BEFAC15D53E7FE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/My%20Ride's%20Here/Hit%20Somebody!%20(The%20Hockey%20Song).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/My%20Ride's%20Here/Hit%20Somebody!%20(The%20Hockey%20Song).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4816</key>
+		<key>72531</key>
 		<dict>
-			<key>Track ID</key><integer>4816</integer>
+			<key>Track ID</key><integer>72531</integer>
 			<key>Name</key><string>Sacrificial Lambs</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -688,23 +751,23 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:30Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:30Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>177</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7374</integer>
-			<key>Persistent ID</key><string>49C95D7558DA1FDE</string>
+			<key>Persistent ID</key><string>5031F4055654921C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/My%20Ride's%20Here/Sacrificial%20Lambs.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/My%20Ride's%20Here/Sacrificial%20Lambs.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4818</key>
+		<key>72534</key>
 		<dict>
-			<key>Track ID</key><integer>4818</integer>
+			<key>Track ID</key><integer>72534</integer>
 			<key>Name</key><string>Boom Boom Mancini</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Sentimental Hygiene</string>
@@ -715,26 +778,26 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>1987</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:32Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:32Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3436067076</integer>
+			<key>Play Date</key><integer>3436059876</integer>
 			<key>Play Date UTC</key><date>2012-11-18T13:04:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2537</integer>
-			<key>Persistent ID</key><string>A40C1FC1FA7B9499</string>
+			<key>Persistent ID</key><string>F2498291FA414B46</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Sentimental%20Hygiene/Boom%20Boom%20Mancini.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Sentimental%20Hygiene/Boom%20Boom%20Mancini.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4820</key>
+		<key>72537</key>
 		<dict>
-			<key>Track ID</key><integer>4820</integer>
+			<key>Track ID</key><integer>72537</integer>
 			<key>Name</key><string>The Factory</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Sentimental Hygiene</string>
@@ -745,12 +808,12 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>1987</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:34Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:34Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3433944498</integer>
+			<key>Play Date</key><integer>3433940898</integer>
 			<key>Play Date UTC</key><date>2012-10-24T23:28:18Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-10-22T00:21:17Z</date>
@@ -759,15 +822,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2187</integer>
 			<key>Sort Name</key><string>Factory</string>
-			<key>Persistent ID</key><string>C05197B8D623D139</string>
+			<key>Persistent ID</key><string>D6A7D04703517E4B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Sentimental%20Hygiene/The%20Factory.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Sentimental%20Hygiene/The%20Factory.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4822</key>
+		<key>72540</key>
 		<dict>
-			<key>Track ID</key><integer>4822</integer>
+			<key>Track ID</key><integer>72540</integer>
 			<key>Name</key><string>The Heartache</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Sentimental Hygiene</string>
@@ -778,12 +841,12 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>1987</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:34Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:34Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3437132635</integer>
+			<key>Play Date</key><integer>3437125435</integer>
 			<key>Play Date UTC</key><date>2012-11-30T21:03:55Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-10-14T13:34:50Z</date>
@@ -792,15 +855,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>986</integer>
 			<key>Sort Name</key><string>Heartache</string>
-			<key>Persistent ID</key><string>FC8AF430BFA13BA7</string>
+			<key>Persistent ID</key><string>D28B249B1D41AADF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Sentimental%20Hygiene/The%20Heartache.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Sentimental%20Hygiene/The%20Heartache.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4824</key>
+		<key>72543</key>
 		<dict>
-			<key>Track ID</key><integer>4824</integer>
+			<key>Track ID</key><integer>72543</integer>
 			<key>Name</key><string>Mohammed's Radio (Live Version)</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -812,26 +875,26 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>22</integer>
 			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:36Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:36Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>169</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433899506</integer>
+			<key>Play Date</key><integer>3433895906</integer>
 			<key>Play Date UTC</key><date>2012-10-24T10:58:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3000</integer>
-			<key>Persistent ID</key><string>92E71FA4BFC100D0</string>
+			<key>Persistent ID</key><string>15CFA3715205D478</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Stand%20In%20The%20Fire/Mohammed's%20Radio%20(Live%20Version).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Stand%20In%20The%20Fire/Mohammed's%20Radio%20(Live%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4826</key>
+		<key>72546</key>
 		<dict>
-			<key>Track ID</key><integer>4826</integer>
+			<key>Track ID</key><integer>72546</integer>
 			<key>Name</key><string>Ain't That Pretty at All</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -840,27 +903,27 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>3443775</integer>
 			<key>Total Time</key><integer>214961</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:36Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:36Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3436066488</integer>
+			<key>Play Date</key><integer>3436059288</integer>
 			<key>Play Date UTC</key><date>2012-11-18T12:54:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1051</integer>
 			<key>Sort Album</key><string>Envoy</string>
-			<key>Persistent ID</key><string>1E56F5E961FE8B2F</string>
+			<key>Persistent ID</key><string>3E9396EDFBE6B264</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Envoy/Ain't%20That%20Pretty%20at%20All.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Envoy/Ain't%20That%20Pretty%20at%20All.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4828</key>
+		<key>72549</key>
 		<dict>
-			<key>Track ID</key><integer>4828</integer>
+			<key>Track ID</key><integer>72549</integer>
 			<key>Name</key><string>Outside Chance</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The First Sessions</string>
@@ -870,8 +933,8 @@
 			<key>Total Time</key><integer>133164</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>14</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:38Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:38Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -881,15 +944,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3332</integer>
 			<key>Sort Album</key><string>First Sessions</string>
-			<key>Persistent ID</key><string>C64B2BC7A2D06FDB</string>
+			<key>Persistent ID</key><string>8BC19856E9525A0F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20First%20Sessions/Outside%20Chance.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20First%20Sessions/Outside%20Chance.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4830</key>
+		<key>72552</key>
 		<dict>
-			<key>Track ID</key><integer>4830</integer>
+			<key>Track ID</key><integer>72552</integer>
 			<key>Name</key><string>Song 7</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The First Sessions</string>
@@ -899,8 +962,8 @@
 			<key>Total Time</key><integer>124503</integer>
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>14</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:40Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:40Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -908,15 +971,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2594</integer>
 			<key>Sort Album</key><string>First Sessions</string>
-			<key>Persistent ID</key><string>00EB2415A987C393</string>
+			<key>Persistent ID</key><string>69F0DDF720216571</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20First%20Sessions/Song%207.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20First%20Sessions/Song%207.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4832</key>
+		<key>72555</key>
 		<dict>
-			<key>Track ID</key><integer>4832</integer>
+			<key>Track ID</key><integer>72555</integer>
 			<key>Name</key><string>Write If You Get Work</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The First Sessions</string>
@@ -926,12 +989,12 @@
 			<key>Total Time</key><integer>105672</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Track Count</key><integer>14</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:40Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:40Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:04Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3433126121</integer>
+			<key>Play Date</key><integer>3433122521</integer>
 			<key>Play Date UTC</key><date>2012-10-15T12:08:41Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-10-14T13:31:16Z</date>
@@ -940,15 +1003,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1647</integer>
 			<key>Sort Album</key><string>First Sessions</string>
-			<key>Persistent ID</key><string>51DDE00703883DE5</string>
+			<key>Persistent ID</key><string>4E355AACFF748F2F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20First%20Sessions/Write%20If%20You%20Get%20Work.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20First%20Sessions/Write%20If%20You%20Get%20Work.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4834</key>
+		<key>72558</key>
 		<dict>
-			<key>Track ID</key><integer>4834</integer>
+			<key>Track ID</key><integer>72558</integer>
 			<key>Name</key><string>Dirty Life &#38; Times</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -961,27 +1024,27 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:40Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:40Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433917169</integer>
+			<key>Play Date</key><integer>3433913569</integer>
 			<key>Play Date UTC</key><date>2012-10-24T15:52:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3765</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>EF0DC18D33F1FA7A</string>
+			<key>Persistent ID</key><string>5C1DF829B9FDED87</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Dirty%20Life%20&#38;%20Times.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Dirty%20Life%20&#38;%20Times.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4836</key>
+		<key>72561</key>
 		<dict>
-			<key>Track ID</key><integer>4836</integer>
+			<key>Track ID</key><integer>72561</integer>
 			<key>Name</key><string>Disorder In The House</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -994,27 +1057,27 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:40Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:40Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3432955781</integer>
+			<key>Play Date</key><integer>3432952181</integer>
 			<key>Play Date UTC</key><date>2012-10-13T12:49:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7808</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>B556A079B1699635</string>
+			<key>Persistent ID</key><string>7A04CDA9FE869FC7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Disorder%20In%20The%20House.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Disorder%20In%20The%20House.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4838</key>
+		<key>72564</key>
 		<dict>
-			<key>Track ID</key><integer>4838</integer>
+			<key>Track ID</key><integer>72564</integer>
 			<key>Name</key><string>El Amor De Mi Vida</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -1027,8 +1090,8 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:40Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:40Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -1036,47 +1099,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>998</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>B32850520C5228CA</string>
+			<key>Persistent ID</key><string>61B328B1BB344380</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/El%20Amor%20De%20Mi%20Vida.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/El%20Amor%20De%20Mi%20Vida.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4840</key>
+		<key>72567</key>
 		<dict>
-			<key>Track ID</key><integer>4840</integer>
-			<key>Name</key><string>Keep Me In Your Heart</string>
-			<key>Artist</key><string>Warren Zevon</string>
-			<key>Album</key><string>The Wind</string>
-			<key>Genre</key><string>Rock</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>4212506</integer>
-			<key>Total Time</key><integer>208026</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Track Count</key><integer>11</integer>
-			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:40Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
-			<key>Bit Rate</key><integer>160</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2012-11-19T12:05:09Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>2245</integer>
-			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>6110587A8B8CDB58</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Keep%20Me%20In%20Your%20Heart.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>4842</key>
-		<dict>
-			<key>Track ID</key><integer>4842</integer>
+			<key>Track ID</key><integer>72567</integer>
 			<key>Name</key><string>Knockin' on Heavan's Door</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -1084,8 +1115,8 @@
 			<key>Size</key><integer>4911613</integer>
 			<key>Total Time</key><integer>245472</integer>
 			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:42Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:42Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
@@ -1095,15 +1126,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5193</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>43E3D6DE7B3375E8</string>
+			<key>Persistent ID</key><string>E7B0A6156FEA4071</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Knockin'%20on%20Heavan's%20Door.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Knockin'%20on%20Heavan's%20Door.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4844</key>
+		<key>72570</key>
 		<dict>
-			<key>Track ID</key><integer>4844</integer>
+			<key>Track ID</key><integer>72570</integer>
 			<key>Name</key><string>Numb As A Statue</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -1111,27 +1142,27 @@
 			<key>Size</key><integer>4977433</integer>
 			<key>Total Time</key><integer>248764</integer>
 			<key>Track Number</key><integer>4</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:42Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:35Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:42Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433177879</integer>
+			<key>Play Date</key><integer>3433174279</integer>
 			<key>Play Date UTC</key><date>2012-10-16T02:31:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7852</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>7E58E4960FEF142A</string>
+			<key>Persistent ID</key><string>B514C0EA80E1E346</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Numb%20As%20A%20Statue.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Numb%20As%20A%20Statue.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4846</key>
+		<key>72573</key>
 		<dict>
-			<key>Track ID</key><integer>4846</integer>
+			<key>Track ID</key><integer>72573</integer>
 			<key>Name</key><string>Rub Me Raw</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -1144,8 +1175,8 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:44Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:44Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -1153,15 +1184,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6242</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>D68A68434C9C78CD</string>
+			<key>Persistent ID</key><string>61F28145F0EAE64E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Rub%20Me%20Raw.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/Rub%20Me%20Raw.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4848</key>
+		<key>72576</key>
 		<dict>
-			<key>Track ID</key><integer>4848</integer>
+			<key>Track ID</key><integer>72576</integer>
 			<key>Name</key><string>She's Too Good For Me</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -1174,27 +1205,27 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:44Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:44Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3433439921</integer>
+			<key>Play Date</key><integer>3433436321</integer>
 			<key>Play Date UTC</key><date>2012-10-19T03:18:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1675</integer>
 			<key>Sort Album</key><string>Wind</string>
-			<key>Persistent ID</key><string>5ADE3E4D967BC207</string>
+			<key>Persistent ID</key><string>AB841D16B2FD421F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/She's%20Too%20Good%20For%20Me.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/She's%20Too%20Good%20For%20Me.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4850</key>
+		<key>72579</key>
 		<dict>
-			<key>Track ID</key><integer>4850</integer>
+			<key>Track ID</key><integer>72579</integer>
 			<key>Name</key><string>The Rest of the Night</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>The Wind</string>
@@ -1202,8 +1233,8 @@
 			<key>Size</key><integer>5624229</integer>
 			<key>Total Time</key><integer>281103</integer>
 			<key>Track Number</key><integer>8</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:46Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:46Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -1212,15 +1243,15 @@
 			<key>Normalization</key><integer>5898</integer>
 			<key>Sort Album</key><string>Wind</string>
 			<key>Sort Name</key><string>Rest of the Night</string>
-			<key>Persistent ID</key><string>B24E6693D7E8AAB4</string>
+			<key>Persistent ID</key><string>5E91F9EB22AB2AC3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/The%20Rest%20of%20the%20Night.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/The%20Wind/The%20Rest%20of%20the%20Night.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4852</key>
+		<key>72582</key>
 		<dict>
-			<key>Track ID</key><integer>4852</integer>
+			<key>Track ID</key><integer>72582</integer>
 			<key>Name</key><string>Networking (Acoustic Demo Version)</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Transverse City</string>
@@ -1231,25 +1262,25 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1989</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:46Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:46Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2012-10-22T23:26:33Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3067</integer>
-			<key>Persistent ID</key><string>E09682441AB0F43C</string>
+			<key>Persistent ID</key><string>E07A316448C7946D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Transverse%20City/Networking%20(Acoustic%20Demo%20Version).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Transverse%20City/Networking%20(Acoustic%20Demo%20Version).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4854</key>
+		<key>72585</key>
 		<dict>
-			<key>Track ID</key><integer>4854</integer>
+			<key>Track ID</key><integer>72585</integer>
 			<key>Name</key><string>The Long Arm Of The Law</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Transverse City</string>
@@ -1260,27 +1291,27 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1989</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:48Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:48Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3434116216</integer>
+			<key>Play Date</key><integer>3434112616</integer>
 			<key>Play Date UTC</key><date>2012-10-26T23:10:16Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2877</integer>
 			<key>Sort Name</key><string>Long Arm Of The Law</string>
-			<key>Persistent ID</key><string>9583EFF6C7F5BF4E</string>
+			<key>Persistent ID</key><string>A547EF1A3816328D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Transverse%20City/The%20Long%20Arm%20Of%20The%20Law.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Transverse%20City/The%20Long%20Arm%20Of%20The%20Law.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4858</key>
+		<key>72588</key>
 		<dict>
-			<key>Track ID</key><integer>4858</integer>
+			<key>Track ID</key><integer>72588</integer>
 			<key>Name</key><string>Fiery Emblems</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Album</key><string>Wanted Dead Or Alive</string>
@@ -1290,23 +1321,23 @@
 			<key>Total Time</key><integer>193885</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:50Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:50Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1281</integer>
-			<key>Persistent ID</key><string>F716EF1837D28F34</string>
+			<key>Persistent ID</key><string>423FD19CBB1D97A1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Wanted%20Dead%20Or%20Alive/Fiery%20Emblems.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Wanted%20Dead%20Or%20Alive/Fiery%20Emblems.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4860</key>
+		<key>72591</key>
 		<dict>
-			<key>Track ID</key><integer>4860</integer>
+			<key>Track ID</key><integer>72591</integer>
 			<key>Name</key><string>Desperados under the Eaves</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -1320,23 +1351,23 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1976</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:52Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:52Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>168</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1166</integer>
-			<key>Persistent ID</key><string>F0441E954C36E309</string>
+			<key>Persistent ID</key><string>58765DED91347FF5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Warren%20Zevon/Desperados%20under%20the%20Eaves.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Warren%20Zevon/Desperados%20under%20the%20Eaves.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4862</key>
+		<key>72594</key>
 		<dict>
-			<key>Track ID</key><integer>4862</integer>
+			<key>Track ID</key><integer>72594</integer>
 			<key>Name</key><string>Mohammed's Radio</string>
 			<key>Artist</key><string>Warren Zevon</string>
 			<key>Composer</key><string>Warren Zevon</string>
@@ -1350,167 +1381,171 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>1976</integer>
-			<key>Date Modified</key><date>2011-03-20T00:16:54Z</date>
-			<key>Date Added</key><date>2012-11-16T03:52:36Z</date>
+			<key>Date Modified</key><date>2011-03-19T23:16:54Z</date>
+			<key>Date Added</key><date>2019-05-14T18:37:05Z</date>
 			<key>Bit Rate</key><integer>171</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3436068896</integer>
+			<key>Play Date</key><integer>3436061696</integer>
 			<key>Play Date UTC</key><date>2012-11-18T13:34:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>656</integer>
-			<key>Persistent ID</key><string>7B5C11979FBCB9C3</string>
+			<key>Persistent ID</key><string>A00B7727240F6180</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Warren%20Zevon/Mohammed's%20Radio.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Warren%20Zevon/Warren%20Zevon/Mohammed's%20Radio.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Warren Zevon faves</string>
-			<key>Playlist ID</key><integer>13100</integer>
-			<key>Playlist Persistent ID</key><string>FD14B49B4E360A21</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>72597</integer>
+			<key>Playlist Persistent ID</key><string>DF4B9CE5BC75F8D5</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4772</integer>
+					<key>Track ID</key><integer>72463</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4826</integer>
+					<key>Track ID</key><integer>72546</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4782</integer>
+					<key>Track ID</key><integer>72480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4778</integer>
+					<key>Track ID</key><integer>72474</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4776</integer>
+					<key>Track ID</key><integer>72471</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4780</integer>
+					<key>Track ID</key><integer>72477</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4828</integer>
+					<key>Track ID</key><integer>72549</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4830</integer>
+					<key>Track ID</key><integer>72552</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4832</integer>
+					<key>Track ID</key><integer>72555</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4784</integer>
+					<key>Track ID</key><integer>72483</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4786</integer>
+					<key>Track ID</key><integer>72486</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4790</integer>
+					<key>Track ID</key><integer>72492</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4788</integer>
+					<key>Track ID</key><integer>72489</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4798</integer>
+					<key>Track ID</key><integer>72504</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4800</integer>
+					<key>Track ID</key><integer>72507</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4796</integer>
+					<key>Track ID</key><integer>72501</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4794</integer>
+					<key>Track ID</key><integer>72498</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4792</integer>
+					<key>Track ID</key><integer>72495</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4802</integer>
+					<key>Track ID</key><integer>72510</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4804</integer>
+					<key>Track ID</key><integer>72513</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4808</integer>
+					<key>Track ID</key><integer>72519</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4810</integer>
+					<key>Track ID</key><integer>72522</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4806</integer>
+					<key>Track ID</key><integer>72516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4812</integer>
+					<key>Track ID</key><integer>72525</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4816</integer>
+					<key>Track ID</key><integer>72531</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4814</integer>
+					<key>Track ID</key><integer>72528</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4818</integer>
+					<key>Track ID</key><integer>72534</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4820</integer>
+					<key>Track ID</key><integer>72537</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4822</integer>
+					<key>Track ID</key><integer>72540</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4824</integer>
+					<key>Track ID</key><integer>72543</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4854</integer>
+					<key>Track ID</key><integer>72585</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4852</integer>
+					<key>Track ID</key><integer>72582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4858</integer>
+					<key>Track ID</key><integer>72588</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4862</integer>
+					<key>Track ID</key><integer>72594</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4860</integer>
+					<key>Track ID</key><integer>72591</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4834</integer>
+					<key>Track ID</key><integer>72558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4836</integer>
+					<key>Track ID</key><integer>72561</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4842</integer>
+					<key>Track ID</key><integer>72567</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4844</integer>
+					<key>Track ID</key><integer>72570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4848</integer>
+					<key>Track ID</key><integer>72576</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4838</integer>
+					<key>Track ID</key><integer>72564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4850</integer>
+					<key>Track ID</key><integer>72579</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4846</integer>
+					<key>Track ID</key><integer>72573</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4840</integer>
+					<key>Track ID</key><integer>7037</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4774</integer>
+					<key>Track ID</key><integer>72468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10799</integer>
 				</dict>
 			</array>
 		</dict>
