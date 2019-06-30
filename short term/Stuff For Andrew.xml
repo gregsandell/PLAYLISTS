@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-05-08T14:11:55Z</date>
+	<key>Date</key><date>2019-06-30T07:16:13Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,37 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5274</key>
+		<key>4522</key>
 		<dict>
-			<key>Track ID</key><integer>5274</integer>
+			<key>Track ID</key><integer>4522</integer>
+			<key>Name</key><string>09 - Sleepy Creek</string>
+			<key>Artist</key><string>Grey Larsen</string>
+			<key>Album</key><string>The Gathering</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14478721</integer>
+			<key>Total Time</key><integer>601756</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2017-05-11T04:26:07Z</date>
+			<key>Date Added</key><date>2018-12-19T19:47:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3644249500</integer>
+			<key>Play Date UTC</key><date>2019-06-25T02:31:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gathering</string>
+			<key>Persistent ID</key><string>026A21CE6366D591</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Grey%20Larsen/1986%20-%20The%20Gathering/09%20-%20Sleepy%20Creek.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4706</key>
+		<dict>
+			<key>Track ID</key><integer>4706</integer>
 			<key>Name</key><string>Junior Heywood</string>
 			<key>Artist</key><string>Sam Bush</string>
 			<key>Album</key><string>Circles Around Me</string>
@@ -41,9 +69,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>10024</key>
+		<key>8346</key>
 		<dict>
-			<key>Track ID</key><integer>10024</integer>
+			<key>Track ID</key><integer>8346</integer>
 			<key>Name</key><string>Take_a_Look_at_That_Baby</string>
 			<key>Artist</key><string>John Fahey   </string>
 			<key>Album</key><string>Death Chants, Breakdowns and Military Dances</string>
@@ -68,9 +96,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11236</key>
+		<key>9480</key>
 		<dict>
-			<key>Track ID</key><integer>11236</integer>
+			<key>Track ID</key><integer>9480</integer>
 			<key>Name</key><string>All Things</string>
 			<key>Artist</key><string>The Cinematic Orchestra</string>
 			<key>Album Artist</key><string>The Cinematic Orchestra</string>
@@ -105,9 +133,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12100</key>
+		<key>10540</key>
 		<dict>
-			<key>Track ID</key><integer>12100</integer>
+			<key>Track ID</key><integer>10540</integer>
 			<key>Name</key><string>When Somebody Loves You Back</string>
 			<key>Artist</key><string>Teddy Pendergrass</string>
 			<key>Album Artist</key><string>Teddy Pendergrass</string>
@@ -120,7 +148,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2019-04-08T03:51:45Z</date>
-			<key>Date Added</key><date>2019-04-08T03:50:33Z</date>
+			<key>Date Added</key><date>2019-05-08T14:22:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -130,7 +158,7 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Essential Teddy Pendergrass Disc 1</string>
-			<key>Persistent ID</key><string>94CAF92105404304</string>
+			<key>Persistent ID</key><string>5255A37C37CB91C8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Teddy%20Pendergrass/2007%20-%20The%20Essential%20Teddy%20Pendergrass%20(2CD%20)/Disc%201/02%20When%20Somebody%20Loves%20You%20Back.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
@@ -142,25 +170,28 @@
 		<dict>
 			<key>Name</key><string>Stuff For Andrew</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>30255</integer>
-			<key>Playlist Persistent ID</key><string>18BFCF43E44AF074</string>
+			<key>Playlist ID</key><integer>29857</integer>
+			<key>Playlist Persistent ID</key><string>5EB2B04244B6D28E</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>11236</integer>
+					<key>Track ID</key><integer>9480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10024</integer>
+					<key>Track ID</key><integer>8346</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5274</integer>
+					<key>Track ID</key><integer>4706</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12100</integer>
+					<key>Track ID</key><integer>10540</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12100</integer>
+					<key>Track ID</key><integer>10540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4522</integer>
 				</dict>
 			</array>
 		</dict>
