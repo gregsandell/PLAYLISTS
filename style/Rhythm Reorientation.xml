@@ -4,17 +4,16 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-05-08T14:10:42Z</date>
+	<key>Date</key><date>2019-08-16T18:11:54Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8104</key>
+		<key>7647</key>
 		<dict>
-			<key>Track ID</key><integer>8104</integer>
+			<key>Track ID</key><integer>7647</integer>
 			<key>Name</key><string>Defocus</string>
 			<key>Artist</key><string>Amon Tobin</string>
 			<key>Album Artist</key><string>Amon Tobin</string>
@@ -43,9 +42,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8130</key>
+		<key>7653</key>
 		<dict>
-			<key>Track ID</key><integer>8130</integer>
+			<key>Track ID</key><integer>7653</integer>
 			<key>Name</key><string>She's Got To Be Somewhere</string>
 			<key>Artist</key><string>David Crosby</string>
 			<key>Album Artist</key><string>David Crosby</string>
@@ -74,22 +73,92 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>9573</key>
+		<dict>
+			<key>Track ID</key><integer>9573</integer>
+			<key>Name</key><string>All Things</string>
+			<key>Artist</key><string>The Cinematic Orchestra</string>
+			<key>Album Artist</key><string>The Cinematic Orchestra</string>
+			<key>Album</key><string>Man With a Movie Camera</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12416156</integer>
+			<key>Total Time</key><integer>366946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-09-13T00:14:33Z</date>
+			<key>Date Added</key><date>2019-04-01T17:18:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646377753</integer>
+			<key>Play Date UTC</key><date>2019-07-19T17:42:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-13T20:26:48Z</date>
+			<key>Release Date</key><date>2003-06-03T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1223</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cinematic Orchestra</string>
+			<key>Sort Artist</key><string>Cinematic Orchestra</string>
+			<key>Persistent ID</key><string>B5B441A0F305CB11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Cinematic%20Orchestra/2003%20-%20Man%20With%20a%20Movie%20Camera/17%20All%20Things.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12737</key>
+		<dict>
+			<key>Track ID</key><integer>12737</integer>
+			<key>Name</key><string>Shiftless Shuffle</string>
+			<key>Artist</key><string>Herbie Hancock</string>
+			<key>Album</key><string>Directstep</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17316079</integer>
+			<key>Total Time</key><integer>430889</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2019-07-27T17:01:44Z</date>
+			<key>Date Added</key><date>2019-07-27T17:01:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>00501AE4463E3DD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Herbie%20Hancock/1979%20-%20Directstep/02%20-%20Shiftless%20Shuffle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Rhythm Reorientation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>29033</integer>
-			<key>Playlist Persistent ID</key><string>B61BFEAB0C1CCDAB</string>
+			<key>Playlist ID</key><integer>30485</integer>
+			<key>Playlist Persistent ID</key><string>AFF686E367FA48F8</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8104</integer>
+					<key>Track ID</key><integer>7647</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8130</integer>
+					<key>Track ID</key><integer>7653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12737</integer>
 				</dict>
 			</array>
 		</dict>
