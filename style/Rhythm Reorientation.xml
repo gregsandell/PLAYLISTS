@@ -4,16 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-08-16T18:46:21Z</date>
+	<key>Date</key><date>2019-08-31T17:31:25Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7647</key>
+		<key>7621</key>
 		<dict>
-			<key>Track ID</key><integer>7647</integer>
+			<key>Track ID</key><integer>7621</integer>
 			<key>Name</key><string>Defocus</string>
 			<key>Artist</key><string>Amon Tobin</string>
 			<key>Album Artist</key><string>Amon Tobin</string>
@@ -42,9 +43,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7653</key>
+		<key>7627</key>
 		<dict>
-			<key>Track ID</key><integer>7653</integer>
+			<key>Track ID</key><integer>7627</integer>
 			<key>Name</key><string>She's Got To Be Somewhere</string>
 			<key>Artist</key><string>David Crosby</string>
 			<key>Album Artist</key><string>David Crosby</string>
@@ -73,9 +74,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9573</key>
+		<key>8915</key>
 		<dict>
-			<key>Track ID</key><integer>9573</integer>
+			<key>Track ID</key><integer>8915</integer>
 			<key>Name</key><string>All Things</string>
 			<key>Artist</key><string>The Cinematic Orchestra</string>
 			<key>Album Artist</key><string>The Cinematic Orchestra</string>
@@ -112,9 +113,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>96699</key>
+		<key>11723</key>
 		<dict>
-			<key>Track ID</key><integer>96699</integer>
+			<key>Track ID</key><integer>11723</integer>
 			<key>Name</key><string>Shiftless Shuffle</string>
 			<key>Artist</key><string>Herbie Hancock</string>
 			<key>Album</key><string>Directstep</string>
@@ -143,22 +144,22 @@
 		<dict>
 			<key>Name</key><string>Rhythm Reorientation</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>99450</integer>
-			<key>Playlist Persistent ID</key><string>907EAF3C9F91C4A4</string>
+			<key>Playlist ID</key><integer>32734</integer>
+			<key>Playlist Persistent ID</key><string>938714D604C0A64E</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>7647</integer>
+					<key>Track ID</key><integer>7621</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7653</integer>
+					<key>Track ID</key><integer>7627</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9573</integer>
+					<key>Track ID</key><integer>8915</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>96699</integer>
+					<key>Track ID</key><integer>11723</integer>
 				</dict>
 			</array>
 		</dict>
