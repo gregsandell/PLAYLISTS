@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-09-03T16:07:52Z</date>
+	<key>Date</key><date>2019-09-11T23:24:05Z</date>
 	<key>Application Version</key><string>12.8.2.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8900</key>
+		<key>8958</key>
 		<dict>
-			<key>Track ID</key><integer>8900</integer>
+			<key>Track ID</key><integer>8958</integer>
 			<key>Name</key><string>Bagatelle sans Tonalitée, S.216a</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -30,6 +30,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>1985 Hyperion</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650801882</integer>
+			<key>Play Date UTC</key><date>2019-09-08T22:38:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
@@ -40,9 +43,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9060</key>
+		<key>9118</key>
 		<dict>
-			<key>Track ID</key><integer>9060</integer>
+			<key>Track ID</key><integer>9118</integer>
 			<key>Name</key><string>Klavierstuck in F# Major, S193 (after 1860)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -56,9 +59,9 @@
 			<key>Date Added</key><date>2019-09-02T02:39:23Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650263152</integer>
-			<key>Play Date UTC</key><date>2019-09-02T16:59:12Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650920939</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:42:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -68,9 +71,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9062</key>
+		<key>9120</key>
 		<dict>
-			<key>Track ID</key><integer>9062</integer>
+			<key>Track ID</key><integer>9120</integer>
 			<key>Name</key><string>Mosonyis Grabgeleit (Mosonyi Gyazmenete)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -96,9 +99,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9064</key>
+		<key>9122</key>
 		<dict>
-			<key>Track ID</key><integer>9064</integer>
+			<key>Track ID</key><integer>9122</integer>
 			<key>Name</key><string>Epithalam--Zu Eduard Remenyis Vermahlungs-</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -112,7 +115,12 @@
 			<key>Date Added</key><date>2019-09-02T02:39:29Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3650944009</integer>
+			<key>Play Date UTC</key><date>2019-09-10T14:06:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-10T14:07:17Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>7C862804A5E192A3</string>
@@ -121,9 +129,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9066</key>
+		<key>9124</key>
 		<dict>
-			<key>Track ID</key><integer>9066</integer>
+			<key>Track ID</key><integer>9124</integer>
 			<key>Name</key><string>Dem Andenken Petofis (Petofi Szellemenek)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -149,9 +157,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9068</key>
+		<key>9126</key>
 		<dict>
-			<key>Track ID</key><integer>9068</integer>
+			<key>Track ID</key><integer>9126</integer>
 			<key>Name</key><string>Recueillement, S204 (1877)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -165,7 +173,10 @@
 			<key>Date Added</key><date>2019-09-02T02:39:54Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650447933</integer>
+			<key>Play Date UTC</key><date>2019-09-04T20:18:53Z</date>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>96B953CDC50D39FD</string>
@@ -174,9 +185,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9070</key>
+		<key>9128</key>
 		<dict>
-			<key>Track ID</key><integer>9070</integer>
+			<key>Track ID</key><integer>9128</integer>
 			<key>Name</key><string>Resignazione, S187a (c1877)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -190,10 +201,10 @@
 			<key>Date Added</key><date>2019-09-02T02:39:57Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650339999</integer>
-			<key>Play Date UTC</key><date>2019-09-03T14:19:59Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3650921000</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:43:20Z</date>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>753121663D98C615</string>
@@ -202,9 +213,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9072</key>
+		<key>9130</key>
 		<dict>
-			<key>Track ID</key><integer>9072</integer>
+			<key>Track ID</key><integer>9130</integer>
 			<key>Name</key><string>[Slyepoi] (Der Blinde Sanger), S542a (1878)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -218,7 +229,10 @@
 			<key>Date Added</key><date>2019-09-02T02:40:00Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650350987</integer>
+			<key>Play Date UTC</key><date>2019-09-03T17:23:07Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>03EA288A992FC9E5</string>
@@ -227,9 +241,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9074</key>
+		<key>9132</key>
 		<dict>
-			<key>Track ID</key><integer>9074</integer>
+			<key>Track ID</key><integer>9132</integer>
 			<key>Name</key><string>Piano Piece in E Major (Funf Klavierstuck</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -243,10 +257,10 @@
 			<key>Date Added</key><date>2019-09-02T02:40:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650312354</integer>
-			<key>Play Date UTC</key><date>2019-09-03T06:39:14Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650443508</integer>
+			<key>Play Date UTC</key><date>2019-09-04T19:05:08Z</date>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>1BF5E8DAD910E145</string>
@@ -255,9 +269,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9076</key>
+		<key>9134</key>
 		<dict>
-			<key>Track ID</key><integer>9076</integer>
+			<key>Track ID</key><integer>9134</integer>
 			<key>Name</key><string>Piano Piece in Ab Major (Funf Klavierstuck</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -285,9 +299,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9078</key>
+		<key>9136</key>
 		<dict>
-			<key>Track ID</key><integer>9078</integer>
+			<key>Track ID</key><integer>9136</integer>
 			<key>Name</key><string>Piano Piece in F# Major (Funf Klavierstucke</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -301,7 +315,10 @@
 			<key>Date Added</key><date>2019-09-02T02:40:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650443599</integer>
+			<key>Play Date UTC</key><date>2019-09-04T19:06:39Z</date>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>4E27C34815C289A5</string>
@@ -310,9 +327,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9080</key>
+		<key>9138</key>
 		<dict>
-			<key>Track ID</key><integer>9080</integer>
+			<key>Track ID</key><integer>9138</integer>
 			<key>Name</key><string>Piano Piece in F# Major (Funf Klavierstucke</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -338,9 +355,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9082</key>
+		<key>9140</key>
 		<dict>
-			<key>Track ID</key><integer>9082</integer>
+			<key>Track ID</key><integer>9140</integer>
 			<key>Name</key><string>Sospiri! (Funf Klavierstucke No 5), S 192/5</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -354,7 +371,10 @@
 			<key>Date Added</key><date>2019-09-02T02:40:06Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650920661</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:37:41Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>0C1E4705FC8CFC90</string>
@@ -363,9 +383,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9084</key>
+		<key>9142</key>
 		<dict>
-			<key>Track ID</key><integer>9084</integer>
+			<key>Track ID</key><integer>9142</integer>
 			<key>Name</key><string>Romance Oubliee (Vergessener Romanze), S527</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -379,7 +399,10 @@
 			<key>Date Added</key><date>2019-09-02T02:40:59Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650426143</integer>
+			<key>Play Date UTC</key><date>2019-09-04T14:15:43Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>C1DC158F2FEAFBF3</string>
@@ -388,9 +411,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9086</key>
+		<key>9144</key>
 		<dict>
-			<key>Track ID</key><integer>9086</integer>
+			<key>Track ID</key><integer>9144</integer>
 			<key>Name</key><string>Unstern! -- Sinstre, S208 (after 1880)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -404,7 +427,10 @@
 			<key>Date Added</key><date>2019-09-02T02:41:02Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3650522987</integer>
+			<key>Play Date UTC</key><date>2019-09-05T17:09:47Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>DEA9DED680E45E3B</string>
@@ -413,9 +439,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9088</key>
+		<key>9146</key>
 		<dict>
-			<key>Track ID</key><integer>9088</integer>
+			<key>Track ID</key><integer>9146</integer>
 			<key>Name</key><string>Carrousel de Madame P-N., S214a (c1875-81)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -429,9 +455,12 @@
 			<key>Date Added</key><date>2019-09-02T02:41:05Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3650921366</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:49:26Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-09-02T22:48:00Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>6BA1646531C09193</string>
@@ -440,9 +469,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9090</key>
+		<key>9148</key>
 		<dict>
-			<key>Track ID</key><integer>9090</integer>
+			<key>Track ID</key><integer>9148</integer>
 			<key>Name</key><string>Trube Wolken (Nuages Gris), S199 (1881)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -456,9 +485,9 @@
 			<key>Date Added</key><date>2019-09-02T02:41:08Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650254832</integer>
-			<key>Play Date UTC</key><date>2019-09-02T14:40:32Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650920823</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:40:23Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-09-02T14:40:51Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -470,9 +499,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9092</key>
+		<key>9150</key>
 		<dict>
-			<key>Track ID</key><integer>9092</integer>
+			<key>Track ID</key><integer>9150</integer>
 			<key>Name</key><string>Toccata, S197a (c1875-81)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -486,7 +515,10 @@
 			<key>Date Added</key><date>2019-09-02T02:41:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650447778</integer>
+			<key>Play Date UTC</key><date>2019-09-04T20:16:18Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>C5094D88DE44A6D0</string>
@@ -495,9 +527,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9094</key>
+		<key>9152</key>
 		<dict>
-			<key>Track ID</key><integer>9094</integer>
+			<key>Track ID</key><integer>9152</integer>
 			<key>Name</key><string>Ungarns Gott, S543 (1881)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -520,9 +552,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9096</key>
+		<key>9154</key>
 		<dict>
-			<key>Track ID</key><integer>9096</integer>
+			<key>Track ID</key><integer>9154</integer>
 			<key>Name</key><string>Wiegenlied (Chant du Berceau), S198 (1881)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -539,7 +571,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3650253069</integer>
 			<key>Play Date UTC</key><date>2019-09-02T14:11:09Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>5781FC020502C755</string>
@@ -548,9 +580,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9098</key>
+		<key>9156</key>
 		<dict>
-			<key>Track ID</key><integer>9098</integer>
+			<key>Track ID</key><integer>9156</integer>
 			<key>Name</key><string>Am Grabe Richard Wagners, S202 (1883)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -564,7 +596,10 @@
 			<key>Date Added</key><date>2019-09-02T02:41:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650800876</integer>
+			<key>Play Date UTC</key><date>2019-09-08T22:21:16Z</date>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>768F6641BCA3F75C</string>
@@ -573,9 +608,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9100</key>
+		<key>9158</key>
 		<dict>
-			<key>Track ID</key><integer>9100</integer>
+			<key>Track ID</key><integer>9158</integer>
 			<key>Name</key><string>RW--Venezia, S201 (1883)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -589,9 +624,9 @@
 			<key>Date Added</key><date>2019-09-02T02:41:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650313910</integer>
-			<key>Play Date UTC</key><date>2019-09-03T07:05:10Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650801174</integer>
+			<key>Play Date UTC</key><date>2019-09-08T22:26:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -601,9 +636,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9102</key>
+		<key>9160</key>
 		<dict>
-			<key>Track ID</key><integer>9102</integer>
+			<key>Track ID</key><integer>9160</integer>
 			<key>Name</key><string>Schlaflos! Frage und Antwort; Nocturne nach</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -617,7 +652,10 @@
 			<key>Date Added</key><date>2019-09-02T02:41:30Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3650530124</integer>
+			<key>Play Date UTC</key><date>2019-09-05T19:08:44Z</date>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>6AC9516E6C6AA454</string>
@@ -626,9 +664,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9104</key>
+		<key>9162</key>
 		<dict>
-			<key>Track ID</key><integer>9104</integer>
+			<key>Track ID</key><integer>9162</integer>
 			<key>Name</key><string>Schlaflos! [alternative version], S203 (1883)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -642,7 +680,7 @@
 			<key>Date Added</key><date>2019-09-02T02:41:30Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>D536B16B63744739</string>
@@ -651,9 +689,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9106</key>
+		<key>9164</key>
 		<dict>
-			<key>Track ID</key><integer>9106</integer>
+			<key>Track ID</key><integer>9164</integer>
 			<key>Name</key><string>Ungarisches Konigslied, S544 (1883)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -667,9 +705,9 @@
 			<key>Date Added</key><date>2019-09-02T02:41:33Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650314647</integer>
-			<key>Play Date UTC</key><date>2019-09-03T07:17:27Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650921569</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:52:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
@@ -679,9 +717,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9108</key>
+		<key>9166</key>
 		<dict>
-			<key>Track ID</key><integer>9108</integer>
+			<key>Track ID</key><integer>9166</integer>
 			<key>Name</key><string>Die Trauergondel (La Lugubre Gondola)--I</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -707,9 +745,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9110</key>
+		<key>9168</key>
 		<dict>
-			<key>Track ID</key><integer>9110</integer>
+			<key>Track ID</key><integer>9168</integer>
 			<key>Name</key><string>Die Trauergondel (La Lugubre Gondola)--II</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -723,7 +761,7 @@
 			<key>Date Added</key><date>2019-09-02T02:41:37Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>8FDE42836C5E649A</string>
@@ -732,9 +770,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9112</key>
+		<key>9170</key>
 		<dict>
-			<key>Track ID</key><integer>9112</integer>
+			<key>Track ID</key><integer>9170</integer>
 			<key>Name</key><string>Abschied--Russisches Volkslied, S251 (1885)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -748,7 +786,7 @@
 			<key>Date Added</key><date>2019-09-02T02:41:40Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>60</integer>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>64B99E43EB63D8CE</string>
@@ -757,9 +795,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9114</key>
+		<key>9172</key>
 		<dict>
-			<key>Track ID</key><integer>9114</integer>
+			<key>Track ID</key><integer>9172</integer>
 			<key>Name</key><string>En Reve -- Nocturne, S207 (1885)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -787,9 +825,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9116</key>
+		<key>9174</key>
 		<dict>
-			<key>Track ID</key><integer>9116</integer>
+			<key>Track ID</key><integer>9174</integer>
 			<key>Name</key><string>Trauervorspiel, Und ...</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -803,10 +841,10 @@
 			<key>Date Added</key><date>2019-09-02T02:41:54Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650217500</integer>
-			<key>Play Date UTC</key><date>2019-09-02T04:18:20Z</date>
-			<key>Rating</key><integer>60</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3650921315</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:48:35Z</date>
+			<key>Rating</key><integer>40</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>102D8D893616BFD2</string>
@@ -815,9 +853,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9118</key>
+		<key>9176</key>
 		<dict>
-			<key>Track ID</key><integer>9118</integer>
+			<key>Track ID</key><integer>9176</integer>
 			<key>Name</key><string>Trauermarsch, S206 (1885)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -831,9 +869,9 @@
 			<key>Date Added</key><date>2019-09-02T02:41:54Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3650223909</integer>
-			<key>Play Date UTC</key><date>2019-09-02T06:05:09Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650921220</integer>
+			<key>Play Date UTC</key><date>2019-09-10T07:47:00Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-09-02T06:05:25Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -851,103 +889,103 @@
 		<dict>
 			<key>Name</key><string>Liszt late pieces</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>18912</integer>
+			<key>Playlist ID</key><integer>20175</integer>
 			<key>Playlist Persistent ID</key><string>FB44D1245F5D95A3</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>9094</integer>
+					<key>Track ID</key><integer>9152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9114</integer>
+					<key>Track ID</key><integer>9172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9080</integer>
+					<key>Track ID</key><integer>9174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9116</integer>
+					<key>Track ID</key><integer>9170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9064</integer>
+					<key>Track ID</key><integer>9138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9072</integer>
+					<key>Track ID</key><integer>9136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9112</integer>
+					<key>Track ID</key><integer>9132</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9098</integer>
+					<key>Track ID</key><integer>9162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9110</integer>
+					<key>Track ID</key><integer>9128</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9084</integer>
+					<key>Track ID</key><integer>9126</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9078</integer>
+					<key>Track ID</key><integer>9160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9074</integer>
+					<key>Track ID</key><integer>9176</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9104</integer>
+					<key>Track ID</key><integer>9124</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9082</integer>
+					<key>Track ID</key><integer>9120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9088</integer>
+					<key>Track ID</key><integer>9122</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9086</integer>
+					<key>Track ID</key><integer>9164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9096</integer>
+					<key>Track ID</key><integer>9130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9070</integer>
+					<key>Track ID</key><integer>9156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9092</integer>
+					<key>Track ID</key><integer>9158</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9068</integer>
+					<key>Track ID</key><integer>9168</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9102</integer>
+					<key>Track ID</key><integer>9166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9134</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>9118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9066</integer>
+					<key>Track ID</key><integer>9140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9062</integer>
+					<key>Track ID</key><integer>9146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9106</integer>
+					<key>Track ID</key><integer>9144</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9100</integer>
+					<key>Track ID</key><integer>9154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9108</integer>
+					<key>Track ID</key><integer>9150</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9076</integer>
+					<key>Track ID</key><integer>9148</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9060</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9090</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8900</integer>
+					<key>Track ID</key><integer>8958</integer>
 				</dict>
 			</array>
 		</dict>
