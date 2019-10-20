@@ -4,17 +4,42 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-09-11T23:25:06Z</date>
-	<key>Application Version</key><string>12.8.2.3</string>
+	<key>Date</key><date>2019-09-25T16:48:04Z</date>
+	<key>Application Version</key><string>12.9.0.164</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8992</key>
+		<key>8420</key>
 		<dict>
-			<key>Track ID</key><integer>8992</integer>
+			<key>Track ID</key><integer>8420</integer>
+			<key>Name</key><string>Waldesrauschen (Etudes de Concert, S.145 - No. 1) </string>
+			<key>Artist</key><string>Daniil Trifonov</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Transcendental</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5835445</integer>
+			<key>Total Time</key><integer>253675</integer>
+			<key>Year</key><integer>1862</integer>
+			<key>Date Modified</key><date>2019-08-31T21:02:15Z</date>
+			<key>Date Added</key><date>2019-08-31T21:00:04Z</date>
+			<key>Bit Rate</key><integer>182</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56E25374E2C41F16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Etudes%20de%20Concert/1862%20-%202%20Etudes%20de%20Concert,%20S145/Daniil%20Trifonov/13%202%20Etudes%20de%20Concert,%20S.145%20-%20No.%201,%20Waldesrauschen.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8442</key>
+		<dict>
+			<key>Track ID</key><integer>8442</integer>
 			<key>Name</key><string>Piano Concerto No. 1 in Eb, S.121</string>
 			<key>Artist</key><string>Martha Argerich</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -34,9 +59,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9018</key>
+		<key>8468</key>
 		<dict>
-			<key>Track ID</key><integer>9018</integer>
+			<key>Track ID</key><integer>8468</integer>
 			<key>Name</key><string>Consolation No. 1 in E Major</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -53,8 +78,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3650191910</integer>
 			<key>Play Date UTC</key><date>2019-09-01T21:11:50Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2019-09-02T04:13:42Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-09-16T03:40:55Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -64,9 +89,34 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9056</key>
+		<key>8474</key>
 		<dict>
-			<key>Track ID</key><integer>9056</integer>
+			<key>Track ID</key><integer>8474</integer>
+			<key>Name</key><string>Consolation No. 4 in D flat major</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Liszt: Sonata, Elegies &#38; Consolations (Vol 9)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5303928</integer>
+			<key>Total Time</key><integer>131996</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1850</integer>
+			<key>Date Modified</key><date>2019-09-01T18:18:25Z</date>
+			<key>Date Added</key><date>2019-09-01T18:09:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45F299956F1BEAD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/1850%20-%20Consolations,%20S.172/Leslie%20Howard/04%20-%20Consolation%20No.%204%20in%20D%20flat%20major.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8506</key>
+		<dict>
+			<key>Track ID</key><integer>8506</integer>
 			<key>Name</key><string>Sunt lacrimae rerum - En mode hongrois (Années III)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -91,9 +141,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9100</key>
+		<key>8550</key>
 		<dict>
-			<key>Track ID</key><integer>9100</integer>
+			<key>Track ID</key><integer>8550</integer>
 			<key>Name</key><string>Passions-Allegro agitato e appassionato assai (Berlioz-Liszt Sym Fant)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -120,9 +170,149 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9152</key>
+		<key>8576</key>
 		<dict>
-			<key>Track ID</key><integer>9152</integer>
+			<key>Track ID</key><integer>8576</integer>
+			<key>Name</key><string>Recueillement, S204 (1877)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6988847</integer>
+			<key>Total Time</key><integer>148349</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:28Z</date>
+			<key>Date Added</key><date>2019-09-02T02:39:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651124261</integer>
+			<key>Play Date UTC</key><date>2019-09-12T16:11:01Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>96B953CDC50D39FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1877%20-%20Recueillement,%20S204/03%20-%20Recueillement,%20S204%20(1877).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8578</key>
+		<dict>
+			<key>Track ID</key><integer>8578</integer>
+			<key>Name</key><string>Resignazione, S187a (c1877)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3499935</integer>
+			<key>Total Time</key><integer>61126</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:28Z</date>
+			<key>Date Added</key><date>2019-09-02T02:39:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3651155669</integer>
+			<key>Play Date UTC</key><date>2019-09-13T00:54:29Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>753121663D98C615</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1877%20-%20Resignazione,%20S187a/05%20-%20Resignazione,%20S187a%20(c1877).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8582</key>
+		<dict>
+			<key>Track ID</key><integer>8582</integer>
+			<key>Name</key><string>Piano Piece in E Major (Funf Klavierstuck</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6986788</integer>
+			<key>Total Time</key><integer>148297</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:25Z</date>
+			<key>Date Added</key><date>2019-09-02T02:40:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651126636</integer>
+			<key>Play Date UTC</key><date>2019-09-12T16:50:36Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>1BF5E8DAD910E145</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1879%20-%20Funf%20Klavierstucke,%20S%20192/01%20-%20Piano%20Piece%20no.%201%20in%20E%20Major.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8586</key>
+		<dict>
+			<key>Track ID</key><integer>8586</integer>
+			<key>Name</key><string>Piano Piece in F# Major (Funf Klavierstucke</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4165568</integer>
+			<key>Total Time</key><integer>77766</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:24Z</date>
+			<key>Date Added</key><date>2019-09-02T02:40:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3651161296</integer>
+			<key>Play Date UTC</key><date>2019-09-13T02:28:16Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>4E27C34815C289A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1879%20-%20Funf%20Klavierstucke,%20S%20192/03%20-%20Piano%20Piece%20No.%203%20in%20F%23%20Major.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8588</key>
+		<dict>
+			<key>Track ID</key><integer>8588</integer>
+			<key>Name</key><string>Piano Piece in F# Major (Funf Klavierstucke</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3939870</integer>
+			<key>Total Time</key><integer>72124</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:24Z</date>
+			<key>Date Added</key><date>2019-09-02T02:40:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3651231223</integer>
+			<key>Play Date UTC</key><date>2019-09-13T21:53:43Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>317F6FCE244E20B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1879%20-%20Funf%20Klavierstucke,%20S%20192/04%20-%20Piano%20Piece%20No.%204%20in%20F%23%20Major.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8602</key>
+		<dict>
+			<key>Track ID</key><integer>8602</integer>
 			<key>Name</key><string>Ungarns Gott, S543 (1881)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -145,9 +335,93 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9172</key>
+		<key>8610</key>
 		<dict>
-			<key>Track ID</key><integer>9172</integer>
+			<key>Track ID</key><integer>8610</integer>
+			<key>Name</key><string>Schlaflos! Frage und Antwort; Nocturne nach</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5692163</integer>
+			<key>Total Time</key><integer>115931</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:29Z</date>
+			<key>Date Added</key><date>2019-09-02T02:41:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3650530124</integer>
+			<key>Play Date UTC</key><date>2019-09-05T19:08:44Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>6AC9516E6C6AA454</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1883%20-%20Schlaflos!%20%5Balternative%20version%5D,%20S203/01%20-%20Schlaflos!%20Frage%20und%20Antwort%3B%20Nocturne%20nach.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8612</key>
+		<dict>
+			<key>Track ID</key><integer>8612</integer>
+			<key>Name</key><string>Schlaflos! [alternative version], S203 (1883)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5307645</integer>
+			<key>Total Time</key><integer>106318</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:26Z</date>
+			<key>Date Added</key><date>2019-09-02T02:41:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651160033</integer>
+			<key>Play Date UTC</key><date>2019-09-13T02:07:13Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>D536B16B63744739</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1883%20-%20Schlaflos!%20%5Balternative%20version%5D,%20S203/10%20-%20Schlaflos!%20%5Balternative%20version%5D,%20S203%20(1883).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8620</key>
+		<dict>
+			<key>Track ID</key><integer>8620</integer>
+			<key>Name</key><string>Abschied--Russisches Volkslied, S251 (1885)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 11 - The Late Pieces</string>
+			<key>Genre</key><string>Chamber Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5812327</integer>
+			<key>Total Time</key><integer>118935</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Date Modified</key><date>2019-09-02T02:43:21Z</date>
+			<key>Date Added</key><date>2019-09-02T02:41:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651129191</integer>
+			<key>Play Date UTC</key><date>2019-09-12T17:33:11Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>64B99E43EB63D8CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Late%20Pieces/Leslie%20Howard/1885%20-%20Abschied--Russisches%20Volkslied,%20S251/22%20-%20Abschied--Russisches%20Volkslied,%20S251%20(1885).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8622</key>
+		<dict>
+			<key>Track ID</key><integer>8622</integer>
 			<key>Name</key><string>En Reve -- Nocturne, S207 (1885)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -175,9 +449,39 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9272</key>
+		<key>8712</key>
 		<dict>
-			<key>Track ID</key><integer>9272</integer>
+			<key>Track ID</key><integer>8712</integer>
+			<key>Name</key><string>No 5 in B flat major (early version Trans. Etude)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 26 - The Young Liszt (2CD)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7018672</integer>
+			<key>Total Time</key><integer>166426</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1826</integer>
+			<key>Date Modified</key><date>2019-09-02T04:57:26Z</date>
+			<key>Date Added</key><date>2019-09-02T04:55:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651214716</integer>
+			<key>Play Date UTC</key><date>2019-09-13T17:18:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-03T06:31:47Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BEE0A1AF746CA3AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcendental%20Etudes/1826%20-%20Early%20Version,%20S136/Leslie%20Howard/05%20-%20No%205%20in%20B%20flat%20major%20(early%20version%20Trans.%20Etude).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8722</key>
+		<dict>
+			<key>Track ID</key><integer>8722</integer>
 			<key>Name</key><string>No 10 in F minor (early version Trans. Etude)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -193,7 +497,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>F0EB93345245BF40</string>
 			<key>Track Type</key><string>File</string>
@@ -201,9 +504,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9274</key>
+		<key>8724</key>
 		<dict>
-			<key>Track ID</key><integer>9274</integer>
+			<key>Track ID</key><integer>8724</integer>
 			<key>Name</key><string>No 11 in D flat major (early version Trans. Etude)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -219,7 +522,6 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>83EB4E1EC722A6DB</string>
 			<key>Track Type</key><string>File</string>
@@ -227,9 +529,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9278</key>
+		<key>8728</key>
 		<dict>
-			<key>Track ID</key><integer>9278</integer>
+			<key>Track ID</key><integer>8728</integer>
 			<key>Name</key><string>Scherzo in G minor, S153 (1827)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -248,7 +550,6 @@
 			<key>Play Date UTC</key><date>2019-09-03T15:24:53Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>B75037C049149EE0</string>
 			<key>Track Type</key><string>File</string>
@@ -256,9 +557,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9294</key>
+		<key>8744</key>
 		<dict>
-			<key>Track ID</key><integer>9294</integer>
+			<key>Track ID</key><integer>8744</integer>
 			<key>Name</key><string>No. 4 in D flat major (Consolations early version)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -283,9 +584,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9310</key>
+		<key>8760</key>
 		<dict>
-			<key>Track ID</key><integer>9310</integer>
+			<key>Track ID</key><integer>8760</integer>
 			<key>Name</key><string>Transcendental Etude No. 4, Mazeppa (Presto)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -309,9 +610,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9320</key>
+		<key>8770</key>
 		<dict>
-			<key>Track ID</key><integer>9320</integer>
+			<key>Track ID</key><integer>8770</integer>
 			<key>Name</key><string>Transcendental Etude No. 9, Ricordanza (Andantino)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -335,9 +636,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9322</key>
+		<key>8772</key>
 		<dict>
-			<key>Track ID</key><integer>9322</integer>
+			<key>Track ID</key><integer>8772</integer>
 			<key>Name</key><string>Transcendental Etude No. 10, Allegro agitato molto</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -361,9 +662,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9352</key>
+		<key>8802</key>
 		<dict>
-			<key>Track ID</key><integer>9352</integer>
+			<key>Track ID</key><integer>8802</integer>
 			<key>Name</key><string>Harmonies du soir</string>
 			<key>Artist</key><string>Carol Rosenberger</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -390,9 +691,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9360</key>
+		<key>8810</key>
 		<dict>
-			<key>Track ID</key><integer>9360</integer>
+			<key>Track ID</key><integer>8810</integer>
 			<key>Name</key><string>Cadenza for Un Sopiro (Three Etudes de Concert No. 1, S144)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -418,9 +719,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9364</key>
+		<key>8814</key>
 		<dict>
-			<key>Track ID</key><integer>9364</integer>
+			<key>Track ID</key><integer>8814</integer>
 			<key>Name</key><string>Ab Irato (Etude de perfectionnement, S143)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -446,9 +747,221 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9440</key>
+		<key>8832</key>
 		<dict>
-			<key>Track ID</key><integer>9440</integer>
+			<key>Track ID</key><integer>8832</integer>
+			<key>Name</key><string>Eglogue (Anneés I Suisse, No. 7)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Album</key><string>Vol 39 - Première Année de Pèlerinage - Suisse</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9960002</integer>
+			<key>Total Time</key><integer>220212</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1855</integer>
+			<key>Date Modified</key><date>2019-09-04T22:51:41Z</date>
+			<key>Date Added</key><date>2019-09-04T22:15:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>C491A03C068AB671</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/Book%20I,%20Suisse,%20S160/Leslie%20Howard/07%20-%20Eglogue%20(Annee%CC%81s%20I%20Suisse,%20No.%207).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8834</key>
+		<dict>
+			<key>Track ID</key><integer>8834</integer>
+			<key>Name</key><string>Le mal du pays  - Heimweh (Anneés I Suisse, No. 8)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Album</key><string>Vol 39 - Première Année de Pèlerinage - Suisse</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13798994</integer>
+			<key>Total Time</key><integer>316186</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1855</integer>
+			<key>Date Modified</key><date>2019-09-04T22:18:14Z</date>
+			<key>Date Added</key><date>2019-09-04T22:15:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651473920</integer>
+			<key>Play Date UTC</key><date>2019-09-16T17:18:40Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>7F3BC1BB188ED7CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/Book%20I,%20Suisse,%20S160/Leslie%20Howard/08%20-%20Le%20mal%20du%20pays%20%20-%20Heimweh%20(Annee%CC%81s%20I%20Suisse,%20No.%208).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8864</key>
+		<dict>
+			<key>Track ID</key><integer>8864</integer>
+			<key>Name</key><string>Allegro (Album d'un Voyageur II No. 8)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 20 - Album d'un Voyageur CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4357813</integer>
+			<key>Total Time</key><integer>107990</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-05T20:55:43Z</date>
+			<key>Date Added</key><date>2019-09-05T20:03:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651124369</integer>
+			<key>Play Date UTC</key><date>2019-09-12T16:12:49Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>88107E1B1CFF8A9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/1838%20-%20Album%20d'un%20voyageur,%20S156/II.%20Fleurs%20me%CC%81lodiques%20des%20Alpes/Leslie%20Howard/08%20-%20Allegro%20(Album%20d'un%20Voyageur%20II%20No.%208).mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8866</key>
+		<dict>
+			<key>Track ID</key><integer>8866</integer>
+			<key>Name</key><string>Lento (Album d'un Voyageur II No. 9)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 20 - Album d'un Voyageur CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10438072</integer>
+			<key>Total Time</key><integer>259996</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-05T20:55:43Z</date>
+			<key>Date Added</key><date>2019-09-05T20:03:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651120986</integer>
+			<key>Play Date UTC</key><date>2019-09-12T15:16:26Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>755476A1D91B5EAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/1838%20-%20Album%20d'un%20voyageur,%20S156/II.%20Fleurs%20me%CC%81lodiques%20des%20Alpes/Leslie%20Howard/09%20-%20Lento%20(Album%20d'un%20Voyageur%20II%20No.%209).mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8868</key>
+		<dict>
+			<key>Track ID</key><integer>8868</integer>
+			<key>Name</key><string>Allegro pastorale (Album d'un Voyageur II No. 10)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 20 - Album d'un Voyageur CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6918870</integer>
+			<key>Total Time</key><integer>172016</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-05T20:04:48Z</date>
+			<key>Date Added</key><date>2019-09-05T20:03:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D5A56C7254AF2DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/1838%20-%20Album%20d'un%20voyageur,%20S156/II.%20Fleurs%20me%CC%81lodiques%20des%20Alpes/Leslie%20Howard/10%20-%20Allegro%20pastorale%20(Album%20d'un%20Voyageur%20II%20No.%2010).mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8876</key>
+		<dict>
+			<key>Track ID</key><integer>8876</integer>
+			<key>Name</key><string>Allegretto (Album d'un Voyageur II No. 14)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 20 - Album d'un Voyageur CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9543646</integer>
+			<key>Total Time</key><integer>237635</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-05T20:04:45Z</date>
+			<key>Date Added</key><date>2019-09-05T20:03:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09B4E6BB16804A30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/1838%20-%20Album%20d'un%20voyageur,%20S156/II.%20Fleurs%20me%CC%81lodiques%20des%20Alpes/Leslie%20Howard/14%20-%20Allegretto%20(Album%20d'un%20Voyageur%20II%20No.%2014).mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8878</key>
+		<dict>
+			<key>Track ID</key><integer>8878</integer>
+			<key>Name</key><string>Allegretto (Album d'un Voyageur II No. 15)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 20 - Album d'un Voyageur CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7700446</integer>
+			<key>Total Time</key><integer>191555</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-05T20:55:43Z</date>
+			<key>Date Added</key><date>2019-09-05T20:03:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651214920</integer>
+			<key>Play Date UTC</key><date>2019-09-13T17:22:00Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1D40C46C8B1A118</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/1838%20-%20Album%20d'un%20voyageur,%20S156/II.%20Fleurs%20me%CC%81lodiques%20des%20Alpes/Leslie%20Howard/15%20-%20Allegretto%20(Album%20d'un%20Voyageur%20II%20No.%2015).mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8880</key>
+		<dict>
+			<key>Track ID</key><integer>8880</integer>
+			<key>Name</key><string>Andantino con molto sentimento (Album d'un Voyageur II No. 16)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 20 - Album d'un Voyageur CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10147617</integer>
+			<key>Total Time</key><integer>252734</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-05T20:55:43Z</date>
+			<key>Date Added</key><date>2019-09-05T20:03:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3651217791</integer>
+			<key>Play Date UTC</key><date>2019-09-13T18:09:51Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>990D8AC8F8F7B337</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Anne%CC%81es%20de%20Pe%CC%81lerinage/1838%20-%20Album%20d'un%20voyageur,%20S156/II.%20Fleurs%20me%CC%81lodiques%20des%20Alpes/Leslie%20Howard/16%20-%20Andantino%20con%20molto%20sentimento%20(Album%20d'un%20Voyageur%20II%20No.%2016).mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8890</key>
+		<dict>
+			<key>Track ID</key><integer>8890</integer>
 			<key>Name</key><string>Allegro (Venezia e Napoli S159 No. 2)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -475,9 +988,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9442</key>
+		<key>8892</key>
 		<dict>
-			<key>Track ID</key><integer>9442</integer>
+			<key>Track ID</key><integer>8892</integer>
 			<key>Name</key><string>Andante placido (Venezia e Napoli S159 No. 3)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -504,9 +1017,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9444</key>
+		<key>8894</key>
 		<dict>
-			<key>Track ID</key><integer>9444</integer>
+			<key>Track ID</key><integer>8894</integer>
 			<key>Name</key><string>Tarantelles napolitaines (Venezia e Napoli S159 No. 4)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -530,9 +1043,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9446</key>
+		<key>8896</key>
 		<dict>
-			<key>Track ID</key><integer>9446</integer>
+			<key>Track ID</key><integer>8896</integer>
 			<key>Name</key><string>I. Harold aux montagnes (Berlioz-Liszt, Harold in Italy)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Hector Berlioz - Franz Liszt</string>
@@ -556,9 +1069,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9448</key>
+		<key>8898</key>
 		<dict>
-			<key>Track ID</key><integer>9448</integer>
+			<key>Track ID</key><integer>8898</integer>
 			<key>Name</key><string>II. Marche de pelerins (Berlioz-Liszt, Harold in Italy)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Hector Berlioz - Franz Liszt</string>
@@ -582,9 +1095,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9450</key>
+		<key>8900</key>
 		<dict>
-			<key>Track ID</key><integer>9450</integer>
+			<key>Track ID</key><integer>8900</integer>
 			<key>Name</key><string>III. Serenade (Berlioz-Liszt, Harold in Italy)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Hector Berlioz - Franz Liszt</string>
@@ -608,9 +1121,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9452</key>
+		<key>8902</key>
 		<dict>
-			<key>Track ID</key><integer>9452</integer>
+			<key>Track ID</key><integer>8902</integer>
 			<key>Name</key><string>IV. Orgie de brigands (Berlioz-Liszt, Harold in Italy)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Hector Berlioz - Franz Liszt</string>
@@ -634,9 +1147,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9456</key>
+		<key>8906</key>
 		<dict>
-			<key>Track ID</key><integer>9456</integer>
+			<key>Track ID</key><integer>8906</integer>
 			<key>Name</key><string>La Marseillaise S237</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -652,7 +1165,7 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8A9FE4036F445829</string>
@@ -661,9 +1174,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9460</key>
+		<key>8910</key>
 		<dict>
-			<key>Track ID</key><integer>9460</integer>
+			<key>Track ID</key><integer>8910</integer>
 			<key>Name</key><string>Der traurige Mönch (recitation, 'The Sad Monk') S348</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -687,9 +1200,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9464</key>
+		<key>8914</key>
 		<dict>
-			<key>Track ID</key><integer>9464</integer>
+			<key>Track ID</key><integer>8914</integer>
 			<key>Name</key><string>A holt költö szerelme (recitation, 'The Dead Poet's Love') S349</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -714,9 +1227,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9466</key>
+		<key>8916</key>
 		<dict>
-			<key>Track ID</key><integer>9466</integer>
+			<key>Track ID</key><integer>8916</integer>
 			<key>Name</key><string>Slyepoi (recitation, 'The Blind Man') S350</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -740,9 +1253,93 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9536</key>
+		<key>8940</key>
 		<dict>
-			<key>Track ID</key><integer>9536</integer>
+			<key>Track ID</key><integer>8940</integer>
+			<key>Name</key><string>Rapsodie espagnole S254</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>vol 45 - Rapsodie Espagnole</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>32586132</integer>
+			<key>Total Time</key><integer>807862</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1863</integer>
+			<key>Date Modified</key><date>2019-09-06T03:31:22Z</date>
+			<key>Date Added</key><date>2019-09-06T03:30:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651125181</integer>
+			<key>Play Date UTC</key><date>2019-09-12T16:26:21Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>4BAA0FB93A6E8E37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Misc%20Single%20Pieces/1863%20-%20Rapsodie%20espagnole%20S254/Leslie%20Howard/03%20-%20Rapsodie%20espagnole%20S254%20(c1863).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8954</key>
+		<dict>
+			<key>Track ID</key><integer>8954</integer>
+			<key>Name</key><string> 9 La lampe du temple (Andante lagrimoso, first version)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 47 - Litanies de Marie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23058096</integer>
+			<key>Total Time</key><integer>549459</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1847</integer>
+			<key>Date Modified</key><date>2019-09-06T03:52:46Z</date>
+			<key>Date Added</key><date>2019-09-06T03:44:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651124101</integer>
+			<key>Play Date UTC</key><date>2019-09-12T16:08:21Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>907B29E7977DE8EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Harmonies%20Poetiques%20et%20Religieuses/The%201847%20Cytcle,%20S172a/Leslie%20Howard/06%20-%20La%20lampe%20du%20temple%20(Harm.Relig.Poet%20II,%20No.%206).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8964</key>
+		<dict>
+			<key>Track ID</key><integer>8964</integer>
+			<key>Name</key><string>Litanies de Marie (Harm.Relig.Poet early version, S171e)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 47 - Litanies de Marie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22246076</integer>
+			<key>Total Time</key><integer>529162</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1840</integer>
+			<key>Date Modified</key><date>2019-09-06T03:55:27Z</date>
+			<key>Date Added</key><date>2019-09-06T03:53:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651127175</integer>
+			<key>Play Date UTC</key><date>2019-09-12T16:59:35Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>4F20EF25DCA25CF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Harmonies%20Poetiques%20et%20Religieuses/S171%20Early%20Versions/Leslie%20Howard/03%20-%20Litanies%20de%20Marie%20(Harm.Relig.Poet%20early%20version,%20S171e).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8986</key>
+		<dict>
+			<key>Track ID</key><integer>8986</integer>
 			<key>Name</key><string>No. 4 in E major (Paganini Etudes early version S140)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -768,9 +1365,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9538</key>
+		<key>8988</key>
 		<dict>
-			<key>Track ID</key><integer>9538</integer>
+			<key>Track ID</key><integer>8988</integer>
 			<key>Name</key><string>No. 4a in E major (Paganini Etudes early version S140)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -796,9 +1393,216 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>9704</key>
+		<key>8996</key>
 		<dict>
-			<key>Track ID</key><integer>9704</integer>
+			<key>Track ID</key><integer>8996</integer>
+			<key>Name</key><string>Transcendental Etude No. 4a, Mazeppa (intermediate version S138)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Album</key><string>Vol 48 - The Complete Paganini Etudes</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17011385</integer>
+			<key>Total Time</key><integer>424542</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2019-09-06T05:07:03Z</date>
+			<key>Date Added</key><date>2019-09-06T05:02:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98F5825552883581</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcendental%20Etudes/Leslie%20Howard/04a%20-%20Transcendental%20Etude%20No.%204a,%20Mazeppa%20(intermediate%20version%20S138).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9012</key>
+		<dict>
+			<key>Track ID</key><integer>9012</integer>
+			<key>Name</key><string>Faust Symphony II. Gretchen</string>
+			<key>Artist</key><string>Leipzig Gewanhaus - Masur</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21778839</integer>
+			<key>Total Time</key><integer>906135</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1854</integer>
+			<key>Date Modified</key><date>2019-09-08T15:28:31Z</date>
+			<key>Date Added</key><date>2019-09-08T15:28:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651128092</integer>
+			<key>Play Date UTC</key><date>2019-09-12T17:14:52Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0DF0232D32B8DAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/1880%20-%20Faust%20Symphony%20S108/Leipzig%20Gewandhaus%20-%20Kurt%20Masur./02%20-%20Faust%20Symphony%20II.%20Gretchen.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9032</key>
+		<dict>
+			<key>Track ID</key><integer>9032</integer>
+			<key>Name</key><string>Mazeppa (Sym Poem No. 6, S100)</string>
+			<key>Artist</key><string>Franz Liszt</string>
+			<key>Album Artist</key><string>London Philharmonic Orchestra</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Complete Symphonic Poems</string>
+			<key>Genre</key><string>Romantic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>28384192</integer>
+			<key>Total Time</key><integer>988029</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-09-13T00:16:28Z</date>
+			<key>Date Added</key><date>2019-09-08T20:12:47Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F45CA4AF866DBCED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Symphonic%20Poems/1854%20-%20Mazeppa%20(No.%206,%20S100)/London%20Phil%20-%20Haitinck/01%20-%20Mazeppa%20(Sym%20Poem%20No.%206,%20S100).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9080</key>
+		<dict>
+			<key>Track ID</key><integer>9080</integer>
+			<key>Name</key><string>Elégie (Die Zelle in Nonnenwerth 1st vers. S534i)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Album</key><string>Vol 51 - Paralipomenes CD 1</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13522559</integer>
+			<key>Total Time</key><integer>335229</integer>
+			<key>Year</key><integer>1841</integer>
+			<key>Date Modified</key><date>2019-09-10T07:13:40Z</date>
+			<key>Date Added</key><date>2019-09-10T07:08:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3DAFF1B64C798C6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Misc%20Group%20Pieces/Elegies/Leslie%20Howard/1841%20-%20Ele%CC%81gie%20(Die%20Zelle%20in%20Nonnenwerth%201st%20vers.%20S534i).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9092</key>
+		<dict>
+			<key>Track ID</key><integer>9092</integer>
+			<key>Name</key><string>I. in E (Hung. Rhaps. 1853)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol.57 - Rapsodies.Hongroises CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>37038502</integer>
+			<key>Total Time</key><integer>917707</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2019-09-10T21:19:41Z</date>
+			<key>Date Added</key><date>2019-09-10T07:57:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6A19C2804A0E967</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Hungarian%20Rhapsodies%20S244/Leslie%20Howard/01%20-%20I.%20in%20E%20(1853).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9122</key>
+		<dict>
+			<key>Track ID</key><integer>9122</integer>
+			<key>Name</key><string>XVI. in A minor (Hung. Rhaps., second version, 1882)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Liszt - Howard Vol.57 - Rapsodies.Hongroises Vol 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12492913</integer>
+			<key>Total Time</key><integer>304065</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2019-09-10T21:43:59Z</date>
+			<key>Date Added</key><date>2019-09-10T07:57:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651152907</integer>
+			<key>Play Date UTC</key><date>2019-09-13T00:08:27Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25AEA6A3DAB33EAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Hungarian%20Rhapsodies%20S244/Leslie%20Howard/16%20-%20%20XVI.%20in%20A%20minor%20(second%20version,%20S24416ii,%201882).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9124</key>
+		<dict>
+			<key>Track ID</key><integer>9124</integer>
+			<key>Name</key><string>XVII in D minor (Hung. Rhaps., 1882)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Liszt - Howard Vol.57 - Rapsodies.Hongroises Vol 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8132527</integer>
+			<key>Total Time</key><integer>195056</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2019-09-10T21:20:33Z</date>
+			<key>Date Added</key><date>2019-09-10T07:57:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651155268</integer>
+			<key>Play Date UTC</key><date>2019-09-13T00:47:48Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCB27747A7C3829F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Hungarian%20Rhapsodies%20S244/Leslie%20Howard/17%20-%20XVII%20in%20D%20minor%20(1882).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9126</key>
+		<dict>
+			<key>Track ID</key><integer>9126</integer>
+			<key>Name</key><string>XVIII. in F sharp minor (Hung. Rhaps., with final version of coda, 1885)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Liszt - Howard Vol.57 - Rapsodies.Hongroises Vol 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8685325</integer>
+			<key>Total Time</key><integer>208875</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2019-09-10T21:45:04Z</date>
+			<key>Date Added</key><date>2019-09-10T07:57:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651121439</integer>
+			<key>Play Date UTC</key><date>2019-09-12T15:23:59Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B785CF21D3EDE24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Hungarian%20Rhapsodies%20S244/Leslie%20Howard/18%20-%20XVIII.%20in%20F%20sharp%20minor%20(with%20final%20version%20of%20coda,%20S24418iii,%201885).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9154</key>
+		<dict>
+			<key>Track ID</key><integer>9154</integer>
 			<key>Name</key><string>Album Leaf in Waltz Form, S166 1842</string>
 			<key>Artist</key><string>Leslie q</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -818,7 +1622,6 @@
 			<key>Play Date UTC</key><date>2019-09-11T15:59:54Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B35169994A40003F</string>
 			<key>Track Type</key><string>File</string>
@@ -826,9 +1629,39 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9724</key>
+		<key>9172</key>
 		<dict>
-			<key>Track ID</key><integer>9724</integer>
+			<key>Track ID</key><integer>9172</integer>
+			<key>Name</key><string>Waltz in A major S208c</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 26 - The Young Liszt CD 1</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3201922</integer>
+			<key>Total Time</key><integer>71053</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2019-09-11T04:43:30Z</date>
+			<key>Date Added</key><date>2019-09-11T04:42:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651064273</integer>
+			<key>Play Date UTC</key><date>2019-09-11T23:31:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-11T23:37:34Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>6EA572A28EA8F308</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Waltzes/Leslie%20Howard/Vol%2026%20-%20The%20Young%20Liszt%20CD%201/1823%20-%20Waltz%20in%20A%20major%20S208a.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9174</key>
+		<dict>
+			<key>Track ID</key><integer>9174</integer>
 			<key>Name</key><string>Petite Valse favorite (2nd version), S212a</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -852,109 +1685,1373 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>9190</key>
+		<dict>
+			<key>Track ID</key><integer>9190</integer>
+			<key>Name</key><string>I. Kiniszi notaja (Hungarian Recruiting Dance No. 1, S241)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 26 - The Young Liszt CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6657147</integer>
+			<key>Total Time</key><integer>157387</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1828</integer>
+			<key>Date Modified</key><date>2019-09-11T23:34:34Z</date>
+			<key>Date Added</key><date>2019-09-11T23:33:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651116504</integer>
+			<key>Play Date UTC</key><date>2019-09-12T14:01:44Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>D9D5AE36067EB067</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Misc%20Group%20Pieces/1828%20-%20Hungarian%20Recruiting%20Dances,%20S241/Leslie%20Howard/01%20-%20I.%20Kiniszi%20notaja%20(Hungarian%20Recruiting%20Dance%20No.%201,%20S241).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9196</key>
+		<dict>
+			<key>Track ID</key><integer>9196</integer>
+			<key>Name</key><string>Klavierstück (in D flat major), S189b</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 26 - The Young Liszt CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2524673</integer>
+			<key>Total Time</key><integer>54073</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>1845</integer>
+			<key>Date Modified</key><date>2019-09-11T23:39:31Z</date>
+			<key>Date Added</key><date>2019-09-11T23:37:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651116567</integer>
+			<key>Play Date UTC</key><date>2019-09-12T14:02:47Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>E3BF0B899F2F8A25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Klavierstuck/Leslie%20Howard/Vol%2026%20-%20The%20Young%20Liszt%20CD%202/20%20-%20Klavierstu%CC%88ck%20(in%20D%20flat%20major),%20S189b.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9200</key>
+		<dict>
+			<key>Track ID</key><integer>9200</integer>
+			<key>Name</key><string>Impromptu brillant on themes by Rossini and Spontini, op. 3, S150</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Album</key><string>Vol 26 - The Young Liszt CD 1</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>29583876</integer>
+			<key>Total Time</key><integer>734066</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1824</integer>
+			<key>Date Modified</key><date>2019-09-13T00:16:53Z</date>
+			<key>Date Added</key><date>2019-09-13T00:15:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3CE017232CFF8A13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Impromptu/Leslie%20Howard/Vol%2026%20-%20The%20Young%20Liszt%20CD%201/1824%20-%20Impromptu%20brillant%20on%20themes%20by%20Rossini%20and%20Spontini,%20op.%203,%20S150.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9204</key>
+		<dict>
+			<key>Track ID</key><integer>9204</integer>
+			<key>Name</key><string>I. Die Rose, S556ii (Zwei Lieder, Schubert - Liszt) </string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11291956</integer>
+			<key>Total Time</key><integer>280633</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:34:31Z</date>
+			<key>Date Added</key><date>2019-09-16T06:32:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652092647</integer>
+			<key>Play Date UTC</key><date>2019-09-23T21:10:47Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A40FF44B370B4E9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwei%20Lieder/01%20-%20I.%20Die%20Rose,%20S556ii%20(Zwei%20Lieder,%20Schubert%20-%20Liszt)%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9208</key>
+		<dict>
+			<key>Track ID</key><integer>9208</integer>
+			<key>Name</key><string> I. Sei mir gegrüsst (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14292575</integer>
+			<key>Total Time</key><integer>353123</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651756042</integer>
+			<key>Play Date UTC</key><date>2019-09-19T23:40:42Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>ED9BAE5BAB79E065</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/01%20-%20%20I.%20Sei%20mir%20gegru%CC%88sst%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9212</key>
+		<dict>
+			<key>Track ID</key><integer>9212</integer>
+			<key>Name</key><string> III. Du bist die Ruh' (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13032430</integer>
+			<key>Total Time</key><integer>321619</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3651750702</integer>
+			<key>Play Date UTC</key><date>2019-09-19T22:11:42Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>FEDEBF66DF087169</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/03%20-%20%20III.%20Du%20bist%20die%20Ruh'%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9216</key>
+		<dict>
+			<key>Track ID</key><integer>9216</integer>
+			<key>Name</key><string> V. Meeresstille (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7370116</integer>
+			<key>Total Time</key><integer>180062</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>35131323AF8437AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/05%20-%20%20V.%20Meeresstille%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9218</key>
+		<dict>
+			<key>Track ID</key><integer>9218</integer>
+			<key>Name</key><string> VI. Die junge Nonne (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13173488</integer>
+			<key>Total Time</key><integer>325146</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>04D3595D8A5FE6AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/06%20-%20%20VI.%20Die%20junge%20Nonne%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9220</key>
+		<dict>
+			<key>Track ID</key><integer>9220</integer>
+			<key>Name</key><string> VII. Frühlingsglaube (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10069100</integer>
+			<key>Total Time</key><integer>247536</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651737497</integer>
+			<key>Play Date UTC</key><date>2019-09-19T18:31:37Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>4F0BAA4163FE9BC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/07%20-%20%20VII.%20Fru%CC%88hlingsglaube%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9224</key>
+		<dict>
+			<key>Track ID</key><integer>9224</integer>
+			<key>Name</key><string> IX. Ständchen von Shakespeare - 'Hark, hark!' (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7127762</integer>
+			<key>Total Time</key><integer>174001</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>A48D40953DE9E98B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/09%20-%20%20IX.%20Sta%CC%88ndchen%20von%20Shakespeare%20-%20'Hark,%20hark!'%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9228</key>
+		<dict>
+			<key>Track ID</key><integer>9228</integer>
+			<key>Name</key><string> XI. Der Wanderer (Zwolf Lieder, Schubert-Liszt, S558)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16675981</integer>
+			<key>Total Time</key><integer>412708</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:39:03Z</date>
+			<key>Date Added</key><date>2019-09-16T06:34:42Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>65759601B7DB6BB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1838%20-%20Zwolf%20Lieder,%20S558/11%20-%20%20XI.%20Der%20Wanderer%20(Zwolf%20Lieder,%20Schubert-Liszt,%20S558).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9270</key>
+		<dict>
+			<key>Track ID</key><integer>9270</integer>
+			<key>Name</key><string>II. Marche hongrois (Melodies Hongroises, Schubert-Liszt, S425)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14851982</integer>
+			<key>Total Time</key><integer>369240</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1839</integer>
+			<key>Date Modified</key><date>2019-09-16T06:40:33Z</date>
+			<key>Date Added</key><date>2019-09-16T06:39:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2292C75C6AC5F0C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1839%20-%20Melodies%20Hongroises%20d'apres%20Fr.%20Schubert%20%20(first%20version,%20S425)/02%20-%20II.%20Marche%20hongrois%20(Melodies%20Hongroises,%20Schubert-Liszt,%20S425).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9272</key>
+		<dict>
+			<key>Track ID</key><integer>9272</integer>
+			<key>Name</key><string>III. Allegretto (Melodies Hongroises, Schubert-Liszt, S425)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>57000027</integer>
+			<key>Total Time</key><integer>1422942</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1839</integer>
+			<key>Date Modified</key><date>2019-09-16T06:40:32Z</date>
+			<key>Date Added</key><date>2019-09-16T06:39:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE46B6365C5D0990</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1839%20-%20Melodies%20Hongroises%20d'apres%20Fr.%20Schubert%20%20(first%20version,%20S425)/03%20-%20III.%20Allegretto%20(Melodies%20Hongroises,%20Schubert-Liszt,%20S425).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9330</key>
+		<dict>
+			<key>Track ID</key><integer>9330</integer>
+			<key>Name</key><string>I. Litanei - auf das Fest aller Seelen (Vier Geistliche Lieder, Schuber-Liszt, S562)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9917363</integer>
+			<key>Total Time</key><integer>245942</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1840</integer>
+			<key>Date Modified</key><date>2019-09-16T06:44:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:42:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49D519DFDD9630DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1840%20-%20Vier%20Geistliche%20Lieder,%20S562/01%20-%20I.%20Litanei%20-%20auf%20das%20Fest%20aller%20Seelen%20(Vier%20Geistliche%20Lieder,%20Schuber-Liszt,%20S562).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9332</key>
+		<dict>
+			<key>Track ID</key><integer>9332</integer>
+			<key>Name</key><string>II. Himmelsfunken (Vier Geistliche Lieder, Schuber-Liszt, S562)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11063055</integer>
+			<key>Total Time</key><integer>274442</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1840</integer>
+			<key>Date Modified</key><date>2019-09-16T06:44:03Z</date>
+			<key>Date Added</key><date>2019-09-16T06:42:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF065B510D555C46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1840%20-%20Vier%20Geistliche%20Lieder,%20S562/02%20-%20II.%20Himmelsfunken%20(Vier%20Geistliche%20Lieder,%20Schuber-Liszt,%20S562).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9338</key>
+		<dict>
+			<key>Track ID</key><integer>9338</integer>
+			<key>Name</key><string>I. Lebe wohl! (Sechs Melodien, Schubert-Liszt, S563)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10806853</integer>
+			<key>Total Time</key><integer>269165</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1844</integer>
+			<key>Date Modified</key><date>2019-09-16T06:45:05Z</date>
+			<key>Date Added</key><date>2019-09-16T06:44:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651757546</integer>
+			<key>Play Date UTC</key><date>2019-09-20T00:05:46Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B3299534B9BA3BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1844%20-%20Sechs%20Melodien,%20S563/01%20-%20I.%20Lebe%20wohl!%20(Sechs%20Melodien,%20Schubert-Liszt,%20S563).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9340</key>
+		<dict>
+			<key>Track ID</key><integer>9340</integer>
+			<key>Name</key><string>II. Des Mädchens Klage (Sechs Melodien, Schubert-Liszt, S563)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12924872</integer>
+			<key>Total Time</key><integer>322115</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1844</integer>
+			<key>Date Modified</key><date>2019-09-16T06:45:05Z</date>
+			<key>Date Added</key><date>2019-09-16T06:44:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>399A43B6579465DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1844%20-%20Sechs%20Melodien,%20S563/02%20-%20II.%20Des%20Ma%CC%88dchens%20Klage%20(Sechs%20Melodien,%20Schubert-Liszt,%20S563).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9342</key>
+		<dict>
+			<key>Track ID</key><integer>9342</integer>
+			<key>Name</key><string>III. Das Sterbeglocklein (Sechs Melodien, Schubert-Liszt, S563)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21211958</integer>
+			<key>Total Time</key><integer>529293</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1844</integer>
+			<key>Date Modified</key><date>2019-09-16T06:45:04Z</date>
+			<key>Date Added</key><date>2019-09-16T06:44:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F07341DDDAF97D96</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1844%20-%20Sechs%20Melodien,%20S563/03%20-%20III.%20Das%20Sterbeglocklein%20(Sechs%20Melodien,%20Schubert-Liszt,%20S563).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9350</key>
+		<dict>
+			<key>Track ID</key><integer>9350</integer>
+			<key>Name</key><string>I. Trauermarsch - Grande March funebre (Marsche, Schubert-Liszt, S426)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>44627402</integer>
+			<key>Total Time</key><integer>1113626</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1846</integer>
+			<key>Date Modified</key><date>2019-09-16T06:47:03Z</date>
+			<key>Date Added</key><date>2019-09-16T06:45:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0526EE4B7CA7510</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1846%20-%20Marsche%20fu%CC%88r%20das%20Pianoforte%20ubertragen,%20S426%20/01%20-%20I.%20Trauermarsch%20-%20Grande%20March%20funebre%20(Marsche,%20Schubert-Liszt,%20S426).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9354</key>
+		<dict>
+			<key>Track ID</key><integer>9354</integer>
+			<key>Name</key><string>III. Grande Marche caracteristique (Marsche, Schubert-Liszt, S426</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>30250646</integer>
+			<key>Total Time</key><integer>754207</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1846</integer>
+			<key>Date Modified</key><date>2019-09-16T06:46:57Z</date>
+			<key>Date Added</key><date>2019-09-16T06:45:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19E07950ACF57E8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1846%20-%20Marsche%20fu%CC%88r%20das%20Pianoforte%20ubertragen,%20S426%20/03%20-%20III.%20Grande%20Marche%20caracteristique%20(Marsche,%20Schubert-Liszt,%20S426.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9360</key>
+		<dict>
+			<key>Track ID</key><integer>9360</integer>
+			<key>Name</key><string>III. Der Jager (Six Melodies Favorites de la Belle Meuniere, Schubert-Liszt, S565)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1630589</integer>
+			<key>Total Time</key><integer>39758</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1846</integer>
+			<key>Date Modified</key><date>2019-09-16T06:48:16Z</date>
+			<key>Date Added</key><date>2019-09-16T06:47:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651725883</integer>
+			<key>Play Date UTC</key><date>2019-09-19T15:18:03Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8008C30ECAC8FDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1846%20-%20Six%20Melodies%20Favorites%20de%20la%20Belle%20Meuniere%20(1srt%20version,%20S565)/03%20-%20III.%20Der%20Jager%20(Six%20Melodies%20Favorites%20de%20la%20Belle%20Meuniere,%20Schubert-Liszt,%20S565).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9368</key>
+		<dict>
+			<key>Track ID</key><integer>9368</integer>
+			<key>Name</key><string>I. Andante (Ungarischer Melodien 2nd version, Schubert-Liszt, S425a)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20456958</integer>
+			<key>Total Time</key><integer>508238</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1846</integer>
+			<key>Date Modified</key><date>2019-09-16T06:49:14Z</date>
+			<key>Date Added</key><date>2019-09-16T06:48:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49A16EAFE0793127</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1846%20-%20Ungarischer%20Melodien%20(2nd%20version,%20S425a)/01%20-%20I.%20Andante%20(Ungarischer%20Melodien%202nd%20version,%20Schubert-Liszt,%20S425a).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9370</key>
+		<dict>
+			<key>Track ID</key><integer>9370</integer>
+			<key>Name</key><string>II. Marcia - Marche hongroise (Ungarischer Melodien 2nd version, Schubert-Liszt, S425a)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14104309</integer>
+			<key>Total Time</key><integer>350093</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1846</integer>
+			<key>Date Modified</key><date>2019-09-16T06:49:14Z</date>
+			<key>Date Added</key><date>2019-09-16T06:48:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6BD3B3E0E8FA3022</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1846%20-%20Ungarischer%20Melodien%20(2nd%20version,%20S425a)/02%20-%20II.%20Marcia%20-%20Marche%20hongroise%20(Ungarischer%20Melodien%202nd%20version,%20Schubert-Liszt,%20S425a).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9374</key>
+		<dict>
+			<key>Track ID</key><integer>9374</integer>
+			<key>Name</key><string>No. 1 in Ab (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16658620</integer>
+			<key>Total Time</key><integer>414406</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:20Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF5476B79B50E805</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/01%20-%20No.%201%20in%20Ab%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9376</key>
+		<dict>
+			<key>Track ID</key><integer>9376</integer>
+			<key>Name</key><string>No. 2 in Ab (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20480857</integer>
+			<key>Total Time</key><integer>509962</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:19Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB249E0B36FE6F22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/02%20-%20No.%202%20in%20Ab%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9378</key>
+		<dict>
+			<key>Track ID</key><integer>9378</integer>
+			<key>Name</key><string>No. 3 in E (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>24035599</integer>
+			<key>Total Time</key><integer>598831</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:18Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>961A72ADB3EC6DCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/03%20-%20No.%203%20in%20E%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9380</key>
+		<dict>
+			<key>Track ID</key><integer>9380</integer>
+			<key>Name</key><string>No. 4 in Db (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16924024</integer>
+			<key>Total Time</key><integer>421041</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:17Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DEFD44A6CA3FAE46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/04%20-%20No.%204%20in%20Db%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9382</key>
+		<dict>
+			<key>Track ID</key><integer>9382</integer>
+			<key>Name</key><string>No. 5 in Gb (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25536073</integer>
+			<key>Total Time</key><integer>636342</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:16Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>439739817DEBD74B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/05%20-%20No.%205%20in%20Gb%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9384</key>
+		<dict>
+			<key>Track ID</key><integer>9384</integer>
+			<key>Name</key><string>No. 6 in A minor (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16982543</integer>
+			<key>Total Time</key><integer>422504</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:14Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E76061AE8C6D8D03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/06%20-%20No.%206%20in%20A%20minor%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9388</key>
+		<dict>
+			<key>Track ID</key><integer>9388</integer>
+			<key>Name</key><string>No. 8 in D (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>26093003</integer>
+			<key>Total Time</key><integer>650266</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:13Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80C576A52FE7C54A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/08%20-%20No.%208%20in%20D%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9390</key>
+		<dict>
+			<key>Track ID</key><integer>9390</integer>
+			<key>Name</key><string>No.9 iom Ab (Soirees de Vienne - Valses- Caprices, Schubert-Liszt, S427)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23363730</integer>
+			<key>Total Time</key><integer>582034</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1852</integer>
+			<key>Date Modified</key><date>2019-09-16T06:50:11Z</date>
+			<key>Date Added</key><date>2019-09-16T06:49:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C183A69FD6F84B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1852%20-%20Soirees%20de%20Vienne%20-%20Valses-%20Caprices%20d'apres%20Fr.%20Schubert,%20S427/09%20-%20No.9%20iom%20Ab%20(Soirees%20de%20Vienne%20-%20Valses-%20Caprices,%20Schubert-Liszt,%20S427).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9410</key>
+		<dict>
+			<key>Track ID</key><integer>9410</integer>
+			<key>Name</key><string> 8. Gretchen am Spinnrade</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9964814</integer>
+			<key>Total Time</key><integer>247457</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1879</integer>
+			<key>Date Modified</key><date>2019-09-16T06:52:41Z</date>
+			<key>Date Added</key><date>2019-09-16T06:51:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B259AD55027396A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/1879%20-%20Zwo%CC%88lf%20Lieder,%20S558bis/04%20-%20IV.%20Gretchen%20am%20Spinnrade%20(Zwolf%20Lieder,%202nd%20version,%20Schubert-Liszt%20S558bis).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9416</key>
+		<dict>
+			<key>Track ID</key><integer>9416</integer>
+			<key>Name</key><string>I. Soirees de Vienne - Valce Caprice No. 6 (Two Transcriptions for Sophie Menter, Schubert-Liszt)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20129797</integer>
+			<key>Total Time</key><integer>501185</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2019-09-16T06:54:30Z</date>
+			<key>Date Added</key><date>2019-09-16T06:53:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26175FA4E3DA4A08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Two%20Transcriptions%20for%20Sophie%20Menter/01%20-%20I.%20Soirees%20de%20Vienne%20-%20Valce%20Caprice%20No.%206%20(Two%20Transcriptions%20for%20Sophie%20Menter,%20Schubert-Liszt).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9420</key>
+		<dict>
+			<key>Track ID</key><integer>9420</integer>
+			<key>Name</key><string>Die Rose (Schubert-Liszt, S556i)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10251303</integer>
+			<key>Total Time</key><integer>254223</integer>
+			<key>Year</key><integer>1833</integer>
+			<key>Date Modified</key><date>2019-09-16T06:56:35Z</date>
+			<key>Date Added</key><date>2019-09-16T06:54:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D2BCC0486A57209</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2031%20-%20Schubert%20Transcriptions%20-%20I%20-%20CD%202/1833%20-%20Die%20Rose%20(Schubert-Liszt,%20S556i).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9422</key>
+		<dict>
+			<key>Track ID</key><integer>9422</integer>
+			<key>Name</key><string>Der Gondelfahrer - Manner-Quartett (Schubert-Liszt, S559)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15640911</integer>
+			<key>Total Time</key><integer>388963</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T06:56:24Z</date>
+			<key>Date Added</key><date>2019-09-16T06:54:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>694890BEC8A05C06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2031%20-%20Schubert%20Transcriptions%20-%20I%20-%20CD%202/1838%20-%20Der%20Gondelfahrer%20-%20Manner-Quartett%20(Schubert-Liszt,%20S559).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9430</key>
+		<dict>
+			<key>Track ID</key><integer>9430</integer>
+			<key>Name</key><string>Marche hongroise (Schubert-Liszt, S425-2ii)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 31 - Schubert Transcriptions - I CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15370236</integer>
+			<key>Total Time</key><integer>382197</integer>
+			<key>Year</key><integer>1840</integer>
+			<key>Date Modified</key><date>2019-09-16T06:57:55Z</date>
+			<key>Date Added</key><date>2019-09-16T06:56:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F76BF3D8A308E0CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2031%20-%20Schubert%20Transcriptions%20-%20I%20-%20CD%203/1840%20-%20Marche%20hongroise%20(Schubert-Liszt,%20S425-2ii).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9434</key>
+		<dict>
+			<key>Track ID</key><integer>9434</integer>
+			<key>Name</key><string>Meeresstille (Schubert-Liszt, S557b)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 32 - Schubert Transcriptions - II CD 1\</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7358091</integer>
+			<key>Total Time</key><integer>182282</integer>
+			<key>Year</key><integer>1837</integer>
+			<key>Date Modified</key><date>2019-09-16T07:00:06Z</date>
+			<key>Date Added</key><date>2019-09-16T06:58:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3651816072</integer>
+			<key>Play Date UTC</key><date>2019-09-20T16:21:12Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88C873889CAE525F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2032%20-%20Schubert%20Transcriptions%20-%20II%20-%20CD%201/1837%20-%20Meeresstille%20(Schubert-Liszt,%20S557b).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9448</key>
+		<dict>
+			<key>Track ID</key><integer>9448</integer>
+			<key>Name</key><string>Meeresstille (Schubert-Liszt, S557b-bis)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6878145</integer>
+			<key>Total Time</key><integer>170292</integer>
+			<key>Year</key><integer>1837</integer>
+			<key>Date Modified</key><date>2019-09-16T07:06:13Z</date>
+			<key>Date Added</key><date>2019-09-16T07:03:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3652162869</integer>
+			<key>Play Date UTC</key><date>2019-09-24T16:41:09Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD06FCB72F21F11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2033%20-%20Schubert%20Transcriptions%20-%20III%20-%20CD%202/1837%20-%20Meeresstille%20(Schubert-Liszt,%20S557b-bis).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9450</key>
+		<dict>
+			<key>Track ID</key><integer>9450</integer>
+			<key>Name</key><string>Die Gestirne (Schubert-Liszt, S562-3bis)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16369999</integer>
+			<key>Total Time</key><integer>407588</integer>
+			<key>Year</key><integer>1840</integer>
+			<key>Date Modified</key><date>2019-09-16T07:06:05Z</date>
+			<key>Date Added</key><date>2019-09-16T07:03:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E3B927698D84D8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2033%20-%20Schubert%20Transcriptions%20-%20III%20-%20CD%202/1840%20-%20Die%20Gestirne%20(Schubert-Liszt,%20S562-3bis).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9454</key>
+		<dict>
+			<key>Track ID</key><integer>9454</integer>
+			<key>Name</key><string>Meeresstille (Schubert-Liszt, S558-5bis)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6865607</integer>
+			<key>Total Time</key><integer>169978</integer>
+			<key>Year</key><integer>1838</integer>
+			<key>Date Modified</key><date>2019-09-16T07:05:40Z</date>
+			<key>Date Added</key><date>2019-09-16T07:04:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652083191</integer>
+			<key>Play Date UTC</key><date>2019-09-23T18:33:11Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9753F5855906110D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2033%20-%20Schubert%20Transcriptions%20-%20III%20-%20CD%203/1838%20-%20Meeresstille%20(Schubert-Liszt,%20S558-5bis).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9456</key>
+		<dict>
+			<key>Track ID</key><integer>9456</integer>
+			<key>Name</key><string>Marche Hongroise (Schubert-Liszt, S425-2vi)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Schubert - Franz Liszt</string>
+			<key>Album</key><string>Vol 33 - Schubert Transcriptions - III CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17615520</integer>
+			<key>Total Time</key><integer>438726</integer>
+			<key>Year</key><integer>1879</integer>
+			<key>Date Modified</key><date>2019-09-16T07:05:30Z</date>
+			<key>Date Added</key><date>2019-09-16T07:04:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AAB3101838679AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Schubert%20-%20Leslie%20Howard/Vol%2033%20-%20Schubert%20Transcriptions%20-%20III%20-%20CD%203/1879%20-%20Marche%20Hongroise%20(Schubert-Liszt,%20S425-2vi).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Liszt one star</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>20209</integer>
+			<key>Playlist ID</key><integer>22520</integer>
 			<key>Playlist Persistent ID</key><string>42A30444D420EEA8</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8992</integer>
+					<key>Track ID</key><integer>8442</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9294</integer>
+					<key>Track ID</key><integer>8744</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9278</integer>
+					<key>Track ID</key><integer>8728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9274</integer>
+					<key>Track ID</key><integer>8724</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9272</integer>
+					<key>Track ID</key><integer>8722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9056</integer>
+					<key>Track ID</key><integer>8506</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9152</integer>
+					<key>Track ID</key><integer>8602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8772</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8802</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8810</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8896</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8892</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8910</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9174</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9190</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>9172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9100</integer>
+					<key>Track ID</key><integer>8876</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9018</integer>
+					<key>Track ID</key><integer>8610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9322</integer>
+					<key>Track ID</key><integer>8474</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9320</integer>
+					<key>Track ID</key><integer>9092</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9310</integer>
+					<key>Track ID</key><integer>8954</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9352</integer>
+					<key>Track ID</key><integer>8964</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9364</integer>
+					<key>Track ID</key><integer>8940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8878</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8866</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8864</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8612</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8832</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9376</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>9360</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>9370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8834</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9454</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>9456</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9452</integer>
+					<key>Track ID</key><integer>9410</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9450</integer>
+					<key>Track ID</key><integer>9204</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>9448</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9446</integer>
+					<key>Track ID</key><integer>9450</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9444</integer>
+					<key>Track ID</key><integer>9220</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9442</integer>
+					<key>Track ID</key><integer>9218</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9440</integer>
+					<key>Track ID</key><integer>9340</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9466</integer>
+					<key>Track ID</key><integer>9388</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9464</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9460</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9538</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9536</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9704</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>9724</integer>
+					<key>Track ID</key><integer>9384</integer>
 				</dict>
 			</array>
 		</dict>
