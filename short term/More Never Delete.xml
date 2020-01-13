@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-01-13T04:45:47Z</date>
+	<key>Application Version</key><string>12.9.5.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>9945</key>
+		<dict>
+			<key>Track ID</key><integer>9945</integer>
+			<key>Name</key><string>Roam</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album Artist</key><string>The B-52's</string>
+			<key>Composer</key><string>Robert Waldrop</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9498557</integer>
+			<key>Total Time</key><integer>295314</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2019-12-26T08:02:00Z</date>
+			<key>Date Added</key><date>2019-12-26T07:55:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1989-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>B-52's</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Persistent ID</key><string>E4217866222FD6CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20B-52's/1989%20-%20Cosmic%20Thing/06%20-%20Roam.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>More Never Delete</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>23486</integer>
+			<key>Playlist Persistent ID</key><string>5E439204684604FF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9945</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
