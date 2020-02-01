@@ -4,38 +4,61 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-08-16T18:11:01Z</date>
-	<key>Application Version</key><string>12.8.2.3</string>
+	<key>Date</key><date>2020-02-01T01:22:17Z</date>
+	<key>Application Version</key><string>12.9.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12663</key>
+		<key>11082</key>
 		<dict>
-			<key>Track ID</key><integer>12663</integer>
-			<key>Name</key><string>Afro Boogie</string>
-			<key>Artist</key><string>Herbie Hancock</string>
-			<key>Album</key><string>Jammin'</string>
-			<key>Genre</key><string>Fusion</string>
+			<key>Track ID</key><integer>11082</integer>
+			<key>Name</key><string>Ants invasion</string>
+			<key>Artist</key><string>Adam Ant as Adam and the Ants</string>
+			<key>Album</key><string>Kings of the Wild Frontier</string>
+			<key>Genre</key><string>Other</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3018435</integer>
-			<key>Total Time</key><integer>123454</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2019-07-27T05:58:47Z</date>
-			<key>Date Added</key><date>2019-07-27T05:57:59Z</date>
-			<key>Bit Rate</key><integer>192</integer>
+			<key>Size</key><integer>8100430</integer>
+			<key>Total Time</key><integer>200907</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-01-13T05:01:58Z</date>
+			<key>Date Added</key><date>2020-01-12T20:37:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3647934328</integer>
-			<key>Play Date UTC</key><date>2019-08-06T18:05:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>FD37A9CC3373C5AA</string>
+			<key>Persistent ID</key><string>81BC5C14BF2E42BE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Herbie%20Hancock/1995%20-%20Jammin'/10.%20Afro%20Boogie.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Adam%20Ant/1980%20-%20Kings%20of%20the%20Wild%20Frontier/05%20-%20Ants%20invasion.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11114</key>
+		<dict>
+			<key>Track ID</key><integer>11114</integer>
+			<key>Name</key><string>Little Italy (Demoversion Man called Marco) Adam And The Ants Friend Or Foe</string>
+			<key>Artist</key><string>Adam Ant as Adam and the Ants</string>
+			<key>Album</key><string>Friend Or Foe</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5691123</integer>
+			<key>Total Time</key><integer>139206</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-01-13T05:02:28Z</date>
+			<key>Date Added</key><date>2020-01-12T20:47:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51F474954FE3C3CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Adam%20Ant/1982%20-%20Friend%20Or%20Foe/17%20-%20Little%20Italy%20(Demoversion%20Man%20called%20Marco)%20Adam%20And%20The%20Ants%20Friend%20Or%20Foe.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -45,13 +68,16 @@
 		<dict>
 			<key>Name</key><string>More Surf</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>30099</integer>
-			<key>Playlist Persistent ID</key><string>4E47ABFE586EC7E5</string>
+			<key>Playlist ID</key><integer>26129</integer>
+			<key>Playlist Persistent ID</key><string>7040BFDE54960C15</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12663</integer>
+					<key>Track ID</key><integer>11114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11082</integer>
 				</dict>
 			</array>
 		</dict>
