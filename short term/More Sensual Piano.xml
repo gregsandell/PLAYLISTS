@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-03-24T06:10:25Z</date>
+	<key>Date</key><date>2020-04-12T20:55:13Z</date>
 	<key>Application Version</key><string>12.9.5.5</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,13 +12,94 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>15175</key>
+		<key>10249</key>
 		<dict>
-			<key>Track ID</key><integer>15175</integer>
-			<key>Name</key><string>Etude Op33-2 in C</string>
+			<key>Track ID</key><integer>10249</integer>
+			<key>Name</key><string>I. Allegro molto moderato (Piano Concerto Op. 16)</string>
+			<key>Artist</key><string>Jean-Yves Thibaudet, piano</string>
+			<key>Composer</key><string>Edvard Grieg</string>
+			<key>Album</key><string>Piano Concertos</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>30375727</integer>
+			<key>Total Time</key><integer>752222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1868</integer>
+			<key>Date Modified</key><date>2020-03-23T18:31:18Z</date>
+			<key>Date Added</key><date>2020-03-23T18:20:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92BA6114C934206C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Grieg,%20Edvard/Piano%20Concerto%20in%20A%20minor%20op.%2016/Jean-Yves%20Thibaudet/01%20-%20I.%20Allegro%20molto%20moderato%20(Piano%20Concerto%20Op.%2016).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10283</key>
+		<dict>
+			<key>Track ID</key><integer>10283</integer>
+			<key>Name</key><string>Klaviersonate 3.1 Pollini</string>
+			<key>Artist</key><string>Mauricio Pollini</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>30880296</integer>
+			<key>Total Time</key><integer>771056</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2020-03-24T15:17:38Z</date>
+			<key>Date Added</key><date>2020-03-23T22:12:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3667821927</integer>
+			<key>Play Date UTC</key><date>2020-03-23T22:25:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>48A8FAD2EB25695A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Maurizio%20Pollini/01%20-%20I.%20Allego%20maestoso%20(Piano%20Sonata%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10297</key>
+		<dict>
+			<key>Track ID</key><integer>10297</integer>
+			<key>Name</key><string>I. Allegro maestoso (Sonata No 2)</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23074497</integer>
+			<key>Total Time</key><integer>572969</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2020-03-24T15:14:39Z</date>
+			<key>Date Added</key><date>2020-03-24T00:02:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668493461</integer>
+			<key>Play Date UTC</key><date>2020-03-31T16:57:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>D308B432DE58E798</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Garrick%20Ohlsson/01%20-%20I.%20Allegro%20maestoso%20(Sonata%20No%202).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10343</key>
+		<dict>
+			<key>Track ID</key><integer>10343</integer>
+			<key>Name</key><string>Etude-Tableaux Op 33 No 2 in C</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
-			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>2866969</integer>
@@ -28,29 +109,29 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:21Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:26Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:52:00Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:36Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3667795522</integer>
-			<key>Play Date UTC</key><date>2020-03-23T15:05:22Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3668440219</integer>
+			<key>Play Date UTC</key><date>2020-03-31T02:10:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>372</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>96BBBC3C8CFC6638</string>
+			<key>Persistent ID</key><string>A18A842C8D956A2D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2033/Ruth%20Laredo/5-02%20Etude%20Op33-2%20in%20C.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15177</key>
+		<key>10345</key>
 		<dict>
-			<key>Track ID</key><integer>15177</integer>
-			<key>Name</key><string>Etude Op33-3 in Cm</string>
+			<key>Track ID</key><integer>10345</integer>
+			<key>Name</key><string>Etude-Tableaux Op 33 No 3 in Cm</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
 			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
@@ -63,8 +144,8 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:21Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:26Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:51:25Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:36Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
@@ -76,19 +157,18 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>741</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>03E78ED3FD2D0E84</string>
+			<key>Persistent ID</key><string>DE24C12D4A18748E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2033/Ruth%20Laredo/5-03%20Etude%20Op33-2%20in%20Cm.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15185</key>
+		<key>10347</key>
 		<dict>
-			<key>Track ID</key><integer>15185</integer>
-			<key>Name</key><string>Etude Op33-7 in Gm</string>
+			<key>Track ID</key><integer>10347</integer>
+			<key>Name</key><string>Etude-Tableaux Op 33 No 7 in Gm</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
-			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>4069125</integer>
@@ -98,32 +178,33 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:22Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:26Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:50:09Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:36Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3667796574</integer>
-			<key>Play Date UTC</key><date>2020-03-23T15:22:54Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3668439141</integer>
+			<key>Play Date UTC</key><date>2020-03-31T01:52:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-03-31T01:48:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>313</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>171D022E2C6F68ED</string>
+			<key>Persistent ID</key><string>9EBD3BC81A5E26E2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2033/Ruth%20Laredo/5-07%20Etude%20Op33-7%20in%20Gm.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15191</key>
+		<key>10349</key>
 		<dict>
-			<key>Track ID</key><integer>15191</integer>
-			<key>Name</key><string>Etude Op39-2 in Am</string>
+			<key>Track ID</key><integer>10349</integer>
+			<key>Name</key><string>Etude-Tableaux Op 39 No 2 in Am</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
-			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>7512341</integer>
@@ -133,14 +214,14 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:22Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:37Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:51:06Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:36Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3667829736</integer>
-			<key>Play Date UTC</key><date>2020-03-24T00:35:36Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3669058634</integer>
+			<key>Play Date UTC</key><date>2020-04-07T05:57:14Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2020-03-22T15:14:56Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -148,19 +229,18 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>535</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>26A7F54816E3E2DD</string>
+			<key>Persistent ID</key><string>AB2143EAFE7C1CF7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2039/Ruth%20Laredo/5-10%20Etude%20Op39-2%20in%20Am.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15193</key>
+		<key>10351</key>
 		<dict>
-			<key>Track ID</key><integer>15193</integer>
-			<key>Name</key><string>Etude Op39-3 in F#</string>
+			<key>Track ID</key><integer>10351</integer>
+			<key>Name</key><string>Etude-Tableaux Op 39 No 3 in F#</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
-			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>3760635</integer>
@@ -170,32 +250,31 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:22Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:37Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:52:09Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:36Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3667795367</integer>
-			<key>Play Date UTC</key><date>2020-03-23T15:02:47Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3668592125</integer>
+			<key>Play Date UTC</key><date>2020-04-01T20:22:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1211</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EFA755A19AF83738</string>
+			<key>Persistent ID</key><string>1D442FE235C6CF49</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2039/Ruth%20Laredo/5-11%20Etude%20Op39-3%20in%20F%23.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15197</key>
+		<key>10353</key>
 		<dict>
-			<key>Track ID</key><integer>15197</integer>
-			<key>Name</key><string>Etude Op39-5 in Eb Appassionato</string>
+			<key>Track ID</key><integer>10353</integer>
+			<key>Name</key><string>Etude-Tableaux Op 39 No 5 in Eb Appassionato</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
-			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>5414199</integer>
@@ -205,32 +284,33 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:22Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:37Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:50:05Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3667033746</integer>
 			<key>Play Date UTC</key><date>2020-03-14T19:29:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-04-01T21:35:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>734</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>69D54E423AC75B19</string>
+			<key>Persistent ID</key><string>8B3FBAED9F3A1C4F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2039/Ruth%20Laredo/5-13%20Etude%20Op39-5%20in%20Eb%20Appassionato.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15205</key>
+		<key>10355</key>
 		<dict>
-			<key>Track ID</key><integer>15205</integer>
-			<key>Name</key><string>Etude Op39-9 in D</string>
+			<key>Track ID</key><integer>10355</integer>
+			<key>Name</key><string>Etude-Tableaux Op 39 No 9 in D</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
-			<key>Album</key><string>Rachmaninov - Piano - Laredo</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>4169189</integer>
@@ -240,28 +320,28 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:35:22Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:37Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:39:03Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD5 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3667033450</integer>
-			<key>Play Date UTC</key><date>2020-03-14T19:24:10Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3668596299</integer>
+			<key>Play Date UTC</key><date>2020-04-01T21:31:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1234</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>43EC288B8F2B20EC</string>
+			<key>Persistent ID</key><string>17CE5EF824542375</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Etudes/Op%2039/Ruth%20Laredo/5-17%20Etude%20Op39-9%20in%20D.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15211</key>
+		<key>10357</key>
 		<dict>
-			<key>Track ID</key><integer>15211</integer>
+			<key>Track ID</key><integer>10357</integer>
 			<key>Name</key><string>Piano Concerto No. 3 In D Minor mvt. 3</string>
 			<key>Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Composer</key><string>Sergei Rachmaninoff</string>
@@ -271,29 +351,28 @@
 			<key>Total Time</key><integer>881084</integer>
 			<key>Year</key><integer>1909</integer>
 			<key>Date Modified</key><date>2020-03-11T21:59:10Z</date>
-			<key>Date Added</key><date>2020-03-11T21:53:52Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3667706751</integer>
-			<key>Play Date UTC</key><date>2020-03-22T14:25:51Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3668593721</integer>
+			<key>Play Date UTC</key><date>2020-04-01T20:48:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>89E7D67923289D0F</string>
+			<key>Persistent ID</key><string>DFE2093ACF6CE8D2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Concerto%20No.%203/Vladimir%20Ashkenazy/Piano%20Concerto%20No.%203,%20mvt%203.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>89089</key>
+		<key>10359</key>
 		<dict>
-			<key>Track ID</key><integer>89089</integer>
-			<key>Name</key><string>Rachmaninov: Prelude #6 In E Flat, Op. 23/6</string>
+			<key>Track ID</key><integer>10359</integer>
+			<key>Name</key><string>Prelude #6 In E Flat Op 23</string>
 			<key>Artist</key><string>Ruth Laredo</string>
-			<key>Composer</key><string>Sergei Rachmaninoff/Sergei Rachmaninov</string>
-			<key>Album</key><string>Rachmaninov: Complete Solo Piano Music, Vol. 4</string>
+			<key>Composer</key><string>Sergei Rachmaninoff</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>3606367</integer>
@@ -303,33 +382,32 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>23</integer>
 			<key>Year</key><integer>1993</integer>
-			<key>Date Modified</key><date>2017-05-10T01:29:55Z</date>
-			<key>Date Added</key><date>2020-03-22T14:49:59Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:53:24Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD4 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3667833058</integer>
-			<key>Play Date UTC</key><date>2020-03-24T01:30:58Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3668592840</integer>
+			<key>Play Date UTC</key><date>2020-04-01T20:34:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>311</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>24AC286691A8328F</string>
+			<key>Persistent ID</key><string>DEDD44C59B68386D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Preludes/Op%2023/Ruth%20Laredo/06%20Rachmaninov_%20Prelude%20%236%20In%20E%20Flat,%20Op.%2023_6.mp3</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>89150</key>
+		<key>10361</key>
 		<dict>
-			<key>Track ID</key><integer>89150</integer>
+			<key>Track ID</key><integer>10361</integer>
 			<key>Name</key><string>Prelude In G Minor, Op. 23, No. 5</string>
-			<key>Artist</key><string>Vladimir Ashkenazy &#38; Sergei Rachmaninov</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Album Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Composer</key><string>Sergei Rachmaninov</string>
-			<key>Album</key><string>Rachmaninov: 24 Preludes; Piano Sonata No. 2</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>Purchased AAC audio file</string>
 			<key>Size</key><integer>7778105</integer>
@@ -339,31 +417,29 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2011-03-19T21:12:20Z</date>
-			<key>Date Added</key><date>2020-03-22T14:50:04Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:38:10Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Release Date</key><date>1995-05-16T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>528</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>83DF555E95D6E64A</string>
+			<key>Persistent ID</key><string>533D9CFD9B1EA08A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Preludes/Op%2023/Vladimir%20Ashkenazy/1-06%20Prelude%20In%20G%20Minor,%20Op.%2023,%20No.%205%202.m4a</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>89153</key>
+		<key>10363</key>
 		<dict>
-			<key>Track ID</key><integer>89153</integer>
+			<key>Track ID</key><integer>10363</integer>
 			<key>Name</key><string>Prelude In E Flat, Op. 23, No. 6</string>
-			<key>Artist</key><string>Vladimir Ashkenazy &#38; Sergei Rachmaninov</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Album Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Composer</key><string>Sergei Rachmaninov</string>
-			<key>Album</key><string>Rachmaninov: 24 Preludes; Piano Sonata No. 2</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>Purchased AAC audio file</string>
 			<key>Size</key><integer>6152218</integer>
@@ -373,34 +449,32 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2011-03-19T21:12:20Z</date>
-			<key>Date Added</key><date>2020-03-22T14:50:04Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:37:17Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3667829127</integer>
-			<key>Play Date UTC</key><date>2020-03-24T00:25:27Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3668439311</integer>
+			<key>Play Date UTC</key><date>2020-03-31T01:55:11Z</date>
 			<key>Release Date</key><date>1995-05-16T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>635</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>CFAE21385169B57A</string>
+			<key>Persistent ID</key><string>7C6BBD8FFD21CE8A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Preludes/Op%2023/Vladimir%20Ashkenazy/1-07%20Prelude%20In%20E%20Flat,%20Op.%2023,%20No.%206%202.m4a</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>89295</key>
+		<key>10365</key>
 		<dict>
-			<key>Track ID</key><integer>89295</integer>
+			<key>Track ID</key><integer>10365</integer>
 			<key>Name</key><string>Prelude In G Sharp Minor, Op. 32, No. 12</string>
-			<key>Artist</key><string>Vladimir Ashkenazy &#38; Sergei Rachmaninov</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Album Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Composer</key><string>Sergei Rachmaninov</string>
-			<key>Album</key><string>Rachmaninov: 24 Preludes; Piano Sonata No. 2</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>Purchased AAC audio file</string>
 			<key>Size</key><integer>5169545</integer>
@@ -410,8 +484,8 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2011-03-19T21:12:28Z</date>
-			<key>Date Added</key><date>2020-03-22T14:50:16Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:38:10Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -421,24 +495,22 @@
 			<key>Skip Date</key><date>2020-03-23T15:49:56Z</date>
 			<key>Release Date</key><date>1995-05-16T07:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>227</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>024591BFE61CE34A</string>
+			<key>Persistent ID</key><string>62C8D7A7941E5789</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Preludes/Op%2032/Vladimir%20Ashkenazy/2-08%20Prelude%20In%20G%20Sharp%20Minor,%20Op.%2032,%20No.%2012%202.m4a</string>
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>89342</key>
+		<key>10367</key>
 		<dict>
-			<key>Track ID</key><integer>89342</integer>
-			<key>Name</key><string>Rachmaninov: Morceaux De Fantaisies, Op. 3 - 4. Polichinelle In F Sharp Minor</string>
+			<key>Track ID</key><integer>10367</integer>
+			<key>Name</key><string>Morceaux De Fantaisies, Op. 3 - 4. Polichinelle In F Sharp Minor</string>
 			<key>Artist</key><string>Ruth Laredo</string>
 			<key>Composer</key><string>Sergei Rachmaninov</string>
-			<key>Album</key><string>Rachmaninov: The Complete Solo Piano Music, Vol. 1</string>
 			<key>Genre</key><string>Classical</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>3937144</integer>
@@ -448,8 +520,8 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1974</integer>
-			<key>Date Modified</key><date>2017-05-10T01:28:12Z</date>
-			<key>Date Added</key><date>2020-03-22T14:51:06Z</date>
+			<key>Date Modified</key><date>2020-03-31T01:37:47Z</date>
+			<key>Date Added</key><date>2020-03-24T06:14:37Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>From CD1 of the 'Ruth Laredo plays Rachmaninoff' 5CD box set</string>
@@ -461,9 +533,1076 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>948</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E407E6EC4221C5D4</string>
+			<key>Persistent ID</key><string>B22A24BCF4170B3F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Rachmaninov/Ruth%20Laredo/Morceaux/04%20Rachmaninov_%20Morceaux%20De%20Fantaisies,%20Op.%203%20-%204.%20Polichinelle%20In%20F%20Sharp%20Minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10437</key>
+		<dict>
+			<key>Track ID</key><integer>10437</integer>
+			<key>Name</key><string>Piano Concerto No.1 in e-moll, Op.11 - I. Allegro Maestoso</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson, Warsaw Philharmonic Orchestra, Kazimierz Kord</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>48664318</integer>
+			<key>Total Time</key><integer>1212708</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2020-03-24T06:43:58Z</date>
+			<key>Date Added</key><date>2020-03-24T06:43:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>9BAE11D2DB142BE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Concerti/1830%20-%20Concerto%20No.%201%20in%20E%20minor%20op%2011/Garrick%20Ohlsson/01%20-%20I.%20Allegro%20Maestoso%20(Piano%20Concerto%20No.1).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10439</key>
+		<dict>
+			<key>Track ID</key><integer>10439</integer>
+			<key>Name</key><string>Piano Concerto No.1 in e-moll, Op.11 - II. Romance. Larghetto</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson, Warsaw Philharmonic Orchestra, Kazimierz Kord</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25318168</integer>
+			<key>Total Time</key><integer>629054</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2020-03-24T06:44:00Z</date>
+			<key>Date Added</key><date>2020-03-24T06:43:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668428376</integer>
+			<key>Play Date UTC</key><date>2020-03-30T22:52:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>2DDA980FAB782A05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Concerti/1830%20-%20Concerto%20No.%201%20in%20E%20minor%20op%2011/Garrick%20Ohlsson/02%20-%20II.%20Romance.%20Larghetto%20(Piano%20Concerto%20No.1).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10507</key>
+		<dict>
+			<key>Track ID</key><integer>10507</integer>
+			<key>Name</key><string>Etude No.3 in E-dur, Op.10 (Tristesse)</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10446933</integer>
+			<key>Total Time</key><integer>261067</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2020-03-24T06:55:42Z</date>
+			<key>Date Added</key><date>2020-03-24T06:55:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669114494</integer>
+			<key>Play Date UTC</key><date>2020-04-07T21:28:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>49AD0EEE98CA0EF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Garrick%20Ohlsson/03%20-%20Etude%20No.3%20in%20E-dur,%20Op.10%20(Tristesse).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10513</key>
+		<dict>
+			<key>Track ID</key><integer>10513</integer>
+			<key>Name</key><string>Etude No.6 in es-moll, Op.10</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8815847</integer>
+			<key>Total Time</key><integer>220290</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2020-03-24T06:55:43Z</date>
+			<key>Date Added</key><date>2020-03-24T06:55:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3667891341</integer>
+			<key>Play Date UTC</key><date>2020-03-24T17:42:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>21F84FCBF3297EFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Garrick%20Ohlsson/06%20-%20Etude%20No.6%20in%20es-moll,%20Op.10.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10535</key>
+		<dict>
+			<key>Track ID</key><integer>10535</integer>
+			<key>Name</key><string>Etude No.5 in e-moll, Op.25 (Wrong Note)</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8404157</integer>
+			<key>Total Time</key><integer>209998</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2020-03-24T06:55:45Z</date>
+			<key>Date Added</key><date>2020-03-24T06:55:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669094693</integer>
+			<key>Play Date UTC</key><date>2020-04-07T15:58:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>40B7DD77AF5FBB39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Garrick%20Ohlsson/17%20-%20Etude%20No.5%20in%20e-moll,%20Op.25%20(Wrong%20Note).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10547</key>
+		<dict>
+			<key>Track ID</key><integer>10547</integer>
+			<key>Name</key><string>Etude No.11 in a-moll, Op.25 (Winter Wind)</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8634035</integer>
+			<key>Total Time</key><integer>215745</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Date Modified</key><date>2020-03-24T06:55:45Z</date>
+			<key>Date Added</key><date>2020-03-24T06:55:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>F5A453B4402B0A9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Garrick%20Ohlsson/23%20-%20Etude%20No.11%20in%20a-moll,%20Op.25%20(Winter%20Wind).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10555</key>
+		<dict>
+			<key>Track ID</key><integer>10555</integer>
+			<key>Name</key><string>Etude op10 No03 in E major</string>
+			<key>Artist</key><string>Mauricio Pollini</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8926876</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2020-03-24T06:56:30Z</date>
+			<key>Date Added</key><date>2020-03-24T06:55:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669204184</integer>
+			<key>Play Date UTC</key><date>2020-04-08T22:23:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52206A2AFEA387B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Mauricio%20Pollini/03%20-%20Etude%20op10%20No03%20in%20E%20major.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10595</key>
+		<dict>
+			<key>Track ID</key><integer>10595</integer>
+			<key>Name</key><string>Etude op25 No11 in A minor</string>
+			<key>Artist</key><string>Mauricio Pollini</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8527728</integer>
+			<key>Total Time</key><integer>212140</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Date Modified</key><date>2020-03-24T06:56:35Z</date>
+			<key>Date Added</key><date>2020-03-24T06:55:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668916427</integer>
+			<key>Play Date UTC</key><date>2020-04-05T14:27:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E25BD56F0E55E03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Mauricio%20Pollini/23%20-%20Etude%20op25%20No11%20in%20A%20minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10663</key>
+		<dict>
+			<key>Track ID</key><integer>10663</integer>
+			<key>Name</key><string>Étude in C Sharp Minor, Op. 25, No. 7</string>
+			<key>Artist</key><string>Vladimir Horowitz</string>
+			<key>Album Artist</key><string>Vladimir Horowitz</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11628980</integer>
+			<key>Total Time</key><integer>339146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2020-03-24T06:58:03Z</date>
+			<key>Date Added</key><date>2020-03-24T06:57:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668489227</integer>
+			<key>Play Date UTC</key><date>2020-03-31T15:47:07Z</date>
+			<key>Release Date</key><date>2003-09-30T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>394</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D6855BB48204FF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Etudes%20Op%2010%20&#38;%20Op%2025/Vladimir%20Horowitz/Chopin_%20Ballades,%20Preludes%20and%20Etudes,%20Vol.%202/13%20E%CC%81tude%20in%20C%20Sharp%20Minor,%20Op.%2025,%20No.%207%202.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11219</key>
+		<dict>
+			<key>Track ID</key><integer>11219</integer>
+			<key>Name</key><string>Nocturne in E flat major Op.55</string>
+			<key>Artist</key><string>Daniel Barenboim</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13361173</integer>
+			<key>Total Time</key><integer>332904</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2020-03-31T01:39:21Z</date>
+			<key>Date Added</key><date>2020-03-24T14:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668097280</integer>
+			<key>Play Date UTC</key><date>2020-03-27T02:54:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C54F1C3050CC78DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Nocturnes/Daniel%20Barenboim/16%20-%20Nocturne%20in%20E%20flat%20major%20Op.55%20No.%20Lento%20sostenut.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11237</key>
+		<dict>
+			<key>Track ID</key><integer>11237</integer>
+			<key>Name</key><string>Chopin: Nocturne In D Flat, Op. 27/2</string>
+			<key>Artist</key><string>Eugeny Kissin</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Album</key><string>The Chopin Collection</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6014843</integer>
+			<key>Total Time</key><integer>369381</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2020-03-24T14:10:16Z</date>
+			<key>Date Added</key><date>2020-03-24T14:07:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>585</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chopin Collection</string>
+			<key>Persistent ID</key><string>52B3EE9B7CE88E10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Nocturnes/Evgeny%20Kissin/The%20Chopin%20Collection/Nocturne%20In%20D%20Flat,%20Op.%2027_2.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11245</key>
+		<dict>
+			<key>Track ID</key><integer>11245</integer>
+			<key>Name</key><string>Nocturne No.4 in F-dur, Op.15 No.1</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13321547</integer>
+			<key>Total Time</key><integer>329142</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2020-03-24T14:11:05Z</date>
+			<key>Date Added</key><date>2020-03-24T14:10:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3668597190</integer>
+			<key>Play Date UTC</key><date>2020-04-01T21:46:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>2A3A116989097543</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Nocturnes/Garrick%20Ohlsson/04%20-%20Nocturne%20No.4%20in%20F-dur,%20Op.15%20No.1.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11331</key>
+		<dict>
+			<key>Track ID</key><integer>11331</integer>
+			<key>Name</key><string>Nocturne No.19 in E minor, Op.posth.72 No.1 (BI 19)</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Album</key><string>Chopin - The Piano Works by Vladimir Ashkenazy (CD4 of 13)</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8315822</integer>
+			<key>Total Time</key><integer>259186</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Date Modified</key><date>2020-03-24T14:13:27Z</date>
+			<key>Date Added</key><date>2020-03-24T14:12:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668831717</integer>
+			<key>Play Date UTC</key><date>2020-04-04T14:55:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>638B80104258A056</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Nocturnes/Vladimir%20Ashkenazy/19%20-%20Nocturne%20No.19%20in%20E%20minor,%20Op.posth.72%20No.1%20(BI%2019).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11389</key>
+		<dict>
+			<key>Track ID</key><integer>11389</integer>
+			<key>Name</key><string>Andante Spianato,Op.22-In Eb</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Album</key><string>Polonaises - Andante spianato &#38; Minor Works &#38; Maurizio Pollini &#38; Martha Arger...</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11890199</integer>
+			<key>Total Time</key><integer>296333</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2020-03-24T14:45:46Z</date>
+			<key>Date Added</key><date>2020-03-24T14:45:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3668744594</integer>
+			<key>Play Date UTC</key><date>2020-04-03T14:43:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAB098598F6734D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Polonaises/Martha%20Argerich/01%20-%20Andante%20Spianato,Op.22-In%20Eb.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11423</key>
+		<dict>
+			<key>Track ID</key><integer>11423</integer>
+			<key>Name</key><string>Polonaise in Ab Op.61 - Allegro maestoso</string>
+			<key>Artist</key><string>Maurizio Pollini</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>31799640</integer>
+			<key>Total Time</key><integer>794070</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2020-03-24T14:47:15Z</date>
+			<key>Date Added</key><date>2020-03-24T14:45:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3667905795</integer>
+			<key>Play Date UTC</key><date>2020-03-24T21:43:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94C155631550F357</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Polonaises/Mauricio%20Pollini/07%20-%20Polonaise%20in%20Ab%20Op.61%20-%20Allegro%20maestoso.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11563</key>
+		<dict>
+			<key>Track ID</key><integer>11563</integer>
+			<key>Name</key><string>Prelude Op 28 No 24 in d - Allegro appassionato</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5474307</integer>
+			<key>Total Time</key><integer>135941</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Date Modified</key><date>2020-03-24T14:53:51Z</date>
+			<key>Date Added</key><date>2020-03-24T14:53:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3668848489</integer>
+			<key>Play Date UTC</key><date>2020-04-04T19:34:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1062DBB58B2A2B09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Preludes/Martha%20Argerich/24%20-%20Prelude%20Op%2028%20No%2024%20in%20d%20-%20Allegro%20appassionato.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11575</key>
+		<dict>
+			<key>Track ID</key><integer>11575</integer>
+			<key>Name</key><string>Prélude No.4 in E minor</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3895456</integer>
+			<key>Total Time</key><integer>121051</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2020-03-24T14:54:43Z</date>
+			<key>Date Added</key><date>2020-03-24T14:54:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668831837</integer>
+			<key>Play Date UTC</key><date>2020-04-04T14:57:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>870A6DC666F47094</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Preludes/Vladimir%20Ashkenazy/04%20-%20Pre%CC%81lude%20No.4%20in%20E%20minor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11683</key>
+		<dict>
+			<key>Track ID</key><integer>11683</integer>
+			<key>Name</key><string>Scherzo No.3 in C sharp minor, Op.39</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12967561</integer>
+			<key>Total Time</key><integer>404558</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2020-03-24T15:06:04Z</date>
+			<key>Date Added</key><date>2020-03-24T15:05:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668485442</integer>
+			<key>Play Date UTC</key><date>2020-03-31T14:44:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C44EBB0AA620949</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Scherzi/Vladimir%20Ashkenazy/03%20-%20Scherzo%20No.3%20in%20C%20sharp%20minor,%20Op.39.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11687</key>
+		<dict>
+			<key>Track ID</key><integer>11687</integer>
+			<key>Name</key><string>Scherzo No. 1 In B Minor, Op. 20</string>
+			<key>Artist</key><string>Vladimir Horowitz</string>
+			<key>Album Artist</key><string>Vladimir Horowitz</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Album</key><string>Horowitz - Complete Recordings On Deutsche Grammophon</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>16445540</integer>
+			<key>Total Time</key><integer>504026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>6</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2020-03-24T15:06:26Z</date>
+			<key>Date Added</key><date>2020-03-24T15:06:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668491514</integer>
+			<key>Play Date UTC</key><date>2020-03-31T16:25:14Z</date>
+			<key>Release Date</key><date>2003-10-14T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>686</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F135BC72BC82D69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Scherzi/Vladimir%20Horowitz/Horowitz%20-%20Complete%20Recordings%20On%20Deutsche%20Grammophon/1-06%20Scherzo%20No.%C2%A01%20In%20B%20Minor,%20Op.%C2%A020.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11759</key>
+		<dict>
+			<key>Track ID</key><integer>11759</integer>
+			<key>Name</key><string>Piano Sonata No. 3 - mvt 1</string>
+			<key>Artist</key><string>Matha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15319083</integer>
+			<key>Total Time</key><integer>638119</integer>
+			<key>Date Modified</key><date>2020-03-24T15:16:49Z</date>
+			<key>Date Added</key><date>2020-03-24T15:16:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C7DC149CCDAFB424</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Martha%20Argerich%20temp/Chopin%20Sonata%20No.%203/Chopin%20-%20Piano%20Sonata%20No.%203%20-%20mvt%201.mp3</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11763</key>
+		<dict>
+			<key>Track ID</key><integer>11763</integer>
+			<key>Name</key><string>III. Largo (Piano Sonata No 3)</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17328672</integer>
+			<key>Total Time</key><integer>540839</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2020-03-24T15:18:37Z</date>
+			<key>Date Added</key><date>2020-03-24T15:18:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668592666</integer>
+			<key>Play Date UTC</key><date>2020-04-01T20:31:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0133C3A7D8B191F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Vladimir%20Ashkenazy/03%20-%20III.%20Largo%20(Piano%20Sonata%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11923</key>
+		<dict>
+			<key>Track ID</key><integer>11923</integer>
+			<key>Name</key><string>Waltz, No.7 in C Sharp Minor Op 64 No 2</string>
+			<key>Artist</key><string>Dinu Lipatti</string>
+			<key>Album Artist</key><string>Dinu Lipatti</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5097444</integer>
+			<key>Total Time</key><integer>188000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2020-03-31T01:40:01Z</date>
+			<key>Date Added</key><date>2020-03-24T15:30:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-11-28T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>266</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCFA123BB5FE8CFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Waltzes/Dinu%20Lipatti/05%20Waltz,%20No.7%20in%20C%20Sharp%20Minor,%20Op.64,%20No.2.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11949</key>
+		<dict>
+			<key>Track ID</key><integer>11949</integer>
+			<key>Name</key><string>Waltz in cis-moll, Op.64 No.2</string>
+			<key>Artist</key><string>Garrick Ohlsson</string>
+			<key>Album Artist</key><string>Garrick Ohlsson</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9606925</integer>
+			<key>Total Time</key><integer>236277</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2020-03-24T15:32:16Z</date>
+			<key>Date Added</key><date>2020-03-24T15:31:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669114842</integer>
+			<key>Play Date UTC</key><date>2020-04-07T21:34:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Works</string>
+			<key>Persistent ID</key><string>98D7E06B96178C23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Waltzes/Garrick%20Ohlsson/07%20-%20Waltz%20in%20cis-moll,%20Op.64%20No.2.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12087</key>
+		<dict>
+			<key>Track ID</key><integer>12087</integer>
+			<key>Name</key><string>I. Maestoso (Concerto No 2)</string>
+			<key>Artist</key><string>Chopin</string>
+			<key>Album</key><string>Chopin - Piano Concertos Nos. 1 &#38; 2</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16506163</integer>
+			<key>Total Time</key><integer>823632</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1900</integer>
+			<key>Date Modified</key><date>2020-03-27T22:41:37Z</date>
+			<key>Date Added</key><date>2020-03-27T22:22:25Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D2632E8E4FB9E378</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Concerti/1830%20-%20Concerto%20No.%202%20in%20F%20minor%20op%2021/Argerich%20-%20Dutoit/01%20-%20I.%20Maestoso%20(Concerto%20No%202).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12105</key>
+		<dict>
+			<key>Track ID</key><integer>12105</integer>
+			<key>Name</key><string>I. Allegro maestoso (Piano Sonata No 3)</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10650962</integer>
+			<key>Total Time</key><integer>530376</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2020-03-27T22:55:37Z</date>
+			<key>Date Added</key><date>2020-03-27T22:52:00Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BC40AA682C68355</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Martha%20Argerich%20-%201965/01%20-%20I.%20Allegro%20maestoso%20(Piano%20Sonata%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12109</key>
+		<dict>
+			<key>Track ID</key><integer>12109</integer>
+			<key>Name</key><string>III. Largo (Piano Sonata No 3)</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10447433</integer>
+			<key>Total Time</key><integer>520200</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2020-03-27T22:55:37Z</date>
+			<key>Date Added</key><date>2020-03-27T22:52:00Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668850018</integer>
+			<key>Play Date UTC</key><date>2020-04-04T20:00:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3DCBEB4CBF05CF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Martha%20Argerich%20-%201965/03%20-%20III.%20Largo%20(Piano%20Sonata%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12111</key>
+		<dict>
+			<key>Track ID</key><integer>12111</integer>
+			<key>Name</key><string>IV. Finale. Presto, non tanto (Piano Sonata No 3)</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5901852</integer>
+			<key>Total Time</key><integer>292920</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2020-03-27T22:55:37Z</date>
+			<key>Date Added</key><date>2020-03-27T22:52:00Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE7843D3BBEAA0BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Sonatas%20for%20Piano/1845%20-%20Sonata%20No.%203%20in%20B%20minor%20Op%2058/Martha%20Argerich%20-%201965/04%20-%20IV.%20Finale.%20Presto,%20non%20tanto%20(Piano%20Sonata%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12125</key>
+		<dict>
+			<key>Track ID</key><integer>12125</integer>
+			<key>Name</key><string>Nocturne No 4 in F, Op 15 No 1</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4392534</integer>
+			<key>Total Time</key><integer>219600</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2020-03-27T23:12:59Z</date>
+			<key>Date Added</key><date>2020-03-27T23:12:12Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>FF09EA47E9F262BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Nocturnes/Martha%20Argerich/01%20-%20Nocturne%20No.4%20in%20F,%20Op%2015%20No%201%20(1965).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12151</key>
+		<dict>
+			<key>Track ID</key><integer>12151</integer>
+			<key>Name</key><string>Intermezzo In A Minor, Op. 118 No 1</string>
+			<key>Artist</key><string>Radu Lupu</string>
+			<key>Composer</key><string>Johannes Brahms</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1754340</integer>
+			<key>Total Time</key><integer>106415</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2020-03-31T18:59:30Z</date>
+			<key>Date Added</key><date>2020-03-28T01:51:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668491625</integer>
+			<key>Play Date UTC</key><date>2020-03-31T16:27:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C94A7A9BD994A4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Brahms,%20Johannes/Radu%20Lupu/03%20-%20Intermezzo%20In%20A%20Minor,%20Op.%20118%20No%201.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12161</key>
+		<dict>
+			<key>Track ID</key><integer>12161</integer>
+			<key>Name</key><string>Intermezzo In E Flat Minor, Op. 118 No 6</string>
+			<key>Artist</key><string>Radu Lupu</string>
+			<key>Composer</key><string>Johannes Brahms</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5446844</integer>
+			<key>Total Time</key><integer>334412</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2020-03-31T18:54:04Z</date>
+			<key>Date Added</key><date>2020-03-28T01:51:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69401351A860A0F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Brahms,%20Johannes/Radu%20Lupu/08%20-%20Intermezzo%20In%20E%20Flat%20Minor,%20Op.%20118%20No%206.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12217</key>
+		<dict>
+			<key>Track ID</key><integer>12217</integer>
+			<key>Name</key><string>II. Adagio assai (Concerto in G)</string>
+			<key>Artist</key><string>Argerich - Abbado - Berlin</string>
+			<key>Composer</key><string>Maurice Ravel</string>
+			<key>Album</key><string>Piano Concertos [LSO &#38; Claudio Abbado]</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11563345</integer>
+			<key>Total Time</key><integer>574056</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2020-03-30T21:32:42Z</date>
+			<key>Date Added</key><date>2020-03-28T19:00:07Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668575846</integer>
+			<key>Play Date UTC</key><date>2020-04-01T15:50:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-04-01T21:40:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD26EF558BF4BE2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Ravel,%20Maurice/1931%20-%20Piano%20Concerto/Abbado%20-%20Argerich%20-%20Berlin/02%20-%20II.%20Adagio%20assai%20(Concerto%20in%20G).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12221</key>
+		<dict>
+			<key>Track ID</key><integer>12221</integer>
+			<key>Name</key><string>I. Allegro Maestoso (Concerto No 1 in Eb)</string>
+			<key>Artist</key><string>Abbado - Argerich - London</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Genre</key><string>Klassic Piano</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6225493</integer>
+			<key>Total Time</key><integer>309048</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2020-03-28T19:15:07Z</date>
+			<key>Date Added</key><date>2020-03-28T19:07:11Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669093659</integer>
+			<key>Play Date UTC</key><date>2020-04-07T15:40:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-04-04T14:47:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>4D5A7FD61F3C625C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Piano%20Concerti/1856%20-%20Concerto%20No.%201%20in%20Eb,%20S.121/Abbado%20-%20Argerich%20-%20London/01%20-%20I.%20Allegro%20Maestoso%20(Concerto%20No%201%20in%20Eb).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12239</key>
+		<dict>
+			<key>Track ID</key><integer>12239</integer>
+			<key>Name</key><string>III. Animé (Sonatine)</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Maurice Ravel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4487379</integer>
+			<key>Total Time</key><integer>222072</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2020-03-28T20:01:04Z</date>
+			<key>Date Added</key><date>2020-03-28T20:00:25Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3668860068</integer>
+			<key>Play Date UTC</key><date>2020-04-04T22:47:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1D6655F75FE27383</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Ravel,%20Maurice/1905%20-%20Sonatine/Martha%20Argerich/03%20-%20III.%20Anime%CC%81%20(Sonatine).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12287</key>
+		<dict>
+			<key>Track ID</key><integer>12287</integer>
+			<key>Name</key><string>I. Andante - Allegro (Piano Concerto No 3)</string>
+			<key>Artist</key><string>Martha Argerich, Orchestre Symphonie de Montréal, Charles Dutoit</string>
+			<key>Composer</key><string>Bela Bartok</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11709610</integer>
+			<key>Total Time</key><integer>583560</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2020-03-30T22:34:15Z</date>
+			<key>Date Added</key><date>2020-03-30T21:29:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-03-30T22:32:44Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B7DD13E1305A1318</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Prokofiev,%20Serge/Piano%20Concerti/Concerto%20No%203%20in%20C%20Op%2026/Argerich%20-%20Dutoit%20-%20Montreal/01%20-%20I.%20Andante%20-%20Allegro%20(Piano%20Concerto%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12289</key>
+		<dict>
+			<key>Track ID</key><integer>12289</integer>
+			<key>Name</key><string>II. Tema Andantino (Piano Concerto No 3)</string>
+			<key>Artist</key><string>Argerich - Dutoit - Montreal</string>
+			<key>Composer</key><string>Serge Prokofiev</string>
+			<key>Album</key><string>Prokofiev &#38; Bartók Piano Concertos</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11671021</integer>
+			<key>Total Time</key><integer>579744</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2020-03-30T22:35:09Z</date>
+			<key>Date Added</key><date>2020-03-30T21:29:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3669032822</integer>
+			<key>Play Date UTC</key><date>2020-04-06T22:47:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FBB3F37E5246953</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Prokofiev,%20Serge/Piano%20Concerti/Concerto%20No%203%20in%20C%20Op%2026/Argerich%20-%20Dutoit%20-%20Montreal/02%20-%20II.%20Tema%20Andantino%20(Piano%20Concerto%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12291</key>
+		<dict>
+			<key>Track ID</key><integer>12291</integer>
+			<key>Name</key><string>III. Allegro ma non troppo - meno mosso - Allegro (Piano Concerto No 3)</string>
+			<key>Artist</key><string>Argerich - Dutoit - Montreal</string>
+			<key>Composer</key><string>Serge Prokofiev</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11784039</integer>
+			<key>Total Time</key><integer>587280</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2020-03-30T21:31:11Z</date>
+			<key>Date Added</key><date>2020-03-30T21:29:34Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D24F108ABEB80918</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Prokofiev,%20Serge/Piano%20Concerti/Concerto%20No%203%20in%20C%20Op%2026/Argerich%20-%20Dutoit%20-%20Montreal/03%20-%20III.%20Allegro%20ma%20non%20troppo%20-%20meno%20mosso%20-%20Allegro%20(Piano%20Concerto%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12313</key>
+		<dict>
+			<key>Track ID</key><integer>12313</integer>
+			<key>Name</key><string>Nocturne No 13 Op 48 No. 1</string>
+			<key>Artist</key><string>Martha Argerich</string>
+			<key>Composer</key><string>Frederic Chopin</string>
+			<key>Album</key><string>Live from the Concertgebouw</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6305325</integer>
+			<key>Total Time</key><integer>313248</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2020-03-31T05:43:41Z</date>
+			<key>Date Added</key><date>2020-03-31T05:42:58Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>48875DE4EA57FA19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Nocturnes/Martha%20Argerich/02-%20Nocturne%20No%2013%20Op%2048,%20No.%201%20(Concertgebouw).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>69473</key>
+		<dict>
+			<key>Track ID</key><integer>69473</integer>
+			<key>Name</key><string>II. Sarabande (Pour le piano)</string>
+			<key>Artist</key><string>Angela Hewitt</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13346774</integer>
+			<key>Total Time</key><integer>331911</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1901</integer>
+			<key>Date Modified</key><date>2020-04-08T00:22:10Z</date>
+			<key>Date Added</key><date>2020-04-08T00:21:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CB32552991246B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1901%20-%20Pour%20le%20Piano/Angela%20Hewitt/02%20-%20II.%20Sarabande%20(Pour%20le%20piano).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>79509</key>
+		<dict>
+			<key>Track ID</key><integer>79509</integer>
+			<key>Name</key><string>No 10 - La cathédrale engloutie (Preludes Book 1)</string>
+			<key>Artist</key><string>Francois-Joel Thiollier</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>Apple Lossless audio file</string>
+			<key>Size</key><integer>18975805</integer>
+			<key>Total Time</key><integer>352026</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-04-08T06:13:49Z</date>
+			<key>Date Added</key><date>2020-04-08T06:12:37Z</date>
+			<key>Bit Rate</key><integer>429</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3669440239</integer>
+			<key>Play Date UTC</key><date>2020-04-11T15:57:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C673086E2972B968</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Franc%CC%A7ois-Joe%CC%88l%20Thiollier/10%20-%20No%2010%20-%20La%20cathe%CC%81drale%20engloutie%20(Preludes%20Book%201).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -473,49 +1612,175 @@
 		<dict>
 			<key>Name</key><string>More Sensual Piano</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>133693</integer>
-			<key>Playlist Persistent ID</key><string>9FF425056FC70D37</string>
+			<key>Playlist ID</key><integer>27413</integer>
+			<key>Playlist Persistent ID</key><string>75AA23ABA09DEC67</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15211</integer>
+					<key>Track ID</key><integer>10357</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15191</integer>
+					<key>Track ID</key><integer>10349</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15177</integer>
+					<key>Track ID</key><integer>10345</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15185</integer>
+					<key>Track ID</key><integer>10347</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15197</integer>
+					<key>Track ID</key><integer>10353</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15193</integer>
+					<key>Track ID</key><integer>10351</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15175</integer>
+					<key>Track ID</key><integer>10343</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>89089</integer>
+					<key>Track ID</key><integer>10359</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>89153</integer>
+					<key>Track ID</key><integer>10363</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>89342</integer>
+					<key>Track ID</key><integer>10367</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>89295</integer>
+					<key>Track ID</key><integer>10365</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>89150</integer>
+					<key>Track ID</key><integer>12287</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15205</integer>
+					<key>Track ID</key><integer>12289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11923</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>69473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>79509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12313</integer>
 				</dict>
 			</array>
 		</dict>
