@@ -4,41 +4,36 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-01-13T04:45:47Z</date>
-	<key>Application Version</key><string>12.9.5.5</string>
+	<key>Date</key><date>2020-07-21T18:12:03Z</date>
+	<key>Application Version</key><string>1.0.5.14</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9945</key>
+		<key>8839</key>
 		<dict>
-			<key>Track ID</key><integer>9945</integer>
-			<key>Name</key><string>Roam</string>
-			<key>Artist</key><string>The B-52's</string>
-			<key>Album Artist</key><string>The B-52's</string>
-			<key>Composer</key><string>Robert Waldrop</string>
-			<key>Album</key><string>Cosmic Thing</string>
-			<key>Genre</key><string>Rock</string>
+			<key>Track ID</key><integer>8839</integer>
+			<key>Name</key><string>I. Allegro Assai (Sonata in A W.55 No 4)</string>
+			<key>Artist</key><string>Andrew Levin</string>
+			<key>Composer</key><string>C.P.E. Bach</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9498557</integer>
-			<key>Total Time</key><integer>295314</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1989</integer>
-			<key>Date Modified</key><date>2019-12-26T08:02:00Z</date>
-			<key>Date Added</key><date>2019-12-26T07:55:33Z</date>
-			<key>Bit Rate</key><integer>256</integer>
+			<key>Size</key><integer>3506931</integer>
+			<key>Total Time</key><integer>303699</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1763</integer>
+			<key>Date Modified</key><date>2020-07-13T20:02:40Z</date>
+			<key>Date Added</key><date>2020-07-13T20:00:06Z</date>
+			<key>Bit Rate</key><integer>92</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Release Date</key><date>1989-01-01T12:00:00Z</date>
+			<key>Comments</key><string>Advance Recital, March 28, 1982, Rice University, Houston, Texas</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album Artist</key><string>B-52's</string>
-			<key>Sort Artist</key><string>B-52's</string>
-			<key>Persistent ID</key><string>E4217866222FD6CB</string>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>CF34935C7EBF99AD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20B-52's/1989%20-%20Cosmic%20Thing/06%20-%20Roam.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Bach,%20C.P.E./1763%20-%20Sonatas%20for%20Keyboard%20W.55/Sonata%20No%204%20in%20A/Andrew%20Levin/01%20-%20I.%20Allegro%20Assai%20(Sonata%20in%20A%20W.55%20No%204).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -48,13 +43,13 @@
 		<dict>
 			<key>Name</key><string>More Never Delete</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>23486</integer>
-			<key>Playlist Persistent ID</key><string>5E439204684604FF</string>
+			<key>Playlist ID</key><integer>26809</integer>
+			<key>Playlist Persistent ID</key><string>D042A77A83B5E577</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>9945</integer>
+					<key>Track ID</key><integer>8839</integer>
 				</dict>
 			</array>
 		</dict>

@@ -4,17 +4,45 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-05-24T23:46:16Z</date>
-	<key>Application Version</key><string>1.0.4.104</string>
+	<key>Date</key><date>2020-07-21T18:20:17Z</date>
+	<key>Application Version</key><string>1.0.5.14</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
 	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6122</key>
+		<key>3169</key>
 		<dict>
-			<key>Track ID</key><integer>6122</integer>
+			<key>Track ID</key><integer>3169</integer>
+			<key>Name</key><string>The Haggis</string>
+			<key>Artist</key><string>Capercaillie</string>
+			<key>Album</key><string>Crosswinds</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8800935</integer>
+			<key>Total Time</key><integer>361639</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2017-04-15T02:00:20Z</date>
+			<key>Date Added</key><date>2018-12-19T19:47:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3634194924</integer>
+			<key>Play Date UTC</key><date>2019-02-28T18:35:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-15T20:49:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Sort Name</key><string>Haggis</string>
+			<key>Persistent ID</key><string>F656600B9B7E2A59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Capercaillie/1987%20-%20Crosswinds/The%20Haggis.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5611</key>
+		<dict>
+			<key>Track ID</key><integer>5611</integer>
 			<key>Name</key><string>Good Vibrations</string>
 			<key>Artist</key><string>Wilson Phillips</string>
 			<key>Album Artist</key><string>Wilson Phillips</string>
@@ -29,9 +57,9 @@
 			<key>Date Added</key><date>2019-11-06T19:10:12Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>15</integer>
-			<key>Play Date</key><integer>3662786294</integer>
-			<key>Play Date UTC</key><date>2020-01-25T16:38:14Z</date>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3675681254</integer>
+			<key>Play Date UTC</key><date>2020-06-22T21:34:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Persistent ID</key><string>435617FDA7D761CE</string>
@@ -40,9 +68,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7576</key>
+		<key>7033</key>
 		<dict>
-			<key>Track ID</key><integer>7576</integer>
+			<key>Track ID</key><integer>7033</integer>
 			<key>Name</key><string>I. Un poco lento (Fantasia in f#m, 1832)</string>
 			<key>Artist</key><string>Stephan Möller</string>
 			<key>Composer</key><string>Richard Wagner</string>
@@ -67,9 +95,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7578</key>
+		<key>7035</key>
 		<dict>
-			<key>Track ID</key><integer>7578</integer>
+			<key>Track ID</key><integer>7035</integer>
 			<key>Name</key><string>II. Recitativo (Fantasia in f#m, 1832)</string>
 			<key>Artist</key><string>Stephan Möller</string>
 			<key>Composer</key><string>Richard Wagner</string>
@@ -94,9 +122,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7580</key>
+		<key>7037</key>
 		<dict>
-			<key>Track ID</key><integer>7580</integer>
+			<key>Track ID</key><integer>7037</integer>
 			<key>Name</key><string>I. Ruhig (Wesendonck Sonata, 1853)</string>
 			<key>Artist</key><string>Stephan Möller</string>
 			<key>Composer</key><string>Richard Wagner</string>
@@ -121,9 +149,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7582</key>
+		<key>7039</key>
 		<dict>
-			<key>Track ID</key><integer>7582</integer>
+			<key>Track ID</key><integer>7039</integer>
 			<key>Name</key><string>III. Erstes Zeitmab (Wesendonck Sonata, 1853)</string>
 			<key>Artist</key><string>Stephan Möller</string>
 			<key>Composer</key><string>Richard Wagner</string>
@@ -145,9 +173,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7584</key>
+		<key>7041</key>
 		<dict>
-			<key>Track ID</key><integer>7584</integer>
+			<key>Track ID</key><integer>7041</integer>
 			<key>Name</key><string>Desire Brings Me Back</string>
 			<key>Artist</key><string>Blondie</string>
 			<key>Album Artist</key><string>Blondie</string>
@@ -172,9 +200,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8538</key>
+		<key>7763</key>
 		<dict>
-			<key>Track ID</key><integer>8538</integer>
+			<key>Track ID</key><integer>7763</integer>
 			<key>Name</key><string>Nocturne No 2 In C Minor, H 25</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -196,9 +224,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8540</key>
+		<key>7765</key>
 		<dict>
-			<key>Track ID</key><integer>8540</integer>
+			<key>Track ID</key><integer>7765</integer>
 			<key>Name</key><string>Nocturne No 3 In A Flat, H 26</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -220,9 +248,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8542</key>
+		<key>7767</key>
 		<dict>
-			<key>Track ID</key><integer>8542</integer>
+			<key>Track ID</key><integer>7767</integer>
 			<key>Name</key><string>Nocturne No 4 In A, H 36</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -244,9 +272,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8544</key>
+		<key>7769</key>
 		<dict>
-			<key>Track ID</key><integer>8544</integer>
+			<key>Track ID</key><integer>7769</integer>
 			<key>Name</key><string>Nocturne No 5 In B Flat, H 37</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -268,9 +296,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8546</key>
+		<key>7771</key>
 		<dict>
-			<key>Track ID</key><integer>8546</integer>
+			<key>Track ID</key><integer>7771</integer>
 			<key>Name</key><string>Nocturne No 6 In F, H 40</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -291,9 +319,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8548</key>
+		<key>7773</key>
 		<dict>
-			<key>Track ID</key><integer>8548</integer>
+			<key>Track ID</key><integer>7773</integer>
 			<key>Name</key><string>Nocturne No 7 In C, H 45</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -314,9 +342,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8550</key>
+		<key>7775</key>
 		<dict>
-			<key>Track ID</key><integer>8550</integer>
+			<key>Track ID</key><integer>7775</integer>
 			<key>Name</key><string>Nocturne No 8 In A, H 14</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -340,36 +368,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>8552</key>
+		<key>7777</key>
 		<dict>
-			<key>Track ID</key><integer>8552</integer>
-			<key>Name</key><string>Mazurka No.48 in F, Op.posth.68 No.3 (BI 34)</string>
-			<key>Artist</key><string>Vladimir Ashkenazy</string>
-			<key>Composer</key><string>Frédéric Chopin</string>
-			<key>Album</key><string>Chopin - The Piano Works by Vladimir Ashkenazy (CD10 of 13)</string>
-			<key>Genre</key><string>Classical</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2491972</integer>
-			<key>Total Time</key><integer>77191</integer>
-			<key>Track Number</key><integer>48</integer>
-			<key>Date Modified</key><date>2020-03-24T13:47:23Z</date>
-			<key>Date Added</key><date>2020-05-10T02:42:13Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3671877774</integer>
-			<key>Play Date UTC</key><date>2020-05-09T21:02:54Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>B43F2F68915510F7</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Mazurkas/Vladimir%20Ashkenazy/48%20-%20Mazurka%20No.48%20in%20F,%20Op.posth.68%20No.3%20(BI%2034).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8556</key>
-		<dict>
-			<key>Track ID</key><integer>8556</integer>
+			<key>Track ID</key><integer>7777</integer>
 			<key>Name</key><string>Liszt , Klaviersonate in b-moll - 08 Più mosso</string>
 			<key>Artist</key><string>Martha Argerich</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -390,466 +391,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12438</key>
+		<key>7969</key>
 		<dict>
-			<key>Track ID</key><integer>12438</integer>
-			<key>Name</key><string>II. Mouvement de menuet (Sonatine)</string>
-			<key>Artist</key><string>Angela Hewitt</string>
-			<key>Composer</key><string>Maurice Ravel</string>
-			<key>Genre</key><string>Classical</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9727713</integer>
-			<key>Total Time</key><integer>242233</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>1905</integer>
-			<key>Date Modified</key><date>2020-05-10T05:23:36Z</date>
-			<key>Date Added</key><date>2020-05-23T04:57:12Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6B07BC9464A437B9</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Ravel,%20Maurice/1905%20-%20Sonatine/Eva%20Hewitt/02%20-%20II.%20Mouvement%20de%20menuet%20(Sonatine).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12568</key>
-		<dict>
-			<key>Track ID</key><integer>12568</integer>
-			<key>Name</key><string>No 5. Les collines d'Anacapri (Préludes Book 1)</string>
-			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Album</key><string>Préludes, Book I</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5942477</integer>
-			<key>Total Time</key><integer>176169</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1913</integer>
-			<key>Date Modified</key><date>2020-04-08T00:43:52Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3671183853</integer>
-			<key>Play Date UTC</key><date>2020-05-01T20:17:33Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7AFC47471570DC33</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Jean-Efflam%20Bavouzet/05%20-%20No%205.%20Les%20collines%20d'Anacapri%20(Pre%CC%81ludes%20Book%201).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12570</key>
-		<dict>
-			<key>Track ID</key><integer>12570</integer>
-			<key>Name</key><string>No 7. Ce qu'a vu le vent d'ouest (Préludes Book 1)</string>
-			<key>Artist</key><string>Vladimir Viardo</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Album</key><string>Préludes, Book I</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6463783</integer>
-			<key>Total Time</key><integer>199183</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>1913</integer>
-			<key>Date Modified</key><date>2020-04-08T00:44:41Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3670954514</integer>
-			<key>Play Date UTC</key><date>2020-04-29T04:35:14Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>231C3F25A1BC1DB7</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Vladimir%20Viardo/07%20-%20No%207.%20Ce%20qu'a%20vu%20le%20vent%20d'ouest%20(Pre%CC%81ludes%20Book%201).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12572</key>
-		<dict>
-			<key>Track ID</key><integer>12572</integer>
-			<key>Name</key><string>Syrinx</string>
-			<key>Artist</key><string>Philippa Davies</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Genre</key><string>, flute</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5294757</integer>
-			<key>Total Time</key><integer>163343</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1913</integer>
-			<key>Date Modified</key><date>2020-04-08T00:46:00Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DFADF55C7DCC9E80</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Syrinx%20for%20Solo%20Flute/Philippa%20Davies/01%20-%20Syrinx.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12574</key>
-		<dict>
-			<key>Track ID</key><integer>12574</integer>
-			<key>Name</key><string>No 7. Ce qu'a vu le vent d'ouest (Préludes Book 1)</string>
-			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Album</key><string>Préludes, Book I</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6598676</integer>
-			<key>Total Time</key><integer>196675</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Year</key><integer>1913</integer>
-			<key>Date Modified</key><date>2020-04-08T00:43:51Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3670927909</integer>
-			<key>Play Date UTC</key><date>2020-04-28T21:11:49Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A92633FA5FFE41AC</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Jean-Efflam%20Bavouzet/07%20-%20No%207.%20Ce%20qu'a%20vu%20le%20vent%20d'ouest%20(Pre%CC%81ludes%20Book%201).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12576</key>
-		<dict>
-			<key>Track ID</key><integer>12576</integer>
-			<key>Name</key><string>Etude No 2 - Pour les Tierces</string>
-			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Album</key><string>Études, Book I</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7142957</integer>
-			<key>Total Time</key><integer>219637</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>1915</integer>
-			<key>Date Modified</key><date>2020-04-08T00:47:01Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3669699963</integer>
-			<key>Play Date UTC</key><date>2020-04-14T16:06:03Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>FE1F5D65D73DE060</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Jean-Efflam%20Bavouzet/02%20-%20Etude%20No%202%20-%20Pour%20les%20Tierces.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12578</key>
-		<dict>
-			<key>Track ID</key><integer>12578</integer>
-			<key>Name</key><string>Etude No 9 - Pour les notes répétées</string>
-			<key>Artist</key><string>Maurizio Pollini</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Genre</key><string>, piano</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6241091</integer>
-			<key>Total Time</key><integer>192052</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Year</key><integer>1915</integer>
-			<key>Date Modified</key><date>2020-04-08T00:47:41Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3670342170</integer>
-			<key>Play Date UTC</key><date>2020-04-22T02:29:30Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0262E7A3F0AA7FBB</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Mauricio%20Pollini/09%20-%20Etude%20No%209%20-%20Pour%20les%20notes%20re%CC%81pe%CC%81te%CC%81es.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12580</key>
-		<dict>
-			<key>Track ID</key><integer>12580</integer>
-			<key>Name</key><string>Etude No 11 - Pour les arpèges composés</string>
-			<key>Artist</key><string>Maurizio Pollini</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Genre</key><string>, piano</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7041904</integer>
-			<key>Total Time</key><integer>217077</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>1915</integer>
-			<key>Date Modified</key><date>2020-04-08T00:47:40Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3669377444</integer>
-			<key>Play Date UTC</key><date>2020-04-10T22:30:44Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E61C54AF0AFC791C</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Mauricio%20Pollini/11%20-%20Etude%20No%2011%20-%20Pour%20les%20arpe%CC%80ges%20compose%CC%81s.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12582</key>
-		<dict>
-			<key>Track ID</key><integer>12582</integer>
-			<key>Name</key><string>No 7 - Ce qu'a vu le vent d'ouest (Preludes Book 1)</string>
-			<key>Artist</key><string>Francois-Joel Thiollier</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Kind</key><string>Apple Lossless audio file</string>
-			<key>Size</key><integer>11419675</integer>
-			<key>Total Time</key><integer>177440</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Track Count</key><integer>24</integer>
-			<key>Year</key><integer>1913</integer>
-			<key>Date Modified</key><date>2020-04-08T06:13:50Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>511</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3670343279</integer>
-			<key>Play Date UTC</key><date>2020-04-22T02:47:59Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2020-04-30T03:39:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>87E1C66E50D2BF94</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Franc%CC%A7ois-Joe%CC%88l%20Thiollier/07%20-%20No%207%20-%20Ce%20qu'a%20vu%20le%20vent%20d'ouest%20(Preludes%20Book%201).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12584</key>
-		<dict>
-			<key>Track ID</key><integer>12584</integer>
-			<key>Name</key><string>No. 5. Les collines d'Anacapri (Préludes Book 1)</string>
-			<key>Artist</key><string>Théodore Paraskivesco</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6892783</integer>
-			<key>Total Time</key><integer>170866</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1913</integer>
-			<key>Date Modified</key><date>2020-04-12T20:39:24Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>AD911101258FE60E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/The%CC%81odore%20Paraskivesco/05%20-%20No%205.%20Les%20collines%20d'Anacapri%20(Pre%CC%81ludes%20Book%201).mp3.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12586</key>
-		<dict>
-			<key>Track ID</key><integer>12586</integer>
-			<key>Name</key><string>III. Mouvement (Images Set 1)</string>
-			<key>Artist</key><string>Claudio Arrau</string>
-			<key>Album Artist</key><string>Claudio Arrau</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Album</key><string>Debussy: (Préludes Book I, Images Book I, Estampes)</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6757870</integer>
-			<key>Total Time</key><integer>210076</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1907</integer>
-			<key>Date Modified</key><date>2020-04-12T21:41:48Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:57Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Release Date</key><date>1991-01-01T12:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D0B0006D2DA81A9E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1907%20-%20Images%20for%20Piano/Claudio%20Arrau/03%20-%20III.%20Mouvement%20(Images%20Set%201).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12588</key>
-		<dict>
-			<key>Track ID</key><integer>12588</integer>
-			<key>Name</key><string>III. Finale (Sonata for Flute, Viola and Harp)</string>
-			<key>Artist</key><string>Kuijken &#38; Hallynck</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5186998</integer>
-			<key>Total Time</key><integer>275330</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Year</key><integer>1915</integer>
-			<key>Date Modified</key><date>2020-04-23T04:01:39Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:58Z</date>
-			<key>Bit Rate</key><integer>149</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6361A991D47125A4</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Sonata%20for%20Flute,%20Viola%20and%20Harp/Kuijken%20&#38;%20Hallynck/03%20-%20III.%20Finale%20(Sonata%20for%20Flute,%20Viola%20and%20Harp).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12590</key>
-		<dict>
-			<key>Track ID</key><integer>12590</integer>
-			<key>Name</key><string>Etude No 5 - Pour les Octaves</string>
-			<key>Artist</key><string>Mauricio Pollini</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Genre</key><string>Classical</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2595350</integer>
-			<key>Total Time</key><integer>151928</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Year</key><integer>1915</integer>
-			<key>Date Modified</key><date>2020-04-23T04:25:47Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:58Z</date>
-			<key>Bit Rate</key><integer>131</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3670822422</integer>
-			<key>Play Date UTC</key><date>2020-04-27T15:53:42Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>405D71B79B48A779</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Mauricio%20Pollini/05%20-%20Etude%20No%205%20-%20Pour%20les%20Octaves.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12592</key>
-		<dict>
-			<key>Track ID</key><integer>12592</integer>
-			<key>Name</key><string>VI. Golliwogg's Cakewalk (Childrens Corner)</string>
-			<key>Artist</key><string>Arturo Benedetti Michelangeli</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4928986</integer>
-			<key>Total Time</key><integer>176039</integer>
-			<key>Track Number</key><integer>6</integer>
-			<key>Year</key><integer>1908</integer>
-			<key>Date Modified</key><date>2020-04-24T03:22:20Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:58Z</date>
-			<key>Bit Rate</key><integer>221</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3671008496</integer>
-			<key>Play Date UTC</key><date>2020-04-29T19:34:56Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Persistent ID</key><string>3B5ADE13DAFEC535</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1908%20-%20Childrens%20Corner/Arturo%20Benedetti%20Michelangeli/06%20-%20VI.%20Golliwogg's%20Cakewalk%20(Childrens%20Corner).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12594</key>
-		<dict>
-			<key>Track ID</key><integer>12594</integer>
-			<key>Name</key><string>Etude No 11 - Pour les arpèges composés</string>
-			<key>Artist</key><string>Jean-Yves Thibaudet</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3893326</integer>
-			<key>Total Time</key><integer>294112</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>1915</integer>
-			<key>Date Modified</key><date>2020-04-24T19:26:49Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:58Z</date>
-			<key>Bit Rate</key><integer>104</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3670820132</integer>
-			<key>Play Date UTC</key><date>2020-04-27T15:15:32Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>D23C59CA7496E5C9</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Jean-Yves%20Thibaudet/11%20-%20Etude%20No%2011%20-%20Pour%20les%20arpe%CC%80ges%20compose%CC%81s.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12596</key>
-		<dict>
-			<key>Track ID</key><integer>12596</integer>
-			<key>Name</key><string>Deux Arabesques, I - Andante c</string>
-			<key>Artist</key><string>Jean-Yves Thibaudet</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Genre</key><string>Classical</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>2968689</integer>
-			<key>Total Time</key><integer>221753</integer>
-			<key>Track Number</key><integer>16</integer>
-			<key>Year</key><integer>189</integer>
-			<key>Date Modified</key><date>2020-04-26T01:40:34Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:58Z</date>
-			<key>Bit Rate</key><integer>105</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3D52E269FE509A26</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1891%20-%20Deux%20Arabesques/Jean-Yves%20Thibaudet/01.%20I.%20Premie%CC%80re%20Arabesque%20(Deux%20Arabesques).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12598</key>
-		<dict>
-			<key>Track ID</key><integer>12598</integer>
-			<key>Name</key><string>Prélude à l'après-midi d'un faune</string>
-			<key>Artist</key><string>Karajan - Berlin</string>
-			<key>Composer</key><string>Claude Debussy</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>12905905</integer>
-			<key>Total Time</key><integer>592039</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>1895</integer>
-			<key>Date Modified</key><date>2020-04-27T03:31:09Z</date>
-			<key>Date Added</key><date>2020-05-23T04:58:58Z</date>
-			<key>Bit Rate</key><integer>173</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3670996321</integer>
-			<key>Play Date UTC</key><date>2020-04-29T16:12:01Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>FDEDE2CB460A8F22</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1895%20-%20Pre%CC%81lude%20a%CC%80%20l'apre%CC%80s-midi%20d'un%20faune/Karajan%20-%20Berlin/01%20-%20Pre%CC%81lude%20a%CC%80%20l'apre%CC%80s-midi%20d'un%20faune.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>12600</key>
-		<dict>
-			<key>Track ID</key><integer>12600</integer>
+			<key>Track ID</key><integer>7969</integer>
 			<key>Name</key><string>Part 2 - II. Danse guerrière</string>
 			<key>Artist</key><string>Cluytens - Conservatoire</string>
 			<key>Composer</key><string>Maurice Ravel</string>
@@ -875,9 +419,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>12602</key>
+		<key>7971</key>
 		<dict>
-			<key>Track ID</key><integer>12602</integer>
+			<key>Track ID</key><integer>7971</integer>
 			<key>Name</key><string>Frontispice (1918)</string>
 			<key>Artist</key><string>Alfons &#38; Aloys Kontarsky</string>
 			<key>Composer</key><string>Maurice Ravel</string>
@@ -906,121 +450,818 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>8045</key>
+		<dict>
+			<key>Track ID</key><integer>8045</integer>
+			<key>Name</key><string>II. Mouvement de menuet (Sonatine)</string>
+			<key>Artist</key><string>Angela Hewitt</string>
+			<key>Composer</key><string>Maurice Ravel</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9727713</integer>
+			<key>Total Time</key><integer>242233</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1905</integer>
+			<key>Date Modified</key><date>2020-05-10T05:23:36Z</date>
+			<key>Date Added</key><date>2020-05-24T23:49:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1EDB5FF2697B8662</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Ravel,%20Maurice/1905%20-%20Sonatine/Eva%20Hewitt/02%20-%20II.%20Mouvement%20de%20menuet%20(Sonatine).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8069</key>
+		<dict>
+			<key>Track ID</key><integer>8069</integer>
+			<key>Name</key><string>I. Andante - Allegro (Piano Concerto No 3)</string>
+			<key>Artist</key><string>Argerich - Dutoit - Montreal</string>
+			<key>Composer</key><string>Serge Prokofiev</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11747278</integer>
+			<key>Total Time</key><integer>583560</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1921</integer>
+			<key>Date Modified</key><date>2020-06-28T20:58:56Z</date>
+			<key>Date Added</key><date>2020-06-09T05:46:00Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3671105648</integer>
+			<key>Play Date UTC</key><date>2020-04-30T22:34:08Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-05-11T19:40:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>782F6C60CFB3E38A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Prokofiev,%20Serge/Piano%20Concerti/Concerto%20No%203%20in%20C%20Op%2026/Argerich%20-%20Dutoit%20-%20Montreal/01%20-%20I.%20Andante%20-%20Allegro%20(Piano%20Concerto%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8201</key>
+		<dict>
+			<key>Track ID</key><integer>8201</integer>
+			<key>Name</key><string>II. Abwesenheit - L'Absence - Andante espressivo (Sonata #26 in Eb Op 81a - Les Adieux)</string>
+			<key>Artist</key><string>Claudio Arrau</string>
+			<key>Composer</key><string>Ludwig van Beethoven</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9169449</integer>
+			<key>Total Time</key><integer>227186</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2020-05-27T07:32:07Z</date>
+			<key>Date Added</key><date>2020-06-22T03:48:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3673966108</integer>
+			<key>Play Date UTC</key><date>2020-06-03T01:08:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-11T16:56:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE77F07F88CE7A9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Beethoven,%20Ludwig%20van/Piano%20Sonatas/No%2026%20in%20Eb%20Op%2081a%20-%20Les%20Adieux/Claudio%20Arrau/02%20-%20II.%20Abwesenheit%20-%20L'Absence%20-%20Andante%20espressivo%20(Sonata%20%2326%20in%20Eb%20Op%2081a%20-%20Les%20Adieux).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8305</key>
+		<dict>
+			<key>Track ID</key><integer>8305</integer>
+			<key>Name</key><string>IV. Rondo Grazioso (Sonata #2 In A, Op 2 No 2)</string>
+			<key>Artist</key><string>Claudio Arrau</string>
+			<key>Composer</key><string>Ludwig van Beethoven</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16688590</integer>
+			<key>Total Time</key><integer>415216</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2020-05-27T07:32:23Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF00748C8054E435</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Beethoven,%20Ludwig%20van/Piano%20Sonatas/No%2002%20in%20A,%20Op%202%20No%202/Claudio%20Arrau/04%20-%20IV.%20Rondo%20Grazioso%20(Sonata%20%232%20In%20A,%20Op%202%20No%202).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8321</key>
+		<dict>
+			<key>Track ID</key><integer>8321</integer>
+			<key>Name</key><string>Mazurka No.48 in F, Op.posth.68 No.3 (BI 34)</string>
+			<key>Artist</key><string>Vladimir Ashkenazy</string>
+			<key>Composer</key><string>Frédéric Chopin</string>
+			<key>Album</key><string>Chopin - The Piano Works by Vladimir Ashkenazy (CD10 of 13)</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2491972</integer>
+			<key>Total Time</key><integer>77191</integer>
+			<key>Track Number</key><integer>48</integer>
+			<key>Date Modified</key><date>2020-03-24T13:47:23Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3671877774</integer>
+			<key>Play Date UTC</key><date>2020-05-09T21:02:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43CB68BE34213363</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Mazurkas/Vladimir%20Ashkenazy/48%20-%20Mazurka%20No.48%20in%20F,%20Op.posth.68%20No.3%20(BI%2034).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8323</key>
+		<dict>
+			<key>Track ID</key><integer>8323</integer>
+			<key>Name</key><string>Prelude Op 28 No  3 in G - Vivace</string>
+			<key>Artist</key><string>Daniil Trifonov</string>
+			<key>Composer</key><string>Frederick Chopin</string>
+			<key>Album</key><string>The Carnegie Recital</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1980790</integer>
+			<key>Total Time</key><integer>48875</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2020-06-09T05:32:02Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Carnegie Recital</string>
+			<key>Persistent ID</key><string>77AD5967AC2C55B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Chopin,%20Frederic/Preludes/Daniil%20Trifonov/03%20-%20Prelude%20Op%2028%20No%20%203%20in%20G%20-%20Vivace.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8325</key>
+		<dict>
+			<key>Track ID</key><integer>8325</integer>
+			<key>Name</key><string>IV. Allegro Assai (Sonata #3 in C, Op 2 No 3)</string>
+			<key>Artist</key><string>Daniel Barenboim</string>
+			<key>Composer</key><string>Ludwig van Beethoven</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12602897</integer>
+			<key>Total Time</key><integer>313887</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2020-05-22T00:51:56Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3674006158</integer>
+			<key>Play Date UTC</key><date>2020-06-03T12:15:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FB16666784EE517</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Beethoven,%20Ludwig%20van/Piano%20Sonatas/No%2003%20in%20C,%20Op%202%20No%203/Daniel%20Barenboim/04%20-%20IV.%20Allegro%20Assai%20(Sonata%20%233%20in%20C,%20Op%202%20No%203).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8327</key>
+		<dict>
+			<key>Track ID</key><integer>8327</integer>
+			<key>Name</key><string>No 5. Les collines d'Anacapri (Préludes Book 1)</string>
+			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5942477</integer>
+			<key>Total Time</key><integer>176169</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-06-05T18:13:12Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3671183853</integer>
+			<key>Play Date UTC</key><date>2020-05-01T20:17:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD6C86E0EFE2C051</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Jean-Efflam%20Bavouzet/05%20-%20No%205.%20Les%20collines%20d'Anacapri%20(Pre%CC%81ludes%20Book%201).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8329</key>
+		<dict>
+			<key>Track ID</key><integer>8329</integer>
+			<key>Name</key><string>No 7. Ce qu'a vu le vent d'ouest (Préludes Book 1)</string>
+			<key>Artist</key><string>Vladimir Viardo</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6463783</integer>
+			<key>Total Time</key><integer>199183</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-06-05T18:13:18Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3670954514</integer>
+			<key>Play Date UTC</key><date>2020-04-29T04:35:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>270A6FDDA0FA0432</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Vladimir%20Viardo/07%20-%20No%207.%20Ce%20qu'a%20vu%20le%20vent%20d'ouest%20(Pre%CC%81ludes%20Book%201).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8331</key>
+		<dict>
+			<key>Track ID</key><integer>8331</integer>
+			<key>Name</key><string>Syrinx</string>
+			<key>Artist</key><string>Philippa Davies</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Genre</key><string>, flute</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5294757</integer>
+			<key>Total Time</key><integer>163343</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-04-08T00:46:00Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22AC9362C550F01F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Syrinx%20for%20Solo%20Flute/Philippa%20Davies/01%20-%20Syrinx.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8333</key>
+		<dict>
+			<key>Track ID</key><integer>8333</integer>
+			<key>Name</key><string>Etude No 2 - Pour les Tierces</string>
+			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7142957</integer>
+			<key>Total Time</key><integer>219637</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2020-06-05T18:13:08Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669699963</integer>
+			<key>Play Date UTC</key><date>2020-04-14T16:06:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-23T18:03:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3A08BA814604DB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Jean-Efflam%20Bavouzet/02%20-%20Etude%20No%202%20-%20Pour%20les%20Tierces.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8335</key>
+		<dict>
+			<key>Track ID</key><integer>8335</integer>
+			<key>Name</key><string>Etude No 9 - Pour les notes répétées</string>
+			<key>Artist</key><string>Maurizio Pollini</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Genre</key><string>, piano</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6241091</integer>
+			<key>Total Time</key><integer>192052</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2020-04-08T00:47:41Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3670342170</integer>
+			<key>Play Date UTC</key><date>2020-04-22T02:29:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>780087D4E0DB61BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Mauricio%20Pollini/09%20-%20Etude%20No%209%20-%20Pour%20les%20notes%20re%CC%81pe%CC%81te%CC%81es.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8337</key>
+		<dict>
+			<key>Track ID</key><integer>8337</integer>
+			<key>Name</key><string>Etude No 11 - Pour les arpèges composés</string>
+			<key>Artist</key><string>Maurizio Pollini</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Genre</key><string>, piano</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7041904</integer>
+			<key>Total Time</key><integer>217077</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2020-04-08T00:47:40Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3669377444</integer>
+			<key>Play Date UTC</key><date>2020-04-10T22:30:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>226D4552B237C7E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Mauricio%20Pollini/11%20-%20Etude%20No%2011%20-%20Pour%20les%20arpe%CC%80ges%20compose%CC%81s.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8339</key>
+		<dict>
+			<key>Track ID</key><integer>8339</integer>
+			<key>Name</key><string>No 7 - Ce qu'a vu le vent d'ouest (Preludes Book 1)</string>
+			<key>Artist</key><string>Francois-Joel Thiollier</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>Apple Lossless audio file</string>
+			<key>Size</key><integer>11419675</integer>
+			<key>Total Time</key><integer>177440</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-04-08T06:13:50Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>511</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3670343279</integer>
+			<key>Play Date UTC</key><date>2020-04-22T02:47:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-04-30T03:39:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51686195189AA5C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Franc%CC%A7ois-Joe%CC%88l%20Thiollier/07%20-%20No%207%20-%20Ce%20qu'a%20vu%20le%20vent%20d'ouest%20(Preludes%20Book%201).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8341</key>
+		<dict>
+			<key>Track ID</key><integer>8341</integer>
+			<key>Name</key><string>No. 5. Les collines d'Anacapri (Préludes Book 1)</string>
+			<key>Artist</key><string>Théodore Paraskivesco</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6892783</integer>
+			<key>Total Time</key><integer>170866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-04-12T20:39:24Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>84B30587C1617FFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/The%CC%81odore%20Paraskivesco/05%20-%20No%205.%20Les%20collines%20d'Anacapri%20(Pre%CC%81ludes%20Book%201).mp3.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8343</key>
+		<dict>
+			<key>Track ID</key><integer>8343</integer>
+			<key>Name</key><string>No 7. Ce qu'a vu le vent d'ouest (Préludes Book 1)</string>
+			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6598676</integer>
+			<key>Total Time</key><integer>196675</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2020-06-05T18:13:12Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3670927909</integer>
+			<key>Play Date UTC</key><date>2020-04-28T21:11:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FAB7445DB626B40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1913%20-%20Pre%CC%81ludes/Jean-Efflam%20Bavouzet/07%20-%20No%207.%20Ce%20qu'a%20vu%20le%20vent%20d'ouest%20(Pre%CC%81ludes%20Book%201).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8345</key>
+		<dict>
+			<key>Track ID</key><integer>8345</integer>
+			<key>Name</key><string>III. Mouvement (Images Set 1)</string>
+			<key>Artist</key><string>Claudio Arrau</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6757870</integer>
+			<key>Total Time</key><integer>210076</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1907</integer>
+			<key>Date Modified</key><date>2020-06-05T18:07:28Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1991-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41C939EBF85E02D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1907%20-%20Images%20for%20Piano/Claudio%20Arrau/03%20-%20III.%20Mouvement%20(Images%20Set%201).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8347</key>
+		<dict>
+			<key>Track ID</key><integer>8347</integer>
+			<key>Name</key><string>III. Finale (Sonata for Flute, Viola and Harp)</string>
+			<key>Artist</key><string>Kuijken &#38; Hallynck</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5186998</integer>
+			<key>Total Time</key><integer>275330</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2020-04-23T04:01:39Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>149</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26367880D09444AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Sonata%20for%20Flute,%20Viola%20and%20Harp/Kuijken%20&#38;%20Hallynck/03%20-%20III.%20Finale%20(Sonata%20for%20Flute,%20Viola%20and%20Harp).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8349</key>
+		<dict>
+			<key>Track ID</key><integer>8349</integer>
+			<key>Name</key><string>Etude No 5 - Pour les Octaves</string>
+			<key>Artist</key><string>Mauricio Pollini</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2595350</integer>
+			<key>Total Time</key><integer>151928</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2020-04-23T04:25:47Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>131</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3670822422</integer>
+			<key>Play Date UTC</key><date>2020-04-27T15:53:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9D693C87BFD253E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Mauricio%20Pollini/05%20-%20Etude%20No%205%20-%20Pour%20les%20Octaves.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8351</key>
+		<dict>
+			<key>Track ID</key><integer>8351</integer>
+			<key>Name</key><string>VI. Golliwogg's Cakewalk (Childrens Corner)</string>
+			<key>Artist</key><string>Arturo Benedetti Michelangeli</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4928986</integer>
+			<key>Total Time</key><integer>176039</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1908</integer>
+			<key>Date Modified</key><date>2020-04-24T03:22:20Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3671008496</integer>
+			<key>Play Date UTC</key><date>2020-04-29T19:34:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Persistent ID</key><string>381E372461B5397E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1908%20-%20Childrens%20Corner/Arturo%20Benedetti%20Michelangeli/06%20-%20VI.%20Golliwogg's%20Cakewalk%20(Childrens%20Corner).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8353</key>
+		<dict>
+			<key>Track ID</key><integer>8353</integer>
+			<key>Name</key><string>Etude No 11 - Pour les arpèges composés</string>
+			<key>Artist</key><string>Jean-Yves Thibaudet</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3893326</integer>
+			<key>Total Time</key><integer>294112</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2020-04-24T19:26:49Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>104</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3670820132</integer>
+			<key>Play Date UTC</key><date>2020-04-27T15:15:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Persistent ID</key><string>90D7EA1AA9ED91D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1915%20-%20Etudes/Jean-Yves%20Thibaudet/11%20-%20Etude%20No%2011%20-%20Pour%20les%20arpe%CC%80ges%20compose%CC%81s.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8355</key>
+		<dict>
+			<key>Track ID</key><integer>8355</integer>
+			<key>Name</key><string>Deux Arabesques, I - Andante c</string>
+			<key>Artist</key><string>Jean-Yves Thibaudet</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2968689</integer>
+			<key>Total Time</key><integer>221753</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>189</integer>
+			<key>Date Modified</key><date>2020-04-26T01:40:34Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:17Z</date>
+			<key>Bit Rate</key><integer>105</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8152EA8F5C56024</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1891%20-%20Deux%20Arabesques/Jean-Yves%20Thibaudet/01.%20I.%20Premie%CC%80re%20Arabesque%20(Deux%20Arabesques).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8357</key>
+		<dict>
+			<key>Track ID</key><integer>8357</integer>
+			<key>Name</key><string>Prélude à l'après-midi d'un faune</string>
+			<key>Artist</key><string>Karajan - Berlin</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12905905</integer>
+			<key>Total Time</key><integer>592039</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1895</integer>
+			<key>Date Modified</key><date>2020-04-27T03:31:09Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:18Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3670996321</integer>
+			<key>Play Date UTC</key><date>2020-04-29T16:12:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C64C2A85CFB61F78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/1895%20-%20Pre%CC%81lude%20a%CC%80%20l'apre%CC%80s-midi%20d'un%20faune/Karajan%20-%20Berlin/01%20-%20Pre%CC%81lude%20a%CC%80%20l'apre%CC%80s-midi%20d'un%20faune.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8359</key>
+		<dict>
+			<key>Track ID</key><integer>8359</integer>
+			<key>Name</key><string>Marche au supplice - Allegretto non troppo (Berlioz-Liszt Sym Fant)</string>
+			<key>Artist</key><string>Leslie Howard</string>
+			<key>Composer</key><string>Franz Liszt</string>
+			<key>Album</key><string>Vol 10 - The Hexaméron</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17664689</integer>
+			<key>Total Time</key><integer>406700</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>1833</integer>
+			<key>Date Modified</key><date>2019-09-02T01:43:39Z</date>
+			<key>Date Added</key><date>2020-06-22T03:51:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Berlioz composition: 1830</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3674867904</integer>
+			<key>Play Date UTC</key><date>2020-06-13T11:38:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>17068EAEA4F14FA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Transcriptions/Berlioz%20-%20Symphonie%20Fantastique,%20S470/Leslie%20Howard/17%20-%20Marche%20au%20supplice%20-%20Allegretto%20non%20troppo%20(Berlioz-Liszt%20Sym%20Fant).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8399</key>
+		<dict>
+			<key>Track ID</key><integer>8399</integer>
+			<key>Name</key><string>Legend No. 2 (St Francois De Paule Marchant Sur Les Flots)</string>
+			<key>Artist</key><string>Liszt</string>
+			<key>Album</key><string>Complete Piano Works Volume 2 Ballades, Legends and Polonaises - Leslie Howard</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18251996</integer>
+			<key>Total Time</key><integer>455471</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2019-09-10T06:56:52Z</date>
+			<key>Date Added</key><date>2020-06-22T06:36:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3675627880</integer>
+			<key>Play Date UTC</key><date>2020-06-22T06:44:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6B631659A99E0E56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Liszt,%20Franz/Misc%20Group%20Pieces/1863%20-%20Legends,%20S175/Leslie%20Howard/02%20-%20Legend%20No.%202%20(St%20Francois%20De%20Paule%20Marchant%20Sur%20Les%20Flots).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Stuff For Andrew</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>30798</integer>
-			<key>Playlist Persistent ID</key><string>30F3FFA5124669E0</string>
+			<key>Playlist ID</key><integer>28615</integer>
+			<key>Playlist Persistent ID</key><string>A526569EF9D59E97</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6122</integer>
+					<key>Track ID</key><integer>5611</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7578</integer>
+					<key>Track ID</key><integer>7035</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7580</integer>
+					<key>Track ID</key><integer>7037</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7576</integer>
+					<key>Track ID</key><integer>7033</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7582</integer>
+					<key>Track ID</key><integer>7039</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7584</integer>
+					<key>Track ID</key><integer>7041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8542</integer>
+					<key>Track ID</key><integer>7767</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8544</integer>
+					<key>Track ID</key><integer>7769</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8550</integer>
+					<key>Track ID</key><integer>7775</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8540</integer>
+					<key>Track ID</key><integer>7765</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8546</integer>
+					<key>Track ID</key><integer>7771</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8556</integer>
+					<key>Track ID</key><integer>7777</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8538</integer>
+					<key>Track ID</key><integer>7763</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12586</integer>
+					<key>Track ID</key><integer>8345</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12576</integer>
+					<key>Track ID</key><integer>8333</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12570</integer>
+					<key>Track ID</key><integer>8329</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12582</integer>
+					<key>Track ID</key><integer>8339</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12584</integer>
+					<key>Track ID</key><integer>8341</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12580</integer>
+					<key>Track ID</key><integer>8337</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12568</integer>
+					<key>Track ID</key><integer>8327</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8548</integer>
+					<key>Track ID</key><integer>7773</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12578</integer>
+					<key>Track ID</key><integer>8335</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12594</integer>
+					<key>Track ID</key><integer>8353</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12590</integer>
+					<key>Track ID</key><integer>8349</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12574</integer>
+					<key>Track ID</key><integer>8343</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12572</integer>
+					<key>Track ID</key><integer>8331</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12598</integer>
+					<key>Track ID</key><integer>8357</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12596</integer>
+					<key>Track ID</key><integer>8355</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12592</integer>
+					<key>Track ID</key><integer>8351</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12582</integer>
+					<key>Track ID</key><integer>8339</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12588</integer>
+					<key>Track ID</key><integer>8347</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8552</integer>
+					<key>Track ID</key><integer>8321</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12600</integer>
+					<key>Track ID</key><integer>7969</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12602</integer>
+					<key>Track ID</key><integer>7971</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12438</integer>
+					<key>Track ID</key><integer>8045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8069</integer>
 				</dict>
 			</array>
 		</dict>
