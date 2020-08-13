@@ -4,17 +4,48 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-07-19T17:35:06Z</date>
-	<key>Application Version</key><string>12.8.2.3</string>
+	<key>Date</key><date>2020-08-13T02:52:05Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/iTunes/</string>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>11398</key>
+		<key>4723</key>
 		<dict>
-			<key>Track ID</key><integer>11398</integer>
+			<key>Track ID</key><integer>4723</integer>
+			<key>Name</key><string>Beedle Um Bum</string>
+			<key>Artist</key><string>Mother McCree's Uptown Jug Champions</string>
+			<key>Album</key><string>Live at the Tangent</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3529886</integer>
+			<key>Total Time</key><integer>161175</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2011-03-19T22:22:32Z</date>
+			<key>Date Added</key><date>2020-07-21T22:40:21Z</date>
+			<key>Bit Rate</key><integer>175</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3679998882</integer>
+			<key>Play Date UTC</key><date>2020-08-11T20:54:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-07-20T20:31:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>2090</integer>
+			<key>Persistent ID</key><string>DCB2B0811B97EFD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Mother%20McCree's%20Uptown%20Jug%20Champions/Live%20at%20the%20Tangent/Beedle%20Um%20Bum.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5645</key>
+		<dict>
+			<key>Track ID</key><integer>5645</integer>
 			<key>Name</key><string>Sittin' On It All The Time (1948)</string>
 			<key>Artist</key><string>Wynonie Harris</string>
 			<key>Album</key><string>YouTube</string>
@@ -23,7 +54,7 @@
 			<key>Total Time</key><integer>160705</integer>
 			<key>Year</key><integer>1948</integer>
 			<key>Date Modified</key><date>2017-03-07T08:05:38Z</date>
-			<key>Date Added</key><date>2019-06-02T03:26:22Z</date>
+			<key>Date Added</key><date>2020-07-21T22:41:11Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -32,15 +63,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>DBDF1F2AB0FA0402</string>
+			<key>Persistent ID</key><string>DAD2FE0D67CF3433</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynonie%20Harris/YouTube/Wynonie%20Harris%20-%20Sittin'%20On%20It%20All%20The%20Time%20(1948).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11400</key>
+		<key>5647</key>
 		<dict>
-			<key>Track ID</key><integer>11400</integer>
+			<key>Track ID</key><integer>5647</integer>
 			<key>Name</key><string>Keep On Churnin' ('Til The Butter Come)</string>
 			<key>Artist</key><string>Wynonie Harris</string>
 			<key>Album</key><string>YouTube</string>
@@ -48,7 +79,7 @@
 			<key>Size</key><integer>4235412</integer>
 			<key>Total Time</key><integer>175830</integer>
 			<key>Date Modified</key><date>2017-03-07T08:09:17Z</date>
-			<key>Date Added</key><date>2019-06-02T03:26:22Z</date>
+			<key>Date Added</key><date>2020-07-21T22:41:11Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -57,39 +88,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>1E71CF1148CA0888</string>
+			<key>Persistent ID</key><string>5F75C25538E4C872</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynonie%20Harris/YouTube/Wynonie%20Harris%20-%20Keep%20On%20Churnin'%20('Til%20The%20Butter%20Come).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11404</key>
+		<key>9077</key>
 		<dict>
-			<key>Track ID</key><integer>11404</integer>
-			<key>Name</key><string>Somebody's Been Using That Thing</string>
-			<key>Artist</key><string>Milton Brown and his Brownies</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4132614</integer>
-			<key>Total Time</key><integer>172016</integer>
-			<key>Date Modified</key><date>2017-02-24T05:49:15Z</date>
-			<key>Date Added</key><date>2019-06-02T03:26:22Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>converted by convert2mp3.net</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3631348310</integer>
-			<key>Play Date UTC</key><date>2019-01-26T19:51:50Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>6B13B83BD2AF3BBE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Milton%20Brown%20and%20His%20Musical%20Brownies/YouTube/Milton%20Brown%20and%20his%20Brownies%20-%20Somebody's%20Been%20Using%20That%20Thing.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>11556</key>
-		<dict>
-			<key>Track ID</key><integer>11556</integer>
+			<key>Track ID</key><integer>9077</integer>
 			<key>Name</key><string>You Can't Tell The Difference After Dark (1935)</string>
 			<key>Artist</key><string>Alberta Hunter</string>
 			<key>Album</key><string>YouTube</string>
@@ -97,24 +104,26 @@
 			<key>Size</key><integer>4294365</integer>
 			<key>Total Time</key><integer>178755</integer>
 			<key>Date Modified</key><date>2017-03-18T04:43:07Z</date>
-			<key>Date Added</key><date>2019-06-02T03:27:35Z</date>
+			<key>Date Added</key><date>2020-07-21T22:44:36Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>13</integer>
-			<key>Play Date</key><integer>3627392762</integer>
-			<key>Play Date UTC</key><date>2018-12-12T01:06:02Z</date>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3664095308</integer>
+			<key>Play Date UTC</key><date>2020-02-09T20:15:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-06T18:31:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>4AC38CA988AE4DB6</string>
+			<key>Persistent ID</key><string>42BCB787BB60F669</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Naughty/Alberta%20Hunter%20-%20You%20Can't%20Tell%20The%20Difference%20After%20Dark%20(1935).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11558</key>
+		<key>9079</key>
 		<dict>
-			<key>Track ID</key><integer>11558</integer>
+			<key>Track ID</key><integer>9079</integer>
 			<key>Name</key><string>Hula Blues</string>
 			<key>Artist</key><string>Jim &#38; Bob, The Genial Hawaiians</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -126,13 +135,13 @@
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>1992</integer>
 			<key>Date Modified</key><date>2017-03-06T01:44:28Z</date>
-			<key>Date Added</key><date>2019-06-02T03:27:35Z</date>
+			<key>Date Added</key><date>2020-07-21T22:44:36Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>[mudmashers]</string>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3641303317</integer>
-			<key>Play Date UTC</key><date>2019-05-22T00:08:37Z</date>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3675826197</integer>
+			<key>Play Date UTC</key><date>2020-06-24T13:49:57Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2017-03-21T01:48:49Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -140,15 +149,39 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Jim &#38; Bob, The Genial Hawaiians</string>
 			<key>Sort Name</key><string>Hula Blues</string>
-			<key>Persistent ID</key><string>FF9DBFE84D6ADF17</string>
+			<key>Persistent ID</key><string>F3979B7BF1D304E8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Vintage%20Hawaiian%20Music%20-%20Steel%20Guitar%20Masters%201928-34/15%20-%20Hula%20Blues%20-%20Jim%20&#38;%20Bob,%20The%20Genial%20Hawaiians.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11622</key>
+		<key>26513</key>
 		<dict>
-			<key>Track ID</key><integer>11622</integer>
+			<key>Track ID</key><integer>26513</integer>
+			<key>Name</key><string>Somebody's Been Using That Thing</string>
+			<key>Artist</key><string>Milton Brown and his Brownies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4132614</integer>
+			<key>Total Time</key><integer>172016</integer>
+			<key>Date Modified</key><date>2017-02-24T05:49:15Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>converted by convert2mp3.net</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3631348310</integer>
+			<key>Play Date UTC</key><date>2019-01-26T19:51:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>B8ED03D1D798F8E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Milton%20Brown%20and%20His%20Musical%20Brownies/YouTube/Milton%20Brown%20and%20his%20Brownies%20-%20Somebody's%20Been%20Using%20That%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>26518</key>
+		<dict>
+			<key>Track ID</key><integer>26518</integer>
 			<key>Name</key><string>Bye Bye Cherry</string>
 			<key>Artist</key><string>Gene Autry</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -156,7 +189,7 @@
 			<key>Size</key><integer>2207424</integer>
 			<key>Total Time</key><integer>83722</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:38Z</date>
-			<key>Date Added</key><date>2019-06-02T03:28:08Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -166,15 +199,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4F75FC5F7A1F71F9</string>
+			<key>Persistent ID</key><string>C7CF101348308745</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/11%20-%20Gene%20Autry%20-%20Bye%20Bye%20Cherry.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11624</key>
+		<key>26521</key>
 		<dict>
-			<key>Track ID</key><integer>11624</integer>
+			<key>Track ID</key><integer>26521</integer>
 			<key>Name</key><string>It's Too Big Poppa</string>
 			<key>Artist</key><string>Claude Hopkins Orchestra</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -182,7 +215,7 @@
 			<key>Size</key><integer>3911462</integer>
 			<key>Total Time</key><integer>154723</integer>
 			<key>Date Modified</key><date>2018-02-16T03:25:28Z</date>
-			<key>Date Added</key><date>2019-06-02T03:28:08Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -192,15 +225,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B52E61E1E6919C6A</string>
+			<key>Persistent ID</key><string>11E9BCB750847715</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/05%20-%20Claude%20Hopkins%20Orchestra%20-%20It's%20Too%20Big%20Poppa.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11628</key>
+		<key>26532</key>
 		<dict>
-			<key>Track ID</key><integer>11628</integer>
+			<key>Track ID</key><integer>26532</integer>
 			<key>Name</key><string>When I'm Drinkin'</string>
 			<key>Artist</key><string>Devil In A Woodpile</string>
 			<key>Album</key><string>In Your Lonesome Town</string>
@@ -212,7 +245,7 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2005</integer>
 			<key>Date Modified</key><date>2018-09-03T17:04:13Z</date>
-			<key>Date Added</key><date>2019-06-02T03:28:08Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -222,15 +255,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3044</integer>
 			<key>Artwork Count</key><integer>4</integer>
-			<key>Persistent ID</key><string>61080F0193E21E91</string>
+			<key>Persistent ID</key><string>DBA73A97F9B497E1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Devil%20In%20A%20Woodpile/2005%20-%20In%20Your%20Lonesome%20Town/12%20When%20I'm%20Drinkin'.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13710</key>
+		<key>26538</key>
 		<dict>
-			<key>Track ID</key><integer>13710</integer>
+			<key>Track ID</key><integer>26538</integer>
 			<key>Name</key><string>No Muss, No Fuss, No Bother</string>
 			<key>Artist</key><string>Hank Penny</string>
 			<key>Album</key><string>YouTube</string>
@@ -238,7 +271,7 @@
 			<key>Size</key><integer>4214008</integer>
 			<key>Total Time</key><integer>172773</integer>
 			<key>Date Modified</key><date>2017-03-11T16:17:27Z</date>
-			<key>Date Added</key><date>2019-07-03T21:21:55Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -250,15 +283,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>F985D07146B2E877</string>
+			<key>Persistent ID</key><string>0FF733ED832B9D31</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hank%20Penny/YouTube/Hank%20Penny%20-%20No%20Muss_%20No%20Fuss_%20No%20Bother.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14490</key>
+		<key>26541</key>
 		<dict>
-			<key>Track ID</key><integer>14490</integer>
+			<key>Track ID</key><integer>26541</integer>
 			<key>Name</key><string>Looking for a New Mama</string>
 			<key>Artist</key><string>Jimmie Rodgers</string>
 			<key>Album Artist</key><string>Jimmie Rodgers</string>
@@ -271,21 +304,21 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1932</integer>
 			<key>Date Modified</key><date>2019-05-08T14:37:46Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:34Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>1EC1A1C70AEB7503</string>
+			<key>Persistent ID</key><string>251BCCBEB6A74FAE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmie%20Rodgers/2002%20-%20Recordings%201927-1933/Disc%204%20-%201931-32/06%20Looking%20for%20a%20New%20Mama.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14494</key>
+		<key>26545</key>
 		<dict>
-			<key>Track ID</key><integer>14494</integer>
+			<key>Track ID</key><integer>26545</integer>
 			<key>Name</key><string>Long Tall Mama Blues</string>
 			<key>Artist</key><string>Jimmie Rodgers</string>
 			<key>Album Artist</key><string>Jimmie Rodgers</string>
@@ -298,7 +331,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1933</integer>
 			<key>Date Modified</key><date>2019-05-08T14:38:35Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:37Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -307,15 +340,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5865D60F5C2648F8</string>
+			<key>Persistent ID</key><string>55E5070695C9E21A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmie%20Rodgers/2002%20-%20Recordings%201927-1933/Disc%205%20-%201932-33/02%20Long%20Tall%20Mama%20Blues.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14496</key>
+		<key>26554</key>
 		<dict>
-			<key>Track ID</key><integer>14496</integer>
+			<key>Track ID</key><integer>26554</integer>
 			<key>Name</key><string>Keep Your Hands Off My Mojo</string>
 			<key>Artist</key><string>Coot Grant And Kid Wilson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -323,7 +356,7 @@
 			<key>Size</key><integer>4310582</integer>
 			<key>Total Time</key><integer>177397</integer>
 			<key>Date Modified</key><date>2018-08-12T19:04:46Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:20Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -334,15 +367,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B4FC40522BD15408</string>
+			<key>Persistent ID</key><string>27AAA8959ED7416A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/Keep%20Your%20Hands%20Off%20My%20Mojo%20-%20Coot%20Grant%20And%20Kid%20Wilson.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14500</key>
+		<key>26557</key>
 		<dict>
-			<key>Track ID</key><integer>14500</integer>
+			<key>Track ID</key><integer>26557</integer>
 			<key>Name</key><string>I'm Wild About That Thing</string>
 			<key>Artist</key><string>Bessie Smith</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -350,7 +383,7 @@
 			<key>Size</key><integer>4342164</integer>
 			<key>Total Time</key><integer>172669</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:39Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -360,15 +393,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>576BC5D38EB7975A</string>
+			<key>Persistent ID</key><string>B1DBDF08B1C7B232</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/17%20-%20Bessie%20Smith%20-%20I'm%20Wild%20About%20That%20Thing.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14502</key>
+		<key>26566</key>
 		<dict>
-			<key>Track ID</key><integer>14502</integer>
+			<key>Track ID</key><integer>26566</integer>
 			<key>Name</key><string>This One's On Me</string>
 			<key>Artist</key><string>Jim &#38; Jennie And The Pinetops</string>
 			<key>Album</key><string>Little Birdie</string>
@@ -379,7 +412,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Date Modified</key><date>2012-06-19T03:10:38Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -388,15 +421,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4473</integer>
-			<key>Persistent ID</key><string>DD43C3C66072B0B4</string>
+			<key>Persistent ID</key><string>0C5E2FB296E35287</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jim%20&#38;%20Jennie%20And%20The%20Pinetops/Little%20Birdie/This%20One's%20On%20Me.m4a</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14516</key>
+		<key>26569</key>
 		<dict>
-			<key>Track ID</key><integer>14516</integer>
+			<key>Track ID</key><integer>26569</integer>
 			<key>Name</key><string>Wham! Bam! Thank You Ma'am!</string>
 			<key>Artist</key><string>Hank Penny</string>
 			<key>Album</key><string>YouTube</string>
@@ -404,7 +437,7 @@
 			<key>Size</key><integer>4390761</integer>
 			<key>Total Time</key><integer>180140</integer>
 			<key>Date Modified</key><date>2017-03-11T16:17:29Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -415,15 +448,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>E82F6459EE839D31</string>
+			<key>Persistent ID</key><string>255080FFAA8CAAB3</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hank%20Penny/YouTube/Hank%20Penny%20-%20Wham!%20Bam!%20Thank%20You%20Ma'am!.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14526</key>
+		<key>26574</key>
 		<dict>
-			<key>Track ID</key><integer>14526</integer>
+			<key>Track ID</key><integer>26574</integer>
 			<key>Name</key><string>It Ain't the Meat (1951)</string>
 			<key>Artist</key><string>The Swallows</string>
 			<key>Album</key><string>YouTube</string>
@@ -432,7 +465,7 @@
 			<key>Total Time</key><integer>156133</integer>
 			<key>Year</key><integer>1951</integer>
 			<key>Date Modified</key><date>2017-03-07T07:46:12Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -444,15 +477,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Sort Album</key><string>YouTube</string>
 			<key>Sort Artist</key><string>Swallows</string>
-			<key>Persistent ID</key><string>8B3C45B31B7C08EC</string>
+			<key>Persistent ID</key><string>0614D7D2806745AC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Naughty/The%20Swallows%20-%20It%20Ain't%20the%20Meat%20(1951).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14530</key>
+		<key>26578</key>
 		<dict>
-			<key>Track ID</key><integer>14530</integer>
+			<key>Track ID</key><integer>26578</integer>
 			<key>Name</key><string>Big Fat Mamas Are Back in Style</string>
 			<key>Artist</key><string>Bull Moose Jackson</string>
 			<key>Album</key><string>YouTube</string>
@@ -460,7 +493,7 @@
 			<key>Size</key><integer>3390946</integer>
 			<key>Total Time</key><integer>141113</integer>
 			<key>Date Modified</key><date>2017-03-07T07:52:03Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -472,15 +505,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>184A5966AFDD95DA</string>
+			<key>Persistent ID</key><string>3AAF5A475D0517D4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bull%20Moose%20Jackson/YouTube/Bull%20Moose%20Jackson%20-%20Big%20Fat%20Mamas%20Are%20Back%20in%20Style.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14536</key>
+		<key>26582</key>
 		<dict>
-			<key>Track ID</key><integer>14536</integer>
+			<key>Track ID</key><integer>26582</integer>
 			<key>Name</key><string>61. So Round, So Firm, So Fully Packed (1947)</string>
 			<key>Artist</key><string>Ernest Tubb</string>
 			<key>Album</key><string>Steelin' It- The Steel Guitar Story</string>
@@ -489,7 +522,7 @@
 			<key>Total Time</key><integer>174837</integer>
 			<key>Year</key><integer>1947</integer>
 			<key>Date Modified</key><date>2017-03-06T01:05:07Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:38Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -503,15 +536,15 @@
 			<key>Sort Album</key><string>Steelin' It- The Steel Guitar Story</string>
 			<key>Sort Artist</key><string>Ernest Tubb</string>
 			<key>Sort Name</key><string>61. So Round, So Firm, So Fully Packed (1947)</string>
-			<key>Persistent ID</key><string>F3290DDD150A2486</string>
+			<key>Persistent ID</key><string>08F272A67B6967F0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Steelin'%20It-%20The%20Steel%20Guitar%20Story%20-%204CD-BOX/61.%20So%20Round,%20So%20Firm,%20So%20Fully%20Packed.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14544</key>
+		<key>26585</key>
 		<dict>
-			<key>Track ID</key><integer>14544</integer>
+			<key>Track ID</key><integer>26585</integer>
 			<key>Name</key><string>King Size Papa</string>
 			<key>Artist</key><string>Julia Lee</string>
 			<key>Album</key><string>YouTube</string>
@@ -519,7 +552,7 @@
 			<key>Size</key><integer>3838580</integer>
 			<key>Total Time</key><integer>159764</integer>
 			<key>Date Modified</key><date>2017-03-18T04:33:48Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -528,15 +561,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>E2E2C844B3AA8594</string>
+			<key>Persistent ID</key><string>FE494FB41EB14104</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Julia%20Lee/YouTube/Julia%20Lee%20-%20King%20Size%20Papa.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14556</key>
+		<key>26599</key>
 		<dict>
-			<key>Track ID</key><integer>14556</integer>
+			<key>Track ID</key><integer>26599</integer>
 			<key>Name</key><string>Im Gonna Let Him Ride</string>
 			<key>Artist</key><string>Helen Humes</string>
 			<key>Album</key><string>YouTube</string>
@@ -544,7 +577,7 @@
 			<key>Size</key><integer>2588464</integer>
 			<key>Total Time</key><integer>107676</integer>
 			<key>Date Modified</key><date>2017-02-24T18:43:06Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -554,15 +587,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>BF1A2F5736C7DC06</string>
+			<key>Persistent ID</key><string>F2FF07DD697C9416</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Early%20Rock%20n'%20Roll/Helen%20Humes%20-%20Im%20Gonna%20Let%20Him%20Ride.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14558</key>
+		<key>26603</key>
 		<dict>
-			<key>Track ID</key><integer>14558</integer>
+			<key>Track ID</key><integer>26603</integer>
 			<key>Name</key><string>All She Wants To Do Is Rock</string>
 			<key>Artist</key><string>Wynonie Harris</string>
 			<key>Album</key><string>YouTube</string>
@@ -570,7 +603,7 @@
 			<key>Size</key><integer>3652379</integer>
 			<key>Total Time</key><integer>152006</integer>
 			<key>Date Modified</key><date>2017-03-07T08:07:13Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -581,15 +614,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>16277D44B6753D1B</string>
+			<key>Persistent ID</key><string>38D8A965EF965996</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynonie%20Harris/YouTube/Wynonie%20Harris%20-%20All%20She%20Wants%20To%20Do%20Is%20Rock.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14560</key>
+		<key>26606</key>
 		<dict>
-			<key>Track ID</key><integer>14560</integer>
+			<key>Track ID</key><integer>26606</integer>
 			<key>Name</key><string>It's Tight Like That (1929)</string>
 			<key>Artist</key><string>Clara Smith</string>
 			<key>Album</key><string>YouTube</string>
@@ -597,7 +630,7 @@
 			<key>Size</key><integer>4748268</integer>
 			<key>Total Time</key><integer>197668</integer>
 			<key>Date Modified</key><date>2017-03-18T04:43:07Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -606,15 +639,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>50D47E7AFE35B43F</string>
+			<key>Persistent ID</key><string>3B8BD8C619F27CDD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Naughty/Clara%20Smith%20-%20It's%20Tight%20Like%20That%20(1929).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14562</key>
+		<key>26615</key>
 		<dict>
-			<key>Track ID</key><integer>14562</integer>
+			<key>Track ID</key><integer>26615</integer>
 			<key>Name</key><string>Way Down Boogie</string>
 			<key>Artist</key><string>Harold Burrage</string>
 			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
@@ -623,7 +656,7 @@
 			<key>Total Time</key><integer>172591</integer>
 			<key>Year</key><integer>1952</integer>
 			<key>Date Modified</key><date>2017-02-20T18:55:34Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -638,15 +671,15 @@
 			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
 			<key>Sort Artist</key><string>Harold Burrage</string>
 			<key>Sort Name</key><string>Way Down Boogie</string>
-			<key>Persistent ID</key><string>4131022986E0A956</string>
+			<key>Persistent ID</key><string>D54A5FAD5DC28D89</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/19.%20Way%20Down%20Boogie.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14564</key>
+		<key>26619</key>
 		<dict>
-			<key>Track ID</key><integer>14564</integer>
+			<key>Track ID</key><integer>26619</integer>
 			<key>Name</key><string>Mischievious Boogie (1951)</string>
 			<key>Artist</key><string>Big Mama Thornton</string>
 			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
@@ -655,7 +688,7 @@
 			<key>Total Time</key><integer>152346</integer>
 			<key>Year</key><integer>1951</integer>
 			<key>Date Modified</key><date>2017-02-20T19:03:41Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -669,15 +702,15 @@
 			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
 			<key>Sort Artist</key><string>Big Mama Thornton</string>
 			<key>Sort Name</key><string>Mischievious Boogie (1951)</string>
-			<key>Persistent ID</key><string>40855E9C0568A102</string>
+			<key>Persistent ID</key><string>C8DA04C08D74A4CC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/55.%20Mischievious%20Boogie%20%20(1951).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14566</key>
+		<key>26622</key>
 		<dict>
-			<key>Track ID</key><integer>14566</integer>
+			<key>Track ID</key><integer>26622</integer>
 			<key>Name</key><string>Kissin' Bug Boogie (1950)</string>
 			<key>Artist</key><string>Crown Prince Waterford</string>
 			<key>Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
@@ -686,7 +719,7 @@
 			<key>Total Time</key><integer>155271</integer>
 			<key>Year</key><integer>1950</integer>
 			<key>Date Modified</key><date>2017-02-20T19:07:39Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -700,15 +733,15 @@
 			<key>Sort Album</key><string>Rhythm 'N' Blues - Boogie Woogie Goodies</string>
 			<key>Sort Artist</key><string>Crown Prince Waterford</string>
 			<key>Sort Name</key><string>Kissin' Bug Boogie (1950)</string>
-			<key>Persistent ID</key><string>88940C0F166ABFE6</string>
+			<key>Persistent ID</key><string>113E713E3522D3BF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Rhythm%20'N'%20Blues%20-%20Boogie%20Woogie%20Goodies%20-%204CD-BOX/74.%20Kissin'%20Bug%20Boogie%20%20(1950).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14572</key>
+		<key>26634</key>
 		<dict>
-			<key>Track ID</key><integer>14572</integer>
+			<key>Track ID</key><integer>26634</integer>
 			<key>Name</key><string>Nosey Joe</string>
 			<key>Artist</key><string>Bull Moose Jackson</string>
 			<key>Album</key><string>YouTube</string>
@@ -716,7 +749,7 @@
 			<key>Size</key><integer>3774005</integer>
 			<key>Total Time</key><integer>157074</integer>
 			<key>Date Modified</key><date>2017-03-08T07:13:31Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -726,40 +759,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>06EAEEC710E77635</string>
+			<key>Persistent ID</key><string>7C18378CC1E797AD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bull%20Moose%20Jackson/YouTube/Bull%20Moose%20Jackson%20-%20Nosey%20Joe.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14576</key>
+		<key>26643</key>
 		<dict>
-			<key>Track ID</key><integer>14576</integer>
-			<key>Name</key><string>Caffeine And Nicotine (1954)</string>
-			<key>Artist</key><string>Curtis Gordon</string>
-			<key>Album</key><string>YouTube</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3101300</integer>
-			<key>Total Time</key><integer>129044</integer>
-			<key>Date Modified</key><date>2017-03-18T04:43:07Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3641308933</integer>
-			<key>Play Date UTC</key><date>2019-05-22T01:42:13Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Sort Album</key><string>YouTube</string>
-			<key>Persistent ID</key><string>A496AE8B1D79BC86</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/YouTube/Naughty/Curtis%20Gordon%20-%20Caffeine%20And%20Nicotine%20(1954).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>14580</key>
-		<dict>
-			<key>Track ID</key><integer>14580</integer>
+			<key>Track ID</key><integer>26643</integer>
 			<key>Name</key><string>Sing Song Girl, Leroy Shield And The Victor Hollywood Orchestra, Sep 26, 1930</string>
 			<key>Artist</key><string>Robert Crumb</string>
 			<key>Album Artist</key><string>Robert Crumb</string>
@@ -772,7 +780,7 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>1999</integer>
 			<key>Date Modified</key><date>2017-01-31T03:42:17Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>[mudmashers]</string>
@@ -782,40 +790,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9DF08C95127A1E70</string>
+			<key>Persistent ID</key><string>48C93BA9903DF289</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Robert%20Crumb/1999%20-%20That's%20What%20I%20Call%20Sweet%20Music/11%20-%20Sing%20Song%20Girl,%20Leroy%20Shield%20And%20The%20Victor%20Hollywood%20Orchestra,%20Sep%2026,%201930.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14582</key>
+		<key>26654</key>
 		<dict>
-			<key>Track ID</key><integer>14582</integer>
-			<key>Name</key><string>Preachin' Blues</string>
-			<key>Artist</key><string>Sidney Bechet &#38; His New Orleans Feetwarmers</string>
-			<key>Album</key><string>Copulatin' Blues Volume 1</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4535032</integer>
-			<key>Total Time</key><integer>186749</integer>
-			<key>Date Modified</key><date>2018-02-11T01:48:58Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3608637364</integer>
-			<key>Play Date UTC</key><date>2018-05-08T22:16:04Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DD3311065E8F4A64</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/01%20-%20Sidney%20Bechet%20&#38;%20His%20New%20Orleans%20Feetwarmers%20-%20Preachin'%20Blues.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>14584</key>
-		<dict>
-			<key>Track ID</key><integer>14584</integer>
+			<key>Track ID</key><integer>26654</integer>
 			<key>Name</key><string>Do Your Duty</string>
 			<key>Artist</key><string>Bessie Smith with Buck And His Band</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -823,7 +806,7 @@
 			<key>Size</key><integer>5135001</integer>
 			<key>Total Time</key><integer>211748</integer>
 			<key>Date Modified</key><date>2018-02-11T01:49:00Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -833,15 +816,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>88EA958D9FB0B1AF</string>
+			<key>Persistent ID</key><string>1BD8674B78952BF6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/03%20-%20Bessie%20Smith%20with%20Buck%20And%20His%20Band%20-%20Do%20Your%20Duty.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14586</key>
+		<key>26657</key>
 		<dict>
-			<key>Track ID</key><integer>14586</integer>
+			<key>Track ID</key><integer>26657</integer>
 			<key>Name</key><string>New Rubbin' On The Darned</string>
 			<key>Artist</key><string>Oscars Chicago Swingers with Lovin' Sam Theard</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -849,7 +832,7 @@
 			<key>Size</key><integer>3934438</integer>
 			<key>Total Time</key><integer>161724</integer>
 			<key>Date Modified</key><date>2018-02-11T01:48:58Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:39Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -859,41 +842,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>04A492BA0982D910</string>
+			<key>Persistent ID</key><string>5B8ED75F9315021B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/04%20-%20Oscars%20Chicago%20Swingers%20with%20Lovin'%20Sam%20Theard%20-%20New%20Rubbin'%20On%20The%20Darned.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14588</key>
+		<key>26671</key>
 		<dict>
-			<key>Track ID</key><integer>14588</integer>
-			<key>Name</key><string>Stavin' Chain</string>
-			<key>Artist</key><string>Johnnie Temple &#38; The Harlem Hamfats</string>
-			<key>Album</key><string>Copulatin' Blues Volume 1</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3596495</integer>
-			<key>Total Time</key><integer>147644</integer>
-			<key>Date Modified</key><date>2018-02-11T01:48:59Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3601353349</integer>
-			<key>Play Date UTC</key><date>2018-02-13T15:55:49Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>DFFF274E207A7D8D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/06%20-%20Johnnie%20Temple%20&#38;%20The%20Harlem%20Hamfats%20-%20Stavin'%20Chain.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>14590</key>
-		<dict>
-			<key>Track ID</key><integer>14590</integer>
+			<key>Track ID</key><integer>26671</integer>
 			<key>Name</key><string>You Stole My Cherry</string>
 			<key>Artist</key><string>Lil' Johnson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -901,7 +858,7 @@
 			<key>Size</key><integer>3934398</integer>
 			<key>Total Time</key><integer>161724</integer>
 			<key>Date Modified</key><date>2018-02-11T01:48:59Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -911,15 +868,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>144327A5646F964A</string>
+			<key>Persistent ID</key><string>E1B3BA236E7FD628</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/08%20-%20Lil'%20Johnson%20-%20You%20Stole%20My%20Cherry.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14592</key>
+		<key>26674</key>
 		<dict>
-			<key>Track ID</key><integer>14592</integer>
+			<key>Track ID</key><integer>26674</integer>
 			<key>Name</key><string>Get Off With Me</string>
 			<key>Artist</key><string>Coot Grant &#38; Kid Wilson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -927,7 +884,7 @@
 			<key>Size</key><integer>4703658</integer>
 			<key>Total Time</key><integer>193776</integer>
 			<key>Date Modified</key><date>2018-02-11T01:49:00Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -937,15 +894,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>69062155393E7071</string>
+			<key>Persistent ID</key><string>A1FD347AC0DCE8E2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/10%20-%20Coot%20Grant%20&#38;%20Kid%20Wilson%20-%20Get%20Off%20With%20Me.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14594</key>
+		<key>26678</key>
 		<dict>
-			<key>Track ID</key><integer>14594</integer>
+			<key>Track ID</key><integer>26678</integer>
 			<key>Name</key><string>My Daddy Rocks Me</string>
 			<key>Artist</key><string>Tampa Reds Hokum Jug Band Frankie Half Pint Jaxon</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -953,7 +910,7 @@
 			<key>Size</key><integer>4725002</integer>
 			<key>Total Time</key><integer>194664</integer>
 			<key>Date Modified</key><date>2018-02-11T01:48:57Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -963,15 +920,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B738FD34C094C5C8</string>
+			<key>Persistent ID</key><string>7D704D3846C68FB4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/11%20-%20Tampa%20Reds%20Hokum%20Jug%20Band%20Frankie%20Half%20Pint%20Jaxon%20-%20My%20Daddy%20Rocks%20Me.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14598</key>
+		<key>26681</key>
 		<dict>
-			<key>Track ID</key><integer>14598</integer>
+			<key>Track ID</key><integer>26681</integer>
 			<key>Name</key><string>Barbecue Bess</string>
 			<key>Artist</key><string>Lucille Bogan</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -979,7 +936,7 @@
 			<key>Size</key><integer>3957589</integer>
 			<key>Total Time</key><integer>162690</integer>
 			<key>Date Modified</key><date>2018-02-11T01:48:58Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -989,15 +946,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0DEFDF25B25A007B</string>
+			<key>Persistent ID</key><string>CAB1B25074CE9A76</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/15%20-%20Lucille%20Bogan%20-%20Barbecue%20Bess.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14600</key>
+		<key>26684</key>
 		<dict>
-			<key>Track ID</key><integer>14600</integer>
+			<key>Track ID</key><integer>26684</integer>
 			<key>Name</key><string>Try Some Of That</string>
 			<key>Artist</key><string>Oscars Chicago Swingers Featuring Lovi' Sam Theard</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1005,7 +962,7 @@
 			<key>Size</key><integer>4559114</integer>
 			<key>Total Time</key><integer>181707</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:35Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1015,15 +972,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>95527D3C0AF611B1</string>
+			<key>Persistent ID</key><string>ABF4911E246712A5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/02%20-%20Oscars%20Chicago%20Swingers%20Featuring%20Lovi'%20Sam%20Theard%20-%20Try%20Some%20Of%20That.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14602</key>
+		<key>26687</key>
 		<dict>
-			<key>Track ID</key><integer>14602</integer>
+			<key>Track ID</key><integer>26687</integer>
 			<key>Name</key><string>She Squeezed My Lemon</string>
 			<key>Artist</key><string>Arthur McKay &#38; Roosevelt Sykes</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1031,7 +988,7 @@
 			<key>Size</key><integer>4079491</integer>
 			<key>Total Time</key><integer>161724</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:40Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1041,15 +998,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C01F151E515A478A</string>
+			<key>Persistent ID</key><string>529BB392DC64208F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/06-%20Arthur%20McKay%20&#38;%20Roosevelt%20Sykes%20-%20She%20Squeezed%20My%20Lemon.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14604</key>
+		<key>26690</key>
 		<dict>
-			<key>Track ID</key><integer>14604</integer>
+			<key>Track ID</key><integer>26690</integer>
 			<key>Name</key><string>Shake It Baby</string>
 			<key>Artist</key><string>Blind Boy Fuller</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1057,7 +1014,7 @@
 			<key>Size</key><integer>4415508</integer>
 			<key>Total Time</key><integer>175725</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:39Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1067,15 +1024,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2200B362A839BEAB</string>
+			<key>Persistent ID</key><string>CC731564C3C3BD53</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/07%20-%20Blind%20Boy%20Fuller%20-%20Shake%20It%20Baby.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14606</key>
+		<key>26693</key>
 		<dict>
-			<key>Track ID</key><integer>14606</integer>
+			<key>Track ID</key><integer>26693</integer>
 			<key>Name</key><string>If You Dont Give Me What I Want</string>
 			<key>Artist</key><string>Lil' Johnson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1083,22 +1040,22 @@
 			<key>Size</key><integer>4223052</integer>
 			<key>Total Time</key><integer>167706</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:36Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2C134F88D08F79AD</string>
+			<key>Persistent ID</key><string>CCC0707E6685645D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/09%20-%20Lil'%20Johnson%20-%20If%20You%20Dont%20Give%20Me%20What%20I%20Want.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14608</key>
+		<key>26696</key>
 		<dict>
-			<key>Track ID</key><integer>14608</integer>
+			<key>Track ID</key><integer>26696</integer>
 			<key>Name</key><string>Pussy Pussy Pussy</string>
 			<key>Artist</key><string>The Light Crust Doughboys</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1106,7 +1063,7 @@
 			<key>Size</key><integer>3863188</integer>
 			<key>Total Time</key><integer>152711</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:37Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1117,15 +1074,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Light Crust Doughboys</string>
-			<key>Persistent ID</key><string>B994A7AD88D274F0</string>
+			<key>Persistent ID</key><string>835A364BFCE75E5F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/18%20-%20The%20Light%20Crust%20Doughboys%20-%20Pussy%20Pussy%20Pussy.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14610</key>
+		<key>26699</key>
 		<dict>
-			<key>Track ID</key><integer>14610</integer>
+			<key>Track ID</key><integer>26699</integer>
 			<key>Name</key><string>He Hadn't Up Till Yesterday</string>
 			<key>Artist</key><string>Sophie Tucker With Ted Shapiro &#38; His Orchestra</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1133,7 +1090,7 @@
 			<key>Size</key><integer>4487023</integer>
 			<key>Total Time</key><integer>178703</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:35Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1142,15 +1099,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C7CC380E50B6D4CD</string>
+			<key>Persistent ID</key><string>298DF159DE9F5F85</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/23%20-%20Sophie%20Tucker%20With%20Ted%20Shapiro%20&#38;%20His%20Orchestra%20-%20He%20Hadn't%20Up%20Till%20Yesterday.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14612</key>
+		<key>26702</key>
 		<dict>
-			<key>Track ID</key><integer>14612</integer>
+			<key>Track ID</key><integer>26702</integer>
 			<key>Name</key><string>Daddy You've Got Everything</string>
 			<key>Artist</key><string>Mary Dixon</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1158,7 +1115,7 @@
 			<key>Size</key><integer>4342163</integer>
 			<key>Total Time</key><integer>172669</integer>
 			<key>Date Modified</key><date>2018-02-11T01:47:36Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1167,15 +1124,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8F1EB445FC7C1CDE</string>
+			<key>Persistent ID</key><string>95D85E68F9C0BAA9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/24%20-%20Mary%20Dixon%20-%20Daddy%20You've%20Got%20Evrything.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14614</key>
+		<key>26705</key>
 		<dict>
-			<key>Track ID</key><integer>14614</integer>
+			<key>Track ID</key><integer>26705</integer>
 			<key>Name</key><string>Copper colored gal</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 4.1 1936-1937</string>
@@ -1184,7 +1141,7 @@
 			<key>Total Time</key><integer>175333</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Date Modified</key><date>2017-02-20T20:09:30Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1197,15 +1154,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 4.1 1936-1937</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>CF8D4C2901120C0A</string>
+			<key>Persistent ID</key><string>0F309633BFFF8808</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%204%20-%201936-1938/CD%201/02%20-%20Copper%20colored%20gal.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14616</key>
+		<key>26708</key>
 		<dict>
-			<key>Track ID</key><integer>14616</integer>
+			<key>Track ID</key><integer>26708</integer>
 			<key>Name</key><string>Shortnin' Bread</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 6.2 1940-1942</string>
@@ -1214,7 +1171,7 @@
 			<key>Total Time</key><integer>165120</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Date Modified</key><date>2017-02-20T20:16:27Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1227,15 +1184,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 6.2 1940-1942</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>4AFEB3CD37E4A2F6</string>
+			<key>Persistent ID</key><string>A4888FFC8CF3BD87</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%206%20-%201940-1942/CD%202/10%20-%20Shortnin'%20Bread.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14618</key>
+		<key>26711</key>
 		<dict>
-			<key>Track ID</key><integer>14618</integer>
+			<key>Track ID</key><integer>26711</integer>
 			<key>Name</key><string>Come and Get It</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 6.3 1940-1942</string>
@@ -1244,7 +1201,7 @@
 			<key>Total Time</key><integer>164728</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Date Modified</key><date>2017-02-20T20:17:00Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1257,15 +1214,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 6.3 1940-1942</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>A7EE2A737555F92C</string>
+			<key>Persistent ID</key><string>AF53D75E7BE53108</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%206%20-%201940-1942/CD%203/05%20-%20Come%20and%20Get%20It.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14620</key>
+		<key>26714</key>
 		<dict>
-			<key>Track ID</key><integer>14620</integer>
+			<key>Track ID</key><integer>26714</integer>
 			<key>Name</key><string>Rump Steak Serenade</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 6.3 1940-1942</string>
@@ -1274,7 +1231,7 @@
 			<key>Total Time</key><integer>162586</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Date Modified</key><date>2017-02-20T20:17:00Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1287,15 +1244,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 6.3 1940-1942</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>CB6573EAA8DD7F11</string>
+			<key>Persistent ID</key><string>FD63EF4C760C4E08</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%206%20-%201940-1942/CD%203/06%20-%20Rump%20Steak%20Serenade.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14622</key>
+		<key>26717</key>
 		<dict>
-			<key>Track ID</key><integer>14622</integer>
+			<key>Track ID</key><integer>26717</integer>
 			<key>Name</key><string>You're A Viper (The Reefer Song)</string>
 			<key>Artist</key><string>Fats Waller</string>
 			<key>Album</key><string>The Complete Recorded Works Vol 6.4 1940-1942</string>
@@ -1304,7 +1261,7 @@
 			<key>Total Time</key><integer>177841</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Date Modified</key><date>2017-02-20T20:17:27Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1315,15 +1272,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Recorded Works Vol 6.4 1940-1942</string>
 			<key>Sort Artist</key><string>Fats Waller</string>
-			<key>Persistent ID</key><string>A9042B2A11E3E571</string>
+			<key>Persistent ID</key><string>AA0964F057CC2192</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Fats%20Waller/The%20Complete%20Recorded%20Works/Vol%206%20-%201940-1942/CD%204/12%20-%20You're%20A%20Viper%20(The%20Reefer%20Song).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14624</key>
+		<key>26720</key>
 		<dict>
-			<key>Track ID</key><integer>14624</integer>
+			<key>Track ID</key><integer>26720</integer>
 			<key>Name</key><string>Daddy Let Me Lay It On You</string>
 			<key>Artist</key><string>Les Paul</string>
 			<key>Album</key><string>The Complete Decca Trios (1936-1947)</string>
@@ -1334,7 +1291,7 @@
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1947</integer>
 			<key>Date Modified</key><date>2018-02-01T20:55:10Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -1342,15 +1299,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Complete Decca Trios (1936-1947)</string>
-			<key>Persistent ID</key><string>54378027433247DF</string>
+			<key>Persistent ID</key><string>D567A4045FBFF499</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Les%20Paul/1936-1947%20-%20%20The%20Complete%20Decca%20Trios/02%20-%20Daddy%20Let%20Me%20Lay%20It%20On%20You.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14626</key>
+		<key>26723</key>
 		<dict>
-			<key>Track ID</key><integer>14626</integer>
+			<key>Track ID</key><integer>26723</integer>
 			<key>Name</key><string>I Need A Little Sugar In My Bowl</string>
 			<key>Artist</key><string>Bessie Smith</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -1358,7 +1315,7 @@
 			<key>Size</key><integer>4197098</integer>
 			<key>Total Time</key><integer>172669</integer>
 			<key>Date Modified</key><date>2018-02-17T19:50:14Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -1369,15 +1326,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3C623B3538918A7D</string>
+			<key>Persistent ID</key><string>9611FE113EEA2172</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/Bessie%20Smith%20-%20I%20Need%20A%20Little%20Sugar%20In%20My%20Bowl.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14628</key>
+		<key>26726</key>
 		<dict>
-			<key>Track ID</key><integer>14628</integer>
+			<key>Track ID</key><integer>26726</integer>
 			<key>Name</key><string>I'll Keep Sittin' On It (If I Can't Sell It)</string>
 			<key>Artist</key><string>Georgia White</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -1385,7 +1342,7 @@
 			<key>Size</key><integer>4366384</integer>
 			<key>Total Time</key><integer>179722</integer>
 			<key>Date Modified</key><date>2018-02-17T19:50:14Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -1396,15 +1353,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7DF03A4556CDE7F7</string>
+			<key>Persistent ID</key><string>3FB562E1A69F0E65</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/Georgia%20White%20-%20I'll%20Keep%20Sittin'%20On%20It%20(If%20I%20Can't%20Sell%20It).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14630</key>
+		<key>26729</key>
 		<dict>
-			<key>Track ID</key><integer>14630</integer>
+			<key>Track ID</key><integer>26729</integer>
 			<key>Name</key><string>Press My Button (Ring My Bell)</string>
 			<key>Artist</key><string>Lil Johnson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -1412,7 +1369,7 @@
 			<key>Size</key><integer>2924409</integer>
 			<key>Total Time</key><integer>119640</integer>
 			<key>Date Modified</key><date>2018-02-17T19:50:14Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -1423,15 +1380,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>648D7324AC53E730</string>
+			<key>Persistent ID</key><string>6AA9410F800CEDFC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/Lil%20Johnson%20-%20Press%20My%20Button%20(Ring%20My%20Bell).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14632</key>
+		<key>26732</key>
 		<dict>
-			<key>Track ID</key><integer>14632</integer>
+			<key>Track ID</key><integer>26732</integer>
 			<key>Name</key><string>Let's Get Drunk And Truck</string>
 			<key>Artist</key><string>Lil Johnson With Her Chicago Swingers &#38; Lil Johnson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -1439,7 +1396,7 @@
 			<key>Size</key><integer>4608345</integer>
 			<key>Total Time</key><integer>189805</integer>
 			<key>Date Modified</key><date>2018-02-17T19:50:14Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1449,15 +1406,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C06BCD4FDADB0C79</string>
+			<key>Persistent ID</key><string>9CC3E91DFC1B2946</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/Lil%20Johnson%20With%20Her%20Chicago%20Swingers%20-%20Lets%20Get%20Drunk%20And%20Truck.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14634</key>
+		<key>26735</key>
 		<dict>
-			<key>Track ID</key><integer>14634</integer>
+			<key>Track ID</key><integer>26735</integer>
 			<key>Name</key><string>Don't You Make Me High</string>
 			<key>Artist</key><string>Merline Johnson</string>
 			<key>Album</key><string>Copulatin' Blues Volume 1</string>
@@ -1465,7 +1422,7 @@
 			<key>Size</key><integer>3934404</integer>
 			<key>Total Time</key><integer>161724</integer>
 			<key>Date Modified</key><date>2018-02-17T19:50:13Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>converted by convert2mp3.net</string>
@@ -1476,15 +1433,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>982571620E515AF5</string>
+			<key>Persistent ID</key><string>F59ABCBDA83A67F4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%201/Merline%20Johnson%20-%20Don't%20You%20Make%20Me%20High.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14636</key>
+		<key>26738</key>
 		<dict>
-			<key>Track ID</key><integer>14636</integer>
+			<key>Track ID</key><integer>26738</integer>
 			<key>Name</key><string>Little Girl</string>
 			<key>Artist</key><string>The Harlem Hamfats</string>
 			<key>Album</key><string>Copulatin' Blues Volume 2</string>
@@ -1492,7 +1449,7 @@
 			<key>Size</key><integer>4390430</integer>
 			<key>Total Time</key><integer>174680</integer>
 			<key>Date Modified</key><date>2018-02-17T19:51:11Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1503,15 +1460,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Harlem Hamfats</string>
-			<key>Persistent ID</key><string>3B7CC23D3016E34E</string>
+			<key>Persistent ID</key><string>A6235B8002AC31A2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Copulatin'%20Blues/Volume%202/The%20Harlem%20Hamfats%20-%20Little%20Girl.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14638</key>
+		<key>26741</key>
 		<dict>
-			<key>Track ID</key><integer>14638</integer>
+			<key>Track ID</key><integer>26741</integer>
 			<key>Name</key><string>It's Tight Like That (New York, December 14, 1939)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Rev. Thomas A. Dorsey/Hudson Whittaker</string>
@@ -1526,7 +1483,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:43Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:40Z</date>
+			<key>Date Added</key><date>2020-08-13T02:46:22Z</date>
 			<key>Bit Rate</key><integer>234</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1536,7 +1493,7 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>2D37D869C99381AC</string>
+			<key>Persistent ID</key><string>8E2ACAB6D62EF0D4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.10%20-%20It's%20Tight%20Like%20That%20(New%20York,%20December%2014,%201939).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
@@ -1548,178 +1505,172 @@
 		<dict>
 			<key>Name</key><string>Naughty!</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>33150</integer>
-			<key>Playlist Persistent ID</key><string>E382FA8B811E7F6A</string>
+			<key>Playlist ID</key><integer>26744</integer>
+			<key>Playlist Persistent ID</key><string>121521BE5613837F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14558</integer>
+					<key>Track ID</key><integer>26603</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14598</integer>
+					<key>Track ID</key><integer>26681</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14530</integer>
+					<key>Track ID</key><integer>26578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11622</integer>
+					<key>Track ID</key><integer>26518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14576</integer>
+					<key>Track ID</key><integer>26711</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14618</integer>
+					<key>Track ID</key><integer>26705</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14614</integer>
+					<key>Track ID</key><integer>26720</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14624</integer>
+					<key>Track ID</key><integer>26702</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14612</integer>
+					<key>Track ID</key><integer>26654</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14584</integer>
+					<key>Track ID</key><integer>26735</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14634</integer>
+					<key>Track ID</key><integer>26674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14592</integer>
+					<key>Track ID</key><integer>26699</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14610</integer>
+					<key>Track ID</key><integer>9079</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11558</integer>
+					<key>Track ID</key><integer>26723</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14626</integer>
+					<key>Track ID</key><integer>26726</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14628</integer>
+					<key>Track ID</key><integer>26557</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14500</integer>
+					<key>Track ID</key><integer>26693</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14606</integer>
+					<key>Track ID</key><integer>26599</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14556</integer>
+					<key>Track ID</key><integer>26574</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14526</integer>
+					<key>Track ID</key><integer>26606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14560</integer>
+					<key>Track ID</key><integer>26741</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14638</integer>
+					<key>Track ID</key><integer>26521</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11624</integer>
+					<key>Track ID</key><integer>5647</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11400</integer>
+					<key>Track ID</key><integer>26554</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14496</integer>
+					<key>Track ID</key><integer>26585</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14544</integer>
+					<key>Track ID</key><integer>26622</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14566</integer>
+					<key>Track ID</key><integer>26732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14632</integer>
+					<key>Track ID</key><integer>26738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14636</integer>
+					<key>Track ID</key><integer>26545</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14494</integer>
+					<key>Track ID</key><integer>26541</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14490</integer>
+					<key>Track ID</key><integer>26619</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14564</integer>
+					<key>Track ID</key><integer>26678</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14594</integer>
+					<key>Track ID</key><integer>26657</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14586</integer>
+					<key>Track ID</key><integer>26538</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13710</integer>
+					<key>Track ID</key><integer>26634</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14572</integer>
+					<key>Track ID</key><integer>26729</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14582</integer>
+					<key>Track ID</key><integer>26696</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14630</integer>
+					<key>Track ID</key><integer>26714</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14608</integer>
+					<key>Track ID</key><integer>26690</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14620</integer>
+					<key>Track ID</key><integer>26687</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14604</integer>
+					<key>Track ID</key><integer>26708</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14602</integer>
+					<key>Track ID</key><integer>26643</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14616</integer>
+					<key>Track ID</key><integer>5645</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14580</integer>
+					<key>Track ID</key><integer>26513</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11398</integer>
+					<key>Track ID</key><integer>26566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11404</integer>
+					<key>Track ID</key><integer>26684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14588</integer>
+					<key>Track ID</key><integer>26615</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14502</integer>
+					<key>Track ID</key><integer>26569</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14600</integer>
+					<key>Track ID</key><integer>26532</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14562</integer>
+					<key>Track ID</key><integer>9077</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14516</integer>
+					<key>Track ID</key><integer>26671</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11628</integer>
+					<key>Track ID</key><integer>26717</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11556</integer>
+					<key>Track ID</key><integer>26582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14590</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14622</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14536</integer>
+					<key>Track ID</key><integer>4723</integer>
 				</dict>
 			</array>
 		</dict>
