@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-09-23T17:21:41Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4749</key>
+		<dict>
+			<key>Track ID</key><integer>4749</integer>
+			<key>Name</key><string>Bathsheba Smiles</string>
+			<key>Artist</key><string>Richard Thompson</string>
+			<key>Album</key><string>Action Packed - The Best Of The Capitol Years</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7553475</integer>
+			<key>Total Time</key><integer>236094</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-10-12T21:10:24Z</date>
+			<key>Date Added</key><date>2020-08-14T01:03:58Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3645001223</integer>
+			<key>Play Date UTC</key><date>2019-07-03T19:20:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-08-14T15:45:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C18CD986DF4620B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Richard%20Thompson/2001%20-%20Action%20Packed%20-%20The%20Best%20Of%20The%20Capitol%20Years/13%20-%20Bathsheba%20Smiles.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6113</key>
+		<dict>
+			<key>Track ID</key><integer>6113</integer>
+			<key>Name</key><string>The Song of Solomon</string>
+			<key>Artist</key><string>Kate Bush</string>
+			<key>Album</key><string>The Red Shoes [US]</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4299883</integer>
+			<key>Total Time</key><integer>268094</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2011-03-19T22:08:42Z</date>
+			<key>Date Added</key><date>2020-08-31T23:26:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Red Shoes [US]</string>
+			<key>Sort Name</key><string>Song of Solomon</string>
+			<key>Persistent ID</key><string>5391F253F2CEF7FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kate%20Bush/1993%20-%20The%20Red%20Shoes/05%20-%20The%20Song%20of%20Solomon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Biblical Themes</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>15079</integer>
+			<key>Playlist Persistent ID</key><string>9B454CD00C33F71D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6113</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

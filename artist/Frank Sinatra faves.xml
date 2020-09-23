@@ -4,17 +4,48 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2013-04-09T11:43:11Z</date>
-	<key>Application Version</key><string>11.0.1</string>
+	<key>Date</key><date>2020-09-23T15:57:07Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Users/greg/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>05A394363D68D557</string>
+	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>349917</key>
+		<key>6635</key>
 		<dict>
-			<key>Track ID</key><integer>349917</integer>
+			<key>Track ID</key><integer>6635</integer>
+			<key>Name</key><string>The Shadow of Your Smile (Love</string>
+			<key>Artist</key><string>Quincy Jones with Count Basie Orchestra</string>
+			<key>Album Artist</key><string>Quincy Jones</string>
+			<key>Album</key><string>From Q with Love</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4208526</integer>
+			<key>Total Time</key><integer>173740</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2020-09-06T18:14:20Z</date>
+			<key>Date Added</key><date>2020-09-06T18:10:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3683203947</integer>
+			<key>Play Date UTC</key><date>2020-09-17T23:12:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Shadow of Your Smile (Love</string>
+			<key>Persistent ID</key><string>F69FD71E35EFCDAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Quincy%20Jones/1999%20-%20From%20Q%20with%20Love%20(2%20CD)/CD%201/13%20-%20The%20Shadow%20of%20Your%20Smile%20(Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>22459</key>
+		<dict>
+			<key>Track ID</key><integer>22459</integer>
 			<key>Name</key><string>03) I've Got You Under My Skin</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 1)</string>
@@ -25,29 +56,29 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:00Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:01Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3405493576</integer>
+			<key>Play Date</key><integer>3405482776</integer>
 			<key>Play Date UTC</key><date>2011-11-30T15:26:16Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2011-12-01T22:50:10Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 1)</string>
-			<key>Persistent ID</key><string>4A3CD91A8C1FB053</string>
+			<key>Persistent ID</key><string>DD9C18F151E8CE72</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/03)%20I've%20Got%20You%20Under%20My%20Skin.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/03)%20I've%20Got%20You%20Under%20My%20Skin.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>349920</key>
+		<key>22462</key>
 		<dict>
-			<key>Track ID</key><integer>349920</integer>
+			<key>Track ID</key><integer>22462</integer>
 			<key>Name</key><string>10) I've Got The World On A String</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 1)</string>
@@ -58,24 +89,24 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:04Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:01Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 1)</string>
-			<key>Persistent ID</key><string>5B151BAD1D7A326F</string>
+			<key>Persistent ID</key><string>86762446E19FCFAA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/10)%20I've%20Got%20The%20World%20On%20A%20String.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/10)%20I've%20Got%20The%20World%20On%20A%20String.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>349923</key>
+		<key>22468</key>
 		<dict>
-			<key>Track ID</key><integer>349923</integer>
+			<key>Track ID</key><integer>22468</integer>
 			<key>Name</key><string>15) Chicago</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 1)</string>
@@ -86,24 +117,24 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:06Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:01Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:24Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 1)</string>
-			<key>Persistent ID</key><string>E5F6188D9C4DF326</string>
+			<key>Persistent ID</key><string>A4E310347C827588</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/15)%20Chicago.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/15)%20Chicago.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>349947</key>
+		<key>22471</key>
 		<dict>
-			<key>Track ID</key><integer>349947</integer>
+			<key>Track ID</key><integer>22471</integer>
 			<key>Name</key><string>01) Come Fly With Me</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 1)</string>
@@ -114,24 +145,24 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:42:58Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:20Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 1)</string>
-			<key>Persistent ID</key><string>0C4E95022306835D</string>
+			<key>Persistent ID</key><string>302A9AC6FAFA96A8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/01)%20Come%20Fly%20With%20Me.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/01)%20Come%20Fly%20With%20Me.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>349976</key>
+		<key>22478</key>
 		<dict>
-			<key>Track ID</key><integer>349976</integer>
+			<key>Track ID</key><integer>22478</integer>
 			<key>Name</key><string>13) It's Nice To Go Trav'ling</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 1)</string>
@@ -142,24 +173,24 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:06Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 1)</string>
-			<key>Persistent ID</key><string>82415A66C120D36C</string>
+			<key>Persistent ID</key><string>BF409AFFEF4FE25F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/13)%20It's%20Nice%20To%20Go%20Trav'ling.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%201/13)%20It's%20Nice%20To%20Go%20Trav'ling.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>350012</key>
+		<key>22481</key>
 		<dict>
-			<key>Track ID</key><integer>350012</integer>
+			<key>Track ID</key><integer>22481</integer>
 			<key>Name</key><string>10) Come Dance With Me</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 2)</string>
@@ -170,24 +201,24 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:10Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 2)</string>
-			<key>Persistent ID</key><string>6665E2E710F72253</string>
+			<key>Persistent ID</key><string>A7CA961773546EAD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%202/10)%20Come%20Dance%20With%20Me.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%202/10)%20Come%20Dance%20With%20Me.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>350021</key>
+		<key>22485</key>
 		<dict>
-			<key>Track ID</key><integer>350021</integer>
+			<key>Track ID</key><integer>22485</integer>
 			<key>Name</key><string>13) Moonlight in Vermont</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 2)</string>
@@ -198,27 +229,27 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:12Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3448273542</integer>
+			<key>Play Date</key><integer>3448266342</integer>
 			<key>Play Date UTC</key><date>2013-04-08T18:45:42Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 2)</string>
-			<key>Persistent ID</key><string>5BE47FE3327D2117</string>
+			<key>Persistent ID</key><string>A4D1D9B81BFAE74B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%202/13)%20Moonlight%20in%20Vermont.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%202/13)%20Moonlight%20in%20Vermont.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>350027</key>
+		<key>22491</key>
 		<dict>
-			<key>Track ID</key><integer>350027</integer>
+			<key>Track ID</key><integer>22491</integer>
 			<key>Name</key><string>15) The Sunny Side of the Street</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 2)</string>
@@ -229,24 +260,24 @@
 			<key>Track Number</key><integer>15</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:14Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 2)</string>
-			<key>Persistent ID</key><string>1919468F66699C32</string>
+			<key>Persistent ID</key><string>14C454BBD46485B2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%202/15)%20The%20Sunny%20Side%20of%20the%20Street.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%202/15)%20The%20Sunny%20Side%20of%20the%20Street.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>350039</key>
+		<key>22494</key>
 		<dict>
-			<key>Track ID</key><integer>350039</integer>
+			<key>Track ID</key><integer>22494</integer>
 			<key>Name</key><string>03) Here's That Rainy Day</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 3)</string>
@@ -257,27 +288,27 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:16Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3448272615</integer>
+			<key>Play Date</key><integer>3448265415</integer>
 			<key>Play Date UTC</key><date>2013-04-08T18:30:15Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 3)</string>
-			<key>Persistent ID</key><string>2388A170D9EA2861</string>
+			<key>Persistent ID</key><string>8B06434FCD76974E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%203/03)%20Here's%20That%20Rainy%20Day.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%203/03)%20Here's%20That%20Rainy%20Day.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>350063</key>
+		<key>22500</key>
 		<dict>
-			<key>Track ID</key><integer>350063</integer>
+			<key>Track ID</key><integer>22500</integer>
 			<key>Name</key><string>11) Autumn Leaves</string>
 			<key>Artist</key><string>Frank Sinatra</string>
 			<key>Album</key><string>The Platinum Collection (CD 3)</string>
@@ -288,49 +319,18 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2011-03-19T21:43:20Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
+			<key>Date Added</key><date>2020-09-23T15:56:25Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Platinum Collection (CD 3)</string>
-			<key>Persistent ID</key><string>6B3C3AFF4E648E95</string>
+			<key>Persistent ID</key><string>822681F5CA836368</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%203/11)%20Autumn%20Leaves.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>350072</key>
-		<dict>
-			<key>Track ID</key><integer>350072</integer>
-			<key>Name</key><string>14) As Time Goes By</string>
-			<key>Artist</key><string>Frank Sinatra</string>
-			<key>Album</key><string>The Platinum Collection (CD 3)</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7857071</integer>
-			<key>Total Time</key><integer>196414</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2011-03-19T21:43:20Z</date>
-			<key>Date Added</key><date>2013-04-05T00:10:21Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>www.tntvillage.scambioetico.org</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3448274240</integer>
-			<key>Play Date UTC</key><date>2013-04-08T18:57:20Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Platinum Collection (CD 3)</string>
-			<key>Persistent ID</key><string>2AA54E7A538E81CB</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%203/14)%20As%20Time%20Goes%20By.mp3</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Frank%20Sinatra/The%20Platinum%20Collection/Cd%203/11)%20Autumn%20Leaves.mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
@@ -338,44 +338,45 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Name</key><string>Frank Sinatra keepers</string>
-			<key>Playlist ID</key><integer>349926</integer>
-			<key>Playlist Persistent ID</key><string>AB054C90CC59770A</string>
+			<key>Name</key><string>Frank Sinatra faves</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>22507</integer>
+			<key>Playlist Persistent ID</key><string>7653B91CEFEA3423</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>349917</integer>
+					<key>Track ID</key><integer>22459</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>349920</integer>
+					<key>Track ID</key><integer>22462</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>349923</integer>
+					<key>Track ID</key><integer>22468</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>349947</integer>
+					<key>Track ID</key><integer>22471</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>349976</integer>
+					<key>Track ID</key><integer>22478</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>350012</integer>
+					<key>Track ID</key><integer>22481</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>350021</integer>
+					<key>Track ID</key><integer>22485</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>350027</integer>
+					<key>Track ID</key><integer>22491</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>350039</integer>
+					<key>Track ID</key><integer>22494</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>350063</integer>
+					<key>Track ID</key><integer>22500</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>350072</integer>
+					<key>Track ID</key><integer>6635</integer>
 				</dict>
 			</array>
 		</dict>

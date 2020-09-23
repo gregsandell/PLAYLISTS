@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-08-13T02:49:36Z</date>
+	<key>Date</key><date>2020-08-31T22:58:52Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
 	<key>Tracks</key>
 	<dict>
-		<key>3791</key>
+		<key>2006</key>
 		<dict>
-			<key>Track ID</key><integer>3791</integer>
+			<key>Track ID</key><integer>2006</integer>
 			<key>Name</key><string>Prelude In C Major Op12 No7</string>
 			<key>Artist</key><string>Frederic Chiu</string>
 			<key>Composer</key><string>Serge Prokofiev (Playing)</string>
@@ -42,9 +42,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>3981</key>
+		<key>4380</key>
 		<dict>
-			<key>Track ID</key><integer>3981</integer>
+			<key>Track ID</key><integer>4380</integer>
 			<key>Name</key><string>Hommage à Haydn (1909)</string>
 			<key>Artist</key><string>Jean-Efflam Bavouzet</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -54,7 +54,7 @@
 			<key>Total Time</key><integer>146390</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Date Modified</key><date>2020-06-05T18:13:09Z</date>
-			<key>Date Added</key><date>2020-07-21T22:39:55Z</date>
+			<key>Date Added</key><date>2020-08-13T02:58:15Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -66,7 +66,7 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F4D4F5E23F7A3FDD</string>
+			<key>Persistent ID</key><string>77335F01633EE299</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Debussy,%20Claude/Misc%20Piano/Jean-Efflam%20Bavouzet/10%20-%20Hommage%20a%CC%80%20Haydn%20(1909).mp3</string>
 			<key>File Folder Count</key><integer>-1</integer>
@@ -78,16 +78,16 @@
 		<dict>
 			<key>Name</key><string>Get The Score</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>22142</integer>
-			<key>Playlist Persistent ID</key><string>7CA76A689FD0DCFC</string>
+			<key>Playlist ID</key><integer>13506</integer>
+			<key>Playlist Persistent ID</key><string>A37C0576A6E6C715</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>3791</integer>
+					<key>Track ID</key><integer>2006</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3981</integer>
+					<key>Track ID</key><integer>4380</integer>
 				</dict>
 			</array>
 		</dict>
