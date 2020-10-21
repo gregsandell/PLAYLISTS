@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-10-13T20:31:13Z</date>
+	<key>Date</key><date>2020-10-21T17:07:19Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -30,6 +30,7 @@
 			<key>Comments</key><string>Track 17</string>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>ED09A6F836EC7DD8</string>
 			<key>Track Type</key><string>File</string>
@@ -58,6 +59,7 @@
 			<key>Play Date UTC</key><date>2020-10-12T03:02:24Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>96E231AE08DFBC37</string>
 			<key>Track Type</key><string>File</string>
@@ -83,6 +85,7 @@
 			<key>Comments</key><string>Track 1</string>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Click Song</string>
 			<key>Persistent ID</key><string>BB008B3ADD8BC983</string>
@@ -139,6 +142,61 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>6150</key>
+		<dict>
+			<key>Track ID</key><integer>6150</integer>
+			<key>Name</key><string>Kutheni Sithandwa</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1275892</integer>
+			<key>Total Time</key><integer>155857</integer>
+			<key>Track Number</key><integer>41</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:12Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>BAE04423938E1573</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/41%20-%20Kutheni%20Sithandwa.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6152</key>
+		<dict>
+			<key>Track ID</key><integer>6152</integer>
+			<key>Name</key><string>Nomalungelo</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1182287</integer>
+			<key>Total Time</key><integer>144403</integer>
+			<key>Track Number</key><integer>40</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:12Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685246617</integer>
+			<key>Play Date UTC</key><date>2020-10-11T14:36:57Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>DE2BD0473714A80B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/40%20-%20Nomalungelo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 		<key>6154</key>
 		<dict>
 			<key>Track ID</key><integer>6154</integer>
@@ -156,11 +214,70 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>49CEBF26F52E01F4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/37%20-%20Ndamcenga.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6158</key>
+		<dict>
+			<key>Track ID</key><integer>6158</integer>
+			<key>Name</key><string>Lakutshn, IIanga</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1058508</integer>
+			<key>Total Time</key><integer>129270</integer>
+			<key>Track Number</key><integer>35</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:11Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685182853</integer>
+			<key>Play Date UTC</key><date>2020-10-10T20:54:13Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>20F1741B85EDCD8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/35%20-%20Lakutshn,%20IIanga.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6160</key>
+		<dict>
+			<key>Track ID</key><integer>6160</integer>
+			<key>Name</key><string>Where Does It Lead</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1242480</integer>
+			<key>Total Time</key><integer>151763</integer>
+			<key>Track Number</key><integer>34</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:11Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685244953</integer>
+			<key>Play Date UTC</key><date>2020-10-11T14:09:13Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>B44F90151CED2108</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/34%20-%20Where%20Does%20It%20Lead.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -184,6 +301,7 @@
 			<key>Play Date UTC</key><date>2020-10-11T15:12:54Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>E4DAFAB9214137FE</string>
@@ -212,6 +330,7 @@
 			<key>Play Date UTC</key><date>2020-10-11T18:52:10Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>E5AB64B4BFCBF422</string>
@@ -237,6 +356,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>65A38965ED4807D4</string>
@@ -262,6 +382,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>E50C562D4D8CDB6D</string>
@@ -287,11 +408,41 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>3E60CE585313A9DB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/45%20-%20One%20More%20dance%20(with%20Charles%20Colman).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6184</key>
+		<dict>
+			<key>Track ID</key><integer>6184</integer>
+			<key>Name</key><string>Umqokozo (A Children's Game song about a new Red Dress)</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1058737</integer>
+			<key>Total Time</key><integer>129297</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:10Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685183097</integer>
+			<key>Play Date UTC</key><date>2020-10-10T20:58:17Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>C9CC122908585CD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/30%20-%20Umqokozo%20(A%20Children's%20Game%20song%20about%20a%20new%20Red%20Dress).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -315,11 +466,41 @@
 			<key>Play Date UTC</key><date>2020-10-11T19:38:48Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>C47DA4D5A1D98F56</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/26%20-%20Can't%20Cross%20Over%20(West%20Indian%20Calypso).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6192</key>
+		<dict>
+			<key>Track ID</key><integer>6192</integer>
+			<key>Name</key><string>Kilimanjaro (Hunting Song and Boot Dance)</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1384321</integer>
+			<key>Total Time</key><integer>169110</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:07Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685940265</integer>
+			<key>Play Date UTC</key><date>2020-10-19T15:17:45Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>0A13C28E590B2157</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/10%20-%20Kilimanjaro%20(Hunting%20Song%20and%20Boot%20Dance).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -340,11 +521,41 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>147EDE08E2197004</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/07%20-%20Uthando%20Luyaphela.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6196</key>
+		<dict>
+			<key>Track ID</key><integer>6196</integer>
+			<key>Name</key><string>Uyadela</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1208102</integer>
+			<key>Total Time</key><integer>147563</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:07Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3685479170</integer>
+			<key>Play Date UTC</key><date>2020-10-14T07:12:50Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>E97410BC81A259F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/08%20-%20Uyadela.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -368,11 +579,38 @@
 			<key>Play Date UTC</key><date>2020-10-13T05:13:03Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>5EB4C142F81BB280</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/29%20-%20Umhome.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6204</key>
+		<dict>
+			<key>Track ID</key><integer>6204</integer>
+			<key>Name</key><string>Ntjilo Ntjilo (Lullaby to a Child about a little Canary)</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1227329</integer>
+			<key>Total Time</key><integer>149910</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:10Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>1480094CB1A082AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/31%20-%20Ntjilo%20Ntjilo%20(Lullaby%20to%20a%20Child%20about%20a%20little%20Canary).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -396,6 +634,7 @@
 			<key>Play Date UTC</key><date>2020-10-12T02:45:41Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>6D018A8BDEE4CA50</string>
@@ -421,11 +660,67 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>D966E48D0B0673CC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/43%20-%20Yini%20Madoda.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6222</key>
+		<dict>
+			<key>Track ID</key><integer>6222</integer>
+			<key>Name</key><string>Ndidliwe Zintabe</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1243426</integer>
+			<key>Total Time</key><integer>151870</integer>
+			<key>Track Number</key><integer>38</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:11Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3685949744</integer>
+			<key>Play Date UTC</key><date>2020-10-19T17:55:44Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>6511CEB99A0DA53F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/38%20-%20Ndidliwe%20Zintabe.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6236</key>
+		<dict>
+			<key>Track ID</key><integer>6236</integer>
+			<key>Name</key><string>Sindiza Ngecadillacs</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Sweet Sound of Africa</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1177552</integer>
+			<key>Total Time</key><integer>143817</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-10-10T20:44:09Z</date>
+			<key>Date Added</key><date>2020-10-10T20:34:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Sound of Africa</string>
+			<key>Persistent ID</key><string>C928EEBCBF255FD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2011%20-%20The%20Sweet%20Sound%20of%20Africa%20-%202CD/21%20-%20Sindiza%20Ngecadillacs.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -446,6 +741,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sweet Sound of Africa</string>
 			<key>Persistent ID</key><string>188A04146784CC60</string>
@@ -478,6 +774,33 @@
 			<key>Persistent ID</key><string>BDAB9E0B231C42D4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Comme%20Une%20Symphonie%20D'amour/09%20-%20Murtala%20.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6244</key>
+		<dict>
+			<key>Track ID</key><integer>6244</integer>
+			<key>Name</key><string>Ngewundini</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Comme Une Symphonie D'amour</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6682742</integer>
+			<key>Total Time</key><integer>277185</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T20:45:57Z</date>
+			<key>Date Added</key><date>2020-10-10T20:45:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7D00B80CC309C14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Comme%20Une%20Symphonie%20D'amour/07%20-%20Ngewundini.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -535,6 +858,33 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>6256</key>
+		<dict>
+			<key>Track ID</key><integer>6256</integer>
+			<key>Name</key><string>Comme Une Symphonie D'amour</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Comme Une Symphonie D'amour</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5513042</integer>
+			<key>Total Time</key><integer>228440</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T20:47:39Z</date>
+			<key>Date Added</key><date>2020-10-10T20:45:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D059F63F4FAA91E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Comme%20Une%20Symphonie%20D'amour/01%20-%20Comme%20Une%20Symphonie%20D'amour.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 		<key>6268</key>
 		<dict>
 			<key>Track ID</key><integer>6268</integer>
@@ -558,6 +908,62 @@
 			<key>Persistent ID</key><string>63190F8C735FE5A2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2000%20-%20Homeland/05%20-%20Liwaechi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6278</key>
+		<dict>
+			<key>Track ID</key><integer>6278</integer>
+			<key>Name</key><string>West Wind (Esperance)</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Live From Paris &#38; Conakry</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Genre</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3530459</integer>
+			<key>Total Time</key><integer>218958</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-10-10T20:52:13Z</date>
+			<key>Date Added</key><date>2020-10-10T20:51:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F06EA2F3121A2835</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/19%20-%20West%20Wind%20(Esperance).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6282</key>
+		<dict>
+			<key>Track ID</key><integer>6282</integer>
+			<key>Name</key><string>Tutu Maramba</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Live From Paris &#38; Conakry</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Genre</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2804864</integer>
+			<key>Total Time</key><integer>173609</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-10-10T20:52:13Z</date>
+			<key>Date Added</key><date>2020-10-10T20:51:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3510ABF9D73DC741</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/13%20-%20Tutu%20Maramba.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -586,6 +992,34 @@
 			<key>Persistent ID</key><string>BBB2BEDE6286CE91</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/12%20-%20Malcolm%20X.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6290</key>
+		<dict>
+			<key>Track ID</key><integer>6290</integer>
+			<key>Name</key><string>Tonados De Media Noche</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Live From Paris &#38; Conakry</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Genre</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3795865</integer>
+			<key>Total Time</key><integer>235546</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-10-10T20:52:14Z</date>
+			<key>Date Added</key><date>2020-10-10T20:51:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC76986A108732CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/11%20-%20Tonados%20De%20Media%20Noche.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -642,6 +1076,88 @@
 			<key>Persistent ID</key><string>B1A308B4322EE71D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/17%20-%20Forbidden%20Games.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6302</key>
+		<dict>
+			<key>Track ID</key><integer>6302</integer>
+			<key>Name</key><string>Measure The Valley</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Live From Paris &#38; Conakry</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Genre</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4243910</integer>
+			<key>Total Time</key><integer>263549</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-10-10T20:52:15Z</date>
+			<key>Date Added</key><date>2020-10-10T20:51:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8496DA3238D25B48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/06%20-%20Measure%20The%20Valley.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6314</key>
+		<dict>
+			<key>Track ID</key><integer>6314</integer>
+			<key>Name</key><string>I Shall Sing</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Live From Paris &#38; Conakry</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Genre</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2672371</integer>
+			<key>Total Time</key><integer>165328</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-10-10T20:52:16Z</date>
+			<key>Date Added</key><date>2020-10-10T20:51:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69D1F98EE13E5889</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1996%20-%20Live%20From%20Paris%20&#38;%20Conakry/02%20-%20I%20Shall%20Sing.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6318</key>
+		<dict>
+			<key>Track ID</key><integer>6318</integer>
+			<key>Name</key><string>Jolinkomo</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Mama Africa - The Very Best of</string>
+			<key>Work</key><string>Other</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3090895</integer>
+			<key>Total Time</key><integer>151170</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2020-10-10T20:57:42Z</date>
+			<key>Date Added</key><date>2020-10-10T20:56:57Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6D07E0A774F2164</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2000%20-%20Mama%20Africa%20-%20The%20Very%20Best%20of/23%20-%20Jolinkomo.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -726,6 +1242,62 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>6334</key>
+		<dict>
+			<key>Track ID</key><integer>6334</integer>
+			<key>Name</key><string>Thanayi</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Mama Africa - The Very Best of</string>
+			<key>Work</key><string>Other</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3851013</integer>
+			<key>Total Time</key><integer>189178</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2020-10-10T20:57:44Z</date>
+			<key>Date Added</key><date>2020-10-10T20:56:57Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>nutty dread</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685241512</integer>
+			<key>Play Date UTC</key><date>2020-10-11T13:11:52Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC66B0091B4DC5CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2000%20-%20Mama%20Africa%20-%20The%20Very%20Best%20of/16%20-%20Thanayi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6350</key>
+		<dict>
+			<key>Track ID</key><integer>6350</integer>
+			<key>Name</key><string>Intandane</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Mama Africa - The Very Best of</string>
+			<key>Work</key><string>Other</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2388366</integer>
+			<key>Total Time</key><integer>145057</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2020-10-10T20:57:46Z</date>
+			<key>Date Added</key><date>2020-10-10T20:56:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49E6CF90C9B9A907</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2000%20-%20Mama%20Africa%20-%20The%20Very%20Best%20of/06%20-%20Intandane.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 		<key>6358</key>
 		<dict>
 			<key>Track ID</key><integer>6358</integer>
@@ -753,6 +1325,33 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>6362</key>
+		<dict>
+			<key>Track ID</key><integer>6362</integer>
+			<key>Name</key><string>Live Humble</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Mama Africa - The Very Best of</string>
+			<key>Work</key><string>Other</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2395518</integer>
+			<key>Total Time</key><integer>145502</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2020-10-10T20:57:46Z</date>
+			<key>Date Added</key><date>2020-10-10T20:56:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>nutty dread</string>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BE9E9622548E26D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2000%20-%20Mama%20Africa%20-%20The%20Very%20Best%20of/07%20-%20Live%20Humble.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 		<key>6372</key>
 		<dict>
 			<key>Track ID</key><integer>6372</integer>
@@ -772,7 +1371,7 @@
 			<key>Play Date</key><integer>3685287298</integer>
 			<key>Play Date UTC</key><date>2020-10-12T01:54:58Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>196</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -798,7 +1397,7 @@
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>327</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -824,7 +1423,7 @@
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>489</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -853,7 +1452,7 @@
 			<key>Play Date</key><integer>3685291826</integer>
 			<key>Play Date UTC</key><date>2020-10-12T03:10:26Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>779</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -883,13 +1482,71 @@
 			<key>Play Date</key><integer>3685250220</integer>
 			<key>Play Date UTC</key><date>2020-10-11T15:37:00Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>376</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B3E91D5EB29A81BA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1960%20-%20Miriam%20Makeba/07%20-%20Mbube.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6382</key>
+		<dict>
+			<key>Track ID</key><integer>6382</integer>
+			<key>Name</key><string>Lakutshn ilanga</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Miriam Makeba</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2124530</integer>
+			<key>Total Time</key><integer>130168</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2020-10-10T21:05:15Z</date>
+			<key>Date Added</key><date>2020-10-10T21:04:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3686044492</integer>
+			<key>Play Date UTC</key><date>2020-10-20T20:14:52Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>127</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F542BA3571B9A355</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1960%20-%20Miriam%20Makeba/06%20-%20Lakutshn%20ilanga.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6390</key>
+		<dict>
+			<key>Track ID</key><integer>6390</integer>
+			<key>Name</key><string>Olilili</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Miriam Makeba</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2527009</integer>
+			<key>Total Time</key><integer>155324</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1960</integer>
+			<key>Date Modified</key><date>2020-10-10T21:05:15Z</date>
+			<key>Date Added</key><date>2020-10-10T21:04:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685265424</integer>
+			<key>Play Date UTC</key><date>2020-10-11T19:50:24Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>167</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23DD22D0994E9DA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1960%20-%20Miriam%20Makeba/05%20-%20Olilili.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -968,11 +1625,39 @@
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>79C0ADA1F1DB668E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/14%20-%20Laktushona%20Ilanga.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6438</key>
+		<dict>
+			<key>Track ID</key><integer>6438</integer>
+			<key>Name</key><string>Ivory Song</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Sing Me A Song</string>
+			<key>Work</key><string>World: Africa</string>
+			<key>Genre</key><string>South Africa: South Africa (Mbube)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4525458</integer>
+			<key>Total Time</key><integer>279457</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T21:12:55Z</date>
+			<key>Date Added</key><date>2020-10-10T21:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42DFC5CC8E3400D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/12%20-%20Ivory%20Song.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -997,11 +1682,329 @@
 			<key>Play Date</key><integer>3685355883</integer>
 			<key>Play Date UTC</key><date>2020-10-12T20:58:03Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B8E0013FF008CA86</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/11%20-%20Choo%20Choo%20Train_Shuku%20Shuku.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6442</key>
+		<dict>
+			<key>Track ID</key><integer>6442</integer>
+			<key>Name</key><string>Bambarana</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Sing Me A Song</string>
+			<key>Work</key><string>World: Africa</string>
+			<key>Genre</key><string>South Africa: South Africa (Mbube)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1472361</integer>
+			<key>Total Time</key><integer>88737</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T21:12:55Z</date>
+			<key>Date Added</key><date>2020-10-10T21:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A04B54E9642A649</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/10%20-%20Bambarana.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6452</key>
+		<dict>
+			<key>Track ID</key><integer>6452</integer>
+			<key>Name</key><string>Thula Mntanami</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Sing Me A Song</string>
+			<key>Work</key><string>World: Africa</string>
+			<key>Genre</key><string>South Africa: South Africa (Mbube)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4914599</integer>
+			<key>Total Time</key><integer>303777</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T21:12:57Z</date>
+			<key>Date Added</key><date>2020-10-10T21:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF3F8E1AF5D6E380</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/05%20-%20Thula%20Mntanami.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6454</key>
+		<dict>
+			<key>Track ID</key><integer>6454</integer>
+			<key>Name</key><string>Moody Moods</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Sing Me A Song</string>
+			<key>Work</key><string>World: Africa</string>
+			<key>Genre</key><string>South Africa: South Africa (Mbube)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3531969</integer>
+			<key>Total Time</key><integer>217364</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T21:12:57Z</date>
+			<key>Date Added</key><date>2020-10-10T21:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>564A906798DD1811</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/04%20-%20Moody%20Moods.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6456</key>
+		<dict>
+			<key>Track ID</key><integer>6456</integer>
+			<key>Name</key><string>Ndiarabi</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Sing Me A Song</string>
+			<key>Work</key><string>World: Africa</string>
+			<key>Genre</key><string>South Africa: South Africa (Mbube)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3679542</integer>
+			<key>Total Time</key><integer>226716</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-10-10T21:12:58Z</date>
+			<key>Date Added</key><date>2020-10-10T21:12:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>37972F6A302A4241</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1994%20-%20Sing%20Me%20A%20Song/03%20-%20Ndiarabi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6468</key>
+		<dict>
+			<key>Track ID</key><integer>6468</integer>
+			<key>Name</key><string>Jolinkomo</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Queen of African Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5060713</integer>
+			<key>Total Time</key><integer>157048</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2020-10-10T21:16:06Z</date>
+			<key>Date Added</key><date>2020-10-10T21:15:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen of African Music</string>
+			<key>Persistent ID</key><string>2E2DB36854DD2531</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1991%20-%20The%20Queen%20Of%20African%20Music/11%20-%20Jolinkomo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6474</key>
+		<dict>
+			<key>Track ID</key><integer>6474</integer>
+			<key>Name</key><string>Quit It</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Queen of African Music</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7731558</integer>
+			<key>Total Time</key><integer>240509</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2020-10-10T21:16:06Z</date>
+			<key>Date Added</key><date>2020-10-10T21:15:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3686053549</integer>
+			<key>Play Date UTC</key><date>2020-10-20T22:45:49Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen of African Music</string>
+			<key>Persistent ID</key><string>33C7DC0ABC30FC23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1991%20-%20The%20Queen%20Of%20African%20Music/09%20-%20Quit%20It.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6480</key>
+		<dict>
+			<key>Track ID</key><integer>6480</integer>
+			<key>Name</key><string>Iyaguduza</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Queen of African Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10530127</integer>
+			<key>Total Time</key><integer>327967</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2020-10-10T21:16:05Z</date>
+			<key>Date Added</key><date>2020-10-10T21:15:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen of African Music</string>
+			<key>Persistent ID</key><string>1B17B2960FBE5195</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1991%20-%20The%20Queen%20Of%20African%20Music/13%20-%20Iyaguduza.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6482</key>
+		<dict>
+			<key>Track ID</key><integer>6482</integer>
+			<key>Name</key><string>Chicken (Kikirikiki)</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Queen of African Music</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8480567</integer>
+			<key>Total Time</key><integer>263915</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2020-10-10T21:16:08Z</date>
+			<key>Date Added</key><date>2020-10-10T21:15:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3686052254</integer>
+			<key>Play Date UTC</key><date>2020-10-20T22:24:14Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen of African Music</string>
+			<key>Persistent ID</key><string>7F418282A919B2B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1991%20-%20The%20Queen%20Of%20African%20Music/06%20-%20Chicken%20(Kikirikiki).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6484</key>
+		<dict>
+			<key>Track ID</key><integer>6484</integer>
+			<key>Name</key><string>Murtala</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Queen of African Music</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4838201</integer>
+			<key>Total Time</key><integer>240143</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2020-10-10T21:16:08Z</date>
+			<key>Date Added</key><date>2020-10-10T21:15:36Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen of African Music</string>
+			<key>Persistent ID</key><string>6F0A3DC9AAB11296</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1991%20-%20The%20Queen%20Of%20African%20Music/05%20-%20Murtala.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6496</key>
+		<dict>
+			<key>Track ID</key><integer>6496</integer>
+			<key>Name</key><string>Africa</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Welela</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5598324</integer>
+			<key>Total Time</key><integer>273031</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2020-10-10T21:19:29Z</date>
+			<key>Date Added</key><date>2020-10-10T21:18:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685244800</integer>
+			<key>Play Date UTC</key><date>2020-10-11T14:06:40Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C52E30DA59BE07F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1989%20-%20Welela/10%20-%20Africa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6498</key>
+		<dict>
+			<key>Track ID</key><integer>6498</integer>
+			<key>Name</key><string>Saduva</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Welela</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5799422</integer>
+			<key>Total Time</key><integer>283036</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2020-10-10T21:19:29Z</date>
+			<key>Date Added</key><date>2020-10-10T21:18:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685301204</integer>
+			<key>Play Date UTC</key><date>2020-10-12T05:46:44Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC615319D8DEFFB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1989%20-%20Welela/09%20-%20Saduva.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1032,9 +2035,91 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>6508</key>
+		<dict>
+			<key>Track ID</key><integer>6508</integer>
+			<key>Name</key><string>Djiu de galinha</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Welela</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5095858</integer>
+			<key>Total Time</key><integer>248032</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2020-10-10T21:19:31Z</date>
+			<key>Date Added</key><date>2020-10-10T21:18:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83E38364CB1C260A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1989%20-%20Welela/03%20-%20Djiu%20De%20Galinha.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6510</key>
+		<dict>
+			<key>Track ID</key><integer>6510</integer>
+			<key>Name</key><string>African sunset</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>Welela</string>
+			<key>Work</key><string>Afrika</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7126268</integer>
+			<key>Total Time</key><integer>349048</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2020-10-10T21:19:32Z</date>
+			<key>Date Added</key><date>2020-10-10T21:18:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27807BABB6E78800</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/1989%20-%20Welela/02%20-%20African%20Sunset.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 		<key>6808</key>
 		<dict>
 			<key>Track ID</key><integer>6808</integer>
+			<key>Name</key><string>Hadeya Deya</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Guinea Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2052726</integer>
+			<key>Total Time</key><integer>248172</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-10-12T02:42:30Z</date>
+			<key>Date Added</key><date>2020-10-12T02:41:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Guinea Years</string>
+			<key>Persistent ID</key><string>D8D554A077BE8E05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2001%20-%20The%20Guinea%20Years/15%20-%20Hadeya%20Deya.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6812</key>
+		<dict>
+			<key>Track ID</key><integer>6812</integer>
 			<key>Name</key><string>Oakhla Yunik</string>
 			<key>Artist</key><string>Miriam Makeba</string>
 			<key>Album Artist</key><string>Miriam Makeba</string>
@@ -1060,9 +2145,37 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6818</key>
+		<key>6819</key>
 		<dict>
-			<key>Track ID</key><integer>6818</integer>
+			<key>Track ID</key><integer>6819</integer>
+			<key>Name</key><string>Lovely Lies</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Guinea Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1342457</integer>
+			<key>Total Time</key><integer>161372</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-10-12T02:42:30Z</date>
+			<key>Date Added</key><date>2020-10-12T02:41:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Guinea Years</string>
+			<key>Persistent ID</key><string>98DDAB31E59D4E98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2001%20-%20The%20Guinea%20Years/06%20-%20Lovely%20Lies.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6825</key>
+		<dict>
+			<key>Track ID</key><integer>6825</integer>
 			<key>Name</key><string>Touré Barika</string>
 			<key>Artist</key><string>Miriam Makeba</string>
 			<key>Album Artist</key><string>Miriam Makeba</string>
@@ -1089,9 +2202,128 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6832</key>
+		<key>6829</key>
 		<dict>
-			<key>Track ID</key><integer>6832</integer>
+			<key>Track ID</key><integer>6829</integer>
+			<key>Name</key><string>Malouyame</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Guinea Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1791047</integer>
+			<key>Total Time</key><integer>216266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>48577</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-10-12T02:42:30Z</date>
+			<key>Date Added</key><date>2020-10-12T02:41:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685512121</integer>
+			<key>Play Date UTC</key><date>2020-10-14T16:22:01Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Guinea Years</string>
+			<key>Persistent ID</key><string>5BED9B6E441F77E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2001%20-%20The%20Guinea%20Years/14%20-%20Malouyame.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6831</key>
+		<dict>
+			<key>Track ID</key><integer>6831</integer>
+			<key>Name</key><string>Milélé</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Guinea Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1737724</integer>
+			<key>Total Time</key><integer>209732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-10-12T02:42:30Z</date>
+			<key>Date Added</key><date>2020-10-12T02:41:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685606078</integer>
+			<key>Play Date UTC</key><date>2020-10-15T18:27:58Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Guinea Years</string>
+			<key>Persistent ID</key><string>FE5A2879E0C4A3DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2001%20-%20The%20Guinea%20Years/03%20-%20Mile%CC%81le%CC%81.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6833</key>
+		<dict>
+			<key>Track ID</key><integer>6833</integer>
+			<key>Name</key><string>Maobhe Guinée</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Guinea Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1343979</integer>
+			<key>Total Time</key><integer>161560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-10-12T02:42:30Z</date>
+			<key>Date Added</key><date>2020-10-12T02:41:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Guinea Years</string>
+			<key>Persistent ID</key><string>25C17FC070309045</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2001%20-%20The%20Guinea%20Years/08%20-%20Maobhe%20Guine%CC%81e.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6837</key>
+		<dict>
+			<key>Track ID</key><integer>6837</integer>
+			<key>Name</key><string>Teya Teya (alt. t.)</string>
+			<key>Artist</key><string>Miriam Makeba</string>
+			<key>Album Artist</key><string>Miriam Makeba</string>
+			<key>Album</key><string>The Guinea Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1651394</integer>
+			<key>Total Time</key><integer>199160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-10-12T02:42:30Z</date>
+			<key>Date Added</key><date>2020-10-12T02:41:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Guinea Years</string>
+			<key>Persistent ID</key><string>3DBE26EADD480AD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Miriam%20Makeba/2001%20-%20The%20Guinea%20Years/12%20-%20Teya%20Teya%20(alt.%20t.).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6839</key>
+		<dict>
+			<key>Track ID</key><integer>6839</integer>
 			<key>Name</key><string>Teya Teya</string>
 			<key>Artist</key><string>Miriam Makeba</string>
 			<key>Album Artist</key><string>Miriam Makeba</string>
@@ -1124,7 +2356,7 @@
 		<dict>
 			<key>Name</key><string>Miriam Makeba onestar</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>16204</integer>
+			<key>Playlist ID</key><integer>15893</integer>
 			<key>Playlist Persistent ID</key><string>DC3712A2874D0D0B</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
@@ -1208,16 +2440,16 @@
 					<key>Track ID</key><integer>6268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6818</integer>
+					<key>Track ID</key><integer>6825</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6832</integer>
+					<key>Track ID</key><integer>6839</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6108</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6808</integer>
+					<key>Track ID</key><integer>6812</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6198</integer>
@@ -1251,6 +2483,135 @@
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6498</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6808</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6256</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6819</integer>
 				</dict>
 			</array>
 		</dict>
