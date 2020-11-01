@@ -4,17 +4,45 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-09-23T15:51:07Z</date>
+	<key>Date</key><date>2020-10-23T22:51:14Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/</string>
+	<key>Library Persistent ID</key><string>17367F639663C89A</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4041</key>
+		<key>2620</key>
 		<dict>
-			<key>Track ID</key><integer>4041</integer>
+			<key>Track ID</key><integer>2620</integer>
+			<key>Name</key><string>Out of Nowhere</string>
+			<key>Artist</key><string>Coleman Hawkins &#38; His All-Star Jam Band</string>
+			<key>Album</key><string>Woody Allen More Movie Music</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3288947</integer>
+			<key>Total Time</key><integer>200751</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2020-09-04T20:38:24Z</date>
+			<key>Date Added</key><date>2020-10-04T04:47:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3683114828</integer>
+			<key>Play Date UTC</key><date>2020-09-16T22:27:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21A2628329631986</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Woody%20Allen/2002%20-%20More%20Movie%20Music/11%20-%20Out%20of%20Nowhere.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2642</key>
+		<dict>
+			<key>Track ID</key><integer>2642</integer>
 			<key>Name</key><string>All the Things You Are</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -24,7 +52,7 @@
 			<key>Total Time</key><integer>177998</integer>
 			<key>Track Number</key><integer>18</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
-			<key>Date Added</key><date>2020-07-21T22:44:42Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Play Count</key><integer>14</integer>
@@ -35,15 +63,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>71D4FEB0557697BB</string>
+			<key>Persistent ID</key><string>244F7E2B70935E03</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/All%20the%20Things%20You%20Are.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4043</key>
+		<key>2644</key>
 		<dict>
-			<key>Track ID</key><integer>4043</integer>
+			<key>Track ID</key><integer>2644</integer>
 			<key>Name</key><string>Meditation</string>
 			<key>Artist</key><string>Coleman Hawkins &#38; The Ramblers</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -53,7 +81,7 @@
 			<key>Total Time</key><integer>183902</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Date Modified</key><date>2018-04-04T05:59:10Z</date>
-			<key>Date Added</key><date>2020-07-21T22:44:42Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Play Count</key><integer>15</integer>
@@ -62,15 +90,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>95E31DAF208FFE09</string>
+			<key>Persistent ID</key><string>7BAEEB19D19F6662</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Meditation.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4045</key>
+		<key>2646</key>
 		<dict>
-			<key>Track ID</key><integer>4045</integer>
+			<key>Track ID</key><integer>2646</integer>
 			<key>Name</key><string>On the Sunny Side of the Street</string>
 			<key>Artist</key><string>Coleman Hawkins with Cozy Cole &#38; His Orchestra</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -80,7 +108,7 @@
 			<key>Total Time</key><integer>183562</integer>
 			<key>Track Number</key><integer>17</integer>
 			<key>Date Modified</key><date>2018-04-04T06:05:00Z</date>
-			<key>Date Added</key><date>2020-07-21T22:44:42Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -91,15 +119,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>C54E5C89D734E484</string>
+			<key>Persistent ID</key><string>FD7DAB82B1A0092F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/On%20the%20Sunny%20Side%20of%20the%20Street.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5023</key>
+		<key>2648</key>
 		<dict>
-			<key>Track ID</key><integer>5023</integer>
+			<key>Track ID</key><integer>2648</integer>
 			<key>Name</key><string>Stumpy (New York, December 8, 1943)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -114,7 +142,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:04:22Z</date>
-			<key>Date Added</key><date>2020-08-14T01:04:07Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>251</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -125,43 +153,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>B1988FD6599F7780</string>
+			<key>Persistent ID</key><string>B60B61AB20D501C4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2005%20-%20Blues%20Changes/5.14%20-%20Stumpy%20(New%20York,%20December%208,%201943).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6259</key>
+		<key>2650</key>
 		<dict>
-			<key>Track ID</key><integer>6259</integer>
-			<key>Name</key><string>Out of Nowhere</string>
-			<key>Artist</key><string>Coleman Hawkins &#38; His All-Star Jam Band</string>
-			<key>Album</key><string>Woody Allen More Movie Music</string>
-			<key>Genre</key><string>Other</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3288947</integer>
-			<key>Total Time</key><integer>200751</integer>
-			<key>Track Number</key><integer>11</integer>
-			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2020-09-04T20:38:24Z</date>
-			<key>Date Added</key><date>2020-09-04T20:37:49Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3683114828</integer>
-			<key>Play Date UTC</key><date>2020-09-16T22:27:08Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9F773A539C8FCCF0</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Woody%20Allen/2002%20-%20More%20Movie%20Music/11%20-%20Out%20of%20Nowhere.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>18960</key>
-		<dict>
-			<key>Track ID</key><integer>18960</integer>
+			<key>Track ID</key><integer>2650</integer>
 			<key>Name</key><string>Stuffy</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -171,7 +171,7 @@
 			<key>Total Time</key><integer>184398</integer>
 			<key>Track Number</key><integer>21</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:44Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -180,15 +180,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>337F7E58F3306F98</string>
+			<key>Persistent ID</key><string>A5906886A145DCD0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Stuffy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18965</key>
+		<key>2652</key>
 		<dict>
-			<key>Track ID</key><integer>18965</integer>
+			<key>Track ID</key><integer>2652</integer>
 			<key>Name</key><string>The Man I Love</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -198,45 +198,22 @@
 			<key>Total Time</key><integer>309080</integer>
 			<key>Track Number</key><integer>13</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:44Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Sort Name</key><string>Man I Love</string>
-			<key>Persistent ID</key><string>F5AE537DE06415EB</string>
+			<key>Persistent ID</key><string>B780FB9E4CB2E7FD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/The%20Man%20I%20Love.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18968</key>
+		<key>2654</key>
 		<dict>
-			<key>Track ID</key><integer>18968</integer>
-			<key>Name</key><string>Crazy Rhythm</string>
-			<key>Artist</key><string>Coleman Hawkins &#38; His All Star Jam Band</string>
-			<key>Album</key><string>Introduction to Coleman Hawkins</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1457510</integer>
-			<key>Total Time</key><integer>181916</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:45Z</date>
-			<key>Bit Rate</key><integer>64</integer>
-			<key>Sample Rate</key><integer>22050</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>D83CFDE365BA766D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Crazy%20Rhythm.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>18971</key>
-		<dict>
-			<key>Track ID</key><integer>18971</integer>
+			<key>Track ID</key><integer>2654</integer>
 			<key>Name</key><string>Woody 'N You</string>
 			<key>Artist</key><string>Coleman Hawkins &#38; His Orchestra</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -246,20 +223,20 @@
 			<key>Total Time</key><integer>184476</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:38Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:45Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>23EBD2B8BDFBB72A</string>
+			<key>Persistent ID</key><string>7E710A4BA25791A8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Woody%20'N%20You.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18980</key>
+		<key>2656</key>
 		<dict>
-			<key>Track ID</key><integer>18980</integer>
+			<key>Track ID</key><integer>2656</integer>
 			<key>Name</key><string>Lady Be Good (London, November 18, 1934)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>George Gershwin/Ira Gershwin</string>
@@ -274,52 +251,22 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:57Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:45Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>232</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>84A004FE18E1A4A5</string>
+			<key>Persistent ID</key><string>3D3D75623904A33B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.03%20-%20Lady%20Be%20Good%20(London,%20November%2018,%201934).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18986</key>
+		<key>2658</key>
 		<dict>
-			<key>Track ID</key><integer>18986</integer>
-			<key>Name</key><string>Honeysuckle Rose (London, November 18, 1934)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Andy Razaf/Fats Waller</string>
-			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5222918</integer>
-			<key>Total Time</key><integer>183771</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:45Z</date>
-			<key>Bit Rate</key><integer>225</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>EE7C4FB0A1EBB07E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.05%20-%20Honeysuckle%20Rose%20(London,%20November%2018,%201934).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>18990</key>
-		<dict>
-			<key>Track ID</key><integer>18990</integer>
+			<key>Track ID</key><integer>2658</integer>
 			<key>Name</key><string>Some Of These Days (The Hague, February 4, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Shelton Brooks</string>
@@ -334,7 +281,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:45Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>251</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -344,15 +291,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>4BE62A4FA0442E0E</string>
+			<key>Persistent ID</key><string>F1E81EF10659877F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.06%20-%20Some%20Of%20These%20Days%20(The%20Hague,%20February%204,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18994</key>
+		<key>2660</key>
 		<dict>
-			<key>Track ID</key><integer>18994</integer>
+			<key>Track ID</key><integer>2660</integer>
 			<key>Name</key><string>After You've Gone (The Hague, February 4, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Henry Creamer/Turner Layton</string>
@@ -367,7 +314,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:45Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>238</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -377,48 +324,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>6BAC6A80A6E089AE</string>
+			<key>Persistent ID</key><string>F1BD2B1B1D3343BF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.07%20-%20After%20You've%20Gone%20(The%20Hague,%20February%204,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18998</key>
+		<key>2662</key>
 		<dict>
-			<key>Track ID</key><integer>18998</integer>
-			<key>Name</key><string>I Only Have Eyes For You (The Hague, February 4, 1935)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Al Dubin/Harry Warren</string>
-			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4929213</integer>
-			<key>Total Time</key><integer>163317</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
-			<key>Bit Rate</key><integer>239</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3606301910</integer>
-			<key>Play Date UTC</key><date>2018-04-11T21:31:50Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>3F09428473863B72</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.08%20-%20I%20Only%20Have%20Eyes%20For%20You%20(The%20Hague,%20February%204,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19001</key>
-		<dict>
-			<key>Track ID</key><integer>19001</integer>
+			<key>Track ID</key><integer>2662</integer>
 			<key>Name</key><string>I Wish I Were Twins (The Hague, February 4, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Eddie DeLange/Frank Loesser/Joseph Meyer</string>
@@ -433,7 +347,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>247</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -443,15 +357,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>54D7DC4641EE591B</string>
+			<key>Persistent ID</key><string>9E3C6FAACEF7330D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.09%20-%20I%20Wish%20I%20Were%20Twins%20(The%20Hague,%20February%204,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19008</key>
+		<key>2664</key>
 		<dict>
-			<key>Track ID</key><integer>19008</integer>
+			<key>Track ID</key><integer>2664</integer>
 			<key>Name</key><string>Blue Moon (Paris, March 2, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Richard Rodgers/Lorenz Hart</string>
@@ -466,7 +380,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>229</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -476,45 +390,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>0B0629A465A35F65</string>
+			<key>Persistent ID</key><string>F4DC475EA4957A0D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.11%20-%20Blue%20Moon%20(Paris,%20March%202,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19013</key>
+		<key>2666</key>
 		<dict>
-			<key>Track ID</key><integer>19013</integer>
-			<key>Name</key><string>What A Difference A Day Made (Paris, March 2, 1935)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Stanley Adams/María Mendez Grever</string>
-			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6350694</integer>
-			<key>Total Time</key><integer>197929</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>13</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
-			<key>Bit Rate</key><integer>255</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>42734A023B775F43</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.13%20-%20What%20A%20Difference%20A%20Day%20Made%20(Paris,%20March%202,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19018</key>
-		<dict>
-			<key>Track ID</key><integer>19018</integer>
+			<key>Track ID</key><integer>2666</integer>
 			<key>Name</key><string>Stardust (Paris, March 2, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Mitchell Parish/Hoagy Carmichael</string>
@@ -529,7 +413,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
 			<key>Bit Rate</key><integer>231</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -539,15 +423,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>3E9BF3A12044A7AF</string>
+			<key>Persistent ID</key><string>48AE630F558BF2BE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.14%20-%20Stardust%20(Paris,%20March%202,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19023</key>
+		<key>2668</key>
 		<dict>
-			<key>Track ID</key><integer>19023</integer>
+			<key>Track ID</key><integer>2668</integer>
 			<key>Name</key><string>What Harlem Is To Me (Casino Hamdorff, Laren, August 26, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Paul Denniker/Andy Razaf/Sam Wooding</string>
@@ -562,7 +446,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>242</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -572,48 +456,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>EEF87E44A41B4062</string>
+			<key>Persistent ID</key><string>99ACAA6A1EAE0D2A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.17%20-%20What%20Harlem%20Is%20To%20Me%20(Casino%20Hamdorff,%20Laren,%20August%2026,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19026</key>
+		<key>2670</key>
 		<dict>
-			<key>Track ID</key><integer>19026</integer>
-			<key>Name</key><string>Netcha's Dream (Casino Hamdorff, Laren, August 26, 1935)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Coleman Hawkins</string>
-			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4830423</integer>
-			<key>Total Time</key><integer>155454</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>18</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T05:58:55Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
-			<key>Bit Rate</key><integer>246</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3607401413</integer>
-			<key>Play Date UTC</key><date>2018-04-24T14:56:53Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>94A9ACD7F2DA0A7D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.18%20-%20Netcha's%20Dream%20(Casino%20Hamdorff,%20Laren,%20August%2026,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19029</key>
-		<dict>
-			<key>Track ID</key><integer>19029</integer>
+			<key>Track ID</key><integer>2670</integer>
 			<key>Name</key><string>Consolation (Casino Hamdorff, Laren, April 27, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Jack Bulterman</string>
@@ -628,7 +479,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:07Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>233</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -638,15 +489,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>ACAF7AA6E02BEC45</string>
+			<key>Persistent ID</key><string>DC973F76B69A2C50</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.04%20-%20Consolation%20(Casino%20Hamdorff,%20Laren,%20April%2027,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19032</key>
+		<key>2672</key>
 		<dict>
-			<key>Track ID</key><integer>19032</integer>
+			<key>Track ID</key><integer>2672</integer>
 			<key>Name</key><string>Original Dixieland One Step (Casino Hamdorff, Laren, April 27, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Dominick James LaRocca</string>
@@ -661,7 +512,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:06Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>237</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -671,15 +522,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>FE908A2B9F711506</string>
+			<key>Persistent ID</key><string>9F8F279AA70E0ABF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.06%20-%20Original%20Dixieland%20One%20Step%20(Casino%20Hamdorff,%20Laren,%20April%2027,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19035</key>
+		<key>2674</key>
 		<dict>
-			<key>Track ID</key><integer>19035</integer>
+			<key>Track ID</key><integer>2674</integer>
 			<key>Name</key><string>Something Is Gonna Give Me Away (Casino Hamdorff, Laren, April 27, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -694,7 +545,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:06Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>234</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -704,15 +555,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>DEB1D2B25F0E8EE0</string>
+			<key>Persistent ID</key><string>97E32E1F221DCC54</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.08%20-%20Something%20Is%20Gonna%20Give%20Me%20Away%20(Casino%20Hamdorff,%20Laren,%20April%2027,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19038</key>
+		<key>2676</key>
 		<dict>
-			<key>Track ID</key><integer>19038</integer>
+			<key>Track ID</key><integer>2676</integer>
 			<key>Name</key><string>Honeysuckle Rose (Paris, April 28, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Andy Razaf/Fats Waller</string>
@@ -727,7 +578,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:06Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:46Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>235</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -737,15 +588,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5F7DECFC85C32812</string>
+			<key>Persistent ID</key><string>1451A33DC8A8543E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.09%20-%20Honeysuckle%20Rose%20(Paris,%20April%2028,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19041</key>
+		<key>2678</key>
 		<dict>
-			<key>Track ID</key><integer>19041</integer>
+			<key>Track ID</key><integer>2678</integer>
 			<key>Name</key><string>Sweet Georgia Brown (Paris, April 28, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Ben Bernie and His Orchestra/Maceo Pinkard/Kenneth Casey</string>
@@ -760,7 +611,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:05Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>248</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -770,15 +621,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>0A4F245640AE1F3A</string>
+			<key>Persistent ID</key><string>DD30613251CBB635</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.12%20-%20Sweet%20Georgia%20Brown%20(Paris,%20April%2028,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19044</key>
+		<key>2680</key>
 		<dict>
-			<key>Track ID</key><integer>19044</integer>
+			<key>Track ID</key><integer>2680</integer>
 			<key>Name</key><string>Star Dust (Hilversum, August 18, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Hoagy Carmichael/Mitchell Parish</string>
@@ -793,22 +644,22 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:04Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>226</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>7A74FAC3CDC085AB</string>
+			<key>Persistent ID</key><string>BBA29949006A4D3F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.15%20-%20Star%20Dust%20(Hilversum,%20August%2018,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19047</key>
+		<key>2682</key>
 		<dict>
-			<key>Track ID</key><integer>19047</integer>
+			<key>Track ID</key><integer>2682</integer>
 			<key>Name</key><string>Well, All Right Then (Hilversum, August 18, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins/Freddie Johnson</string>
@@ -823,7 +674,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:04Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>233</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -833,15 +684,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>538491B485CF9640</string>
+			<key>Persistent ID</key><string>D93F0C52718AF255</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.16%20-%20Well,%20All%20Right%20Then%20(Hilversum,%20August%2018,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19050</key>
+		<key>2684</key>
 		<dict>
-			<key>Track ID</key><integer>19050</integer>
+			<key>Track ID</key><integer>2684</integer>
 			<key>Name</key><string>Dear Old Southland (Hilversum, June 14, 1938)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Henry Creamer/Turner Layton</string>
@@ -856,22 +707,22 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:04Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>221</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>002F3F751A5BD1AC</string>
+			<key>Persistent ID</key><string>5305CBE31D409492</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.18%20-%20Dear%20Old%20Southland%20(Hilversum,%20June%2014,%201938).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19053</key>
+		<key>2686</key>
 		<dict>
-			<key>Track ID</key><integer>19053</integer>
+			<key>Track ID</key><integer>2686</integer>
 			<key>Name</key><string>'Way Down Yonder In New Orleans (Hilversum, June 14, 1938)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Henry Creamer/Turner Layton</string>
@@ -886,7 +737,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:03Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>220</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -896,15 +747,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>7371756F736605F7</string>
+			<key>Persistent ID</key><string>FD39709C546CC494</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.19%20-%20'Way%20Down%20Yonder%20In%20New%20Orleans%20(Hilversum,%20June%2014,%201938).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19056</key>
+		<key>2688</key>
 		<dict>
-			<key>Track ID</key><integer>19056</integer>
+			<key>Track ID</key><integer>2688</integer>
 			<key>Name</key><string>Swinging In The Groove (Hilversum, June 14, 1938)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -919,7 +770,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:44Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>223</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>9</integer>
@@ -931,49 +782,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>9F25939BF781E06A</string>
+			<key>Persistent ID</key><string>128B28C686D351A9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.03%20-%20Swinging%20In%20The%20Groove%20(Hilversum,%20June%2014,%201938).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19059</key>
+		<key>2690</key>
 		<dict>
-			<key>Track ID</key><integer>19059</integer>
-			<key>Name</key><string>The Darktown Strutter's Ball (London, May 26, 1939)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Shelton Brooks</string>
-			<key>Album</key><string>Past Perfect - Bouncing With Bean - CD 04</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4881579</integer>
-			<key>Total Time</key><integer>159634</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T06:02:44Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
-			<key>Bit Rate</key><integer>243</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3606194611</integer>
-			<key>Play Date UTC</key><date>2018-04-10T15:43:31Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Name</key><string>Darktown Strutter's Ball (London, May 26, 1939)</string>
-			<key>Persistent ID</key><string>52D653C52BB7A48E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.04%20-%20The%20Darktown%20Strutter's%20Ball%20(London,%20May%2026,%201939).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19062</key>
-		<dict>
-			<key>Track ID</key><integer>19062</integer>
+			<key>Track ID</key><integer>2690</integer>
 			<key>Name</key><string>When Day Is Done (New York, January 3, 1940)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Buddy DeSylva/Dr. Robert Katscher</string>
@@ -988,7 +805,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:42Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>225</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -998,15 +815,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>E4982C1BD092FC63</string>
+			<key>Persistent ID</key><string>FD7A48BD5BE6BDE7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.14%20-%20When%20Day%20Is%20Done%20(New%20York,%20January%203,%201940).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19065</key>
+		<key>2692</key>
 		<dict>
-			<key>Track ID</key><integer>19065</integer>
+			<key>Track ID</key><integer>2692</integer>
 			<key>Name</key><string>The Sheik Of Araby (New York, January 3, 1940)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Harry Beasley Smith/Ted Snyder/Francis Wheeler</string>
@@ -1021,7 +838,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:42Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>231</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>8</integer>
@@ -1032,15 +849,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Sort Name</key><string>Sheik Of Araby (New York, January 3, 1940)</string>
-			<key>Persistent ID</key><string>462F47039D883C66</string>
+			<key>Persistent ID</key><string>366A44D3BAD6AAA0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.15%20-%20The%20Sheik%20Of%20Araby%20(New%20York,%20January%203,%201940).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19068</key>
+		<key>2694</key>
 		<dict>
-			<key>Track ID</key><integer>19068</integer>
+			<key>Track ID</key><integer>2694</integer>
 			<key>Name</key><string>My Blue Heaven (New York, January 3, 1940)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Walter Donaldson/George Whiting</string>
@@ -1055,7 +872,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:42Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>234</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1065,15 +882,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>A1DAD0B7856DB8B0</string>
+			<key>Persistent ID</key><string>1AF3AA19F7AEC853</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.16%20-%20My%20Blue%20Heaven%20(New%20York,%20January%203,%201940).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19071</key>
+		<key>2696</key>
 		<dict>
-			<key>Track ID</key><integer>19071</integer>
+			<key>Track ID</key><integer>2696</integer>
 			<key>Name</key><string>Bouncing With Bean (New York, January 3, 1940)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1088,7 +905,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:42Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>231</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1098,15 +915,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>69AABCF2E635418A</string>
+			<key>Persistent ID</key><string>858B37769F198EDC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.17%20-%20Bouncing%20With%20Bean%20(New%20York,%20January%203,%201940).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19074</key>
+		<key>2698</key>
 		<dict>
-			<key>Track ID</key><integer>19074</integer>
+			<key>Track ID</key><integer>2698</integer>
 			<key>Name</key><string>Boff Boff (Mop Mop) (New York, December 4, 1943)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1121,21 +938,21 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:04:23Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>220</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5F757AFA8D941462</string>
+			<key>Persistent ID</key><string>D7862ACDC24F13D6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2005%20-%20Blues%20Changes/5.08%20-%20Boff%20Boff%20(Mop%20Mop)%20(New%20York,%20December%204,%201943).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19077</key>
+		<key>2700</key>
 		<dict>
-			<key>Track ID</key><integer>19077</integer>
+			<key>Track ID</key><integer>2700</integer>
 			<key>Name</key><string>How Deep Is The Ocean (New York, December 8, 1943)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Irving Berlin</string>
@@ -1150,7 +967,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:04:23Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>262</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1159,15 +976,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>DA4A8AFDC4ED89CF</string>
+			<key>Persistent ID</key><string>D13508AE5AD35866</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2005%20-%20Blues%20Changes/5.12%20-%20How%20Deep%20Is%20The%20Ocean%20(New%20York,%20December%208,%201943).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19080</key>
+		<key>2702</key>
 		<dict>
-			<key>Track ID</key><integer>19080</integer>
+			<key>Track ID</key><integer>2702</integer>
 			<key>Name</key><string>Bean At the Met (New York, January 31, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1182,7 +999,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:47Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>239</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>6</integer>
@@ -1191,18 +1008,16 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-04-19T12:41:49Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>3ACAB4D92D396AE3</string>
+			<key>Persistent ID</key><string>1FC10B72CB32B9C7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.02%20-%20Bean%20At%20the%20Met%20(New%20York,%20January%2031,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19083</key>
+		<key>2704</key>
 		<dict>
-			<key>Track ID</key><integer>19083</integer>
+			<key>Track ID</key><integer>2704</integer>
 			<key>Name</key><string>'S Wonderful (New York, January 31, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>George Gershwin/Ira Gershwin</string>
@@ -1217,25 +1032,23 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:47Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>243</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3608713333</integer>
 			<key>Play Date UTC</key><date>2018-05-09T19:22:13Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>8296031E4F83AB6E</string>
+			<key>Persistent ID</key><string>176B7A1E59D7198C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.03%20-%20'S%20Wonderful%20(New%20York,%20January%2031,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19086</key>
+		<key>2706</key>
 		<dict>
-			<key>Track ID</key><integer>19086</integer>
+			<key>Track ID</key><integer>2706</integer>
 			<key>Name</key><string>I'm In the Mood For Love (New York, January 31, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Jimmy McHugh/Dorothy Fields</string>
@@ -1250,25 +1063,23 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:47Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>229</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3606106126</integer>
 			<key>Play Date UTC</key><date>2018-04-09T15:08:46Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>E64B96431DA9668B</string>
+			<key>Persistent ID</key><string>1E7D11A831DE84C0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.04%20-%20I'm%20In%20the%20Mood%20For%20Love%20(New%20York,%20January%2031,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19089</key>
+		<key>2708</key>
 		<dict>
-			<key>Track ID</key><integer>19089</integer>
+			<key>Track ID</key><integer>2708</integer>
 			<key>Name</key><string>I Only Have Eyes For You (New York, January 31, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Al Dubin/Harry Warren</string>
@@ -1283,25 +1094,23 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:47Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>222</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3606373599</integer>
 			<key>Play Date UTC</key><date>2018-04-12T17:26:39Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>F6F2E5CB71EF94CB</string>
+			<key>Persistent ID</key><string>28F0BAE585FC03BE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.05%20-%20I%20Only%20Have%20Eyes%20For%20You%20(New%20York,%20January%2031,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19092</key>
+		<key>2710</key>
 		<dict>
-			<key>Track ID</key><integer>19092</integer>
+			<key>Track ID</key><integer>2710</integer>
 			<key>Name</key><string>Woodyn' You (New York, February 16, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Dizzy Gillespie</string>
@@ -1316,22 +1125,20 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:47Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>262</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>DEECABC687ADE871</string>
+			<key>Persistent ID</key><string>1B2294C478941916</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.06%20-%20Woodyn'%20You%20(New%20York,%20February%2016,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19095</key>
+		<key>2712</key>
 		<dict>
-			<key>Track ID</key><integer>19095</integer>
+			<key>Track ID</key><integer>2712</integer>
 			<key>Name</key><string>Bu-Dee-Daht (New York, February 16, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Charlie Hart/B. Johnson</string>
@@ -1346,22 +1153,20 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:46Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>234</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>DE17BB60A6F86375</string>
+			<key>Persistent ID</key><string>44D25B0421189095</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.07%20-%20Bu-Dee-Daht%20(New%20York,%20February%2016,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19098</key>
+		<key>2714</key>
 		<dict>
-			<key>Track ID</key><integer>19098</integer>
+			<key>Track ID</key><integer>2714</integer>
 			<key>Name</key><string>Night And Day (New York, February 17, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Cole Porter</string>
@@ -1376,25 +1181,23 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:46Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>229</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3607073308</integer>
 			<key>Play Date UTC</key><date>2018-04-20T19:48:28Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>AE6F949F42A7668B</string>
+			<key>Persistent ID</key><string>6D2391AA6FBADF0B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.13%20-%20Night%20And%20Day%20(New%20York,%20February%2017,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19101</key>
+		<key>2716</key>
 		<dict>
-			<key>Track ID</key><integer>19101</integer>
+			<key>Track ID</key><integer>2716</integer>
 			<key>Name</key><string>Cattin' At Keynote (New York, February 17, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Harry Lim</string>
@@ -1409,25 +1212,23 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:46Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>238</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3606109901</integer>
 			<key>Play Date UTC</key><date>2018-04-09T16:11:41Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>630447CCE00D19D1</string>
+			<key>Persistent ID</key><string>F83B3D91E9B62A70</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.14%20-%20Cattin'%20At%20Keynote%20(New%20York,%20February%2017,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19104</key>
+		<key>2718</key>
 		<dict>
-			<key>Track ID</key><integer>19104</integer>
+			<key>Track ID</key><integer>2718</integer>
 			<key>Name</key><string>On The Sunny Side Of The Street (New York, May 24, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Dorothy Fields/Jimmy McHugh</string>
@@ -1442,7 +1243,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:47Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>216</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1452,15 +1253,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>50B06F8BFEAE9222</string>
+			<key>Persistent ID</key><string>D6A689BD0CB29B5C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.01%20-%20On%20The%20Sunny%20Side%20Of%20The%20Street%20(New%20York,%20May%2024,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19107</key>
+		<key>2720</key>
 		<dict>
-			<key>Track ID</key><integer>19107</integer>
+			<key>Track ID</key><integer>2720</integer>
 			<key>Name</key><string>Make Believe (New York, May 29, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Oscar Hammerstein II/Jerome Kern</string>
@@ -1475,7 +1276,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:35Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>223</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1485,15 +1286,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>6AF9B23FAC231D0C</string>
+			<key>Persistent ID</key><string>EB1BDD0416802485</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.05%20-%20Make%20Believe%20(New%20York,%20May%2029,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19110</key>
+		<key>2722</key>
 		<dict>
-			<key>Track ID</key><integer>19110</integer>
+			<key>Track ID</key><integer>2722</integer>
 			<key>Name</key><string>Just One Of Those Things (New York, May 29, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Cole Porter</string>
@@ -1508,7 +1309,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:34Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>221</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1518,15 +1319,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>DFABD0C33B5A2419</string>
+			<key>Persistent ID</key><string>4C7DC89721524702</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.07%20-%20Just%20One%20Of%20Those%20Things%20(New%20York,%20May%2029,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19113</key>
+		<key>2724</key>
 		<dict>
-			<key>Track ID</key><integer>19113</integer>
+			<key>Track ID</key><integer>2724</integer>
 			<key>Name</key><string>Step On It (New York, July 27, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Past Perfect - Battle Of Saxes - CD 07</string>
@@ -1540,7 +1341,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:33Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>240</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1550,15 +1351,198 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5B5F793000164EDA</string>
+			<key>Persistent ID</key><string>ADFA39EA9914F72B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.09%20-%20Step%20On%20It%20(New%20York,%20July%2027,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19116</key>
+		<key>2726</key>
 		<dict>
-			<key>Track ID</key><integer>19116</integer>
+			<key>Track ID</key><integer>2726</integer>
+			<key>Name</key><string>The Darktown Strutter's Ball (London, May 26, 1939)</string>
+			<key>Artist</key><string>Coleman Hawkins</string>
+			<key>Composer</key><string>Shelton Brooks</string>
+			<key>Album</key><string>Past Perfect - Bouncing With Bean - CD 04</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4881579</integer>
+			<key>Total Time</key><integer>159634</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2018-04-06T06:02:44Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606194611</integer>
+			<key>Play Date UTC</key><date>2018-04-10T15:43:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Name</key><string>Darktown Strutter's Ball (London, May 26, 1939)</string>
+			<key>Persistent ID</key><string>1F536DE07B87B7FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.04%20-%20The%20Darktown%20Strutter's%20Ball%20(London,%20May%2026,%201939).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2728</key>
+		<dict>
+			<key>Track ID</key><integer>2728</integer>
+			<key>Name</key><string>Netcha's Dream (Casino Hamdorff, Laren, August 26, 1935)</string>
+			<key>Artist</key><string>Coleman Hawkins</string>
+			<key>Composer</key><string>Coleman Hawkins</string>
+			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4830423</integer>
+			<key>Total Time</key><integer>155454</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2018-04-06T05:58:55Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3607401413</integer>
+			<key>Play Date UTC</key><date>2018-04-24T14:56:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>B69733A35E9894FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.18%20-%20Netcha's%20Dream%20(Casino%20Hamdorff,%20Laren,%20August%2026,%201935).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2730</key>
+		<dict>
+			<key>Track ID</key><integer>2730</integer>
+			<key>Name</key><string>What A Difference A Day Made (Paris, March 2, 1935)</string>
+			<key>Artist</key><string>Coleman Hawkins</string>
+			<key>Composer</key><string>Stanley Adams/María Mendez Grever</string>
+			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6350694</integer>
+			<key>Total Time</key><integer>197929</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>178449EB7096BAC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.13%20-%20What%20A%20Difference%20A%20Day%20Made%20(Paris,%20March%202,%201935).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2732</key>
+		<dict>
+			<key>Track ID</key><integer>2732</integer>
+			<key>Name</key><string>I Only Have Eyes For You (The Hague, February 4, 1935)</string>
+			<key>Artist</key><string>Coleman Hawkins</string>
+			<key>Composer</key><string>Al Dubin/Harry Warren</string>
+			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4929213</integer>
+			<key>Total Time</key><integer>163317</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
+			<key>Bit Rate</key><integer>239</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3606301910</integer>
+			<key>Play Date UTC</key><date>2018-04-11T21:31:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>5105BA42BFFA46F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.08%20-%20I%20Only%20Have%20Eyes%20For%20You%20(The%20Hague,%20February%204,%201935).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2734</key>
+		<dict>
+			<key>Track ID</key><integer>2734</integer>
+			<key>Name</key><string>Honeysuckle Rose (London, November 18, 1934)</string>
+			<key>Artist</key><string>Coleman Hawkins</string>
+			<key>Composer</key><string>Andy Razaf/Fats Waller</string>
+			<key>Album</key><string>Past Perfect - What Harlem Is To Me - CD 02</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5222918</integer>
+			<key>Total Time</key><integer>183771</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BF82E945D1E520FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.05%20-%20Honeysuckle%20Rose%20(London,%20November%2018,%201934).mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2736</key>
+		<dict>
+			<key>Track ID</key><integer>2736</integer>
+			<key>Name</key><string>Crazy Rhythm</string>
+			<key>Artist</key><string>Coleman Hawkins &#38; His All Star Jam Band</string>
+			<key>Album</key><string>Introduction to Coleman Hawkins</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1457510</integer>
+			<key>Total Time</key><integer>181916</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:26Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>1892A93C2BF3A7A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Crazy%20Rhythm.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2738</key>
+		<dict>
+			<key>Track ID</key><integer>2738</integer>
 			<key>Name</key><string>Riding On 52nd Street (New York, July 27, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1573,7 +1557,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:33Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>241</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>7</integer>
@@ -1583,15 +1567,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>F90EC3E46F652261</string>
+			<key>Persistent ID</key><string>351465EFA63F7B14</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.10%20-%20Riding%20On%2052nd%20Street%20(New%20York,%20July%2027,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19119</key>
+		<key>2740</key>
 		<dict>
-			<key>Track ID</key><integer>19119</integer>
+			<key>Track ID</key><integer>2740</integer>
 			<key>Name</key><string>Out To Lunch (New York, October 11, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Jimmy Davis/Walter Thomas</string>
@@ -1606,7 +1590,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:33Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>254</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1616,15 +1600,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>D6C0C973D44CB4C5</string>
+			<key>Persistent ID</key><string>B5061424C786F9AC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.12%20-%20Out%20To%20Lunch%20(New%20York,%20October%2011,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19122</key>
+		<key>2742</key>
 		<dict>
-			<key>Track ID</key><integer>19122</integer>
+			<key>Track ID</key><integer>2742</integer>
 			<key>Name</key><string>Look Out Jack! (New York, October 11, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Jimmy Davis/Irene Higginbotham</string>
@@ -1639,7 +1623,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:33Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>241</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -1649,15 +1633,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>C5E74687612A9FB3</string>
+			<key>Persistent ID</key><string>1223DF2238DC73C8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.14%20-%20Look%20Out%20Jack!%20(New%20York,%20October%2011,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19125</key>
+		<key>2744</key>
 		<dict>
-			<key>Track ID</key><integer>19125</integer>
+			<key>Track ID</key><integer>2744</integer>
 			<key>Name</key><string>I'm Yours (New York, October 12, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Johnny Green/E.Y. "Yip" Harburg</string>
@@ -1672,7 +1656,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:33Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>236</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
@@ -1682,15 +1666,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>418BBD2A9B2AD20E</string>
+			<key>Persistent ID</key><string>FDB1C854BD347EFC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.16%20-%20I'm%20Yours%20(New%20York,%20October%2012,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19128</key>
+		<key>2746</key>
 		<dict>
-			<key>Track ID</key><integer>19128</integer>
+			<key>Track ID</key><integer>2746</integer>
 			<key>Name</key><string>Undecided (New York, October 18, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Sydney Robin/Charlie Shavers</string>
@@ -1705,7 +1689,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:12:02Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>211</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -1715,48 +1699,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5D8A02D445AC64AA</string>
+			<key>Persistent ID</key><string>E9B88375089265C1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.05%20-%20Undecided%20(New%20York,%20October%2018,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19131</key>
+		<key>2748</key>
 		<dict>
-			<key>Track ID</key><integer>19131</integer>
-			<key>Name</key><string>Drifting On A Reed (New York, October 19, 1944)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Walter Thomas</string>
-			<key>Album</key><string>Past Perfect - On the Bean - CD 08</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4953409</integer>
-			<key>Total Time</key><integer>182256</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T06:12:01Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
-			<key>Bit Rate</key><integer>216</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3606369121</integer>
-			<key>Play Date UTC</key><date>2018-04-12T16:12:01Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>2CEC0EAE1263A663</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.07%20-%20Drifting%20On%20A%20Reed%20(New%20York,%20October%2019,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19134</key>
-		<dict>
-			<key>Track ID</key><integer>19134</integer>
+			<key>Track ID</key><integer>2748</integer>
 			<key>Name</key><string>Flyin' Hawk (New York, October 19, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Walter Thomas</string>
@@ -1771,7 +1722,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:12:01Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>207</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1781,15 +1732,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>7FDE78C5FE1D1BA2</string>
+			<key>Persistent ID</key><string>062A94E2E1671A2B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.08%20-%20Flyin'%20Hawk%20(New%20York,%20October%2019,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19137</key>
+		<key>2750</key>
 		<dict>
-			<key>Track ID</key><integer>19137</integer>
+			<key>Track ID</key><integer>2750</integer>
 			<key>Name</key><string>On The Bean (New York, October 19, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins/Walter Thomas</string>
@@ -1804,7 +1755,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:12:01Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>215</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -1814,15 +1765,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>59378A2973531E1B</string>
+			<key>Persistent ID</key><string>33533F82B51D43B2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.09%20-%20On%20The%20Bean%20(New%20York,%20October%2019,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19140</key>
+		<key>2752</key>
 		<dict>
-			<key>Track ID</key><integer>19140</integer>
+			<key>Track ID</key><integer>2752</integer>
 			<key>Name</key><string>Bean Stalking (New York, January 11, 1945)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1837,7 +1788,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:12:01Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>195</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1847,49 +1798,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>EAEE9F2ADC2AB776</string>
+			<key>Persistent ID</key><string>6D4971CD3CCF2282</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.11%20-%20Bean%20Stalking%20(New%20York,%20January%2011,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19143</key>
+		<key>2754</key>
 		<dict>
-			<key>Track ID</key><integer>19143</integer>
-			<key>Name</key><string>The Night Ramble (New York, January 11, 1945)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Coleman Hawkins</string>
-			<key>Album</key><string>Past Perfect - On the Bean - CD 08</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>4051328</integer>
-			<key>Total Time</key><integer>145998</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>13</integer>
-			<key>Track Count</key><integer>20</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T06:12:01Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
-			<key>Bit Rate</key><integer>220</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3606470215</integer>
-			<key>Play Date UTC</key><date>2018-04-13T20:16:55Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Name</key><string>Night Ramble (New York, January 11, 1945)</string>
-			<key>Persistent ID</key><string>711632022A37D8D6</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.13%20-%20The%20Night%20Ramble%20(New%20York,%20January%2011,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19146</key>
-		<dict>
-			<key>Track ID</key><integer>19146</integer>
+			<key>Track ID</key><integer>2754</integer>
 			<key>Name</key><string>Stuffy (Los Angeles, February 23, 1945)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1904,22 +1821,22 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:12:00Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>242</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>C0AAA47769B156DB</string>
+			<key>Persistent ID</key><string>844C2EA65057AB4C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.20%20-%20Stuffy%20(Los%20Angeles,%20February%2023,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19149</key>
+		<key>2756</key>
 		<dict>
-			<key>Track ID</key><integer>19149</integer>
+			<key>Track ID</key><integer>2756</integer>
 			<key>Name</key><string>Hollywood Stampede (Los Angeles, February 23, 1945)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1934,7 +1851,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:13:37Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>228</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -1944,15 +1861,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>E6E0FFA82A3C1CB1</string>
+			<key>Persistent ID</key><string>A343BF5DD824A55B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2009%20-%20Bean%20Soup/9.01%20-%20Hollywood%20Stampede%20(Los%20Angeles,%20February%2023,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19152</key>
+		<key>2758</key>
 		<dict>
-			<key>Track ID</key><integer>19152</integer>
+			<key>Track ID</key><integer>2758</integer>
 			<key>Name</key><string>Wrap Your Troubles In Dreams (Los Angeles, February 23, 1945)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Ted Koehler/Billy Moll/Harry Barris</string>
@@ -1967,22 +1884,22 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:13:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>233</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>09E1C8DBFF9D9F3D</string>
+			<key>Persistent ID</key><string>D9F713124030AEDA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2009%20-%20Bean%20Soup/9.04%20-%20Wrap%20Your%20Troubles%20In%20Dreams%20(Los%20Angeles,%20February%2023,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19155</key>
+		<key>2760</key>
 		<dict>
-			<key>Track ID</key><integer>19155</integer>
+			<key>Track ID</key><integer>2760</integer>
 			<key>Name</key><string>Too Much Of A Good Thing (Los Angeles, March 9, 1945)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -1997,22 +1914,22 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:13:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>241</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>ECB95DC6C55292BC</string>
+			<key>Persistent ID</key><string>2048535F06575DB9</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2009%20-%20Bean%20Soup/9.05%20-%20Too%20Much%20Of%20A%20Good%20Thing%20(Los%20Angeles,%20March%209,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19158</key>
+		<key>2762</key>
 		<dict>
-			<key>Track ID</key><integer>19158</integer>
+			<key>Track ID</key><integer>2762</integer>
 			<key>Name</key><string>Jumpin' For Jane (New York, December 11, 1947)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Leonard Feather</string>
@@ -2027,56 +1944,22 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:13:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:27Z</date>
 			<key>Bit Rate</key><integer>236</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>801222C0FFAE708E</string>
+			<key>Persistent ID</key><string>C405BB654236CF9D</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2009%20-%20Bean%20Soup/9.19%20-%20Jumpin'%20For%20Jane%20(New%20York,%20December%2011,%201947).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19161</key>
+		<key>2764</key>
 		<dict>
-			<key>Track ID</key><integer>19161</integer>
-			<key>Name</key><string>It's Only A Paper Moon (Paris, December 21, 1949)</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Album Artist</key><string>Coleman Hawkins</string>
-			<key>Composer</key><string>Harold Arlen/Billy Rose/E.Y. "Yip" Harburg</string>
-			<key>Album</key><string>Past Perfect - Bean's Talking Again - CD 10</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5335140</integer>
-			<key>Total Time</key><integer>182308</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>21</integer>
-			<key>Year</key><integer>1963</integer>
-			<key>Date Modified</key><date>2018-04-06T06:15:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
-			<key>Bit Rate</key><integer>232</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3606329555</integer>
-			<key>Play Date UTC</key><date>2018-04-12T05:12:35Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5DD687694342947E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/10.1%20-%20It's%20Only%20A%20Paper%20Moon%20(Paris,%20December%2021,%201949).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19164</key>
-		<dict>
-			<key>Track ID</key><integer>19164</integer>
+			<key>Track ID</key><integer>2764</integer>
 			<key>Name</key><string>Bean's Talking Again (Paris, December 21, 1949)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -2092,22 +1975,22 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>231</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>EBFA8DD4164BE602</string>
+			<key>Persistent ID</key><string>318D61186EC44CA2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/10.3%20-%20Bean's%20Talking%20Again%20(Paris,%20December%2021,%201949).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19167</key>
+		<key>2766</key>
 		<dict>
-			<key>Track ID</key><integer>19167</integer>
+			<key>Track ID</key><integer>2766</integer>
 			<key>Name</key><string>The Man I Love</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Bean and the Boys</string>
@@ -2119,7 +2002,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2018-04-06T06:19:20Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>134</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
@@ -2127,15 +2010,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>3</integer>
 			<key>Sort Name</key><string>Man I Love</string>
-			<key>Persistent ID</key><string>524D5CFDCD5ED689</string>
+			<key>Persistent ID</key><string>F792B6A033383A02</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Bean%20and%20the%20Boys/01%20-%20The%20Man%20I%20Love.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19170</key>
+		<key>2768</key>
 		<dict>
-			<key>Track ID</key><integer>19170</integer>
+			<key>Track ID</key><integer>2768</integer>
 			<key>Name</key><string>Recollections</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Bean and the Boys</string>
@@ -2147,7 +2030,7 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2018-04-06T06:19:19Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:48Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>135</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2157,45 +2040,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>21C387240083DAE4</string>
+			<key>Persistent ID</key><string>2257C1A109663C4A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Bean%20and%20the%20Boys/06%20-%20Recollections.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19173</key>
+		<key>2770</key>
 		<dict>
-			<key>Track ID</key><integer>19173</integer>
-			<key>Name</key><string>I Mean You</string>
-			<key>Artist</key><string>Coleman Hawkins</string>
-			<key>Album</key><string>Bean and the Boys</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3426524</integer>
-			<key>Total Time</key><integer>185338</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Track Count</key><integer>19</integer>
-			<key>Date Modified</key><date>2018-04-06T06:19:19Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:49Z</date>
-			<key>Bit Rate</key><integer>139</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3606281093</integer>
-			<key>Play Date UTC</key><date>2018-04-11T15:44:53Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>09B3118A792A384B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Bean%20and%20the%20Boys/09%20-%20I%20Mean%20You.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19176</key>
-		<dict>
-			<key>Track ID</key><integer>19176</integer>
+			<key>Track ID</key><integer>2770</integer>
 			<key>Name</key><string>Bean and the Boys</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Bean and the Boys</string>
@@ -2207,7 +2060,7 @@
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2018-04-06T06:19:19Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:49Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>134</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>10</integer>
@@ -2217,15 +2070,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>00BC1EAA797D1246</string>
+			<key>Persistent ID</key><string>517977F78A508920</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Bean%20and%20the%20Boys/10%20-%20Bean%20And%20The%20Boys.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19179</key>
+		<key>2772</key>
 		<dict>
-			<key>Track ID</key><integer>19179</integer>
+			<key>Track ID</key><integer>2772</integer>
 			<key>Name</key><string>Stasch</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Bean and the Boys</string>
@@ -2237,22 +2090,22 @@
 			<key>Track Number</key><integer>16</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2018-04-06T06:19:19Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:49Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>209</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>4F326A4687C3E730</string>
+			<key>Persistent ID</key><string>CFD79BFBB2B847FA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Bean%20and%20the%20Boys/14%20-%20Stasch.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19182</key>
+		<key>2774</key>
 		<dict>
-			<key>Track ID</key><integer>19182</integer>
+			<key>Track ID</key><integer>2774</integer>
 			<key>Name</key><string>Stompin' at the Savoy</string>
 			<key>Artist</key><string>Coleman Hawkins with Cozy Cole</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -2262,47 +2115,21 @@
 			<key>Total Time</key><integer>165328</integer>
 			<key>Track Number</key><integer>16</integer>
 			<key>Date Modified</key><date>2018-04-04T05:49:53Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
-			<key>Persistent ID</key><string>BE802848F8CBB8A1</string>
+			<key>Persistent ID</key><string>07AF742EDF2DE4B4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Stompin'%20at%20the%20Savoy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19185</key>
+		<key>2776</key>
 		<dict>
-			<key>Track ID</key><integer>19185</integer>
-			<key>Name</key><string>Body and Soul</string>
-			<key>Artist</key><string>Coleman Hawkins &#38; His Orchestra</string>
-			<key>Album</key><string>Introduction to Coleman Hawkins</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1480289</integer>
-			<key>Total Time</key><integer>184764</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
-			<key>Bit Rate</key><integer>64</integer>
-			<key>Sample Rate</key><integer>22050</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3605694037</integer>
-			<key>Play Date UTC</key><date>2018-04-04T20:40:37Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>3BFEACB7556277F2</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Body%20and%20Soul.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19188</key>
-		<dict>
-			<key>Track ID</key><integer>19188</integer>
+			<key>Track ID</key><integer>2776</integer>
 			<key>Name</key><string>Jamaica Shout</string>
 			<key>Artist</key><string>Coleman Hawkins &#38; His Orchestra</string>
 			<key>Album</key><string>Introduction to Coleman Hawkins</string>
@@ -2312,44 +2139,20 @@
 			<key>Total Time</key><integer>181054</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Date Modified</key><date>2011-03-19T21:29:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>22050</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>1E42C9B96939295E</string>
+			<key>Persistent ID</key><string>718130A12EAF922C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Jamaica%20Shout.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19191</key>
+		<key>2778</key>
 		<dict>
-			<key>Track ID</key><integer>19191</integer>
-			<key>Name</key><string>Stumpy</string>
-			<key>Artist</key><string>Coleman Hawkins &#38; His Orchestra</string>
-			<key>Album</key><string>Introduction to Coleman Hawkins</string>
-			<key>Genre</key><string>Jazz</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>1611110</integer>
-			<key>Total Time</key><integer>201116</integer>
-			<key>Track Number</key><integer>12</integer>
-			<key>Date Modified</key><date>2013-04-19T02:23:43Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
-			<key>Bit Rate</key><integer>64</integer>
-			<key>Sample Rate</key><integer>22050</integer>
-			<key>Volume Adjustment</key><integer>255</integer>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Persistent ID</key><string>5C8ED92961AC58AA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Introduction%20to%20Coleman%20Hawkins/Stumpy.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>19194</key>
-		<dict>
-			<key>Track ID</key><integer>19194</integer>
+			<key>Track ID</key><integer>2778</integer>
 			<key>Name</key><string>One Hour (New York, November 14, 1929)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Henry Creamer/J.P. Johnson</string>
@@ -2364,7 +2167,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:09Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>227</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2373,15 +2176,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>8BB82770C0543512</string>
+			<key>Persistent ID</key><string>FF0119298F703FBE</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2001%20-%20Heartbreak%20Blues/1.02%20-%20One%20Hour%20(New%20York,%20November%2014,%201929).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19197</key>
+		<key>2780</key>
 		<dict>
-			<key>Track ID</key><integer>19197</integer>
+			<key>Track ID</key><integer>2780</integer>
 			<key>Name</key><string>On The Sunny Side Of The Street (New York, March 8, 1934)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Dorothy Fields/Jimmy McHugh</string>
@@ -2396,7 +2199,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:57Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>212</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -2406,15 +2209,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>A3A9756AF59866E8</string>
+			<key>Persistent ID</key><string>CEEEC89DA8C27AA0</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.01%20-%20On%20The%20Sunny%20Side%20Of%20The%20Street%20(New%20York,%20March%208,%201934).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19200</key>
+		<key>2782</key>
 		<dict>
-			<key>Track ID</key><integer>19200</integer>
+			<key>Track ID</key><integer>2782</integer>
 			<key>Name</key><string>Meditation (Casino Hamdorff, Laren, August 26, 1935)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Jack Bulterman</string>
@@ -2429,7 +2232,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T05:58:56Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>233</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2439,15 +2242,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>A19AECCF33FC9659</string>
+			<key>Persistent ID</key><string>26637C734C43D6E6</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2002%20-%20What%20Harlem%20Is%20To%20Me/2.16%20-%20Meditation%20(Casino%20Hamdorff,%20Laren,%20August%2026,%201935).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19203</key>
+		<key>2784</key>
 		<dict>
-			<key>Track ID</key><integer>19203</integer>
+			<key>Track ID</key><integer>2784</integer>
 			<key>Name</key><string>Crazy Rhythm (Paris, April 28, 1937)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Irving Caesar/Roger Wolfe Kahn/Joseph Meyer</string>
@@ -2462,22 +2265,22 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:01:05Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>240</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>9DF539E4E91D15AA</string>
+			<key>Persistent ID</key><string>85C1ACC9EF3766BD</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2003%20-%20Lamentation/3.10%20-%20Crazy%20Rhythm%20(Paris,%20April%2028,%201937).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19206</key>
+		<key>2786</key>
 		<dict>
-			<key>Track ID</key><integer>19206</integer>
+			<key>Track ID</key><integer>2786</integer>
 			<key>Name</key><string>Body And Soul (New York, October 11, 1939)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Frank Eyton/Johnny Green/Edward Heyman/Robert Sour</string>
@@ -2492,7 +2295,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:43Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>213</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2502,15 +2305,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>8A202CB7BA6B8C31</string>
+			<key>Persistent ID</key><string>E7F2AFCDBD5E8BE8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.06%20-%20Body%20And%20Soul%20(New%20York,%20October%2011,%201939).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19209</key>
+		<key>2788</key>
 		<dict>
-			<key>Track ID</key><integer>19209</integer>
+			<key>Track ID</key><integer>2788</integer>
 			<key>Name</key><string>It's Tight Like That (New York, December 14, 1939)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Rev. Thomas A. Dorsey/Hudson Whittaker</string>
@@ -2525,7 +2328,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:02:43Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>234</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2535,15 +2338,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>DB9BE684A26410FB</string>
+			<key>Persistent ID</key><string>1E9EB23B472B959B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2004%20-%20Bouncing%20With%20Bean/4.10%20-%20It's%20Tight%20Like%20That%20(New%20York,%20December%2014,%201939).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19212</key>
+		<key>2790</key>
 		<dict>
-			<key>Track ID</key><integer>19212</integer>
+			<key>Track ID</key><integer>2790</integer>
 			<key>Name</key><string>Esquire Bounce (New York, December 4, 1943)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Leonard Feather</string>
@@ -2558,7 +2361,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:04:23Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:50Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>217</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2567,15 +2370,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>BE0E7C292F1445D9</string>
+			<key>Persistent ID</key><string>17E0965A16646B30</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2005%20-%20Blues%20Changes/5.07%20-%20Esquire%20Bounce%20(New%20York,%20December%204,%201943).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19215</key>
+		<key>2792</key>
 		<dict>
-			<key>Track ID</key><integer>19215</integer>
+			<key>Track ID</key><integer>2792</integer>
 			<key>Name</key><string>My Ideal (New York, December 4, 1943)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Leo Robin/Richard Whiting/Newell Chase</string>
@@ -2590,7 +2393,7 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:04:23Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>222</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -2599,15 +2402,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>7D3AEC6453D9ECD6</string>
+			<key>Persistent ID</key><string>45AC4E875D60EDC5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2005%20-%20Blues%20Changes/5.09%20-%20My%20Ideal%20(New%20York,%20December%204,%201943).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19218</key>
+		<key>2794</key>
 		<dict>
-			<key>Track ID</key><integer>19218</integer>
+			<key>Track ID</key><integer>2794</integer>
 			<key>Name</key><string>Rainbow Mist (New York, February 22, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -2622,22 +2425,22 @@
 			<key>Track Count</key><integer>19</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:08:45Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>225</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>D6A0D0EF5D893DB2</string>
+			<key>Persistent ID</key><string>EBBFB33E7A261FD2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2006%20-%20Imagination/6.17%20-%20Rainbow%20Mist%20(New%20York,%20February%2022,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19221</key>
+		<key>2796</key>
 		<dict>
-			<key>Track ID</key><integer>19221</integer>
+			<key>Track ID</key><integer>2796</integer>
 			<key>Name</key><string>Under A Blanket Of Blue (New York, October 12, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Jerry Livingston/Al J. Neiburg/Marty Symes</string>
@@ -2652,7 +2455,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:32Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>224</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -2662,15 +2465,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>55BE0948FD0189CA</string>
+			<key>Persistent ID</key><string>C605510F071C4511</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.17%20-%20Under%20A%20Blanket%20Of%20Blue%20(New%20York,%20October%2012,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19224</key>
+		<key>2798</key>
 		<dict>
-			<key>Track ID</key><integer>19224</integer>
+			<key>Track ID</key><integer>2798</integer>
 			<key>Name</key><string>Beyond The Blue Horizon (New York, October 12, 1944)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>W. Frank Harling/Leo Robin/Richard Whiting</string>
@@ -2685,7 +2488,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>1944</integer>
 			<key>Date Modified</key><date>2018-04-06T06:10:32Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>248</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -2695,15 +2498,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>C4BA2445082F2F8E</string>
+			<key>Persistent ID</key><string>BF9A5B830450FBC1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2007%20-%20Battle%20of%20Saxes/7.18%20-%20Beyond%20The%20Blue%20Horizon%20(New%20York,%20October%2012,%201944).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19227</key>
+		<key>2800</key>
 		<dict>
-			<key>Track ID</key><integer>19227</integer>
+			<key>Track ID</key><integer>2800</integer>
 			<key>Name</key><string>Rifftide (Los Angeles, February 23, 1945)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Coleman Hawkins</string>
@@ -2718,7 +2521,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:12:00Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>239</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -2728,15 +2531,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>F606B10587139400</string>
+			<key>Persistent ID</key><string>DF0E1BB131B540CC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2008%20-%20On%20The%20Bean/8.18%20-%20Rifftide%20(Los%20Angeles,%20February%2023,%201945).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19230</key>
+		<key>2802</key>
 		<dict>
-			<key>Track ID</key><integer>19230</integer>
+			<key>Track ID</key><integer>2802</integer>
 			<key>Name</key><string>Indian Summer (New York, December 4, 1946)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Composer</key><string>Al Dubin/Victor Herbert</string>
@@ -2751,7 +2554,7 @@
 			<key>Track Count</key><integer>20</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:13:36Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>248</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
@@ -2761,15 +2564,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>85D1D4D1CADDA4EE</string>
+			<key>Persistent ID</key><string>33FAF68C87745A5B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2009%20-%20Bean%20Soup/9.13%20-%20Indian%20Summer%20(New%20York,%20December%204,%201946).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19233</key>
+		<key>2804</key>
 		<dict>
-			<key>Track ID</key><integer>19233</integer>
+			<key>Track ID</key><integer>2804</integer>
 			<key>Name</key><string>I Surrender Dear (Paris, December 21, 1949)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -2785,7 +2588,7 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:35Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>236</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -2795,15 +2598,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>45E2854BA42563B2</string>
+			<key>Persistent ID</key><string>5468B1D72DF4B1E4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/10.5%20-%20I%20Surrender%20Dear%20(Paris,%20December%2021,%201949).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19236</key>
+		<key>2806</key>
 		<dict>
-			<key>Track ID</key><integer>19236</integer>
+			<key>Track ID</key><integer>2806</integer>
 			<key>Name</key><string>Sophisticated Lady (Paris, December 21, 1949)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -2819,7 +2622,7 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:34Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>243</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
@@ -2829,15 +2632,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>39E9DD7A1630FFC5</string>
+			<key>Persistent ID</key><string>9BA66E57A4F23C21</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/10.6%20-%20Sophisticated%20Lady%20(Paris,%20December%2021,%201949).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19239</key>
+		<key>2808</key>
 		<dict>
-			<key>Track ID</key><integer>19239</integer>
+			<key>Track ID</key><integer>2808</integer>
 			<key>Name</key><string>If I Could Be With You (New York, July 30, 1952)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -2853,7 +2656,7 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:34Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>219</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
@@ -2863,15 +2666,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>55679D2F4330AE61</string>
+			<key>Persistent ID</key><string>4BF91BC3D64459F8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/10.7%20-%20If%20I%20Could%20Be%20With%20You%20(New%20York,%20July%2030,%201952).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19242</key>
+		<key>2810</key>
 		<dict>
-			<key>Track ID</key><integer>19242</integer>
+			<key>Track ID</key><integer>2810</integer>
 			<key>Name</key><string>Midnight Sun (New York, February 26, 1952)</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album Artist</key><string>Coleman Hawkins</string>
@@ -2887,7 +2690,7 @@
 			<key>Track Count</key><integer>21</integer>
 			<key>Year</key><integer>1963</integer>
 			<key>Date Modified</key><date>2018-04-06T06:15:34Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>232</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
@@ -2897,15 +2700,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>B7E8C50C77C3CBE1</string>
+			<key>Persistent ID</key><string>05B1135A0A1F4290</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Past%20Perfect%20(10%20CD)/CD%2010%20-%20Bean's%20Talking%20Again/11.2%20-%20Midnight%20Sun%20(New%20York,%20February%2026,%201952).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19245</key>
+		<key>2812</key>
 		<dict>
-			<key>Track ID</key><integer>19245</integer>
+			<key>Track ID</key><integer>2812</integer>
 			<key>Name</key><string>Roll 'Em Pete</string>
 			<key>Artist</key><string>Coleman Hawkins</string>
 			<key>Album</key><string>Bean and the Boys</string>
@@ -2917,18 +2720,18 @@
 			<key>Track Number</key><integer>17</integer>
 			<key>Track Count</key><integer>19</integer>
 			<key>Date Modified</key><date>2018-04-06T06:19:18Z</date>
-			<key>Date Added</key><date>2020-09-23T15:50:51Z</date>
+			<key>Date Added</key><date>2020-10-04T04:50:28Z</date>
 			<key>Bit Rate</key><integer>218</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>6E5B1C96A0157A9A</string>
+			<key>Persistent ID</key><string>1DCB87138C3FCB3F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Coleman%20Hawkins/Bean%20and%20the%20Boys/16%20-%20RollEmPete.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -2936,289 +2739,271 @@
 		<dict>
 			<key>Name</key><string>Coleman Hawkins faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>19248</integer>
-			<key>Playlist Persistent ID</key><string>5B3A74D91D69FD34</string>
+			<key>Playlist ID</key><integer>14618</integer>
+			<key>Playlist Persistent ID</key><string>FD12D5FF5C71550D</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>18994</integer>
+					<key>Track ID</key><integer>2660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4041</integer>
+					<key>Track ID</key><integer>2642</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19176</integer>
+					<key>Track ID</key><integer>2770</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19080</integer>
+					<key>Track ID</key><integer>2702</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19140</integer>
+					<key>Track ID</key><integer>2752</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19164</integer>
+					<key>Track ID</key><integer>2764</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19224</integer>
+					<key>Track ID</key><integer>2798</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19008</integer>
+					<key>Track ID</key><integer>2664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19185</integer>
+					<key>Track ID</key><integer>2786</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19206</integer>
+					<key>Track ID</key><integer>2698</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19074</integer>
+					<key>Track ID</key><integer>2696</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19071</integer>
+					<key>Track ID</key><integer>2712</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19095</integer>
+					<key>Track ID</key><integer>2716</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19101</integer>
+					<key>Track ID</key><integer>2670</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19029</integer>
+					<key>Track ID</key><integer>2736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18968</integer>
+					<key>Track ID</key><integer>2784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19203</integer>
+					<key>Track ID</key><integer>2726</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19059</integer>
+					<key>Track ID</key><integer>2684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19050</integer>
+					<key>Track ID</key><integer>2790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19131</integer>
+					<key>Track ID</key><integer>2748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19212</integer>
+					<key>Track ID</key><integer>2756</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19134</integer>
+					<key>Track ID</key><integer>2734</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19149</integer>
+					<key>Track ID</key><integer>2676</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18986</integer>
+					<key>Track ID</key><integer>2700</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19038</integer>
+					<key>Track ID</key><integer>2708</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19077</integer>
+					<key>Track ID</key><integer>2732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19173</integer>
+					<key>Track ID</key><integer>2804</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19089</integer>
+					<key>Track ID</key><integer>2662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18998</integer>
+					<key>Track ID</key><integer>2706</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19233</integer>
+					<key>Track ID</key><integer>2744</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19001</integer>
+					<key>Track ID</key><integer>2808</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19086</integer>
+					<key>Track ID</key><integer>2802</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19125</integer>
+					<key>Track ID</key><integer>2788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19239</integer>
+					<key>Track ID</key><integer>2776</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19230</integer>
+					<key>Track ID</key><integer>2762</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19161</integer>
+					<key>Track ID</key><integer>2722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19209</integer>
+					<key>Track ID</key><integer>2656</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19188</integer>
+					<key>Track ID</key><integer>2742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19158</integer>
+					<key>Track ID</key><integer>2720</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19110</integer>
+					<key>Track ID</key><integer>2766</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18980</integer>
+					<key>Track ID</key><integer>2652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19122</integer>
+					<key>Track ID</key><integer>2644</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19107</integer>
+					<key>Track ID</key><integer>2782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19167</integer>
+					<key>Track ID</key><integer>2810</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18965</integer>
+					<key>Track ID</key><integer>2694</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4043</integer>
+					<key>Track ID</key><integer>2792</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19200</integer>
+					<key>Track ID</key><integer>2728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19242</integer>
+					<key>Track ID</key><integer>2714</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19068</integer>
+					<key>Track ID</key><integer>2750</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19215</integer>
+					<key>Track ID</key><integer>2646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19026</integer>
+					<key>Track ID</key><integer>2780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19098</integer>
+					<key>Track ID</key><integer>2718</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19143</integer>
+					<key>Track ID</key><integer>2778</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19137</integer>
+					<key>Track ID</key><integer>2672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4045</integer>
+					<key>Track ID</key><integer>2740</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19197</integer>
+					<key>Track ID</key><integer>2794</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19104</integer>
+					<key>Track ID</key><integer>2768</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19194</integer>
+					<key>Track ID</key><integer>2738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19032</integer>
+					<key>Track ID</key><integer>2800</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19119</integer>
+					<key>Track ID</key><integer>2812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19218</integer>
+					<key>Track ID</key><integer>2704</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19170</integer>
+					<key>Track ID</key><integer>2692</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19116</integer>
+					<key>Track ID</key><integer>2658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19227</integer>
+					<key>Track ID</key><integer>2674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19245</integer>
+					<key>Track ID</key><integer>2806</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19083</integer>
+					<key>Track ID</key><integer>2680</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19065</integer>
+					<key>Track ID</key><integer>2666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18990</integer>
+					<key>Track ID</key><integer>2772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19035</integer>
+					<key>Track ID</key><integer>2724</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19236</integer>
+					<key>Track ID</key><integer>2774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19044</integer>
+					<key>Track ID</key><integer>2650</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19018</integer>
+					<key>Track ID</key><integer>2754</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19179</integer>
+					<key>Track ID</key><integer>2648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19113</integer>
+					<key>Track ID</key><integer>2678</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19182</integer>
+					<key>Track ID</key><integer>2688</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18960</integer>
+					<key>Track ID</key><integer>2760</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19146</integer>
+					<key>Track ID</key><integer>2746</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19191</integer>
+					<key>Track ID</key><integer>2796</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5023</integer>
+					<key>Track ID</key><integer>2686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19041</integer>
+					<key>Track ID</key><integer>2682</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19056</integer>
+					<key>Track ID</key><integer>2730</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19155</integer>
+					<key>Track ID</key><integer>2668</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19128</integer>
+					<key>Track ID</key><integer>2690</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19221</integer>
+					<key>Track ID</key><integer>2654</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19053</integer>
+					<key>Track ID</key><integer>2710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19047</integer>
+					<key>Track ID</key><integer>2758</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19013</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>19023</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>19062</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18971</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>19092</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>19152</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6259</integer>
+					<key>Track ID</key><integer>2620</integer>
 				</dict>
 			</array>
 		</dict>
