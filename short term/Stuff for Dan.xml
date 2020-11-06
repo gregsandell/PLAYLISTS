@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-11-06T19:41:43Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/</string>
+	<key>Library Persistent ID</key><string>17367F639663C89A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6881</key>
+		<dict>
+			<key>Track ID</key><integer>6881</integer>
+			<key>Name</key><string>Time Will tell</string>
+			<key>Artist</key><string>Wynton Marsalis</string>
+			<key>Album</key><string>The Gold Collection - Vol 1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11810538</integer>
+			<key>Total Time</key><integer>737488</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2020-10-29T23:05:46Z</date>
+			<key>Date Added</key><date>2020-10-29T23:05:06Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection - Vol 1</string>
+			<key>Persistent ID</key><string>59FBF9D5635BD91D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynton%20Marsalis/1997%20-%20The%20Gold%20Collection%20-%202%20CD/CD%2001/05%20-%20Time%20Will%20tell.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7485</key>
+		<dict>
+			<key>Track ID</key><integer>7485</integer>
+			<key>Name</key><string>Time Will Tell</string>
+			<key>Artist</key><string>Wynton Marsalis</string>
+			<key>Album</key><string>Best of the Early Years</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6070222</integer>
+			<key>Total Time</key><integer>738563</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2020-11-05T21:24:44Z</date>
+			<key>Date Added</key><date>2020-11-05T21:23:42Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>960ADE9F28A5A6AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynton%20Marsalis/2000%20-%20Best%20Of%20The%20Early%20Years/05%20-%20Time%20Will%20Tell.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Stuff for Dan</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>18182</integer>
+			<key>Playlist Persistent ID</key><string>3E4A681000A5F3DA</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7485</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-11-06T19:40:21Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/</string>
+	<key>Library Persistent ID</key><string>17367F639663C89A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7185</key>
+		<dict>
+			<key>Track ID</key><integer>7185</integer>
+			<key>Name</key><string>Let It Snow</string>
+			<key>Artist</key><string>Wynton Marsalis</string>
+			<key>Album</key><string>Unknown Album</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4159817</integer>
+			<key>Total Time</key><integer>259944</integer>
+			<key>Date Modified</key><date>2020-10-29T23:33:20Z</date>
+			<key>Date Added</key><date>2020-10-29T23:32:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1840</integer>
+			<key>Persistent ID</key><string>344E8B89B2EA3589</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynton%20Marsalis/Unknown%20Album/Let%20It%20Snow.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>More Christmas cool</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>16690</integer>
+			<key>Playlist Persistent ID</key><string>C74CFD683C2A3A91</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7185</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

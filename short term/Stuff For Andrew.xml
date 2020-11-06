@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-10-23T22:58:02Z</date>
+	<key>Date</key><date>2020-11-06T19:41:36Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>17367F639663C89A</string>
 	<key>Tracks</key>
 	<dict>
-		<key>2014</key>
+		<key>2307</key>
 		<dict>
-			<key>Track ID</key><integer>2014</integer>
+			<key>Track ID</key><integer>2307</integer>
 			<key>Name</key><string>Mood Indigo</string>
 			<key>Artist</key><string>Nina Simone</string>
 			<key>Album Artist</key><string>Nina Simone</string>
@@ -32,9 +32,12 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Track 2</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3686730085</integer>
+			<key>Play Date UTC</key><date>2020-10-28T18:41:25Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2020-10-04T23:48:45Z</date>
-			<key>Rating</key><integer>100</integer>
+			<key>Rating</key><integer>80</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B3CFCB12FE8C6148</string>
@@ -43,9 +46,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>2348</key>
+		<key>2523</key>
 		<dict>
-			<key>Track ID</key><integer>2348</integer>
+			<key>Track ID</key><integer>2523</integer>
 			<key>Name</key><string>Love Me Or Leave Me</string>
 			<key>Artist</key><string>Nina Simone</string>
 			<key>Album</key><string>Return Home</string>
@@ -63,7 +66,7 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2020-10-04T23:47:34Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E8C947E4BC8DA2B7</string>
@@ -72,37 +75,9 @@
 			<key>File Folder Count</key><integer>3</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>3198</key>
+		<key>2981</key>
 		<dict>
-			<key>Track ID</key><integer>3198</integer>
-			<key>Name</key><string>I Love You So Much It Hurts</string>
-			<key>Artist</key><string>Patsy Cline</string>
-			<key>Album</key><string>The Patsy Cline Collection CD 3</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>3314768</integer>
-			<key>Total Time</key><integer>135758</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2020-09-09T03:34:31Z</date>
-			<key>Date Added</key><date>2020-10-04T04:55:31Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3683542390</integer>
-			<key>Play Date UTC</key><date>2020-09-21T21:13:10Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Album</key><string>Patsy Cline Collection CD 3</string>
-			<key>Persistent ID</key><string>2EC6954E9B78CD44</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patsy%20Cline/1991%20-%20The%20Patsy%20Cline%20Collection/CD%203%20-%20Heartaches/04%20-%20I%20Love%20You%20So%20Much%20It%20Hurts.mp3</string>
-			<key>File Folder Count</key><integer>6</integer>
-			<key>Library Folder Count</key><integer>1</integer>
-		</dict>
-		<key>3396</key>
-		<dict>
-			<key>Track ID</key><integer>3396</integer>
+			<key>Track ID</key><integer>2981</integer>
 			<key>Name</key><string>Vivace - dal "Concerto per due violini, in re min.", BWV 1043</string>
 			<key>Artist</key><string>The Swingle Singers</string>
 			<key>Album</key><string>Jazz Sebastian Bach</string>
@@ -130,9 +105,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>3398</key>
+		<key>2983</key>
 		<dict>
-			<key>Track ID</key><integer>3398</integer>
+			<key>Track ID</key><integer>2983</integer>
 			<key>Name</key><string>Sonata No. 15, K. 545£ºAllegro£¯Andante£¯Allegretto</string>
 			<key>Artist</key><string>The Swingle Singers</string>
 			<key>Album</key><string>Anyone For Mozart, Bach, Handel, Vivaldi?</string>
@@ -161,9 +136,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4766</key>
+		<key>4239</key>
 		<dict>
-			<key>Track ID</key><integer>4766</integer>
+			<key>Track ID</key><integer>4239</integer>
 			<key>Name</key><string>IV. Rondo Grazioso (Sonata #2 In A, Op 2 No 2)</string>
 			<key>Artist</key><string>Claudio Arrau</string>
 			<key>Composer</key><string>Ludwig van Beethoven</string>
@@ -189,9 +164,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4768</key>
+		<key>4241</key>
 		<dict>
-			<key>Track ID</key><integer>4768</integer>
+			<key>Track ID</key><integer>4241</integer>
 			<key>Name</key><string>II. Abwesenheit - L'Absence - Andante espressivo (Sonata #26 in Eb Op 81a - Les Adieux)</string>
 			<key>Artist</key><string>Claudio Arrau</string>
 			<key>Composer</key><string>Ludwig van Beethoven</string>
@@ -217,9 +192,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4770</key>
+		<key>4243</key>
 		<dict>
-			<key>Track ID</key><integer>4770</integer>
+			<key>Track ID</key><integer>4243</integer>
 			<key>Name</key><string>Legend No. 2 (St Francois De Paule Marchant Sur Les Flots)</string>
 			<key>Artist</key><string>Liszt</string>
 			<key>Album</key><string>Complete Piano Works Volume 2 Ballades, Legends and Polonaises - Leslie Howard</string>
@@ -245,9 +220,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4772</key>
+		<key>4245</key>
 		<dict>
-			<key>Track ID</key><integer>4772</integer>
+			<key>Track ID</key><integer>4245</integer>
 			<key>Name</key><string>The Haggis</string>
 			<key>Artist</key><string>Capercaillie</string>
 			<key>Album</key><string>Crosswinds</string>
@@ -274,9 +249,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4774</key>
+		<key>4247</key>
 		<dict>
-			<key>Track ID</key><integer>4774</integer>
+			<key>Track ID</key><integer>4247</integer>
 			<key>Name</key><string>Good Vibrations</string>
 			<key>Artist</key><string>Wilson Phillips</string>
 			<key>Album Artist</key><string>Wilson Phillips</string>
@@ -305,9 +280,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4776</key>
+		<key>4249</key>
 		<dict>
-			<key>Track ID</key><integer>4776</integer>
+			<key>Track ID</key><integer>4249</integer>
 			<key>Name</key><string>II. Recitativo (Fantasia in f#m, 1832)</string>
 			<key>Artist</key><string>Stephan Möller</string>
 			<key>Composer</key><string>Richard Wagner</string>
@@ -332,9 +307,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4778</key>
+		<key>4251</key>
 		<dict>
-			<key>Track ID</key><integer>4778</integer>
+			<key>Track ID</key><integer>4251</integer>
 			<key>Name</key><string>Desire Brings Me Back</string>
 			<key>Artist</key><string>Blondie</string>
 			<key>Album Artist</key><string>Blondie</string>
@@ -363,9 +338,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4780</key>
+		<key>4253</key>
 		<dict>
-			<key>Track ID</key><integer>4780</integer>
+			<key>Track ID</key><integer>4253</integer>
 			<key>Name</key><string>Nocturne No 2 In C Minor, H 25</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -391,9 +366,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4782</key>
+		<key>4255</key>
 		<dict>
-			<key>Track ID</key><integer>4782</integer>
+			<key>Track ID</key><integer>4255</integer>
 			<key>Name</key><string>Nocturne No 4 In A, H 36</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -419,9 +394,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4784</key>
+		<key>4257</key>
 		<dict>
-			<key>Track ID</key><integer>4784</integer>
+			<key>Track ID</key><integer>4257</integer>
 			<key>Name</key><string>Nocturne No 3 In A Flat, H 26</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -444,9 +419,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4786</key>
+		<key>4259</key>
 		<dict>
-			<key>Track ID</key><integer>4786</integer>
+			<key>Track ID</key><integer>4259</integer>
 			<key>Name</key><string>III. Erstes Zeitmab (Wesendonck Sonata, 1853)</string>
 			<key>Artist</key><string>Stephan Möller</string>
 			<key>Composer</key><string>Richard Wagner</string>
@@ -472,9 +447,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4788</key>
+		<key>4261</key>
 		<dict>
-			<key>Track ID</key><integer>4788</integer>
+			<key>Track ID</key><integer>4261</integer>
 			<key>Name</key><string>Nocturne No 6 In F, H 40</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -496,9 +471,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4790</key>
+		<key>4263</key>
 		<dict>
-			<key>Track ID</key><integer>4790</integer>
+			<key>Track ID</key><integer>4263</integer>
 			<key>Name</key><string>Nocturne No 7 In C, H 45</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -520,9 +495,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4792</key>
+		<key>4265</key>
 		<dict>
-			<key>Track ID</key><integer>4792</integer>
+			<key>Track ID</key><integer>4265</integer>
 			<key>Name</key><string>Nocturne No 8 In A, H 14</string>
 			<key>Artist</key><string>Bart van Oort</string>
 			<key>Composer</key><string>John Field</string>
@@ -547,9 +522,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4794</key>
+		<key>4267</key>
 		<dict>
-			<key>Track ID</key><integer>4794</integer>
+			<key>Track ID</key><integer>4267</integer>
 			<key>Name</key><string>Part 2 - II. Danse guerrière</string>
 			<key>Artist</key><string>Cluytens - Conservatoire</string>
 			<key>Composer</key><string>Maurice Ravel</string>
@@ -575,9 +550,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4796</key>
+		<key>4269</key>
 		<dict>
-			<key>Track ID</key><integer>4796</integer>
+			<key>Track ID</key><integer>4269</integer>
 			<key>Name</key><string>IV. Allegro Assai (Sonata #3 in C, Op 2 No 3)</string>
 			<key>Artist</key><string>Daniel Barenboim</string>
 			<key>Composer</key><string>Ludwig van Beethoven</string>
@@ -601,9 +576,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4798</key>
+		<key>4271</key>
 		<dict>
-			<key>Track ID</key><integer>4798</integer>
+			<key>Track ID</key><integer>4271</integer>
 			<key>Name</key><string>No 7. Ce qu'a vu le vent d'ouest (Préludes Book 1)</string>
 			<key>Artist</key><string>Vladimir Viardo</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -628,9 +603,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4800</key>
+		<key>4273</key>
 		<dict>
-			<key>Track ID</key><integer>4800</integer>
+			<key>Track ID</key><integer>4273</integer>
 			<key>Name</key><string>Syrinx</string>
 			<key>Artist</key><string>Philippa Davies</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -658,9 +633,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4802</key>
+		<key>4275</key>
 		<dict>
-			<key>Track ID</key><integer>4802</integer>
+			<key>Track ID</key><integer>4275</integer>
 			<key>Name</key><string>Etude No 9 - Pour les notes répétées</string>
 			<key>Artist</key><string>Maurizio Pollini</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -686,9 +661,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4804</key>
+		<key>4277</key>
 		<dict>
-			<key>Track ID</key><integer>4804</integer>
+			<key>Track ID</key><integer>4277</integer>
 			<key>Name</key><string>No 7 - Ce qu'a vu le vent d'ouest (Preludes Book 1)</string>
 			<key>Artist</key><string>Francois-Joel Thiollier</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -716,9 +691,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4806</key>
+		<key>4279</key>
 		<dict>
-			<key>Track ID</key><integer>4806</integer>
+			<key>Track ID</key><integer>4279</integer>
 			<key>Name</key><string>No. 5. Les collines d'Anacapri (Préludes Book 1)</string>
 			<key>Artist</key><string>Théodore Paraskivesco</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -743,9 +718,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4808</key>
+		<key>4281</key>
 		<dict>
-			<key>Track ID</key><integer>4808</integer>
+			<key>Track ID</key><integer>4281</integer>
 			<key>Name</key><string>III. Mouvement (Images Set 1)</string>
 			<key>Artist</key><string>Claudio Arrau</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -771,9 +746,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4810</key>
+		<key>4283</key>
 		<dict>
-			<key>Track ID</key><integer>4810</integer>
+			<key>Track ID</key><integer>4283</integer>
 			<key>Name</key><string>III. Finale (Sonata for Flute, Viola and Harp)</string>
 			<key>Artist</key><string>Kuijken &#38; Hallynck</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -798,9 +773,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4812</key>
+		<key>4285</key>
 		<dict>
-			<key>Track ID</key><integer>4812</integer>
+			<key>Track ID</key><integer>4285</integer>
 			<key>Name</key><string>VI. Golliwogg's Cakewalk (Childrens Corner)</string>
 			<key>Artist</key><string>Arturo Benedetti Michelangeli</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -824,9 +799,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4814</key>
+		<key>4287</key>
 		<dict>
-			<key>Track ID</key><integer>4814</integer>
+			<key>Track ID</key><integer>4287</integer>
 			<key>Name</key><string>Etude No 11 - Pour les arpèges composés</string>
 			<key>Artist</key><string>Jean-Yves Thibaudet</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -850,9 +825,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4816</key>
+		<key>4289</key>
 		<dict>
-			<key>Track ID</key><integer>4816</integer>
+			<key>Track ID</key><integer>4289</integer>
 			<key>Name</key><string>Deux Arabesques, I - Andante c</string>
 			<key>Artist</key><string>Jean-Yves Thibaudet</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -878,9 +853,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4818</key>
+		<key>4291</key>
 		<dict>
-			<key>Track ID</key><integer>4818</integer>
+			<key>Track ID</key><integer>4291</integer>
 			<key>Name</key><string>Prélude à l'après-midi d'un faune</string>
 			<key>Artist</key><string>Karajan - Berlin</string>
 			<key>Composer</key><string>Claude Debussy</string>
@@ -905,9 +880,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4820</key>
+		<key>4293</key>
 		<dict>
-			<key>Track ID</key><integer>4820</integer>
+			<key>Track ID</key><integer>4293</integer>
 			<key>Name</key><string>Marche au supplice - Allegretto non troppo (Berlioz-Liszt Sym Fant)</string>
 			<key>Artist</key><string>Leslie Howard</string>
 			<key>Composer</key><string>Franz Liszt</string>
@@ -934,9 +909,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4822</key>
+		<key>4295</key>
 		<dict>
-			<key>Track ID</key><integer>4822</integer>
+			<key>Track ID</key><integer>4295</integer>
 			<key>Name</key><string>Mazurka No.48 in F, Op.posth.68 No.3 (BI 34)</string>
 			<key>Artist</key><string>Vladimir Ashkenazy</string>
 			<key>Composer</key><string>Frédéric Chopin</string>
@@ -962,9 +937,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4824</key>
+		<key>4297</key>
 		<dict>
-			<key>Track ID</key><integer>4824</integer>
+			<key>Track ID</key><integer>4297</integer>
 			<key>Name</key><string>Prelude Op 28 No  3 in G - Vivace</string>
 			<key>Artist</key><string>Daniil Trifonov</string>
 			<key>Composer</key><string>Frederick Chopin</string>
@@ -993,124 +968,182 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>6611</key>
+		<dict>
+			<key>Track ID</key><integer>6611</integer>
+			<key>Name</key><string>I Love You So Much It Hurts</string>
+			<key>Artist</key><string>Patsy Cline</string>
+			<key>Album</key><string>The Patsy Cline Collection CD 3</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3314768</integer>
+			<key>Total Time</key><integer>135758</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2020-09-09T03:34:31Z</date>
+			<key>Date Added</key><date>2020-10-23T23:05:32Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3683542390</integer>
+			<key>Play Date UTC</key><date>2020-09-21T21:13:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Patsy Cline Collection CD 3</string>
+			<key>Persistent ID</key><string>9F39575CF1F51EAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Patsy%20Cline/1991%20-%20The%20Patsy%20Cline%20Collection/CD%203%20-%20Heartaches/04%20-%20I%20Love%20You%20So%20Much%20It%20Hurts.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6713</key>
+		<dict>
+			<key>Track ID</key><integer>6713</integer>
+			<key>Name</key><string>I. Si Suoni La Tromba (7 Arie Con Tromba Sola)</string>
+			<key>Artist</key><string>Wynton Marsalis with Kathleen Battle</string>
+			<key>Composer</key><string>Alessandro Scarlatti</string>
+			<key>Album</key><string>Baroque Duet</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4508619</integer>
+			<key>Total Time</key><integer>219794</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2020-10-29T22:58:13Z</date>
+			<key>Date Added</key><date>2020-10-29T22:55:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FE91B6CA374185D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Wynton%20Marsalis/1985%20-%20Baroque%20Duet/02%20-%20I.%20Si%20Suoni%20La%20Tromba%20(7%20Arie%20Con%20Tromba%20Sola).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Stuff For Andrew</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>17363</integer>
-			<key>Playlist Persistent ID</key><string>74535C57673660C8</string>
+			<key>Playlist ID</key><integer>18142</integer>
+			<key>Playlist Persistent ID</key><string>25C8EBA8DCBF8517</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4774</integer>
+					<key>Track ID</key><integer>4247</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4776</integer>
+					<key>Track ID</key><integer>4249</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4786</integer>
+					<key>Track ID</key><integer>4259</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4778</integer>
+					<key>Track ID</key><integer>4251</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4782</integer>
+					<key>Track ID</key><integer>4255</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4792</integer>
+					<key>Track ID</key><integer>4265</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4784</integer>
+					<key>Track ID</key><integer>4257</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4788</integer>
+					<key>Track ID</key><integer>4261</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4780</integer>
+					<key>Track ID</key><integer>4253</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4808</integer>
+					<key>Track ID</key><integer>4281</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4798</integer>
+					<key>Track ID</key><integer>4271</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4804</integer>
+					<key>Track ID</key><integer>4277</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4806</integer>
+					<key>Track ID</key><integer>4279</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4790</integer>
+					<key>Track ID</key><integer>4263</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4802</integer>
+					<key>Track ID</key><integer>4275</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4814</integer>
+					<key>Track ID</key><integer>4287</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4800</integer>
+					<key>Track ID</key><integer>4273</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4818</integer>
+					<key>Track ID</key><integer>4291</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4816</integer>
+					<key>Track ID</key><integer>4289</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4812</integer>
+					<key>Track ID</key><integer>4285</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4804</integer>
+					<key>Track ID</key><integer>4277</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4810</integer>
+					<key>Track ID</key><integer>4283</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4822</integer>
+					<key>Track ID</key><integer>4295</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4794</integer>
+					<key>Track ID</key><integer>4267</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4768</integer>
+					<key>Track ID</key><integer>4241</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4796</integer>
+					<key>Track ID</key><integer>4269</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4772</integer>
+					<key>Track ID</key><integer>4245</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4766</integer>
+					<key>Track ID</key><integer>4239</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4820</integer>
+					<key>Track ID</key><integer>4293</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4824</integer>
+					<key>Track ID</key><integer>4297</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4770</integer>
+					<key>Track ID</key><integer>4243</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3398</integer>
+					<key>Track ID</key><integer>2983</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3396</integer>
+					<key>Track ID</key><integer>2981</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3198</integer>
+					<key>Track ID</key><integer>6611</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>2014</integer>
+					<key>Track ID</key><integer>2307</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>2348</integer>
+					<key>Track ID</key><integer>2523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6713</integer>
 				</dict>
 			</array>
 		</dict>
