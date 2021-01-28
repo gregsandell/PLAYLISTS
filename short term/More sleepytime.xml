@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-01-28T04:32:43Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/</string>
+	<key>Library Persistent ID</key><string>17367F639663C89A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5606</key>
+		<dict>
+			<key>Track ID</key><integer>5606</integer>
+			<key>Name</key><string>O. G. D.</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jazz Masters 29</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12643559</integer>
+			<key>Total Time</key><integer>315036</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-12-29T01:03:15Z</date>
+			<key>Date Added</key><date>2020-12-29T01:02:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFEBC99486A29F37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1994%20-%20Verve%20Jazz%20Masters%2029/06%20-%20O.%20G.%20D..mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>More sleepytime </string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>17229</integer>
+			<key>Playlist Persistent ID</key><string>FF4FFB36C32C88A2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5606</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

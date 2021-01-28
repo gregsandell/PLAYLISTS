@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-12-30T20:14:58Z</date>
+	<key>Date</key><date>2021-01-15T02:40:07Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>17367F639663C89A</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7924</key>
+		<key>7990</key>
 		<dict>
-			<key>Track ID</key><integer>7924</integer>
+			<key>Track ID</key><integer>7990</integer>
 			<key>Name</key><string>13 (Death March)</string>
 			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
 			<key>Album</key><string>The Dynamic Duo</string>
@@ -31,7 +31,7 @@
 			<key>Play Date</key><integer>3691850133</integer>
 			<key>Play Date UTC</key><date>2020-12-27T01:55:33Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Dynamic Duo</string>
@@ -41,9 +41,35 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7930</key>
+		<key>7992</key>
 		<dict>
-			<key>Track ID</key><integer>7930</integer>
+			<key>Track ID</key><integer>7992</integer>
+			<key>Name</key><string>James And Wes</string>
+			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
+			<key>Album</key><string>The Dynamic Duo</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4152292</integer>
+			<key>Total Time</key><integer>493532</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2020-12-20T06:54:34Z</date>
+			<key>Date Added</key><date>2020-12-20T06:53:30Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dynamic Duo</string>
+			<key>Persistent ID</key><string>D4D361C8C91A2658</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1966%20-%20The%20Dynamic%20Duo/03%20-%20James%20And%20Wes.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7996</key>
+		<dict>
+			<key>Track ID</key><integer>7996</integer>
 			<key>Name</key><string>'Round Midnight</string>
 			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
 			<key>Album</key><string>Further Adventures of Jimmy and Wes</string>
@@ -67,9 +93,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7932</key>
+		<key>7998</key>
 		<dict>
-			<key>Track ID</key><integer>7932</integer>
+			<key>Track ID</key><integer>7998</integer>
 			<key>Name</key><string>Mellow Mood</string>
 			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
 			<key>Album</key><string>Further Adventures of Jimmy and Wes</string>
@@ -93,9 +119,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7934</key>
+		<key>8000</key>
 		<dict>
-			<key>Track ID</key><integer>7934</integer>
+			<key>Track ID</key><integer>8000</integer>
 			<key>Name</key><string>Call Me</string>
 			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
 			<key>Album</key><string>Further Adventures of Jimmy and Wes</string>
@@ -119,9 +145,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7936</key>
+		<key>8002</key>
 		<dict>
-			<key>Track ID</key><integer>7936</integer>
+			<key>Track ID</key><integer>8002</integer>
 			<key>Name</key><string>Road Song</string>
 			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
 			<key>Album</key><string>Further Adventures of Jimmy and Wes</string>
@@ -145,9 +171,38 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7940</key>
+		<key>8004</key>
 		<dict>
-			<key>Track ID</key><integer>7940</integer>
+			<key>Track ID</key><integer>8004</integer>
+			<key>Name</key><string>Milestones</string>
+			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
+			<key>Album</key><string>Further Adventures of Jimmy and Wes</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2123274</integer>
+			<key>Total Time</key><integer>252026</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2020-12-20T06:59:32Z</date>
+			<key>Date Added</key><date>2020-12-20T06:58:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3693226380</integer>
+			<key>Play Date UTC</key><date>2021-01-12T00:13:00Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EEC44D856FF8896D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1969%20-%20Further%20Adventures%20of%20Jimmy%20and%20Wes/05%20-%20Milestones.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8006</key>
+		<dict>
+			<key>Track ID</key><integer>8006</integer>
 			<key>Name</key><string>Maybe September</string>
 			<key>Artist</key><string>Jimmy Smith with Wes Montgomery</string>
 			<key>Album</key><string>Further Adventures of Jimmy and Wes</string>
@@ -171,9 +226,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7944</key>
+		<key>8010</key>
 		<dict>
-			<key>Track ID</key><integer>7944</integer>
+			<key>Track ID</key><integer>8010</integer>
 			<key>Name</key><string>On The Sunny Side Of The Street</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Back At The Chicken Shack</string>
@@ -198,9 +253,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7946</key>
+		<key>8012</key>
 		<dict>
-			<key>Track ID</key><integer>7946</integer>
+			<key>Track ID</key><integer>8012</integer>
 			<key>Name</key><string>Messy Bessie</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Back At The Chicken Shack</string>
@@ -225,9 +280,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7948</key>
+		<key>8014</key>
 		<dict>
-			<key>Track ID</key><integer>7948</integer>
+			<key>Track ID</key><integer>8014</integer>
 			<key>Name</key><string>Minor Chant</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Back At The Chicken Shack</string>
@@ -252,9 +307,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7950</key>
+		<key>8016</key>
 		<dict>
-			<key>Track ID</key><integer>7950</integer>
+			<key>Track ID</key><integer>8016</integer>
 			<key>Name</key><string>When I Grow Too Old To Dream</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Back At The Chicken Shack</string>
@@ -279,9 +334,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7952</key>
+		<key>8018</key>
 		<dict>
-			<key>Track ID</key><integer>7952</integer>
+			<key>Track ID</key><integer>8018</integer>
 			<key>Name</key><string>Back At The Chicken Shack</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Back At The Chicken Shack</string>
@@ -306,9 +361,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>7962</key>
+		<key>8028</key>
 		<dict>
-			<key>Track ID</key><integer>7962</integer>
+			<key>Track ID</key><integer>8028</integer>
 			<key>Name</key><string>Chicago Serenade</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -327,7 +382,8 @@
 			<key>Play Date</key><integer>3691993906</integer>
 			<key>Play Date UTC</key><date>2020-12-28T17:51:46Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Cat</string>
 			<key>Persistent ID</key><string>1A17DEDFAF4AC985</string>
@@ -336,9 +392,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7974</key>
+		<key>8040</key>
 		<dict>
-			<key>Track ID</key><integer>7974</integer>
+			<key>Track ID</key><integer>8040</integer>
 			<key>Name</key><string>Baby, It's Cold Outside [*]</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -363,9 +419,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7976</key>
+		<key>8042</key>
 		<dict>
-			<key>Track ID</key><integer>7976</integer>
+			<key>Track ID</key><integer>8042</integer>
 			<key>Name</key><string>White Christmas</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -390,9 +446,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7980</key>
+		<key>8046</key>
 		<dict>
-			<key>Track ID</key><integer>7980</integer>
+			<key>Track ID</key><integer>8046</integer>
 			<key>Name</key><string>God Rest Ye Merry Gentlemen</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -417,9 +473,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7988</key>
+		<key>8054</key>
 		<dict>
-			<key>Track ID</key><integer>7988</integer>
+			<key>Track ID</key><integer>8054</integer>
 			<key>Name</key><string>God Rest Ye Merry Gentlemen</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -444,9 +500,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7990</key>
+		<key>8056</key>
 		<dict>
-			<key>Track ID</key><integer>7990</integer>
+			<key>Track ID</key><integer>8056</integer>
 			<key>Name</key><string>The Sermon</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -472,9 +528,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7992</key>
+		<key>8058</key>
 		<dict>
-			<key>Track ID</key><integer>7992</integer>
+			<key>Track ID</key><integer>8058</integer>
 			<key>Name</key><string>Blues in the Night</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -499,9 +555,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7998</key>
+		<key>8064</key>
 		<dict>
-			<key>Track ID</key><integer>7998</integer>
+			<key>Track ID</key><integer>8064</integer>
 			<key>Name</key><string>One Mint Julep</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -526,9 +582,68 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8004</key>
+		<key>8066</key>
 		<dict>
-			<key>Track ID</key><integer>8004</integer>
+			<key>Track ID</key><integer>8066</integer>
+			<key>Name</key><string>(I Can't Get No) Satisfaction</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Composer</key><string>Keith Richards; Mick Jagger</string>
+			<key>Album</key><string>Talkin' Verve: Roots of Acid Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10786195</integer>
+			<key>Total Time</key><integer>266240</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-12-20T22:11:09Z</date>
+			<key>Date Added</key><date>2020-12-20T22:07:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-22T20:14:09Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B954719E00D79AAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1996%20-%20Talkin'%20Verve%20-%20Roots%20of%20Acid%20Jazz/05%20-%20(I%20Can't%20Get%20No)%20Satisfaction.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8068</key>
+		<dict>
+			<key>Track ID</key><integer>8068</integer>
+			<key>Name</key><string>Burning Spear</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Composer</key><string>Richard Evans</string>
+			<key>Album</key><string>Talkin' Verve: Roots of Acid Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9622105</integer>
+			<key>Total Time</key><integer>237113</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-12-20T22:11:09Z</date>
+			<key>Date Added</key><date>2020-12-20T22:07:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3691481422</integer>
+			<key>Play Date UTC</key><date>2020-12-22T19:30:22Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23B881E0D86233E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1996%20-%20Talkin'%20Verve%20-%20Roots%20of%20Acid%20Jazz/08%20-%20Burning%20Spear.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8070</key>
+		<dict>
+			<key>Track ID</key><integer>8070</integer>
 			<key>Name</key><string>Mellow Mood</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -553,9 +668,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8008</key>
+		<key>8074</key>
 		<dict>
-			<key>Track ID</key><integer>8008</integer>
+			<key>Track ID</key><integer>8074</integer>
 			<key>Name</key><string>Funky Broadway</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -580,9 +695,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8010</key>
+		<key>8076</key>
 		<dict>
-			<key>Track ID</key><integer>8010</integer>
+			<key>Track ID</key><integer>8076</integer>
 			<key>Name</key><string>Organ Grinder's Swing</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -607,9 +722,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8018</key>
+		<key>8084</key>
 		<dict>
-			<key>Track ID</key><integer>8018</integer>
+			<key>Track ID</key><integer>8084</integer>
 			<key>Name</key><string>Kenny's Sound (alternative take)</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -623,7 +738,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>77DCB70F42B8C00C</string>
 			<key>Track Type</key><string>File</string>
@@ -631,9 +747,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8022</key>
+		<key>8086</key>
 		<dict>
-			<key>Track ID</key><integer>8022</integer>
+			<key>Track ID</key><integer>8086</integer>
+			<key>Name</key><string>Soft Winds (alternative take)</string>
+			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
+			<key>Album</key><string>Blue Bash!</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2529485</integer>
+			<key>Total Time</key><integer>302972</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2020-12-20T22:11:41Z</date>
+			<key>Date Added</key><date>2020-12-20T22:11:02Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF6DAD2F7575B9FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1963%20-%20Blue%20Bash!/10%20-%20Soft%20Winds%20(alternative%20take).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8088</key>
+		<dict>
+			<key>Track ID</key><integer>8088</integer>
 			<key>Name</key><string>Kenny's Sound (alternative take)</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -647,7 +788,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D33252DB387420A5</string>
 			<key>Track Type</key><string>File</string>
@@ -655,9 +797,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8024</key>
+		<key>8090</key>
 		<dict>
-			<key>Track ID</key><integer>8024</integer>
+			<key>Track ID</key><integer>8090</integer>
 			<key>Name</key><string>Fever (alternative take)</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -671,7 +813,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2BA5A4225615BFA5</string>
 			<key>Track Type</key><string>File</string>
@@ -679,9 +822,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8026</key>
+		<key>8092</key>
 		<dict>
-			<key>Track ID</key><integer>8026</integer>
+			<key>Track ID</key><integer>8092</integer>
 			<key>Name</key><string>Kenny's Sound</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -695,7 +838,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BB3782751C28540</string>
 			<key>Track Type</key><string>File</string>
@@ -703,9 +847,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8030</key>
+		<key>8094</key>
 		<dict>
-			<key>Track ID</key><integer>8030</integer>
+			<key>Track ID</key><integer>8094</integer>
+			<key>Name</key><string>Soft Winds</string>
+			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
+			<key>Album</key><string>Blue Bash!</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2872081</integer>
+			<key>Total Time</key><integer>344800</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2020-12-20T22:11:41Z</date>
+			<key>Date Added</key><date>2020-12-20T22:11:02Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>811397E58BD62246</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1963%20-%20Blue%20Bash!/06%20-%20Soft%20Winds.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8096</key>
+		<dict>
+			<key>Track ID</key><integer>8096</integer>
 			<key>Name</key><string>Easy Living</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -719,7 +888,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A92DA0BEA222C5ED</string>
 			<key>Track Type</key><string>File</string>
@@ -727,9 +897,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8032</key>
+		<key>8098</key>
 		<dict>
-			<key>Track ID</key><integer>8032</integer>
+			<key>Track ID</key><integer>8098</integer>
 			<key>Name</key><string>Easy Living (alternative take)</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -743,7 +913,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F97C783B86B7035F</string>
 			<key>Track Type</key><string>File</string>
@@ -751,9 +922,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8036</key>
+		<key>8100</key>
 		<dict>
-			<key>Track ID</key><integer>8036</integer>
+			<key>Track ID</key><integer>8100</integer>
+			<key>Name</key><string>Travelin' (alternative take)</string>
+			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
+			<key>Album</key><string>Blue Bash!</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1815592</integer>
+			<key>Total Time</key><integer>215600</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2020-12-20T22:11:41Z</date>
+			<key>Date Added</key><date>2020-12-20T22:11:02Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F01B2D93A2C3349F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1963%20-%20Blue%20Bash!/08%20-%20Travelin'%20(alternative%20take).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8102</key>
+		<dict>
+			<key>Track ID</key><integer>8102</integer>
 			<key>Name</key><string>Blues for Del</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -767,7 +963,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9BED39B2910D3CD8</string>
 			<key>Track Type</key><string>File</string>
@@ -775,9 +972,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8040</key>
+		<key>8104</key>
 		<dict>
-			<key>Track ID</key><integer>8040</integer>
+			<key>Track ID</key><integer>8104</integer>
+			<key>Name</key><string>Fever</string>
+			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
+			<key>Album</key><string>Blue Bash!</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2796263</integer>
+			<key>Total Time</key><integer>335600</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2020-12-20T22:11:41Z</date>
+			<key>Date Added</key><date>2020-12-20T22:11:02Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7CA0D55F9F9E1FA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1963%20-%20Blue%20Bash!/03%20-%20Fever.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8106</key>
+		<dict>
+			<key>Track ID</key><integer>8106</integer>
 			<key>Name</key><string>Travelin' (breakdown take)</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -794,7 +1016,8 @@
 			<key>Play Date</key><integer>3691329117</integer>
 			<key>Play Date UTC</key><date>2020-12-21T01:11:57Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>768B3777F3157DD9</string>
 			<key>Track Type</key><string>File</string>
@@ -802,9 +1025,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8042</key>
+		<key>8108</key>
 		<dict>
-			<key>Track ID</key><integer>8042</integer>
+			<key>Track ID</key><integer>8108</integer>
 			<key>Name</key><string>Travelin'</string>
 			<key>Artist</key><string>Jimmy Smith with Kenny Burrell</string>
 			<key>Album</key><string>Blue Bash!</string>
@@ -818,7 +1041,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A834FEAB59D7C3E0</string>
 			<key>Track Type</key><string>File</string>
@@ -826,9 +1050,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8262</key>
+		<key>8328</key>
 		<dict>
-			<key>Track ID</key><integer>8262</integer>
+			<key>Track ID</key><integer>8328</integer>
 			<key>Name</key><string>The Very Thought Of You</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -852,9 +1076,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8264</key>
+		<key>8330</key>
 		<dict>
-			<key>Track ID</key><integer>8264</integer>
+			<key>Track ID</key><integer>8330</integer>
 			<key>Name</key><string>The Jitterbug Waltz</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -878,9 +1102,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8266</key>
+		<key>8332</key>
 		<dict>
-			<key>Track ID</key><integer>8266</integer>
+			<key>Track ID</key><integer>8332</integer>
 			<key>Name</key><string>Old Devil Moon</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -903,9 +1127,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8268</key>
+		<key>8334</key>
 		<dict>
-			<key>Track ID</key><integer>8268</integer>
+			<key>Track ID</key><integer>8334</integer>
 			<key>Name</key><string>The Nearness Of You</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -929,9 +1153,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8270</key>
+		<key>8336</key>
 		<dict>
-			<key>Track ID</key><integer>8270</integer>
+			<key>Track ID</key><integer>8336</integer>
 			<key>Name</key><string>Yardbird Suite</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -957,9 +1181,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8272</key>
+		<key>8338</key>
 		<dict>
-			<key>Track ID</key><integer>8272</integer>
+			<key>Track ID</key><integer>8338</integer>
 			<key>Name</key><string>All Day Long</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -982,9 +1206,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8276</key>
+		<key>8340</key>
 		<dict>
-			<key>Track ID</key><integer>8276</integer>
+			<key>Track ID</key><integer>8340</integer>
+			<key>Name</key><string>East Of The Sun</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Plays Pretty Just for You</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3033408</integer>
+			<key>Total Time</key><integer>365737</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2020-12-20T23:29:29Z</date>
+			<key>Date Added</key><date>2020-12-20T23:26:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E057B650C72D1C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1957%20-%20Plays%20Pretty%20Just%20For%20You/07%20-%20East%20Of%20The%20Sun.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8342</key>
+		<dict>
+			<key>Track ID</key><integer>8342</integer>
 			<key>Name</key><string>There's A Small Hotel</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -1007,9 +1256,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8278</key>
+		<key>8344</key>
 		<dict>
-			<key>Track ID</key><integer>8278</integer>
+			<key>Track ID</key><integer>8344</integer>
 			<key>Name</key><string>Penthouse Serenade (When We're Alone)</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -1032,9 +1281,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8280</key>
+		<key>8346</key>
 		<dict>
-			<key>Track ID</key><integer>8280</integer>
+			<key>Track ID</key><integer>8346</integer>
 			<key>Name</key><string>Summertime</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Plays Pretty Just for You</string>
@@ -1057,9 +1306,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8282</key>
+		<key>8348</key>
 		<dict>
-			<key>Track ID</key><integer>8282</integer>
+			<key>Track ID</key><integer>8348</integer>
 			<key>Name</key><string>One O'Clock Jump</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Midnight Special</string>
@@ -1074,6 +1323,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4B8372F90660991C</string>
 			<key>Track Type</key><string>File</string>
@@ -1081,9 +1331,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8286</key>
+		<key>8352</key>
 		<dict>
-			<key>Track ID</key><integer>8286</integer>
+			<key>Track ID</key><integer>8352</integer>
 			<key>Name</key><string>Jumpin' The Blues</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Midnight Special</string>
@@ -1098,6 +1348,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61E760DF3A4C9560</string>
 			<key>Track Type</key><string>File</string>
@@ -1105,9 +1356,35 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8290</key>
+		<key>8354</key>
 		<dict>
-			<key>Track ID</key><integer>8290</integer>
+			<key>Track ID</key><integer>8354</integer>
+			<key>Name</key><string>A Subtle One</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Midnight Special</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3780231</integer>
+			<key>Total Time</key><integer>462150</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2020-12-20T23:34:26Z</date>
+			<key>Date Added</key><date>2020-12-20T23:30:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Subtle One</string>
+			<key>Persistent ID</key><string>F4CAB1C44F8AF0DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1961%20-%20Midnight%20Special/06%20-%20A%20Subtle%20One.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8356</key>
+		<dict>
+			<key>Track ID</key><integer>8356</integer>
 			<key>Name</key><string>Midnight Special</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Midnight Special</string>
@@ -1122,6 +1399,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>89E0D317DDC772F8</string>
 			<key>Track Type</key><string>File</string>
@@ -1129,9 +1407,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8296</key>
+		<key>8358</key>
 		<dict>
-			<key>Track ID</key><integer>8296</integer>
+			<key>Track ID</key><integer>8358</integer>
+			<key>Name</key><string>Bun's A Plenty</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Midnight Special</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3407175</integer>
+			<key>Total Time</key><integer>416510</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2020-12-20T23:34:24Z</date>
+			<key>Date Added</key><date>2020-12-20T23:30:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9922097B027EB46A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1961%20-%20Midnight%20Special/04%20-%20Bun's%20A%20Plenty.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8362</key>
+		<dict>
+			<key>Track ID</key><integer>8362</integer>
 			<key>Name</key><string>Billie's Bounce</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Midnight Special</string>
@@ -1146,6 +1449,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>37BBB982E7F8FE83</string>
 			<key>Track Type</key><string>File</string>
@@ -1153,9 +1457,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8304</key>
+		<key>8364</key>
 		<dict>
-			<key>Track ID</key><integer>8304</integer>
+			<key>Track ID</key><integer>8364</integer>
+			<key>Name</key><string>Plum Nellie</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Midnight Special</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3749097</integer>
+			<key>Total Time</key><integer>458337</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2020-12-20T23:34:21Z</date>
+			<key>Date Added</key><date>2020-12-20T23:30:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0136C8AC894355C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1961%20-%20Midnight%20Special/01%20-%20Plum%20Nellie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8370</key>
+		<dict>
+			<key>Track ID</key><integer>8370</integer>
 			<key>Name</key><string>Someone To Watch Over Me</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Softly as a Summer Breeze</string>
@@ -1178,9 +1507,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8308</key>
+		<key>8374</key>
 		<dict>
-			<key>Track ID</key><integer>8308</integer>
+			<key>Track ID</key><integer>8374</integer>
 			<key>Name</key><string>These Foolish Things</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Softly as a Summer Breeze</string>
@@ -1205,9 +1534,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8310</key>
+		<key>8376</key>
 		<dict>
-			<key>Track ID</key><integer>8310</integer>
+			<key>Track ID</key><integer>8376</integer>
 			<key>Name</key><string>Flamingo</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>The Sermon</string>
@@ -1221,7 +1550,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sermon</string>
@@ -1231,9 +1560,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8316</key>
+		<key>8382</key>
 		<dict>
-			<key>Track ID</key><integer>8316</integer>
+			<key>Track ID</key><integer>8382</integer>
 			<key>Name</key><string>One For Philly Joe</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>The Sermon</string>
@@ -1247,7 +1576,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Sermon</string>
@@ -1257,9 +1586,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8320</key>
+		<key>8386</key>
 		<dict>
-			<key>Track ID</key><integer>8320</integer>
+			<key>Track ID</key><integer>8386</integer>
 			<key>Name</key><string>Gracie</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Home Cookin'</string>
@@ -1282,9 +1611,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8324</key>
+		<key>8388</key>
 		<dict>
-			<key>Track ID</key><integer>8324</integer>
+			<key>Track ID</key><integer>8388</integer>
+			<key>Name</key><string>Messin' Around</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Home Cookin'</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2951858</integer>
+			<key>Total Time</key><integer>354537</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1961</integer>
+			<key>Date Modified</key><date>2020-12-20T23:46:50Z</date>
+			<key>Date Added</key><date>2020-12-20T23:43:07Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>776614293066DF45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1961%20-%20Home%20Cookin'/04%20-%20Messin'%20Around.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8390</key>
+		<dict>
+			<key>Track ID</key><integer>8390</integer>
 			<key>Name</key><string>I Got A Woman</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Home Cookin'</string>
@@ -1310,9 +1664,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8326</key>
+		<key>8392</key>
 		<dict>
-			<key>Track ID</key><integer>8326</integer>
+			<key>Track ID</key><integer>8392</integer>
 			<key>Name</key><string>Sugar Hill</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Home Cookin'</string>
@@ -1335,9 +1689,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8330</key>
+		<key>8396</key>
 		<dict>
-			<key>Track ID</key><integer>8330</integer>
+			<key>Track ID</key><integer>8396</integer>
 			<key>Name</key><string>See See Rider</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Home Cookin'</string>
@@ -1360,9 +1714,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8332</key>
+		<key>8398</key>
 		<dict>
-			<key>Track ID</key><integer>8332</integer>
+			<key>Track ID</key><integer>8398</integer>
 			<key>Name</key><string>Alfredo</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Crazy! Baby</string>
@@ -1385,9 +1739,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8336</key>
+		<key>8402</key>
 		<dict>
-			<key>Track ID</key><integer>8336</integer>
+			<key>Track ID</key><integer>8402</integer>
 			<key>Name</key><string>Mack The Knife</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Crazy! Baby</string>
@@ -1410,9 +1764,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8339</key>
+		<key>8404</key>
 		<dict>
-			<key>Track ID</key><integer>8339</integer>
+			<key>Track ID</key><integer>8404</integer>
 			<key>Name</key><string>A Night In Tunisia</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Crazy! Baby</string>
@@ -1436,9 +1790,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8341</key>
+		<key>8406</key>
 		<dict>
-			<key>Track ID</key><integer>8341</integer>
+			<key>Track ID</key><integer>8406</integer>
 			<key>Name</key><string>Sonnymoon For Two</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Crazy! Baby</string>
@@ -1461,9 +1815,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8343</key>
+		<key>8408</key>
 		<dict>
-			<key>Track ID</key><integer>8343</integer>
+			<key>Track ID</key><integer>8408</integer>
 			<key>Name</key><string>Makin' Whoopee</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Crazy! Baby</string>
@@ -1486,9 +1840,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8419</key>
+		<key>8484</key>
 		<dict>
-			<key>Track ID</key><integer>8419</integer>
+			<key>Track ID</key><integer>8484</integer>
 			<key>Name</key><string>Street Of Dreams</string>
 			<key>Artist</key><string>Jimmy Smith with Lou Donaldson</string>
 			<key>Album</key><string>Jimmy Smith Trio + LD</string>
@@ -1503,6 +1857,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FD83335D50C7A41F</string>
 			<key>Track Type</key><string>File</string>
@@ -1510,9 +1865,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8425</key>
+		<key>8490</key>
 		<dict>
-			<key>Track ID</key><integer>8425</integer>
+			<key>Track ID</key><integer>8490</integer>
 			<key>Name</key><string>Star Eyes</string>
 			<key>Artist</key><string>Jimmy Smith with Lou Donaldson</string>
 			<key>Album</key><string>Jimmy Smith Trio + LD</string>
@@ -1527,6 +1882,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DBC7DBFD76B667A9</string>
 			<key>Track Type</key><string>File</string>
@@ -1534,9 +1890,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8427</key>
+		<key>8492</key>
 		<dict>
-			<key>Track ID</key><integer>8427</integer>
+			<key>Track ID</key><integer>8492</integer>
 			<key>Name</key><string>Hollerin' And Screamin'</string>
 			<key>Artist</key><string>Jimmy Smith with Lou Donaldson</string>
 			<key>Album</key><string>Jimmy Smith Trio + LD</string>
@@ -1551,6 +1907,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>79C95A2C11F186F1</string>
 			<key>Track Type</key><string>File</string>
@@ -1558,9 +1915,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8429</key>
+		<key>8494</key>
 		<dict>
-			<key>Track ID</key><integer>8429</integer>
+			<key>Track ID</key><integer>8494</integer>
 			<key>Name</key><string>Soft Winds</string>
 			<key>Artist</key><string>Jimmy Smith with Lou Donaldson</string>
 			<key>Album</key><string>Jimmy Smith Trio + LD</string>
@@ -1575,6 +1932,7 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>98EC2E5C3E1DDD98</string>
 			<key>Track Type</key><string>File</string>
@@ -1582,9 +1940,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8549</key>
+		<key>8614</key>
 		<dict>
-			<key>Track ID</key><integer>8549</integer>
+			<key>Track ID</key><integer>8614</integer>
 			<key>Name</key><string>I'm Movin' On</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -1609,9 +1967,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8551</key>
+		<key>8616</key>
 		<dict>
-			<key>Track ID</key><integer>8551</integer>
+			<key>Track ID</key><integer>8616</integer>
 			<key>Name</key><string>Back Talk</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -1636,9 +1994,36 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8555</key>
+		<key>8618</key>
 		<dict>
-			<key>Track ID</key><integer>8555</integer>
+			<key>Track ID</key><integer>8618</integer>
+			<key>Name</key><string>T'aint No Use</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Composer</key><string>Burton Lane, Herbert Magidson</string>
+			<key>Album</key><string>I'm Movin' On</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3187727</integer>
+			<key>Total Time</key><integer>367668</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2020-12-23T23:13:47Z</date>
+			<key>Date Added</key><date>2020-12-23T23:12:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A2F1E9287B01A59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1967%20-%20I'm%20Movin'%20On/04%20-%20T'aint%20No%20Use.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8620</key>
+		<dict>
+			<key>Track ID</key><integer>8620</integer>
 			<key>Name</key><string>What Kind Of Fool Am I</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album Artist</key><string>Jimmy Smith</string>
@@ -1663,9 +2048,39 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8909</key>
+		<key>8622</key>
 		<dict>
-			<key>Track ID</key><integer>8909</integer>
+			<key>Track ID</key><integer>8622</integer>
+			<key>Name</key><string>Cherry</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Composer</key><string>J.J. Cale, Ray Gilbert, Don Redman</string>
+			<key>Album</key><string>I'm Movin' On</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2110055</integer>
+			<key>Total Time</key><integer>235790</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2020-12-23T23:13:47Z</date>
+			<key>Date Added</key><date>2020-12-23T23:12:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3693366143</integer>
+			<key>Play Date UTC</key><date>2021-01-13T15:02:23Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>718091E023606669</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1967%20-%20I'm%20Movin'%20On/03%20-%20Cherry.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8974</key>
+		<dict>
+			<key>Track ID</key><integer>8974</integer>
 			<key>Name</key><string>I Cover The Waterfront</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Jimmy Smith At The Organ Vol.3</string>
@@ -1688,9 +2103,34 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8917</key>
+		<key>8976</key>
 		<dict>
-			<key>Track ID</key><integer>8917</integer>
+			<key>Track ID</key><integer>8976</integer>
+			<key>Name</key><string>Autumn Leaves</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jimmy Smith At The Organ Vol.3</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2409457</integer>
+			<key>Total Time</key><integer>286066</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2020-12-26T03:29:48Z</date>
+			<key>Date Added</key><date>2020-12-26T03:28:12Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA4CCBF770F6E7C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1956%20-%20Jimmy%20Smith%20At%20The%20Organ%20Volume%203/06%20-%20Autumn%20Leaves.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8982</key>
+		<dict>
+			<key>Track ID</key><integer>8982</integer>
 			<key>Name</key><string>Lover Come Back To Me</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Jimmy Smith At The Organ Vol.3</string>
@@ -1713,9 +2153,35 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8927</key>
+		<key>8990</key>
 		<dict>
-			<key>Track ID</key><integer>8927</integer>
+			<key>Track ID</key><integer>8990</integer>
+			<key>Name</key><string>All Day Long</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jimmy Smith At The Organ Vol 1</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5542659</integer>
+			<key>Total Time</key><integer>634240</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1956</integer>
+			<key>Date Modified</key><date>2020-12-26T03:33:02Z</date>
+			<key>Date Added</key><date>2020-12-26T03:32:30Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>775BADB67C230C0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1956%20-%20Jimmy%20Smith%20At%20The%20Organ%20Volume%201/03%20-%20All%20Day%20Long.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8992</key>
+		<dict>
+			<key>Track ID</key><integer>8992</integer>
 			<key>Name</key><string>There's A Small Hotel</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Jimmy Smith At The Organ Vol 1</string>
@@ -1730,7 +2196,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>8495FDB59005DB75</string>
@@ -1739,9 +2205,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8929</key>
+		<key>8994</key>
 		<dict>
-			<key>Track ID</key><integer>8929</integer>
+			<key>Track ID</key><integer>8994</integer>
 			<key>Name</key><string>Summertime</string>
 			<key>Artist</key><string>Jimmy Smith</string>
 			<key>Album</key><string>Jimmy Smith At The Organ Vol 1</string>
@@ -1756,12 +2222,199 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>E6C50AB5EEF4591B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1956%20-%20Jimmy%20Smith%20At%20The%20Organ%20Volume%201/01%20-%20Summertime.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9194</key>
+		<dict>
+			<key>Track ID</key><integer>9194</integer>
+			<key>Name</key><string>G'wan Train</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jazz Masters 29</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10566305</integer>
+			<key>Total Time</key><integer>263105</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-12-29T01:03:10Z</date>
+			<key>Date Added</key><date>2020-12-29T01:02:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E893D16CC4D6E56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1994%20-%20Verve%20Jazz%20Masters%2029/13%20-%20G'wan%20Train.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9196</key>
+		<dict>
+			<key>Track ID</key><integer>9196</integer>
+			<key>Name</key><string>Maybe September</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jazz Masters 29</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15439713</integer>
+			<key>Total Time</key><integer>384940</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-12-29T01:03:11Z</date>
+			<key>Date Added</key><date>2020-12-29T01:02:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D06C123658DD08E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1994%20-%20Verve%20Jazz%20Masters%2029/12%20-%20Maybe%20September.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9198</key>
+		<dict>
+			<key>Track ID</key><integer>9198</integer>
+			<key>Name</key><string>Walk On The Wild Side</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jazz Masters 29</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14321678</integer>
+			<key>Total Time</key><integer>356989</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-12-29T01:03:13Z</date>
+			<key>Date Added</key><date>2020-12-29T01:02:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF9CB591A5997508</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1994%20-%20Verve%20Jazz%20Masters%2029/10%20-%20Walk%20On%20The%20Wild%20Side.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9210</key>
+		<dict>
+			<key>Track ID</key><integer>9210</integer>
+			<key>Name</key><string>Hobo Flats</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jazz Masters 29</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11506712</integer>
+			<key>Total Time</key><integer>286615</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-12-29T01:03:14Z</date>
+			<key>Date Added</key><date>2020-12-29T01:02:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>108CD82EB1A554F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1994%20-%20Verve%20Jazz%20Masters%2029/07%20-%20Hobo%20Flats.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9216</key>
+		<dict>
+			<key>Track ID</key><integer>9216</integer>
+			<key>Name</key><string>Side Mouthin'</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Album Artist</key><string>Jimmy Smith</string>
+			<key>Album</key><string>Jazz Masters 29</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21469817</integer>
+			<key>Total Time</key><integer>535693</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-12-29T01:03:20Z</date>
+			<key>Date Added</key><date>2020-12-29T01:02:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5219EA9DC577B386</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1994%20-%20Verve%20Jazz%20Masters%2029/03%20-%20Side%20Mouthin'.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9226</key>
+		<dict>
+			<key>Track ID</key><integer>9226</integer>
+			<key>Name</key><string>After Hours</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Composer</key><string>Avery Parrish</string>
+			<key>Album</key><string>Root Down - Live</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3894798</integer>
+			<key>Total Time</key><integer>470546</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2020-12-29T01:11:55Z</date>
+			<key>Date Added</key><date>2020-12-29T01:11:17Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Recorded Live on February 8, 1972 at the Bombay Bicycle Club, Los Angeles Review by Stephen Thomas Erlewine: Toward the end of his stint with Blue Note, Jimmy Smith's albums became predictable. Moving to Verve in the mid-'60s helped matters considerably, </string>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59AA7F70A446E237</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1972%20-%20Root%20Down%20-%20Live/03%20-%20After%20Hours.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9228</key>
+		<dict>
+			<key>Track ID</key><integer>9228</integer>
+			<key>Name</key><string>For Everyone Under the Sun</string>
+			<key>Artist</key><string>Jimmy Smith</string>
+			<key>Composer</key><string>Peter Chase</string>
+			<key>Album</key><string>Root Down - Live</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2950918</integer>
+			<key>Total Time</key><integer>355052</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2020-12-29T01:11:55Z</date>
+			<key>Date Added</key><date>2020-12-29T01:11:17Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Recorded Live on February 8, 1972 at the Bombay Bicycle Club, Los Angeles Review by Stephen Thomas Erlewine: Toward the end of his stint with Blue Note, Jimmy Smith's albums became predictable. Moving to Verve in the mid-'60s helped matters considerably, </string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3693298748</integer>
+			<key>Play Date UTC</key><date>2021-01-12T20:19:08Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60583854500D35B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jimmy%20Smith/1972%20-%20Root%20Down%20-%20Live/02%20-%20For%20Everyone%20Under%20the%20Sun.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1771,214 +2424,286 @@
 		<dict>
 			<key>Name</key><string>Jimmy Smith onestar</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>21166</integer>
+			<key>Playlist ID</key><integer>22101</integer>
 			<key>Playlist Persistent ID</key><string>3028AAA1BB854087</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>7952</integer>
+					<key>Track ID</key><integer>8018</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7930</integer>
+					<key>Track ID</key><integer>7996</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8040</integer>
+					<key>Track ID</key><integer>8106</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8026</integer>
+					<key>Track ID</key><integer>8092</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7992</integer>
+					<key>Track ID</key><integer>8058</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7998</integer>
+					<key>Track ID</key><integer>8064</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8010</integer>
+					<key>Track ID</key><integer>8076</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8262</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8270</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8296</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8320</integer>
+					<key>Track ID</key><integer>8328</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8336</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7980</integer>
+					<key>Track ID</key><integer>8362</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8030</integer>
+					<key>Track ID</key><integer>8386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8310</integer>
+					<key>Track ID</key><integer>8402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8266</integer>
+					<key>Track ID</key><integer>8046</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8276</integer>
+					<key>Track ID</key><integer>8096</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8282</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7946</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7948</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8032</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8290</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7950</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8343</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7936</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8004</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8278</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8272</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8280</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8286</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8339</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7988</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7990</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8264</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8268</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8024</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8042</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7944</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7934</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7940</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8316</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8022</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>7932</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8419</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8425</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8036</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8304</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8308</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8324</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>8326</integer>
+					<key>Track ID</key><integer>8376</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8332</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8341</integer>
+					<key>Track ID</key><integer>8342</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7974</integer>
+					<key>Track ID</key><integer>8348</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8551</integer>
+					<key>Track ID</key><integer>8012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8070</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8054</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8056</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8330</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7976</integer>
+					<key>Track ID</key><integer>8334</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8927</integer>
+					<key>Track ID</key><integer>8090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7924</integer>
+					<key>Track ID</key><integer>8108</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8929</integer>
+					<key>Track ID</key><integer>8010</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8909</integer>
+					<key>Track ID</key><integer>8000</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8018</integer>
+					<key>Track ID</key><integer>8006</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7962</integer>
+					<key>Track ID</key><integer>8382</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8427</integer>
+					<key>Track ID</key><integer>8088</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8429</integer>
+					<key>Track ID</key><integer>7998</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8549</integer>
+					<key>Track ID</key><integer>8484</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8008</integer>
+					<key>Track ID</key><integer>8490</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8917</integer>
+					<key>Track ID</key><integer>8102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8555</integer>
+					<key>Track ID</key><integer>8370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8616</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8084</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8614</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8094</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8068</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8066</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8976</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8004</integer>
 				</dict>
 			</array>
 		</dict>

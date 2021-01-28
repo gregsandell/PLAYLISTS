@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2020-12-30T20:14:30Z</date>
+	<key>Date</key><date>2021-01-15T02:39:57Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>17367F639663C89A</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8046</key>
+		<key>8112</key>
 		<dict>
-			<key>Track ID</key><integer>8046</integer>
+			<key>Track ID</key><integer>8112</integer>
 			<key>Name</key><string>Oh So Sad</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -38,9 +38,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8050</key>
+		<key>8116</key>
 		<dict>
-			<key>Track ID</key><integer>8050</integer>
+			<key>Track ID</key><integer>8116</integer>
 			<key>Name</key><string>Song of Foot</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -64,9 +64,35 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8076</key>
+		<key>8118</key>
 		<dict>
-			<key>Track ID</key><integer>8076</integer>
+			<key>Track ID</key><integer>8118</integer>
+			<key>Name</key><string>Pathetique</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Music of Hair</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9961962</integer>
+			<key>Total Time</key><integer>248006</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2020-12-20T22:16:42Z</date>
+			<key>Date Added</key><date>2020-12-20T22:16:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3559C2BF2DEEB6E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/1996%20-%20Music%20of%20Hair/09%20-%20Pathetique.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8142</key>
+		<dict>
+			<key>Track ID</key><integer>8142</integer>
 			<key>Name</key><string>A Woman's Life And Love</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Thrills</string>
@@ -81,7 +107,8 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Artist originally:  "Andrew Bird's Bowl Of Fire"</string>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Woman's Life And Love</string>
 			<key>Persistent ID</key><string>DB29F1B883ACF386</string>
@@ -90,9 +117,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8078</key>
+		<key>8144</key>
 		<dict>
-			<key>Track ID</key><integer>8078</integer>
+			<key>Track ID</key><integer>8144</integer>
 			<key>Name</key><string>50 Pieces</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Thrills</string>
@@ -107,7 +134,8 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Artist originally:  "Andrew Bird's Bowl Of Fire"</string>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EC79042D1E2F26E0</string>
 			<key>Track Type</key><string>File</string>
@@ -115,9 +143,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8080</key>
+		<key>8146</key>
 		<dict>
-			<key>Track ID</key><integer>8080</integer>
+			<key>Track ID</key><integer>8146</integer>
 			<key>Name</key><string>Depression-Pasillo</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Thrills</string>
@@ -132,7 +160,8 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Artist originally:  "Andrew Bird's Bowl Of Fire"</string>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2EECC8DCAF764801</string>
 			<key>Track Type</key><string>File</string>
@@ -140,9 +169,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8082</key>
+		<key>8148</key>
 		<dict>
-			<key>Track ID</key><integer>8082</integer>
+			<key>Track ID</key><integer>8148</integer>
 			<key>Name</key><string>Gris-Gris</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Thrills</string>
@@ -160,7 +189,8 @@
 			<key>Play Date</key><integer>3691480053</integer>
 			<key>Play Date UTC</key><date>2020-12-22T19:07:33Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3123E3DF6B0DB162</string>
 			<key>Track Type</key><string>File</string>
@@ -168,9 +198,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8086</key>
+		<key>8152</key>
 		<dict>
-			<key>Track ID</key><integer>8086</integer>
+			<key>Track ID</key><integer>8152</integer>
 			<key>Name</key><string>Eugene</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Thrills</string>
@@ -185,7 +215,8 @@
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Artist originally:  "Andrew Bird's Bowl Of Fire"</string>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2C01D93672BED0A9</string>
 			<key>Track Type</key><string>File</string>
@@ -193,9 +224,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8096</key>
+		<key>8162</key>
 		<dict>
-			<key>Track ID</key><integer>8096</integer>
+			<key>Track ID</key><integer>8162</integer>
 			<key>Name</key><string>Beware (Reprise)</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -219,9 +250,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8098</key>
+		<key>8164</key>
 		<dict>
-			<key>Track ID</key><integer>8098</integer>
+			<key>Track ID</key><integer>8164</integer>
 			<key>Name</key><string>The Confession</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -246,9 +277,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8100</key>
+		<key>8166</key>
 		<dict>
-			<key>Track ID</key><integer>8100</integer>
+			<key>Track ID</key><integer>8166</integer>
 			<key>Name</key><string>Respiration</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -272,9 +303,38 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8104</key>
+		<key>8168</key>
 		<dict>
-			<key>Track ID</key><integer>8104</integer>
+			<key>Track ID</key><integer>8168</integer>
+			<key>Name</key><string>Coney Island Shuffle</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Oh! The Grandeur</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9679050</integer>
+			<key>Total Time</key><integer>301087</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2020-12-20T22:23:12Z</date>
+			<key>Date Added</key><date>2020-12-20T22:22:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3691561045</integer>
+			<key>Play Date UTC</key><date>2020-12-23T17:37:25Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B48E7D144297957</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/1999%20-%20Oh!%20The%20Grandeur/11%20-%20Coney%20Island%20Shuffle.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8170</key>
+		<dict>
+			<key>Track ID</key><integer>8170</integer>
 			<key>Name</key><string>And So...</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -301,9 +361,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8112</key>
+		<key>8178</key>
 		<dict>
-			<key>Track ID</key><integer>8112</integer>
+			<key>Track ID</key><integer>8178</integer>
 			<key>Name</key><string>The Idiot's Genius</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -328,9 +388,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8114</key>
+		<key>8180</key>
 		<dict>
-			<key>Track ID</key><integer>8114</integer>
+			<key>Track ID</key><integer>8180</integer>
 			<key>Name</key><string>Wait</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -354,9 +414,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8118</key>
+		<key>8184</key>
 		<dict>
-			<key>Track ID</key><integer>8118</integer>
+			<key>Track ID</key><integer>8184</integer>
 			<key>Name</key><string>(What's Your) Angle?</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -383,9 +443,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8128</key>
+		<key>8194</key>
 		<dict>
-			<key>Track ID</key><integer>8128</integer>
+			<key>Track ID</key><integer>8194</integer>
 			<key>Name</key><string>Fatal Flower Garden</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -411,9 +471,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8134</key>
+		<key>8200</key>
 		<dict>
-			<key>Track ID</key><integer>8134</integer>
+			<key>Track ID</key><integer>8200</integer>
 			<key>Name</key><string>Satisfied</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -439,9 +499,40 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8140</key>
+		<key>8204</key>
 		<dict>
-			<key>Track ID</key><integer>8140</integer>
+			<key>Track ID</key><integer>8204</integer>
+			<key>Name</key><string>Why?</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>The Swimming Hour</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5099152</integer>
+			<key>Total Time</key><integer>211043</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-12-20T22:24:54Z</date>
+			<key>Date Added</key><date>2020-12-20T22:24:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Original artist name: "Andrew Bird's Bowl Of Fire"</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3693215355</integer>
+			<key>Play Date UTC</key><date>2021-01-11T21:09:15Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Swimming Hour</string>
+			<key>Persistent ID</key><string>C0EF8E698994F3A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2001%20-%20The%20Swimming%20Hour/03%20-%20Why.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8206</key>
+		<dict>
+			<key>Track ID</key><integer>8206</integer>
 			<key>Name</key><string>Headsoak</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -467,9 +558,94 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8162</key>
+		<key>8210</key>
 		<dict>
-			<key>Track ID</key><integer>8162</integer>
+			<key>Track ID</key><integer>8210</integer>
+			<key>Name</key><string>Way Out West</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>The Swimming Hour</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5949865</integer>
+			<key>Total Time</key><integer>246491</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2020-12-20T22:24:53Z</date>
+			<key>Date Added</key><date>2020-12-20T22:24:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Original artist name: "Andrew Bird's Bowl Of Fire"</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3691869656</integer>
+			<key>Play Date UTC</key><date>2020-12-27T07:20:56Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Swimming Hour</string>
+			<key>Persistent ID</key><string>290BACE1B23C7E3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2001%20-%20The%20Swimming%20Hour/07%20-%20Way%20Out%20West.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8222</key>
+		<dict>
+			<key>Track ID</key><integer>8222</integer>
+			<key>Name</key><string>Action/Adventure</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Weather Systems</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5910358</integer>
+			<key>Total Time</key><integer>244375</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2020-12-20T22:27:12Z</date>
+			<key>Date Added</key><date>2020-12-20T22:26:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CD7C5D823C50A12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2002%20-%20Weather%20Systems/04%20-%20ActionAdventure.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8226</key>
+		<dict>
+			<key>Track ID</key><integer>8226</integer>
+			<key>Name</key><string>Lull</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Weather Systems</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7473932</integer>
+			<key>Total Time</key><integer>309524</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2020-12-20T22:27:13Z</date>
+			<key>Date Added</key><date>2020-12-20T22:26:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C65A79FA33CAAFE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2002%20-%20Weather%20Systems/03%20-%20Lull.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8228</key>
+		<dict>
+			<key>Track ID</key><integer>8228</integer>
 			<key>Name</key><string>Weather Systems</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -485,7 +661,7 @@
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>445CAB7930B869D8</string>
@@ -494,9 +670,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8172</key>
+		<key>8238</key>
 		<dict>
-			<key>Track ID</key><integer>8172</integer>
+			<key>Track ID</key><integer>8238</integer>
 			<key>Name</key><string>Untitled</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -514,7 +690,8 @@
 			<key>Play Date</key><integer>3691481139</integer>
 			<key>Play Date UTC</key><date>2020-12-22T19:25:39Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Persistent ID</key><string>EE7FB89DA8B390D2</string>
@@ -523,9 +700,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8182</key>
+		<key>8248</key>
 		<dict>
-			<key>Track ID</key><integer>8182</integer>
+			<key>Track ID</key><integer>8248</integer>
 			<key>Name</key><string>Measuring Cups</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -540,7 +717,8 @@
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Persistent ID</key><string>E121B4F0F1494B14</string>
@@ -549,9 +727,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8184</key>
+		<key>8250</key>
 		<dict>
-			<key>Track ID</key><integer>8184</integer>
+			<key>Track ID</key><integer>8250</integer>
 			<key>Name</key><string>Mx Missiles</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -569,7 +747,8 @@
 			<key>Play Date</key><integer>3691391531</integer>
 			<key>Play Date UTC</key><date>2020-12-21T18:32:11Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Persistent ID</key><string>547354B100379DAA</string>
@@ -578,9 +757,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8188</key>
+		<key>8254</key>
 		<dict>
-			<key>Track ID</key><integer>8188</integer>
+			<key>Track ID</key><integer>8254</integer>
 			<key>Name</key><string>Fake Palindromes</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -595,7 +774,8 @@
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Persistent ID</key><string>4C5E9ADB9A9EDE82</string>
@@ -604,9 +784,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8190</key>
+		<key>8256</key>
 		<dict>
-			<key>Track ID</key><integer>8190</integer>
+			<key>Track ID</key><integer>8256</integer>
 			<key>Name</key><string>A Nervous Tic Motion of the Head to the Left</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -621,7 +801,8 @@
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Sort Name</key><string>Nervous Tic Motion of the Head to the Left</string>
@@ -631,9 +812,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8194</key>
+		<key>8260</key>
 		<dict>
-			<key>Track ID</key><integer>8194</integer>
+			<key>Track ID</key><integer>8260</integer>
 			<key>Name</key><string>Sovay</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -648,7 +829,8 @@
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Persistent ID</key><string>0D29C14225AB9F1A</string>
@@ -657,9 +839,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8196</key>
+		<key>8262</key>
 		<dict>
-			<key>Track ID</key><integer>8196</integer>
+			<key>Track ID</key><integer>8262</integer>
 			<key>Name</key><string>Untitled</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -677,7 +859,8 @@
 			<key>Play Date</key><integer>3691913237</integer>
 			<key>Play Date UTC</key><date>2020-12-27T19:27:17Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Mysterious Production of Eggs</string>
 			<key>Persistent ID</key><string>89E94286CBBCDC1E</string>
@@ -686,9 +869,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8198</key>
+		<key>8264</key>
 		<dict>
-			<key>Track ID</key><integer>8198</integer>
+			<key>Track ID</key><integer>8264</integer>
 			<key>Name</key><string>Ethiobirds</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -703,8 +886,7 @@
 			<key>Bit Rate</key><integer>214</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>968A92D966C72369</string>
 			<key>Track Type</key><string>File</string>
@@ -712,9 +894,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8206</key>
+		<key>8272</key>
 		<dict>
-			<key>Track ID</key><integer>8206</integer>
+			<key>Track ID</key><integer>8272</integer>
 			<key>Name</key><string>The Happy Birthday Song</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -729,8 +911,7 @@
 			<key>Bit Rate</key><integer>228</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Happy Birthday Song</string>
 			<key>Persistent ID</key><string>7538EA0E006BC6F8</string>
@@ -739,9 +920,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8216</key>
+		<key>8282</key>
 		<dict>
-			<key>Track ID</key><integer>8216</integer>
+			<key>Track ID</key><integer>8282</integer>
 			<key>Name</key><string>Grinnin'</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -759,8 +940,7 @@
 			<key>Play Date</key><integer>3691906206</integer>
 			<key>Play Date UTC</key><date>2020-12-27T17:30:06Z</date>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>12329DE5BB9A4721</string>
 			<key>Track Type</key><string>File</string>
@@ -768,9 +948,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8230</key>
+		<key>8296</key>
 		<dict>
-			<key>Track ID</key><integer>8230</integer>
+			<key>Track ID</key><integer>8296</integer>
 			<key>Name</key><string>Simple X</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -794,7 +974,6 @@
 			<key>Skip Date</key><date>2020-12-23T00:32:18Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>453AA5F116445A10</string>
 			<key>Track Type</key><string>File</string>
@@ -802,9 +981,68 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8403</key>
+		<key>8300</key>
 		<dict>
-			<key>Track ID</key><integer>8403</integer>
+			<key>Track ID</key><integer>8300</integer>
+			<key>Name</key><string>Yawny at the Apocalypse</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Armchair Apocrypha</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5292004</integer>
+			<key>Total Time</key><integer>219036</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2020-12-20T22:33:42Z</date>
+			<key>Date Added</key><date>2020-12-20T22:33:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000685 00000564 0000F6B9 0000BCA0 0000A392 0000A392 00008104 00007C90 00012BB1 0002975E</string>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BE6252916624E79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2007%20-%20Armchair%20Apocrypha/discards/12%20-%20Yawny%20at%20the%20Apocalypse.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8466</key>
+		<dict>
+			<key>Track ID</key><integer>8466</integer>
+			<key>Name</key><string>The Green Heron</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Echolocations: River</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16383991</integer>
+			<key>Total Time</key><integer>408189</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-12-21T19:10:58Z</date>
+			<key>Date Added</key><date>2020-12-21T19:10:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>plixid.com </string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3693289482</integer>
+			<key>Play Date UTC</key><date>2021-01-12T17:44:42Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Green Heron</string>
+			<key>Persistent ID</key><string>5F1D0859F1B7E538</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2017%20-%20Echolocations%20River/08%20-%20The%20Green%20Heron.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8468</key>
+		<dict>
+			<key>Track ID</key><integer>8468</integer>
 			<key>Name</key><string>Down Under the Hyperion Bridge</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -822,7 +1060,6 @@
 			<key>Comments</key><string>plixid.com </string>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F5C7266322BFD79A</string>
 			<key>Track Type</key><string>File</string>
@@ -830,9 +1067,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8405</key>
+		<key>8470</key>
 		<dict>
-			<key>Track ID</key><integer>8405</integer>
+			<key>Track ID</key><integer>8470</integer>
 			<key>Name</key><string>Black-Crowned Night-Heron</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -850,7 +1087,6 @@
 			<key>Comments</key><string>plixid.com </string>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4590787DA5158BE2</string>
 			<key>Track Type</key><string>File</string>
@@ -858,9 +1094,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8409</key>
+		<key>8474</key>
 		<dict>
-			<key>Track ID</key><integer>8409</integer>
+			<key>Track ID</key><integer>8474</integer>
 			<key>Name</key><string>Dear Killdear</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -881,7 +1117,6 @@
 			<key>Play Date UTC</key><date>2020-12-22T19:24:03Z</date>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5F0EE034FE236C4B</string>
 			<key>Track Type</key><string>File</string>
@@ -889,9 +1124,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8413</key>
+		<key>8478</key>
 		<dict>
-			<key>Track ID</key><integer>8413</integer>
+			<key>Track ID</key><integer>8478</integer>
 			<key>Name</key><string>Lazuli Bunting</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -902,14 +1137,13 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2017</integer>
-			<key>Date Modified</key><date>2020-12-21T19:10:59Z</date>
+			<key>Date Modified</key><date>2020-12-21T19:30:31Z</date>
 			<key>Date Added</key><date>2020-12-21T19:10:23Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>plixid.com </string>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1345032E10C8F824</string>
 			<key>Track Type</key><string>File</string>
@@ -917,9 +1151,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8415</key>
+		<key>8480</key>
 		<dict>
-			<key>Track ID</key><integer>8415</integer>
+			<key>Track ID</key><integer>8480</integer>
 			<key>Name</key><string>The Cormorants</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -937,7 +1171,6 @@
 			<key>Comments</key><string>plixid.com</string>
 			<key>Rating</key><integer>20</integer>
 			<key>Album Rating</key><integer>40</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Cormorants</string>
 			<key>Persistent ID</key><string>ACF46EE31B4D479A</string>
@@ -946,9 +1179,38 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9117</key>
+		<key>9178</key>
 		<dict>
-			<key>Track ID</key><integer>9117</integer>
+			<key>Track ID</key><integer>9178</integer>
+			<key>Name</key><string>Beyond the Valley of the Three White Horses</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Hands of Glory</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22235159</integer>
+			<key>Total Time</key><integer>554997</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T00:59:52Z</date>
+			<key>Date Added</key><date>2020-12-29T00:59:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4EDE066D21DD0C81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Hands%20of%20Glory/08%20-%20Beyond%20the%20Valley%20of%20the%20Three%20White%20Horses.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9180</key>
+		<dict>
+			<key>Track ID</key><integer>9180</integer>
 			<key>Name</key><string>If I Needed You</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -975,9 +1237,41 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9125</key>
+		<key>9182</key>
 		<dict>
-			<key>Track ID</key><integer>9125</integer>
+			<key>Track ID</key><integer>9182</integer>
+			<key>Name</key><string>Something Biblical</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Hands of Glory</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11011885</integer>
+			<key>Total Time</key><integer>274416</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T00:59:53Z</date>
+			<key>Date Added</key><date>2020-12-29T00:59:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3692182302</integer>
+			<key>Play Date UTC</key><date>2020-12-30T22:11:42Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5DA9475C5EF306F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Hands%20of%20Glory/05%20-%20Something%20Biblical.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9188</key>
+		<dict>
+			<key>Track ID</key><integer>9188</integer>
 			<key>Name</key><string>Spirograph</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -1004,9 +1298,41 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9129</key>
+		<key>9190</key>
 		<dict>
-			<key>Track ID</key><integer>9129</integer>
+			<key>Track ID</key><integer>9190</integer>
+			<key>Name</key><string>When That Helicopter Comes</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Hands of Glory</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6980676</integer>
+			<key>Total Time</key><integer>173635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T00:59:55Z</date>
+			<key>Date Added</key><date>2020-12-29T00:59:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3692620460</integer>
+			<key>Play Date UTC</key><date>2021-01-04T23:54:20Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FDCAB0AD739F488B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Hands%20of%20Glory/02%20-%20When%20That%20Helicopter%20Comes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9192</key>
+		<dict>
+			<key>Track ID</key><integer>9192</integer>
 			<key>Name</key><string>Three White Horses</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -1033,9 +1359,122 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9189</key>
+		<key>9236</key>
 		<dict>
-			<key>Track ID</key><integer>9189</integer>
+			<key>Track ID</key><integer>9236</integer>
+			<key>Name</key><string>Fatal Shore</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Break It Yourself</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2557640</integer>
+			<key>Total Time</key><integer>305852</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T19:28:14Z</date>
+			<key>Date Added</key><date>2020-12-29T19:27:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3692531485</integer>
+			<key>Play Date UTC</key><date>2021-01-03T23:11:25Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>538E5F2E0476BAEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Break%20It%20Yourself/discards/12%20-%20Fatal%20Shore.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9240</key>
+		<dict>
+			<key>Track ID</key><integer>9240</integer>
+			<key>Name</key><string>Give It Away</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Break It Yourself</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2275278</integer>
+			<key>Total Time</key><integer>271306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T19:28:14Z</date>
+			<key>Date Added</key><date>2020-12-29T19:27:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07BE65AB14867365</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Break%20It%20Yourself/discards/04%20-%20Give%20It%20Away.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9246</key>
+		<dict>
+			<key>Track ID</key><integer>9246</integer>
+			<key>Name</key><string>Lusitania</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Break It Yourself</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2050015</integer>
+			<key>Total Time</key><integer>243746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T19:28:14Z</date>
+			<key>Date Added</key><date>2020-12-29T19:27:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03ADAFB7ECEB72FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Break%20It%20Yourself/discards/09%20-%20Lusitania.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9250</key>
+		<dict>
+			<key>Track ID</key><integer>9250</integer>
+			<key>Name</key><string>Eyeoneye</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Break It Yourself</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2074113</integer>
+			<key>Total Time</key><integer>246692</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T19:28:14Z</date>
+			<key>Date Added</key><date>2020-12-29T19:27:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BAF503B5CDCC18E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Break%20It%20Yourself/discards/05%20-%20Eyeoneye.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9252</key>
+		<dict>
+			<key>Track ID</key><integer>9252</integer>
 			<key>Name</key><string>Sifters</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album Artist</key><string>Andrew Bird</string>
@@ -1061,9 +1500,166 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9211</key>
+		<key>9254</key>
 		<dict>
-			<key>Track ID</key><integer>9211</integer>
+			<key>Track ID</key><integer>9254</integer>
+			<key>Name</key><string>Belles</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Break It Yourself</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1526085</integer>
+			<key>Total Time</key><integer>179640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T19:28:14Z</date>
+			<key>Date Added</key><date>2020-12-29T19:27:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9ACAA6EB5A6E57A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Break%20It%20Yourself/discards/14%20-%20Belles.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9256</key>
+		<dict>
+			<key>Track ID</key><integer>9256</integer>
+			<key>Name</key><string>Polynation</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Break It Yourself</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>428797</integer>
+			<key>Total Time</key><integer>45280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-12-29T19:28:14Z</date>
+			<key>Date Added</key><date>2020-12-29T19:27:40Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3692234826</integer>
+			<key>Play Date UTC</key><date>2020-12-31T12:47:06Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9556B65E996E085</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2012%20-%20Break%20It%20Yourself/discards/02%20-%20Polynation.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9264</key>
+		<dict>
+			<key>Track ID</key><integer>9264</integer>
+			<key>Name</key><string>Darkmatter</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Live In Montreal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3235254</integer>
+			<key>Total Time</key><integer>383080</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2020-12-29T19:31:49Z</date>
+			<key>Date Added</key><date>2020-12-29T19:31:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44105D125E944D9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2008%20-%20Live%20In%20Montreal/09%20-%20Darkmatter.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9266</key>
+		<dict>
+			<key>Track ID</key><integer>9266</integer>
+			<key>Name</key><string>Cannonade</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Live In Montreal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1209487</integer>
+			<key>Total Time</key><integer>135080</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2020-12-29T19:31:49Z</date>
+			<key>Date Added</key><date>2020-12-29T19:31:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A24C5199397F18F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2008%20-%20Live%20In%20Montreal/05%20-%20Cannonade.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9268</key>
+		<dict>
+			<key>Track ID</key><integer>9268</integer>
+			<key>Name</key><string>Spare-Ohs</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Live In Montreal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2872769</integer>
+			<key>Total Time</key><integer>338600</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2020-12-29T19:31:49Z</date>
+			<key>Date Added</key><date>2020-12-29T19:31:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA3DB1DD18A1E93C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2008%20-%20Live%20In%20Montreal/07%20-%20Spare-Ohs.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9272</key>
+		<dict>
+			<key>Track ID</key><integer>9272</integer>
+			<key>Name</key><string>Opposite Day</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Live In Montreal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2968659</integer>
+			<key>Total Time</key><integer>350360</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2020-12-29T19:31:49Z</date>
+			<key>Date Added</key><date>2020-12-29T19:31:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2812CE9EE8CE1C4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2008%20-%20Live%20In%20Montreal/03%20-%20Opposite%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9274</key>
+		<dict>
+			<key>Track ID</key><integer>9274</integer>
 			<key>Name</key><string>Why?</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Live In Montreal</string>
@@ -1077,7 +1673,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DB1B55CC914C91E7</string>
@@ -1086,9 +1682,62 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9217</key>
+		<key>9276</key>
 		<dict>
-			<key>Track ID</key><integer>9217</integer>
+			<key>Track ID</key><integer>9276</integer>
+			<key>Name</key><string>Intro</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Live In Montreal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>952149</integer>
+			<key>Total Time</key><integer>103600</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2020-12-29T19:31:49Z</date>
+			<key>Date Added</key><date>2020-12-29T19:31:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3692180455</integer>
+			<key>Play Date UTC</key><date>2020-12-30T21:40:55Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03C62003B6866A6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2008%20-%20Live%20In%20Montreal/01%20-%20Intro.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9278</key>
+		<dict>
+			<key>Track ID</key><integer>9278</integer>
+			<key>Name</key><string>On Ho!</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>582917</integer>
+			<key>Total Time</key><integer>68172</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:36Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C08DDE7A8A4373ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/14%20-%20On%20Ho.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9280</key>
+		<dict>
+			<key>Track ID</key><integer>9280</integer>
 			<key>Name</key><string>Souverian</string>
 			<key>Artist</key><string>Andrew Bird</string>
 			<key>Album</key><string>Noble Beast</string>
@@ -1102,12 +1751,193 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>20</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>76DB42B5D3218B95</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/13%20-%20Souverian.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9284</key>
+		<dict>
+			<key>Track ID</key><integer>9284</integer>
+			<key>Name</key><string>Natural Disaster</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2138403</integer>
+			<key>Total Time</key><integer>258506</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:36Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3948D4707EA635B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/11%20-%20Natural%20Disaster.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9292</key>
+		<dict>
+			<key>Track ID</key><integer>9292</integer>
+			<key>Name</key><string>Ouo</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>193611</integer>
+			<key>Total Time</key><integer>20412</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:36Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3692619194</integer>
+			<key>Play Date UTC</key><date>2021-01-04T23:33:14Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD55815012F92C9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/07%20-%20Ouo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9294</key>
+		<dict>
+			<key>Track ID</key><integer>9294</integer>
+			<key>Name</key><string>Tenuousness</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1914861</integer>
+			<key>Total Time</key><integer>231132</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:37Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF5A11F01565AC9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/05%20-%20Tenuousness.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9298</key>
+		<dict>
+			<key>Track ID</key><integer>9298</integer>
+			<key>Name</key><string>Fitz and the Dizzy Spells</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1797794</integer>
+			<key>Total Time</key><integer>216826</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:37Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C77D8C59CA683CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/03%20-%20Fitz%20and%20the%20Dizzy%20Spells.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9300</key>
+		<dict>
+			<key>Track ID</key><integer>9300</integer>
+			<key>Name</key><string>Nomenclature</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1450386</integer>
+			<key>Total Time</key><integer>174200</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:36Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3692232818</integer>
+			<key>Play Date UTC</key><date>2020-12-31T12:13:38Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C27B6C36608B4C67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/06%20-%20Nomenclature.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9302</key>
+		<dict>
+			<key>Track ID</key><integer>9302</integer>
+			<key>Name</key><string>Masterswarm</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3259150</integer>
+			<key>Total Time</key><integer>395626</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:37Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8216DE0F9BA95124</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/02%20-%20Masterswarm.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9304</key>
+		<dict>
+			<key>Track ID</key><integer>9304</integer>
+			<key>Name</key><string>Oh No</string>
+			<key>Artist</key><string>Andrew Bird</string>
+			<key>Album</key><string>Noble Beast</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2156799</integer>
+			<key>Total Time</key><integer>260760</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-12-29T19:34:37Z</date>
+			<key>Date Added</key><date>2020-12-29T19:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C564A759A73ABDFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Andrew%20Bird/2009%20-%20Noble%20Beast/01%20-%20Oh%20No.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1117,130 +1947,220 @@
 		<dict>
 			<key>Name</key><string>Andrew Bird onestar</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>20403</integer>
+			<key>Playlist ID</key><integer>21353</integer>
 			<key>Playlist Persistent ID</key><string>97AE8B8E7511B523</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8182</integer>
+					<key>Track ID</key><integer>8248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8194</integer>
+					<key>Track ID</key><integer>8260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8256</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8112</integer>
 				</dict>
 				<dict>
+					<key>Track ID</key><integer>8148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8468</integer>
+				</dict>
+				<dict>
 					<key>Track ID</key><integer>8206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8194</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8078</integer>
+					<key>Track ID</key><integer>8184</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8114</integer>
+					<key>Track ID</key><integer>8254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8190</integer>
+					<key>Track ID</key><integer>8116</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8046</integer>
+					<key>Track ID</key><integer>8470</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8082</integer>
+					<key>Track ID</key><integer>8296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8172</integer>
+					<key>Track ID</key><integer>8478</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8409</integer>
+					<key>Track ID</key><integer>8152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8415</integer>
+					<key>Track ID</key><integer>8264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8080</integer>
+					<key>Track ID</key><integer>8282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8134</integer>
+					<key>Track ID</key><integer>8250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8100</integer>
+					<key>Track ID</key><integer>8164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8104</integer>
+					<key>Track ID</key><integer>8142</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8403</integer>
+					<key>Track ID</key><integer>8262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8140</integer>
+					<key>Track ID</key><integer>9192</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8128</integer>
+					<key>Track ID</key><integer>9280</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8096</integer>
+					<key>Track ID</key><integer>9274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9300</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>8118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8188</integer>
+					<key>Track ID</key><integer>9268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8050</integer>
+					<key>Track ID</key><integer>9266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8405</integer>
+					<key>Track ID</key><integer>9276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8230</integer>
+					<key>Track ID</key><integer>9178</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8413</integer>
+					<key>Track ID</key><integer>9182</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8086</integer>
+					<key>Track ID</key><integer>9256</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8198</integer>
+					<key>Track ID</key><integer>9298</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8216</integer>
+					<key>Track ID</key><integer>9272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8184</integer>
+					<key>Track ID</key><integer>9278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8098</integer>
+					<key>Track ID</key><integer>9284</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8076</integer>
+					<key>Track ID</key><integer>9294</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8196</integer>
+					<key>Track ID</key><integer>9302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9129</integer>
+					<key>Track ID</key><integer>9304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9217</integer>
+					<key>Track ID</key><integer>9246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9211</integer>
+					<key>Track ID</key><integer>9250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9117</integer>
+					<key>Track ID</key><integer>9240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9125</integer>
+					<key>Track ID</key><integer>8226</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9189</integer>
+					<key>Track ID</key><integer>9292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9190</integer>
 				</dict>
 			</array>
 		</dict>
