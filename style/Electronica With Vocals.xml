@@ -4,17 +4,791 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2019-12-09T02:01:35Z</date>
-	<key>Application Version</key><string>12.9.0.164</string>
+	<key>Date</key><date>2021-06-25T19:46:47Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file:///Users/gregsandell/Music/iTunes/iTunes%20Media/</string>
-	<key>Library Persistent ID</key><string>E988D0C119B8D19C</string>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/</string>
+	<key>Library Persistent ID</key><string>17367F639663C89A</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6962</key>
+		<key>6208</key>
 		<dict>
-			<key>Track ID</key><integer>6962</integer>
+			<key>Track ID</key><integer>6208</integer>
+			<key>Name</key><string>Two Dots</string>
+			<key>Artist</key><string>L'usine</string>
+			<key>Album Artist</key><string>L'usine</string>
+			<key>Composer</key><string>Jeff McIlwain</string>
+			<key>Album</key><string>Two Dots</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9622488</integer>
+			<key>Total Time</key><integer>278413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-09-07T05:16:30Z</date>
+			<key>Date Added</key><date>2021-05-16T05:42:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3641112365</integer>
+			<key>Play Date UTC</key><date>2019-05-19T19:06:05Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-07-03T19:50:21Z</date>
+			<key>Release Date</key><date>2009-06-16T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>2576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C97427C54E848529</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2009%20-%20Two%20Dots/02%20Two%20Dots.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6328</key>
+		<dict>
+			<key>Track ID</key><integer>6328</integer>
+			<key>Name</key><string>15 Step</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Radiohead</string>
+			<key>Album</key><string>In Rainbows</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8202713</integer>
+			<key>Total Time</key><integer>237286</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-12T04:09:17Z</date>
+			<key>Date Added</key><date>2021-05-16T05:42:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK maybe</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634209112</integer>
+			<key>Play Date UTC</key><date>2019-02-28T22:31:52Z</date>
+			<key>Release Date</key><date>2007-12-28T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3446</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B549BF6778EE1703</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Radiohead/2007%20-%20In%20Rainbows/01%2015%20Step.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6350</key>
+		<dict>
+			<key>Track ID</key><integer>6350</integer>
+			<key>Name</key><string>Summertime Clothes</string>
+			<key>Artist</key><string>Animal Collective</string>
+			<key>Album Artist</key><string>Animal Collective</string>
+			<key>Album</key><string>Summertime Clothes</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9966890</integer>
+			<key>Total Time</key><integer>272195</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-08-13T17:59:55Z</date>
+			<key>Date Added</key><date>2021-05-16T05:42:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3635272763</integer>
+			<key>Play Date UTC</key><date>2019-03-13T04:59:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-20T06:49:26Z</date>
+			<key>Release Date</key><date>2009-07-07T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>6769</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C6640236AFAFB4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Animal%20Collective/2009%20-%20Summertime%20Clothes/01%20Summertime%20Clothes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6352</key>
+		<dict>
+			<key>Track ID</key><integer>6352</integer>
+			<key>Name</key><string>Irma Vep</string>
+			<key>Artist</key><string>ill.gates with Masia One</string>
+			<key>Album Artist</key><string>ill.gates</string>
+			<key>Album</key><string>Autopirate</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9738454</integer>
+			<key>Total Time</key><integer>288013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-09-05T03:26:16Z</date>
+			<key>Date Added</key><date>2021-05-16T05:42:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3628179470</integer>
+			<key>Play Date UTC</key><date>2018-12-21T03:37:50Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2020-08-13T23:34:31Z</date>
+			<key>Release Date</key><date>2008-11-19T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2297</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4F9184016B79A12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/ill.gates/2008%20-%20Autopirate/02%20Irma%20Vep%20(feat.%20Masia%20One).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9748</key>
+		<dict>
+			<key>Track ID</key><integer>9748</integer>
+			<key>Name</key><string>Pins</string>
+			<key>Artist</key><string>Alex Metric</string>
+			<key>Album Artist</key><string>Alex Metric</string>
+			<key>Album</key><string>In Your Machine</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11698276</integer>
+			<key>Total Time</key><integer>353053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-08-13T17:59:53Z</date>
+			<key>Date Added</key><date>2021-06-13T15:02:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3675618274</integer>
+			<key>Play Date UTC</key><date>2020-06-22T04:04:34Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-11-04T16:59:12Z</date>
+			<key>Release Date</key><date>2008-04-07T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>8267</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C32B0D0E1674F33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Alex%20Metric/2008%20-%20In%20Your%20Machine/03%20Pins.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>28470</key>
+		<dict>
+			<key>Track ID</key><integer>28470</integer>
+			<key>Name</key><string>54 Cymru Beats</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Drukqs (Disk 2)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14704168</integer>
+			<key>Total Time</key><integer>366942</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-08-13T17:57:08Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>asmadeus</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98A42115B5C54466</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Amphex%20Twin/2001%20-%20Drukqs/Disk%202/01%20-%2054%20Cymru%20Beats.mp3</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28498</key>
+		<dict>
+			<key>Track ID</key><integer>28498</integer>
+			<key>Name</key><string>Onpotts</string>
+			<key>Artist</key><string>Dill</string>
+			<key>Album</key><string>Wyhiwyg</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5141088</integer>
+			<key>Total Time</key><integer>181028</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2018-09-03T01:59:45Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:19Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3623232734</integer>
+			<key>Play Date UTC</key><date>2018-10-24T20:32:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>437D03C161DDBB43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dill/2003%20-%20Wyhiwyg/07%20Onpotts.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28501</key>
+		<dict>
+			<key>Track ID</key><integer>28501</integer>
+			<key>Name</key><string>Battling Go-Go Yubari In Downtown L.A.</string>
+			<key>Artist</key><string>edIT</string>
+			<key>Album Artist</key><string>edIT</string>
+			<key>Album</key><string>Certified Air Raid Material</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11052843</integer>
+			<key>Total Time</key><integer>325866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-03T17:04:10Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623737473</integer>
+			<key>Play Date UTC</key><date>2018-10-30T16:44:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-18T04:57:14Z</date>
+			<key>Release Date</key><date>2007-09-18T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3963</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAA76D79D4B2D13D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/edIT/2007%20-%20Certified%20Air%20Raid%20Material/02%20Battling%20Go-Go%20Yubari%20In%20Downtown%20L.A..m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28504</key>
+		<dict>
+			<key>Track ID</key><integer>28504</integer>
+			<key>Name</key><string>Throbbin' the Cradle</string>
+			<key>Artist</key><string>Eprom</string>
+			<key>Album Artist</key><string>Eprom</string>
+			<key>Album</key><string>64 Bytes</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9341115</integer>
+			<key>Total Time</key><integer>280470</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-03T04:47:52Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Release Date</key><date>2007-09-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>1787</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E604B79AFE577DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eprom/2007%20-%2064%20Bytes/04%20Throbbin'%20the%20Cradle.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28507</key>
+		<dict>
+			<key>Track ID</key><integer>28507</integer>
+			<key>Name</key><string>Overnight</string>
+			<key>Artist</key><string>Hudson Mohawke</string>
+			<key>Album Artist</key><string>Hudson Mohawke</string>
+			<key>Album</key><string>Polyfolk Dance</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6049784</integer>
+			<key>Total Time</key><integer>169026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-09-04T04:25:46Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3619593195</integer>
+			<key>Play Date UTC</key><date>2018-09-12T17:33:15Z</date>
+			<key>Release Date</key><date>2009-01-26T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>2710</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ED2B5FAB3F1A1456</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hudson%20Mohawke/2009%20-%20Polyfolk%20Dance/03%20Overnight.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28513</key>
+		<dict>
+			<key>Track ID</key><integer>28513</integer>
+			<key>Name</key><string>Ask You</string>
+			<key>Artist</key><string>L'usine</string>
+			<key>Album</key><string>Serial Hodgepodge</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11624661</integer>
+			<key>Total Time</key><integer>367177</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-09-05T04:10:09Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:20Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622985211</integer>
+			<key>Play Date UTC</key><date>2018-10-21T23:46:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Persistent ID</key><string>DE0FF0CB0705BA88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2004%20-%20Serial%20Hodgepodge/01%20Ask%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28516</key>
+		<dict>
+			<key>Track ID</key><integer>28516</integer>
+			<key>Name</key><string>Flat for You</string>
+			<key>Artist</key><string>L'usine</string>
+			<key>Album</key><string>Podgelism</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10821252</integer>
+			<key>Total Time</key><integer>288914</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-05T04:10:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:20Z</date>
+			<key>Bit Rate</key><integer>298</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623993787</integer>
+			<key>Play Date UTC</key><date>2018-11-02T15:56:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BE8746449037C081</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2007%20-%20Podgelism/04%20Flat%20for%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28525</key>
+		<dict>
+			<key>Track ID</key><integer>28525</integer>
+			<key>Name</key><string>Triple Chrome Dipped</string>
+			<key>Artist</key><string>Michna</string>
+			<key>Album Artist</key><string>Michna</string>
+			<key>Composer</key><string>Adrian Michna</string>
+			<key>Album</key><string>Magic Monday</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8368937</integer>
+			<key>Total Time</key><integer>238853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-09-07T05:34:45Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623236457</integer>
+			<key>Play Date UTC</key><date>2018-10-24T21:34:17Z</date>
+			<key>Release Date</key><date>2008-09-23T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>2633</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF9A153376939987</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Michna/2008%20-%20Magic%20Monday/01%20Triple%20Chrome%20Dipped.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28810</key>
+		<dict>
+			<key>Track ID</key><integer>28810</integer>
+			<key>Name</key><string>The Frame (1-94-1)</string>
+			<key>Artist</key><string>Dictaphone</string>
+			<key>Album Artist</key><string>Dictaphone</string>
+			<key>Album</key><string>Vertigo Ii</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9039872</integer>
+			<key>Total Time</key><integer>225959</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-03-19T20:41:16Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3640234687</integer>
+			<key>Play Date UTC</key><date>2019-05-09T15:18:07Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2017-08-18T06:15:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Sort Name</key><string>Frame (1-94-1)</string>
+			<key>Persistent ID</key><string>E8A03451BEDA0891</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dictaphone/2006%20-%20Vertigo%20II/09%20-%20The%20Frame%20(1-94-1).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28813</key>
+		<dict>
+			<key>Track ID</key><integer>28813</integer>
+			<key>Name</key><string>Infection</string>
+			<key>Artist</key><string>Aria</string>
+			<key>Album</key><string>Haze</string>
+			<key>Genre</key><string>Trip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7455612</integer>
+			<key>Total Time</key><integer>240561</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-08-13T17:59:51Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:40Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3637150293</integer>
+			<key>Play Date UTC</key><date>2019-04-03T22:31:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-08-18T20:02:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>3</integer>
+			<key>Persistent ID</key><string>FDF9061E2716ADAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Aria/2002%20-%20Haze/02%20Infection.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28840</key>
+		<dict>
+			<key>Track ID</key><integer>28840</integer>
+			<key>Name</key><string>Soon It Will Be Cold Enough To Build Fires</string>
+			<key>Artist</key><string>Emancipator</string>
+			<key>Album</key><string>Soon It Will Be Cold Enough</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2857160</integer>
+			<key>Total Time</key><integer>172866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-08-11T20:21:45Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3648730855</integer>
+			<key>Play Date UTC</key><date>2019-08-15T23:20:55Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-08-12T06:40:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1223</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C4FD7389CDBC6E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emancipator/2006%20-%20Soon%20It%20Will%20Be%20Cold%20Enough/02%20soon%20it%20will%20be%20cold%20enough%20to%20bu.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28885</key>
+		<dict>
+			<key>Track ID</key><integer>28885</integer>
+			<key>Name</key><string>Certified Air Raid Material</string>
+			<key>Artist</key><string>edIT</string>
+			<key>Album Artist</key><string>edIT</string>
+			<key>Album</key><string>Certified Air Raid Material</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12344962</integer>
+			<key>Total Time</key><integer>366013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-09-03T17:04:10Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3625230428</integer>
+			<key>Play Date UTC</key><date>2018-11-17T00:27:08Z</date>
+			<key>Release Date</key><date>2007-09-18T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>2902</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>241415A4AF77FC6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/edIT/2007%20-%20Certified%20Air%20Raid%20Material/04%20Certified%20Air%20Raid%20Material.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28888</key>
+		<dict>
+			<key>Track ID</key><integer>28888</integer>
+			<key>Name</key><string>Collateral Damage</string>
+			<key>Artist</key><string>ill.gates</string>
+			<key>Album Artist</key><string>ill.gates</string>
+			<key>Album</key><string>Autopirate</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7615049</integer>
+			<key>Total Time</key><integer>224280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-09-05T03:25:21Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Release Date</key><date>2008-11-19T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2111</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83264A4AE5B7DE89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/ill.gates/2008%20-%20Autopirate/03%20Collateral%20Damage.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28891</key>
+		<dict>
+			<key>Track ID</key><integer>28891</integer>
+			<key>Name</key><string>Smoke and Mirrors</string>
+			<key>Artist</key><string>JDSY</string>
+			<key>Album Artist</key><string>JDSY</string>
+			<key>Album</key><string>Adage of Known</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4588309</integer>
+			<key>Total Time</key><integer>125053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2018-09-05T03:41:13Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-16T23:20:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Normalization</key><integer>3010</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>47F1712DD5C881E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/JDSY/2008%20-%20Adage%20of%20Known/02%20Smoke%20and%20Mirrors.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28894</key>
+		<dict>
+			<key>Track ID</key><integer>28894</integer>
+			<key>Name</key><string>The Guide</string>
+			<key>Artist</key><string>Lionrock</string>
+			<key>Composer</key><string>Justin Robertson</string>
+			<key>Album</key><string>An Instinct for Detection</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13693642</integer>
+			<key>Total Time</key><integer>412604</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-09-05T04:19:12Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2018-12-14T22:18:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Album</key><string>Instinct for Detection</string>
+			<key>Sort Name</key><string>Guide</string>
+			<key>Persistent ID</key><string>D498395A111EB859</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lionrock/1996%20-%20An%20Instinct%20for%20Detection/1-09%20The%20Guide.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28897</key>
+		<dict>
+			<key>Track ID</key><integer>28897</integer>
+			<key>Name</key><string>Won Noefte Jam</string>
+			<key>Artist</key><string>Dill</string>
+			<key>Album</key><string>Wyhiwyg</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6789400</integer>
+			<key>Total Time</key><integer>235128</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2018-09-03T01:59:44Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623233136</integer>
+			<key>Play Date UTC</key><date>2018-10-24T20:38:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C859E3410D7826C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dill/2003%20-%20Wyhiwyg/10%20Won%20Noefte%20Jam.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28900</key>
+		<dict>
+			<key>Track ID</key><integer>28900</integer>
+			<key>Name</key><string>Hunch / Visible From Space</string>
+			<key>Artist</key><string>Kruder &#38; Dorfmeister</string>
+			<key>Album</key><string>Conversions</string>
+			<key>Genre</key><string>Drum &#38; Bass</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11431824</integer>
+			<key>Total Time</key><integer>353593</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2018-09-05T04:05:54Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>258</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623927464</integer>
+			<key>Play Date UTC</key><date>2018-11-01T21:31:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B389EC82B2CB3D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kruder%20&#38;%20Dorfmeister/1996%20-%20Conversions/08%20Hunch%20_%20Visible%20From%20Space.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28903</key>
+		<dict>
+			<key>Track ID</key><integer>28903</integer>
+			<key>Name</key><string>Fire Up The Shoesaw</string>
+			<key>Artist</key><string>Lionrock</string>
+			<key>Composer</key><string>Justin Robertson</string>
+			<key>Album</key><string>An Instinct for Detection</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7479731</integer>
+			<key>Total Time</key><integer>238811</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-09-05T04:19:12Z</date>
+			<key>Date Added</key><date>2021-06-25T19:43:44Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Sort Album</key><string>Instinct for Detection</string>
+			<key>Persistent ID</key><string>5DA5E8EC39BC5B07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lionrock/1996%20-%20An%20Instinct%20for%20Detection/2-05%20Fire%20Up%20The%20Shoesaw.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29386</key>
+		<dict>
+			<key>Track ID</key><integer>29386</integer>
 			<key>Name</key><string>Photovoric Inchworms</string>
 			<key>Artist</key><string>Secret Frequency Crew</string>
 			<key>Album Artist</key><string>Secret Frequency Crew</string>
@@ -27,7 +801,7 @@
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2018-08-13T17:57:28Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:44:38Z</date>
 			<key>Bit Rate</key><integer>197</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
@@ -39,77 +813,113 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B230075B16455277</string>
+			<key>Persistent ID</key><string>384AFEC47C4BF3FB</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Secret%20Frequency%20Crew/2004%20-%20Forest%20Of%20The%20Echo%20Downs/11%20-%20Photovoric%20Inchworms.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6990</key>
+		<key>29412</key>
 		<dict>
-			<key>Track ID</key><integer>6990</integer>
-			<key>Name</key><string>The Frame (1-94-1)</string>
-			<key>Artist</key><string>Dictaphone</string>
-			<key>Album Artist</key><string>Dictaphone</string>
-			<key>Album</key><string>Vertigo Ii</string>
+			<key>Track ID</key><integer>29412</integer>
+			<key>Name</key><string>Paradise Circus (Breakage's Tight Rope Remix)</string>
+			<key>Artist</key><string>Massive Attack</string>
+			<key>Album Artist</key><string>Massive Attack</string>
+			<key>Composer</key><string>Robert Del Naja, Hope Sandoval, Grant Marshall, Dan Brown &#38; Stew Jackson</string>
+			<key>Album</key><string>Heligoland</string>
 			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>9039872</integer>
-			<key>Total Time</key><integer>225959</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2011-03-19T20:41:16Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:26Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>34</integer>
-			<key>Play Date</key><integer>3640234687</integer>
-			<key>Play Date UTC</key><date>2019-05-09T15:18:07Z</date>
-			<key>Skip Count</key><integer>5</integer>
-			<key>Skip Date</key><date>2017-08-18T06:15:54Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Sort Name</key><string>Frame (1-94-1)</string>
-			<key>Persistent ID</key><string>946FBEF7FC068E34</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dictaphone/2006%20-%20Vertigo%20II/09%20-%20The%20Frame%20(1-94-1).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>6992</key>
-		<dict>
-			<key>Track ID</key><integer>6992</integer>
-			<key>Name</key><string>Infection</string>
-			<key>Artist</key><string>Aria</string>
-			<key>Album</key><string>Haze</string>
-			<key>Genre</key><string>Trip-Hop</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7455612</integer>
-			<key>Total Time</key><integer>240561</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2018-08-13T17:59:51Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:26Z</date>
-			<key>Bit Rate</key><integer>247</integer>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9953282</integer>
+			<key>Total Time</key><integer>284700</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-09-07T05:25:38Z</date>
+			<key>Date Added</key><date>2021-06-25T19:44:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>25</integer>
-			<key>Play Date</key><integer>3637150293</integer>
-			<key>Play Date UTC</key><date>2019-04-03T22:31:33Z</date>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2012-08-18T20:02:38Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3631267434</integer>
+			<key>Play Date UTC</key><date>2019-01-25T21:23:54Z</date>
+			<key>Release Date</key><date>2010-02-08T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>AD685045BD60F08F</string>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1236</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>841FAC4AD8E7BF43</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Aria/2002%20-%20Haze/02%20Infection.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Massive%20Attack/2010%20-%20Heligoland/14%20Paradise%20Circus%20(Breakage's%20Tight%20Rope%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7018</key>
+		<key>29430</key>
 		<dict>
-			<key>Track ID</key><integer>7018</integer>
+			<key>Track ID</key><integer>29430</integer>
+			<key>Name</key><string>The New-York Grill (In&#38;Out Mix)</string>
+			<key>Artist</key><string>Octowire</string>
+			<key>Album</key><string>Megasoft Office 2005</string>
+			<key>Genre</key><string>IDM</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14043403</integer>
+			<key>Total Time</key><integer>349936</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-08-13T17:57:04Z</date>
+			<key>Date Added</key><date>2021-06-25T19:44:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>asmadeus</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Normalization</key><integer>1638</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>New-York Grill (In&#38;Out Mix)</string>
+			<key>Persistent ID</key><string>9211F8338C8034B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Megasoft%20Office/2005%20-%20Megasoft%20Office%202005/09%20the%20new-york%20grill%20(in&#38;out%20mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29434</key>
+		<dict>
+			<key>Track ID</key><integer>29434</integer>
+			<key>Name</key><string>Part II - IBM 1403 Printer</string>
+			<key>Artist</key><string>Jóhann Jóhannsson</string>
+			<key>Album Artist</key><string>Jóhann Jóhannsson</string>
+			<key>Composer</key><string>Jóhann Jóhannsson</string>
+			<key>Album</key><string>IBM 1401, A User's Manual</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13834240</integer>
+			<key>Total Time</key><integer>573231</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-08-13T17:57:05Z</date>
+			<key>Date Added</key><date>2021-06-25T19:44:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>asmadeus</string>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-04T17:10:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0286321AD2E28AB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jo%CC%81hann%20Jo%CC%81hannsson/2006%20-%20ibm%201401,%20a%20user%E2%80%99s%20manual/2.%20part%202%20-%20ibm%201403%20printer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29831</key>
+		<dict>
+			<key>Track ID</key><integer>29831</integer>
 			<key>Name</key><string>Lesley Gore On the T.A.M.I. Show (Version)</string>
 			<key>Artist</key><string>Casiotone for the Painfully Alone</string>
 			<key>Album Artist</key><string>Casiotone for the Painfully Alone</string>
@@ -124,7 +934,7 @@
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-08-13T18:00:02Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:28Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -136,16 +946,16 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>5750</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4A6278514C69FD01</string>
+			<key>Persistent ID</key><string>F8B2B40BEC87256E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Casiotone%20for%20the%20Painfully%20Alone/2009%20-%20Advance%20Base%20Battery%20Life/02%20Lesley%20Gore%20On%20the%20T.A.M.I.%20Show%20(Version).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7020</key>
+		<key>29834</key>
 		<dict>
-			<key>Track ID</key><integer>7020</integer>
+			<key>Track ID</key><integer>29834</integer>
 			<key>Name</key><string>Iamundernodisguise</string>
 			<key>Artist</key><string>School of Seven Bells</string>
 			<key>Album Artist</key><string>School of Seven Bells</string>
@@ -161,7 +971,7 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-12T04:21:09Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:28Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -172,16 +982,16 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3841</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>1DFC8FE02E671034</string>
+			<key>Persistent ID</key><string>58FBDB97F0DE1C4C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/School%20of%20Seven%20Bells/2008%20-%20Alpinisms/01%20Iamundernodisguise.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7022</key>
+		<key>29842</key>
 		<dict>
-			<key>Track ID</key><integer>7022</integer>
+			<key>Track ID</key><integer>29842</integer>
 			<key>Name</key><string>Repetition Kills You</string>
 			<key>Artist</key><string>The Black Ghosts</string>
 			<key>Album Artist</key><string>The Black Ghosts</string>
@@ -196,7 +1006,7 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-13T00:10:00Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:28Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -213,16 +1023,16 @@
 			<key>Sort Album</key><string>Black Ghosts</string>
 			<key>Sort Album Artist</key><string>Black Ghosts</string>
 			<key>Sort Artist</key><string>Black Ghosts</string>
-			<key>Persistent ID</key><string>9802A7E4CBEB6A64</string>
+			<key>Persistent ID</key><string>9F88D555B6F10118</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Black%20Ghosts/2008%20-%20The%20Black%20Ghosts/04%20Repetition%20Kills%20You.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7024</key>
+		<key>29845</key>
 		<dict>
-			<key>Track ID</key><integer>7024</integer>
+			<key>Track ID</key><integer>29845</integer>
 			<key>Name</key><string>I'm Totally Not Down With Rob's Alien</string>
 			<key>Artist</key><string>Minus The Bear</string>
 			<key>Composer</key><string>Minus The Bear</string>
@@ -237,7 +1047,7 @@
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2018-09-07T05:37:41Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:28Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -248,15 +1058,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>6709</integer>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>C29D39381D01C0F9</string>
+			<key>Persistent ID</key><string>2F6ADEB8801AD964</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Minus%20The%20Bear/2004%20-%20They%20Make%20Beer%20Commercials%20Like%20This/04%20I'm%20Totally%20Not%20Down%20With%20Rob's%20Alien.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7026</key>
+		<key>29848</key>
 		<dict>
-			<key>Track ID</key><integer>7026</integer>
+			<key>Track ID</key><integer>29848</integer>
 			<key>Name</key><string>Knives Out</string>
 			<key>Artist</key><string>Radiohead</string>
 			<key>Album Artist</key><string>Radiohead</string>
@@ -269,7 +1079,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2018-09-12T04:07:20Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:28Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -281,49 +1091,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2ABC4B018B3FB4DF</string>
+			<key>Persistent ID</key><string>1B1BB193F7EDD754</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Radiohead/2001%20-%20Amnesiac/Knives%20Out.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7028</key>
+		<key>29851</key>
 		<dict>
-			<key>Track ID</key><integer>7028</integer>
-			<key>Name</key><string>Soon It Will Be Cold Enough To Build Fires</string>
-			<key>Artist</key><string>Emancipator</string>
-			<key>Album</key><string>Soon It Will Be Cold Enough</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>AAC audio file</string>
-			<key>Size</key><integer>2857160</integer>
-			<key>Total Time</key><integer>172866</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Track Count</key><integer>14</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2018-08-11T20:21:45Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:29Z</date>
-			<key>Bit Rate</key><integer>128</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>32</integer>
-			<key>Play Date</key><integer>3648730855</integer>
-			<key>Play Date UTC</key><date>2019-08-15T23:20:55Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2018-08-12T06:40:38Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>1223</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>94A93D4B4F769D21</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Emancipator/2006%20-%20Soon%20It%20Will%20Be%20Cold%20Enough/02%20soon%20it%20will%20be%20cold%20enough%20to%20bu.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>7030</key>
-		<dict>
-			<key>Track ID</key><integer>7030</integer>
+			<key>Track ID</key><integer>29851</integer>
 			<key>Name</key><string>Everything In Its Right Place</string>
 			<key>Artist</key><string>Radiohead</string>
 			<key>Album</key><string>I Might Be Wrong - Live Recordings</string>
@@ -334,7 +1110,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2018-09-12T04:08:28Z</date>
-			<key>Date Added</key><date>2019-04-01T17:18:29Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>236</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK maybe</string>
@@ -345,92 +1121,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>AFE74DFE44771BDF</string>
+			<key>Persistent ID</key><string>8164F068B2DDDD8C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Radiohead/2001%20-%20I%20Might%20Be%20Wrong%20-%20Live%20Recordings/06%20Everything%20In%20Its%20Right%20Place.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8218</key>
+		<key>29854</key>
 		<dict>
-			<key>Track ID</key><integer>8218</integer>
-			<key>Name</key><string>Paradise Circus (Breakage's Tight Rope Remix)</string>
-			<key>Artist</key><string>Massive Attack</string>
-			<key>Album Artist</key><string>Massive Attack</string>
-			<key>Composer</key><string>Robert Del Naja, Hope Sandoval, Grant Marshall, Dan Brown &#38; Stew Jackson</string>
-			<key>Album</key><string>Heligoland</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>9953282</integer>
-			<key>Total Time</key><integer>284700</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>14</integer>
-			<key>Track Count</key><integer>16</integer>
-			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2018-09-07T05:25:38Z</date>
-			<key>Date Added</key><date>2019-07-03T21:23:11Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3631267434</integer>
-			<key>Play Date UTC</key><date>2019-01-25T21:23:54Z</date>
-			<key>Release Date</key><date>2010-02-08T08:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
-			<key>Normalization</key><integer>1236</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C318072EC6598675</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Massive%20Attack/2010%20-%20Heligoland/14%20Paradise%20Circus%20(Breakage's%20Tight%20Rope%20Remix).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>8740</key>
-		<dict>
-			<key>Track ID</key><integer>8740</integer>
-			<key>Name</key><string>Two Dots</string>
-			<key>Artist</key><string>L'usine</string>
-			<key>Album Artist</key><string>L'usine</string>
-			<key>Composer</key><string>Jeff McIlwain</string>
-			<key>Album</key><string>Two Dots</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>9622488</integer>
-			<key>Total Time</key><integer>278413</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Track Count</key><integer>3</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2018-09-07T05:16:30Z</date>
-			<key>Date Added</key><date>2019-08-31T17:36:59Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3657342278</integer>
-			<key>Play Date UTC</key><date>2019-11-23T16:24:38Z</date>
-			<key>Skip Count</key><integer>5</integer>
-			<key>Skip Date</key><date>2019-07-03T19:50:21Z</date>
-			<key>Release Date</key><date>2009-06-16T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Normalization</key><integer>2576</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6E84FF89953847C8</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2009%20-%20Two%20Dots/02%20Two%20Dots.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13156</key>
-		<dict>
-			<key>Track ID</key><integer>13156</integer>
+			<key>Track ID</key><integer>29854</integer>
 			<key>Name</key><string>Someone Great</string>
 			<key>Artist</key><string>LCD Soundsystem</string>
 			<key>Album</key><string>Sound Of Silver</string>
@@ -441,22 +1140,22 @@
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-29T03:54:44Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:19Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:20Z</date>
 			<key>Bit Rate</key><integer>184</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>0950B1DC6CB68759</string>
+			<key>Persistent ID</key><string>7050A4B1E0EFB4ED</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/LCD%20Soundsystem/2007%20-%20Sound%20Of%20Silver/04%20-%20Someone%20Great.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13158</key>
+		<key>29857</key>
 		<dict>
-			<key>Track ID</key><integer>13158</integer>
+			<key>Track ID</key><integer>29857</integer>
 			<key>Name</key><string>Let's Play Clowns</string>
 			<key>Artist</key><string>Minus The Bear</string>
 			<key>Composer</key><string>Minus The Bear</string>
@@ -471,7 +1170,7 @@
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2018-09-07T05:37:41Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:20Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -484,15 +1183,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>6898</integer>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>8AB0ED21F623BFCD</string>
+			<key>Persistent ID</key><string>FDA693FFB7CD0988</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Minus%20The%20Bear/2004%20-%20They%20Make%20Beer%20Commercials%20Like%20This/02%20Let's%20Play%20Clowns.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13162</key>
+		<key>29860</key>
 		<dict>
-			<key>Track ID</key><integer>13162</integer>
+			<key>Track ID</key><integer>29860</integer>
 			<key>Name</key><string>I Don't Know</string>
 			<key>Artist</key><string>The Black Ghosts</string>
 			<key>Album Artist</key><string>The Black Ghosts</string>
@@ -507,7 +1206,7 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-13T00:09:59Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:20Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -522,280 +1221,16 @@
 			<key>Sort Album</key><string>Black Ghosts</string>
 			<key>Sort Album Artist</key><string>Black Ghosts</string>
 			<key>Sort Artist</key><string>Black Ghosts</string>
-			<key>Persistent ID</key><string>1E63B71BF60A74C5</string>
+			<key>Persistent ID</key><string>D56717D8681CAA8C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Black%20Ghosts/2008%20-%20The%20Black%20Ghosts/08%20I%20Don't%20Know.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13164</key>
+		<key>29863</key>
 		<dict>
-			<key>Track ID</key><integer>13164</integer>
-			<key>Name</key><string>54 Cymru Beats</string>
-			<key>Artist</key><string>Aphex Twin</string>
-			<key>Album</key><string>Drukqs (Disk 2)</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>14704168</integer>
-			<key>Total Time</key><integer>366942</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2018-08-13T17:57:08Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:20Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>asmadeus</string>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3A8CF4A42AE694CC</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Amphex%20Twin/2001%20-%20Drukqs/Disk%202/01%20-%2054%20Cymru%20Beats.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13166</key>
-		<dict>
-			<key>Track ID</key><integer>13166</integer>
-			<key>Name</key><string>Onpotts</string>
-			<key>Artist</key><string>Dill</string>
-			<key>Album</key><string>Wyhiwyg</string>
-			<key>Genre</key><string>Electronica</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>5141088</integer>
-			<key>Total Time</key><integer>181028</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>7</integer>
-			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2018-09-03T01:59:45Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:20Z</date>
-			<key>Bit Rate</key><integer>225</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3623232734</integer>
-			<key>Play Date UTC</key><date>2018-10-24T20:32:14Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7A7CDB0F0304D088</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dill/2003%20-%20Wyhiwyg/07%20Onpotts.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13168</key>
-		<dict>
-			<key>Track ID</key><integer>13168</integer>
-			<key>Name</key><string>Battling Go-Go Yubari In Downtown L.A.</string>
-			<key>Artist</key><string>edIT</string>
-			<key>Album Artist</key><string>edIT</string>
-			<key>Album</key><string>Certified Air Raid Material</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>11052843</integer>
-			<key>Total Time</key><integer>325866</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2018-09-03T17:04:10Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3655703440</integer>
-			<key>Play Date UTC</key><date>2019-11-04T17:10:40Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2018-10-18T04:57:14Z</date>
-			<key>Release Date</key><date>2007-09-18T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>3963</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>03B7DA561BFBA78B</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/edIT/2007%20-%20Certified%20Air%20Raid%20Material/02%20Battling%20Go-Go%20Yubari%20In%20Downtown%20L.A..m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13170</key>
-		<dict>
-			<key>Track ID</key><integer>13170</integer>
-			<key>Name</key><string>Throbbin' the Cradle</string>
-			<key>Artist</key><string>Eprom</string>
-			<key>Album Artist</key><string>Eprom</string>
-			<key>Album</key><string>64 Bytes</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>9341115</integer>
-			<key>Total Time</key><integer>280470</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>6</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2018-09-03T04:47:52Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Release Date</key><date>2007-09-27T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>1787</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>38F0F046ED93FBD1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eprom/2007%20-%2064%20Bytes/04%20Throbbin'%20the%20Cradle.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13172</key>
-		<dict>
-			<key>Track ID</key><integer>13172</integer>
-			<key>Name</key><string>Overnight</string>
-			<key>Artist</key><string>Hudson Mohawke</string>
-			<key>Album Artist</key><string>Hudson Mohawke</string>
-			<key>Album</key><string>Polyfolk Dance</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>6049784</integer>
-			<key>Total Time</key><integer>169026</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Track Count</key><integer>6</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2018-09-04T04:25:46Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3619593195</integer>
-			<key>Play Date UTC</key><date>2018-09-12T17:33:15Z</date>
-			<key>Release Date</key><date>2009-01-26T08:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>2710</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>9E8CB6E0408085DE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hudson%20Mohawke/2009%20-%20Polyfolk%20Dance/03%20Overnight.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13174</key>
-		<dict>
-			<key>Track ID</key><integer>13174</integer>
-			<key>Name</key><string>Ask You</string>
-			<key>Artist</key><string>L'usine</string>
-			<key>Album</key><string>Serial Hodgepodge</string>
-			<key>Genre</key><string>Ambient</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11624661</integer>
-			<key>Total Time</key><integer>367177</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2018-09-05T04:10:09Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>248</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3655704748</integer>
-			<key>Play Date UTC</key><date>2019-11-04T17:32:28Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>C4018838C4624D8D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2004%20-%20Serial%20Hodgepodge/01%20Ask%20You.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13176</key>
-		<dict>
-			<key>Track ID</key><integer>13176</integer>
-			<key>Name</key><string>Flat for You</string>
-			<key>Artist</key><string>L'usine</string>
-			<key>Album</key><string>Podgelism</string>
-			<key>Genre</key><string>Ambient</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>10821252</integer>
-			<key>Total Time</key><integer>288914</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>11</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2018-09-05T04:10:26Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>298</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3623993787</integer>
-			<key>Play Date UTC</key><date>2018-11-02T15:56:27Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Persistent ID</key><string>5C9D200921E4BD17</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2007%20-%20Podgelism/04%20Flat%20for%20You.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13178</key>
-		<dict>
-			<key>Track ID</key><integer>13178</integer>
-			<key>Name</key><string>Triple Chrome Dipped</string>
-			<key>Artist</key><string>Michna</string>
-			<key>Album Artist</key><string>Michna</string>
-			<key>Composer</key><string>Adrian Michna</string>
-			<key>Album</key><string>Magic Monday</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>8368937</integer>
-			<key>Total Time</key><integer>238853</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2018-09-07T05:34:45Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3623236457</integer>
-			<key>Play Date UTC</key><date>2018-10-24T21:34:17Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2019-11-04T17:14:22Z</date>
-			<key>Release Date</key><date>2008-09-23T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Normalization</key><integer>2633</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>961F72D59D1FC02F</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Michna/2008%20-%20Magic%20Monday/01%20Triple%20Chrome%20Dipped.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13180</key>
-		<dict>
-			<key>Track ID</key><integer>13180</integer>
+			<key>Track ID</key><integer>29863</integer>
 			<key>Name</key><string>Whatshewants</string>
 			<key>Artist</key><string>Alex Metric</string>
 			<key>Album Artist</key><string>Alex Metric</string>
@@ -810,7 +1245,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:55Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -824,54 +1259,16 @@
 			<key>Album Rating</key><integer>40</integer>
 			<key>Normalization</key><integer>1721</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F6A0C5F529645105</string>
+			<key>Persistent ID</key><string>0166E1001BE68BB7</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Alex%20Metric/2007%20-%20Whatshewants/01%20Whatshewants.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13182</key>
+		<key>29866</key>
 		<dict>
-			<key>Track ID</key><integer>13182</integer>
-			<key>Name</key><string>Pins</string>
-			<key>Artist</key><string>Alex Metric</string>
-			<key>Album Artist</key><string>Alex Metric</string>
-			<key>Album</key><string>In Your Machine</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>11698276</integer>
-			<key>Total Time</key><integer>353053</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Track Count</key><integer>3</integer>
-			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2018-08-13T17:59:53Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:21Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3654670969</integer>
-			<key>Play Date UTC</key><date>2019-10-23T17:22:49Z</date>
-			<key>Skip Count</key><integer>5</integer>
-			<key>Skip Date</key><date>2019-11-04T16:59:12Z</date>
-			<key>Release Date</key><date>2008-04-07T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>8267</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C312869B30F96418</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Alex%20Metric/2008%20-%20In%20Your%20Machine/03%20Pins.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13184</key>
-		<dict>
-			<key>Track ID</key><integer>13184</integer>
+			<key>Track ID</key><integer>29866</integer>
 			<key>Name</key><string>Deeply Disturbed</string>
 			<key>Artist</key><string>Infected Mushroom</string>
 			<key>Album</key><string>Converting Vegetarians (Disk 1)</string>
@@ -883,7 +1280,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2018-08-13T17:57:04Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
@@ -892,15 +1289,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7689FAE3534ABEF6</string>
+			<key>Persistent ID</key><string>D5179B47F1411360</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Infected%20Mushroom/2003%20-%20Converting%20Vegetarians/Disk%201/08%20-%20Deeply%20Disturbed.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13186</key>
+		<key>29869</key>
 		<dict>
-			<key>Track ID</key><integer>13186</integer>
+			<key>Track ID</key><integer>29869</integer>
 			<key>Name</key><string>Get Innocuous!</string>
 			<key>Artist</key><string>LCD Soundsystem</string>
 			<key>Album</key><string>Sound Of Silver</string>
@@ -911,22 +1308,22 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-29T03:54:44Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>187</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8A902488C36802CF</string>
+			<key>Persistent ID</key><string>A053F3851B6D362A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/LCD%20Soundsystem/2007%20-%20Sound%20Of%20Silver/01%20-%20Get%20Innocuous!.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13188</key>
+		<key>29872</key>
 		<dict>
-			<key>Track ID</key><integer>13188</integer>
+			<key>Track ID</key><integer>29872</integer>
 			<key>Name</key><string>Blow Your Head</string>
 			<key>Artist</key><string>Diplo</string>
 			<key>Album Artist</key><string>Diplo</string>
@@ -940,7 +1337,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-03T17:04:12Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -949,16 +1346,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>9097</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>986B8050FEFEBF65</string>
+			<key>Persistent ID</key><string>B42D0000EC07D556</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diplo/2008%20-%20Blow%20Your%20Head/01%20Blow%20Your%20Head.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13190</key>
+		<key>29875</key>
 		<dict>
-			<key>Track ID</key><integer>13190</integer>
+			<key>Track ID</key><integer>29875</integer>
 			<key>Name</key><string>Wassup Wassup (feat. Rye Rye) [Crookers Remix]</string>
 			<key>Artist</key><string>Diplo</string>
 			<key>Album Artist</key><string>Diplo</string>
@@ -972,7 +1369,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-03T17:04:12Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -986,16 +1383,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>5538</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>F3367E911BEA6F76</string>
+			<key>Persistent ID</key><string>ACD8C4EA1723867F</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diplo/2008%20-%20Blow%20Your%20Head/03%20Wassup%20Wassup%20(feat.%20Rye%20Rye)%20%5BCrookers%20Remix%5D.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13194</key>
+		<key>29878</key>
 		<dict>
-			<key>Track ID</key><integer>13194</integer>
+			<key>Track ID</key><integer>29878</integer>
 			<key>Name</key><string>Wassup Wassup (feat. Rye Rye) [DJ Sega Remix]</string>
 			<key>Artist</key><string>Diplo</string>
 			<key>Album Artist</key><string>Diplo</string>
@@ -1009,7 +1406,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-03T17:04:12Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1020,16 +1417,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>6831</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>487C5CCFCDB2A0EF</string>
+			<key>Persistent ID</key><string>FA0E7962C40632A1</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diplo/2008%20-%20Blow%20Your%20Head/05%20Wassup%20Wassup%20(feat.%20Rye%20Rye)%20%5BDJ%20Sega%20Remix%5D.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13196</key>
+		<key>29881</key>
 		<dict>
-			<key>Track ID</key><integer>13196</integer>
+			<key>Track ID</key><integer>29881</integer>
 			<key>Name</key><string>Wassup Wassup (feat. Rye Rye) [Crookers Happy Remix]</string>
 			<key>Artist</key><string>Diplo</string>
 			<key>Album Artist</key><string>Diplo</string>
@@ -1043,7 +1440,7 @@
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-03T17:04:12Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1057,152 +1454,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>4526</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A768AE12586C8902</string>
+			<key>Persistent ID</key><string>FCC6A0EA143F25B5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Diplo/2008%20-%20Blow%20Your%20Head/06%20Wassup%20Wassup%20(feat.%20Rye%20Rye)%20%5BCrookers%20Happy%20Remix%5D.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13198</key>
+		<key>29884</key>
 		<dict>
-			<key>Track ID</key><integer>13198</integer>
-			<key>Name</key><string>Certified Air Raid Material</string>
-			<key>Artist</key><string>edIT</string>
-			<key>Album Artist</key><string>edIT</string>
-			<key>Album</key><string>Certified Air Raid Material</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>12344962</integer>
-			<key>Total Time</key><integer>366013</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>4</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2018-09-03T17:04:10Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:22Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3625230428</integer>
-			<key>Play Date UTC</key><date>2018-11-17T00:27:08Z</date>
-			<key>Release Date</key><date>2007-09-18T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>2902</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>46914585FA28429E</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/edIT/2007%20-%20Certified%20Air%20Raid%20Material/04%20Certified%20Air%20Raid%20Material.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13200</key>
-		<dict>
-			<key>Track ID</key><integer>13200</integer>
-			<key>Name</key><string>Collateral Damage</string>
-			<key>Artist</key><string>ill.gates</string>
-			<key>Album Artist</key><string>ill.gates</string>
-			<key>Album</key><string>Autopirate</string>
-			<key>Genre</key><string>Dance</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>7615049</integer>
-			<key>Total Time</key><integer>224280</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>3</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2018-09-05T03:25:21Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:24Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Release Date</key><date>2008-11-19T08:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>2111</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A970C9A9D00E1EE6</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/ill.gates/2008%20-%20Autopirate/03%20Collateral%20Damage.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13202</key>
-		<dict>
-			<key>Track ID</key><integer>13202</integer>
-			<key>Name</key><string>Smoke and Mirrors</string>
-			<key>Artist</key><string>JDSY</string>
-			<key>Album Artist</key><string>JDSY</string>
-			<key>Album</key><string>Adage of Known</string>
-			<key>Genre</key><string>Electronic</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>4588309</integer>
-			<key>Total Time</key><integer>125053</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Date Modified</key><date>2018-09-05T03:41:13Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:24Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2018-12-16T23:20:26Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>3010</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>56226F7F4BB375F1</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/JDSY/2008%20-%20Adage%20of%20Known/02%20Smoke%20and%20Mirrors.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13204</key>
-		<dict>
-			<key>Track ID</key><integer>13204</integer>
-			<key>Name</key><string>The Guide</string>
-			<key>Artist</key><string>Lionrock</string>
-			<key>Composer</key><string>Justin Robertson</string>
-			<key>Album</key><string>An Instinct for Detection</string>
-			<key>Genre</key><string>Electronica</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>13693642</integer>
-			<key>Total Time</key><integer>412604</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>2</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Track Count</key><integer>12</integer>
-			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2018-09-05T04:19:12Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:24Z</date>
-			<key>Bit Rate</key><integer>265</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Skip Count</key><integer>6</integer>
-			<key>Skip Date</key><date>2018-12-14T22:18:15Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Album</key><string>Instinct for Detection</string>
-			<key>Sort Name</key><string>Guide</string>
-			<key>Persistent ID</key><string>EECC2A22D4BCCB9D</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lionrock/1996%20-%20An%20Instinct%20for%20Detection/1-09%20The%20Guide.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13206</key>
-		<dict>
-			<key>Track ID</key><integer>13206</integer>
+			<key>Track ID</key><integer>29884</integer>
 			<key>Name</key><string>Two Dots (Reverse Engineered)</string>
 			<key>Artist</key><string>L'usine</string>
 			<key>Album Artist</key><string>L'usine</string>
@@ -1218,7 +1479,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-09-07T05:16:30Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:24Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:21Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1232,16 +1493,16 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>1288</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>58D501BF01227AE6</string>
+			<key>Persistent ID</key><string>F09BA8B7A76EA480</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2009%20-%20Two%20Dots/01%20Two%20Dots%20(Reverse%20Engineered).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13208</key>
+		<key>29887</key>
 		<dict>
-			<key>Track ID</key><integer>13208</integer>
+			<key>Track ID</key><integer>29887</integer>
 			<key>Name</key><string>One Love</string>
 			<key>Artist</key><string>The Prodigy</string>
 			<key>Album</key><string>Hackers - Soundtrack</string>
@@ -1252,7 +1513,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2018-09-12T05:00:04Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:24Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1264,15 +1525,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Prodigy</string>
-			<key>Persistent ID</key><string>74C4C65ED39EC362</string>
+			<key>Persistent ID</key><string>41D161E93C94184E</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Hackers%20-%20Soundtrack/09%20Prodigy%20_%20One%20Love.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13210</key>
+		<key>29890</key>
 		<dict>
-			<key>Track ID</key><integer>13210</integer>
+			<key>Track ID</key><integer>29890</integer>
 			<key>Name</key><string>I Wish</string>
 			<key>Artist</key><string>Infected Mushroom</string>
 			<key>Album Artist</key><string>Infected Mushroom</string>
@@ -1284,7 +1545,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2018-08-13T17:57:04Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:24Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
@@ -1294,45 +1555,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>607EDA3663444EA9</string>
+			<key>Persistent ID</key><string>524A26D498134A24</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Infected%20Mushroom/2003%20-%20Converting%20Vegetarians/Disk%202/08%20-%20I%20Wish.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13212</key>
+		<key>29893</key>
 		<dict>
-			<key>Track ID</key><integer>13212</integer>
-			<key>Name</key><string>The New-York Grill (In&#38;Out Mix)</string>
-			<key>Artist</key><string>Octowire</string>
-			<key>Album</key><string>Megasoft Office 2005</string>
-			<key>Genre</key><string>IDM</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>14043403</integer>
-			<key>Total Time</key><integer>349936</integer>
-			<key>Track Number</key><integer>9</integer>
-			<key>Track Count</key><integer>11</integer>
-			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2018-08-13T17:57:04Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
-			<key>Bit Rate</key><integer>320</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>asmadeus</string>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Normalization</key><integer>1638</integer>
-			<key>Compilation</key><true/>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Sort Name</key><string>New-York Grill (In&#38;Out Mix)</string>
-			<key>Persistent ID</key><string>7C8C4A6026EF3497</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Megasoft%20Office/2005%20-%20Megasoft%20Office%202005/09%20the%20new-york%20grill%20(in&#38;out%20mix).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13214</key>
-		<dict>
-			<key>Track ID</key><integer>13214</integer>
+			<key>Track ID</key><integer>29893</integer>
 			<key>Name</key><string>Oh</string>
 			<key>Artist</key><string>Alex Metric</string>
 			<key>Album Artist</key><string>Alex Metric</string>
@@ -1347,7 +1578,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-13T18:00:03Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1359,16 +1590,16 @@
 			<key>Album Rating</key><integer>40</integer>
 			<key>Normalization</key><integer>1532</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>6D34DDF288F3D9F2</string>
+			<key>Persistent ID</key><string>471000F74A13D469</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Alex%20Metric/2007%20-%20Whatshewants/03%20Oh.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13216</key>
+		<key>29896</key>
 		<dict>
-			<key>Track ID</key><integer>13216</integer>
+			<key>Track ID</key><integer>29896</integer>
 			<key>Name</key><string>In Your Machine</string>
 			<key>Artist</key><string>Alex Metric</string>
 			<key>Album Artist</key><string>Alex Metric</string>
@@ -1383,7 +1614,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:51Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1397,16 +1628,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>4066</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>BD3CF9CE1A4CA78E</string>
+			<key>Persistent ID</key><string>0189C60471DB64BA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Alex%20Metric/2008%20-%20In%20Your%20Machine/01%20In%20Your%20Machine.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13218</key>
+		<key>29899</key>
 		<dict>
-			<key>Track ID</key><integer>13218</integer>
+			<key>Track ID</key><integer>29899</integer>
 			<key>Name</key><string>Deadly On a Mission (Dub)</string>
 			<key>Artist</key><string>Alex Metric</string>
 			<key>Album Artist</key><string>Alex Metric</string>
@@ -1421,7 +1652,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:50Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1435,54 +1666,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>5618</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3864EC15FD5317C0</string>
+			<key>Persistent ID</key><string>EEA6096DAEDDE327</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Alex%20Metric/2008%20-%20In%20Your%20Machine/02%20Deadly%20On%20a%20Mission%20(Dub).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13220</key>
+		<key>29902</key>
 		<dict>
-			<key>Track ID</key><integer>13220</integer>
-			<key>Name</key><string>Summertime Clothes</string>
-			<key>Artist</key><string>Animal Collective</string>
-			<key>Album Artist</key><string>Animal Collective</string>
-			<key>Album</key><string>Summertime Clothes</string>
-			<key>Genre</key><string>Alternative</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>9966890</integer>
-			<key>Total Time</key><integer>272195</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>4</integer>
-			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2018-08-13T17:59:55Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3616485112</integer>
-			<key>Play Date UTC</key><date>2018-08-07T18:11:52Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2019-11-04T17:45:50Z</date>
-			<key>Release Date</key><date>2009-07-07T07:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Normalization</key><integer>6769</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C32F7C26F6177D61</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Animal%20Collective/2009%20-%20Summertime%20Clothes/01%20Summertime%20Clothes.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13226</key>
-		<dict>
-			<key>Track ID</key><integer>13226</integer>
+			<key>Track ID</key><integer>29902</integer>
 			<key>Name</key><string>Not A Good Place (Mx By Apparat)</string>
 			<key>Artist</key><string>Apparat</string>
 			<key>Album</key><string>Silizium</string>
@@ -1493,7 +1686,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2005</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:52Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>251</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1503,15 +1696,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>959B9EBAE6097917</string>
+			<key>Persistent ID</key><string>D0FF4E175B0090D5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Apparat/2005%20-%20Silizium/09%20Not%20A%20Good%20Place%20(Mx%20By%20Apparat).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13228</key>
+		<key>29905</key>
 		<dict>
-			<key>Track ID</key><integer>13228</integer>
+			<key>Track ID</key><integer>29905</integer>
 			<key>Name</key><string>Birds</string>
 			<key>Artist</key><string>Apparat</string>
 			<key>Album Artist</key><string>Apparat</string>
@@ -1526,7 +1719,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:49Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1535,16 +1728,16 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>B499A542AE7524E2</string>
+			<key>Persistent ID</key><string>3067C9B6BA4D0874</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Apparat/2007%20-%20Walls/08%20Birds.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13230</key>
+		<key>29908</key>
 		<dict>
-			<key>Track ID</key><integer>13230</integer>
+			<key>Track ID</key><integer>29908</integer>
 			<key>Name</key><string>Dull Flame (Album Mix)</string>
 			<key>Artist</key><string>Björk</string>
 			<key>Album Artist</key><string>Björk</string>
@@ -1558,7 +1751,7 @@
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:58Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1570,16 +1763,16 @@
 			<key>Normalization</key><integer>2278</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Dull Flame of Desire</string>
-			<key>Persistent ID</key><string>23EBB0A839EDB254</string>
+			<key>Persistent ID</key><string>4CAE092E3E9A44EA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bjo%CC%88rk/2008%20-%20The%20Dull%20Flame%20of%20Desire/03%20Dull%20Flame%20(Album%20Mix).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13232</key>
+		<key>29911</key>
 		<dict>
-			<key>Track ID</key><integer>13232</integer>
+			<key>Track ID</key><integer>29911</integer>
 			<key>Name</key><string>Dull Flame of Desire (Mark Stent) [Instrumental]</string>
 			<key>Artist</key><string>Björk</string>
 			<key>Album Artist</key><string>Björk</string>
@@ -1593,7 +1786,7 @@
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-08-13T17:59:58Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1605,16 +1798,16 @@
 			<key>Normalization</key><integer>1245</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Dull Flame of Desire</string>
-			<key>Persistent ID</key><string>645BB09A74C4ACF9</string>
+			<key>Persistent ID</key><string>9E8220D988366806</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Bjo%CC%88rk/2008%20-%20The%20Dull%20Flame%20of%20Desire/05%20Dull%20Flame%20of%20Desire%20(Mark%20Stent)%20%5BInstrumental%5D.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13234</key>
+		<key>29914</key>
 		<dict>
-			<key>Track ID</key><integer>13234</integer>
+			<key>Track ID</key><integer>29914</integer>
 			<key>Name</key><string>White Corolla</string>
 			<key>Artist</key><string>Casiotone for the Painfully Alone</string>
 			<key>Album Artist</key><string>Casiotone for the Painfully Alone</string>
@@ -1629,7 +1822,7 @@
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-08-13T18:00:05Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:22Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1641,16 +1834,16 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>5012</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>05193ACF69711D04</string>
+			<key>Persistent ID</key><string>3DFB995C2A48AC41</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Casiotone%20for%20the%20Painfully%20Alone/2009%20-%20Advance%20Base%20Battery%20Life/03%20White%20Corolla.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13236</key>
+		<key>29917</key>
 		<dict>
-			<key>Track ID</key><integer>13236</integer>
+			<key>Track ID</key><integer>29917</integer>
 			<key>Name</key><string>Hot Boyz (With Dear Nora)</string>
 			<key>Artist</key><string>Casiotone for the Painfully Alone</string>
 			<key>Album Artist</key><string>Casiotone for the Painfully Alone</string>
@@ -1664,8 +1857,8 @@
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2018-08-13T18:00:00Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:25Z</date>
+			<key>Date Modified</key><date>2020-10-04T00:07:01Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1679,16 +1872,16 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>5364</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>D4DD541FAE5EA06C</string>
+			<key>Persistent ID</key><string>861017931922EDFC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Casiotone%20for%20the%20Painfully%20Alone/2009%20-%20Advance%20Base%20Battery%20Life/10%20Hot%20Boyz%20(With%20Dear%20Nora).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13238</key>
+		<key>29920</key>
 		<dict>
-			<key>Track ID</key><integer>13238</integer>
+			<key>Track ID</key><integer>29920</integer>
 			<key>Name</key><string>Graceland</string>
 			<key>Artist</key><string>Casiotone for the Painfully Alone</string>
 			<key>Album Artist</key><string>Casiotone for the Painfully Alone</string>
@@ -1703,7 +1896,7 @@
 			<key>Track Count</key><integer>15</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-08-13T18:00:00Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1714,46 +1907,16 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>7773</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>AE5CAEF75103181C</string>
+			<key>Persistent ID</key><string>1726B3335D6181B5</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Casiotone%20for%20the%20Painfully%20Alone/2009%20-%20Advance%20Base%20Battery%20Life/13%20Graceland.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13240</key>
+		<key>29923</key>
 		<dict>
-			<key>Track ID</key><integer>13240</integer>
-			<key>Name</key><string>Part II - IBM 1403 Printer</string>
-			<key>Artist</key><string>Jóhann Jóhannsson</string>
-			<key>Album Artist</key><string>Jóhann Jóhannsson</string>
-			<key>Composer</key><string>Jóhann Jóhannsson</string>
-			<key>Album</key><string>IBM 1401, A User's Manual</string>
-			<key>Genre</key><string>Electronica</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>13834240</integer>
-			<key>Total Time</key><integer>573231</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2018-08-13T17:57:05Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
-			<key>Bit Rate</key><integer>192</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>asmadeus</string>
-			<key>Skip Count</key><integer>2</integer>
-			<key>Skip Date</key><date>2019-11-04T17:10:47Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>69ABA8725C7353BA</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Jo%CC%81hann%20Jo%CC%81hannsson/2006%20-%20ibm%201401,%20a%20user%E2%80%99s%20manual/2.%20part%202%20-%20ibm%201403%20printer.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13242</key>
-		<dict>
-			<key>Track ID</key><integer>13242</integer>
+			<key>Track ID</key><integer>29923</integer>
 			<key>Name</key><string>Converting Vegetarians</string>
 			<key>Artist</key><string>Infected Mushroom</string>
 			<key>Album Artist</key><string>Infected Mushroom</string>
@@ -1765,7 +1928,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2003</integer>
 			<key>Date Modified</key><date>2018-08-13T17:57:04Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
@@ -1774,15 +1937,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>4858C328A2706723</string>
+			<key>Persistent ID</key><string>ED58292D1F24F004</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Infected%20Mushroom/2003%20-%20Converting%20Vegetarians/Disk%202/01%20-%20Converting%20Vegetaria.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13244</key>
+		<key>29926</key>
 		<dict>
-			<key>Track ID</key><integer>13244</integer>
+			<key>Track ID</key><integer>29926</integer>
 			<key>Name</key><string>Sound Of Silver</string>
 			<key>Artist</key><string>LCD Soundsystem</string>
 			<key>Album</key><string>Sound Of Silver</string>
@@ -1793,7 +1956,7 @@
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-29T03:54:44Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>195</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
@@ -1803,15 +1966,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>CADCF7F2E6CB6D2C</string>
+			<key>Persistent ID</key><string>E651DFE1922A9EB8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/LCD%20Soundsystem/2007%20-%20Sound%20Of%20Silver/08%20-%20Sound%20Of%20Silver.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13246</key>
+		<key>29929</key>
 		<dict>
-			<key>Track ID</key><integer>13246</integer>
+			<key>Track ID</key><integer>29929</integer>
 			<key>Name</key><string>One Touch</string>
 			<key>Artist</key><string>LCD Soundsystem</string>
 			<key>Album</key><string>This Is Happening</string>
@@ -1823,7 +1986,7 @@
 			<key>Track Count</key><integer>9</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>Date Modified</key><date>2018-08-29T03:54:44Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>asmadeus</string>
@@ -1833,15 +1996,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>001DC62EB845CA32</string>
+			<key>Persistent ID</key><string>20C852913F5288CC</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/LCD%20Soundsystem/2010%20-%20This%20Is%20Happening/03%20One%20Touch.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13248</key>
+		<key>29932</key>
 		<dict>
-			<key>Track ID</key><integer>13248</integer>
+			<key>Track ID</key><integer>29932</integer>
 			<key>Name</key><string>Dealer Dealer</string>
 			<key>Artist</key><string>Letters Letters</string>
 			<key>Album</key><string>Letters Letters</string>
@@ -1853,20 +2016,20 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-08-29T03:57:05Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>202</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Persistent ID</key><string>31C3CE62DF8DA94C</string>
+			<key>Persistent ID</key><string>EE0778A0EEFED5F8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Letters%20Letters/2007%20-%20Letters%20Letters/05%20-%20Dealer%20Dealer.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13250</key>
+		<key>29935</key>
 		<dict>
-			<key>Track ID</key><integer>13250</integer>
+			<key>Track ID</key><integer>29935</integer>
 			<key>Name</key><string>11h30</string>
 			<key>Artist</key><string>Danger</string>
 			<key>Album Artist</key><string>Danger</string>
@@ -1881,7 +2044,7 @@
 			<key>Track Count</key><integer>4</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-09-03T01:38:48Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1895,47 +2058,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>8755</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>3D7A6B4588584B16</string>
+			<key>Persistent ID</key><string>ACA548D9E4440317</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Danger/2007%20-%2009-14%202007/01%2011h30.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13252</key>
+		<key>29938</key>
 		<dict>
-			<key>Track ID</key><integer>13252</integer>
-			<key>Name</key><string>Won Noefte Jam</string>
-			<key>Artist</key><string>Dill</string>
-			<key>Album</key><string>Wyhiwyg</string>
-			<key>Genre</key><string>Electronica</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>6789400</integer>
-			<key>Total Time</key><integer>235128</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>10</integer>
-			<key>Track Count</key><integer>10</integer>
-			<key>Date Modified</key><date>2018-09-03T01:59:44Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
-			<key>Bit Rate</key><integer>229</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3623233136</integer>
-			<key>Play Date UTC</key><date>2018-10-24T20:38:56Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EDBB94D2EF1CC879</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Dill/2003%20-%20Wyhiwyg/10%20Won%20Noefte%20Jam.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13254</key>
-		<dict>
-			<key>Track ID</key><integer>13254</integer>
+			<key>Track ID</key><integer>29938</integer>
 			<key>Name</key><string>64 Bytes (Vibesquad Remix)</string>
 			<key>Artist</key><string>Eprom</string>
 			<key>Album Artist</key><string>Eprom</string>
@@ -1950,7 +2082,7 @@
 			<key>Track Count</key><integer>5</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-09-03T04:49:01Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -1962,16 +2094,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>2631</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>993E1628D77D5225</string>
+			<key>Persistent ID</key><string>F40EF9D0F9822312</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Eprom/2009%20-%2064%20Bytes%20(Remixes)/03%2064%20Bytes%20(Vibesquad%20Remix).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13260</key>
+		<key>29941</key>
 		<dict>
-			<key>Track ID</key><integer>13260</integer>
+			<key>Track ID</key><integer>29941</integer>
 			<key>Name</key><string>Habitual Citizens</string>
 			<key>Artist</key><string>Funkstörung</string>
 			<key>Album Artist</key><string>Funkstörung</string>
@@ -1986,7 +2118,7 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2018-09-04T00:11:44Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:26Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2000,54 +2132,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>1863</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2CB42525E0B9C4E8</string>
+			<key>Persistent ID</key><string>2535C254AD6E7603</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Funksto%CC%88rung/2004%20-%20Disconnected/04%20Habitual%20Citizens.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13262</key>
+		<key>29944</key>
 		<dict>
-			<key>Track ID</key><integer>13262</integer>
-			<key>Name</key><string>Irma Vep</string>
-			<key>Artist</key><string>ill.gates with Masia One</string>
-			<key>Album Artist</key><string>ill.gates</string>
-			<key>Album</key><string>Autopirate</string>
-			<key>Genre</key><string>Dance</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>9738454</integer>
-			<key>Total Time</key><integer>288013</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>2</integer>
-			<key>Track Count</key><integer>13</integer>
-			<key>Year</key><integer>2008</integer>
-			<key>Date Modified</key><date>2018-09-05T03:26:16Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3655705323</integer>
-			<key>Play Date UTC</key><date>2019-11-04T17:42:03Z</date>
-			<key>Skip Count</key><integer>3</integer>
-			<key>Skip Date</key><date>2018-12-14T21:46:38Z</date>
-			<key>Release Date</key><date>2008-11-19T08:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
-			<key>Normalization</key><integer>2297</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>00A91ACD77682CA5</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/ill.gates/2008%20-%20Autopirate/02%20Irma%20Vep%20(feat.%20Masia%20One).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13264</key>
-		<dict>
-			<key>Track ID</key><integer>13264</integer>
+			<key>Track ID</key><integer>29944</integer>
 			<key>Name</key><string>TTHHEE PPAARRTTYY</string>
 			<key>Artist</key><string>Justice</string>
 			<key>Album Artist</key><string>Justice</string>
@@ -2062,7 +2156,7 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>Date Modified</key><date>2018-09-05T03:47:38Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2076,16 +2170,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>3728</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>EFE1E66FEA440D0E</string>
+			<key>Persistent ID</key><string>A616EF977DF81F4B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Justice/2007%20-%20Cross/08%20TTHHEE%20PPAARRTTYY.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13266</key>
+		<key>29947</key>
 		<dict>
-			<key>Track ID</key><integer>13266</integer>
+			<key>Track ID</key><integer>29947</integer>
 			<key>Name</key><string>Count Basic K&#38;D Session / Speechless Drum &#38; Bass</string>
 			<key>Artist</key><string>Kruder &#38; Dorfmeister</string>
 			<key>Album</key><string>Conversions</string>
@@ -2096,82 +2190,22 @@
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1996</integer>
 			<key>Date Modified</key><date>2018-09-05T04:05:54Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>216</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>E3B2235D6B0DB7D2</string>
+			<key>Persistent ID</key><string>4E363F3D709E2357</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kruder%20&#38;%20Dorfmeister/1996%20-%20Conversions/07%20Count%20Basic%20K&#38;D%20Session%20_%20Speechless%20Drum%20&#38;%20Bass.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13268</key>
+		<key>29950</key>
 		<dict>
-			<key>Track ID</key><integer>13268</integer>
-			<key>Name</key><string>Hunch / Visible From Space</string>
-			<key>Artist</key><string>Kruder &#38; Dorfmeister</string>
-			<key>Album</key><string>Conversions</string>
-			<key>Genre</key><string>Drum &#38; Bass</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>11431824</integer>
-			<key>Total Time</key><integer>353593</integer>
-			<key>Track Number</key><integer>8</integer>
-			<key>Year</key><integer>1996</integer>
-			<key>Date Modified</key><date>2018-09-05T04:05:54Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
-			<key>Bit Rate</key><integer>258</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3623927464</integer>
-			<key>Play Date UTC</key><date>2018-11-01T21:31:04Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>2E716780EAEEC5DB</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Kruder%20&#38;%20Dorfmeister/1996%20-%20Conversions/08%20Hunch%20_%20Visible%20From%20Space.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13270</key>
-		<dict>
-			<key>Track ID</key><integer>13270</integer>
-			<key>Name</key><string>Fire Up The Shoesaw</string>
-			<key>Artist</key><string>Lionrock</string>
-			<key>Composer</key><string>Justin Robertson</string>
-			<key>Album</key><string>An Instinct for Detection</string>
-			<key>Genre</key><string>Electronica</string>
-			<key>Kind</key><string>MPEG audio file</string>
-			<key>Size</key><integer>7479731</integer>
-			<key>Total Time</key><integer>238811</integer>
-			<key>Disc Number</key><integer>2</integer>
-			<key>Disc Count</key><integer>2</integer>
-			<key>Track Number</key><integer>5</integer>
-			<key>Track Count</key><integer>7</integer>
-			<key>Year</key><integer>1995</integer>
-			<key>Date Modified</key><date>2018-09-05T04:19:12Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
-			<key>Bit Rate</key><integer>249</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK</string>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Artwork Count</key><integer>2</integer>
-			<key>Sort Album</key><string>Instinct for Detection</string>
-			<key>Persistent ID</key><string>E6AF19CF5D4B26BE</string>
-			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Lionrock/1996%20-%20An%20Instinct%20for%20Detection/2-05%20Fire%20Up%20The%20Shoesaw.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13272</key>
-		<dict>
-			<key>Track ID</key><integer>13272</integer>
+			<key>Track ID</key><integer>29950</integer>
 			<key>Name</key><string>Two Dots (Pezzner Remix)</string>
 			<key>Artist</key><string>L'usine</string>
 			<key>Album Artist</key><string>L'usine</string>
@@ -2187,7 +2221,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-09-07T05:16:29Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2201,16 +2235,16 @@
 			<key>Album Rating</key><integer>80</integer>
 			<key>Normalization</key><integer>3328</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>7D630A08D8F05ACE</string>
+			<key>Persistent ID</key><string>5FC8AC1AD774B2DF</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/L'usine/2009%20-%20Two%20Dots/03%20Two%20Dots%20(Pezzner%20Remix).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13274</key>
+		<key>29953</key>
 		<dict>
-			<key>Track ID</key><integer>13274</integer>
+			<key>Track ID</key><integer>29953</integer>
 			<key>Name</key><string>Dog Park</string>
 			<key>Artist</key><string>Minus The Bear</string>
 			<key>Composer</key><string>Minus The Bear</string>
@@ -2225,7 +2259,7 @@
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2018-09-07T05:37:41Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2238,50 +2272,15 @@
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7064</integer>
 			<key>Artwork Count</key><integer>3</integer>
-			<key>Persistent ID</key><string>085787C423AC0325</string>
+			<key>Persistent ID</key><string>5145DA15BF70FA7A</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Minus%20The%20Bear/2004%20-%20They%20Make%20Beer%20Commercials%20Like%20This/03%20Dog%20Park.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13276</key>
+		<key>29956</key>
 		<dict>
-			<key>Track ID</key><integer>13276</integer>
-			<key>Name</key><string>15 Step</string>
-			<key>Artist</key><string>Radiohead</string>
-			<key>Album Artist</key><string>Radiohead</string>
-			<key>Album</key><string>In Rainbows</string>
-			<key>Genre</key><string>Alternative</string>
-			<key>Kind</key><string>Purchased AAC audio file</string>
-			<key>Size</key><integer>8202713</integer>
-			<key>Total Time</key><integer>237286</integer>
-			<key>Disc Number</key><integer>1</integer>
-			<key>Disc Count</key><integer>1</integer>
-			<key>Track Number</key><integer>1</integer>
-			<key>Track Count</key><integer>10</integer>
-			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2018-09-12T04:09:17Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
-			<key>Bit Rate</key><integer>256</integer>
-			<key>Sample Rate</key><integer>44100</integer>
-			<key>Comments</key><string>GK maybe</string>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2019-11-04T17:01:58Z</date>
-			<key>Release Date</key><date>2007-12-28T08:00:00Z</date>
-			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
-			<key>Normalization</key><integer>3446</integer>
-			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>269137181F289917</string>
-			<key>Track Type</key><string>File</string>
-			<key>Purchased</key><true/>
-			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Radiohead/2007%20-%20In%20Rainbows/01%2015%20Step.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
-		</dict>
-		<key>13278</key>
-		<dict>
-			<key>Track ID</key><integer>13278</integer>
+			<key>Track ID</key><integer>29956</integer>
 			<key>Name</key><string>Hidden Hand, Hidden Fist (Da Ticklah Remix)</string>
 			<key>Artist</key><string>STS9 (Sound Tribe Sector 9)</string>
 			<key>Album Artist</key><string>STS9 (Sound Tribe Sector 9)</string>
@@ -2296,7 +2295,7 @@
 			<key>Track Count</key><integer>30</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>Date Modified</key><date>2018-09-12T13:53:34Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2305,16 +2304,16 @@
 			<key>Album Rating</key><integer>60</integer>
 			<key>Normalization</key><integer>3614</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>05EED224763002C5</string>
+			<key>Persistent ID</key><string>95C126815B0BF033</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Sound%20Tribe%20Sector%209/2008%20-%20Peaceblaster%20(The%20New%20Orleans%20Make%20It%20Right%20Remixes)/25%20Hidden%20Hand,%20Hidden%20Fist%20(Da%20Ticklah%20Remix).m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13280</key>
+		<key>29959</key>
 		<dict>
-			<key>Track ID</key><integer>13280</integer>
+			<key>Track ID</key><integer>29959</integer>
 			<key>Name</key><string>Symptom Finger</string>
 			<key>Artist</key><string>The Faint</string>
 			<key>Album</key><string>Wet from Birth</string>
@@ -2325,7 +2324,7 @@
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2004</integer>
 			<key>Date Modified</key><date>2018-09-13T00:34:43Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>262</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2337,15 +2336,15 @@
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>4</integer>
 			<key>Sort Artist</key><string>Faint</string>
-			<key>Persistent ID</key><string>B49C6F691F5BB395</string>
+			<key>Persistent ID</key><string>3A38F1F7BD0012FA</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/The%20Faint/2004%20-%20Wet%20From%20Birth/09%20Symptom%20Finger.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13282</key>
+		<key>29962</key>
 		<dict>
-			<key>Track ID</key><integer>13282</integer>
+			<key>Track ID</key><integer>29962</integer>
 			<key>Name</key><string>Donkey Ride</string>
 			<key>Artist</key><string>Mr Scruff &#38; Quantic</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -2360,7 +2359,7 @@
 			<key>Track Count</key><integer>25</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-15T21:24:39Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>226</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2369,15 +2368,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>CFC578D7EAC70CB6</string>
+			<key>Persistent ID</key><string>BA18B261253511E8</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/You%20Don't%20Know%20-%20Ninja%20Cuts%20-%20collection/1-05%20Donkey%20Ride.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13284</key>
+		<key>29965</key>
 		<dict>
-			<key>Track ID</key><integer>13284</integer>
+			<key>Track ID</key><integer>29965</integer>
 			<key>Name</key><string>Atomic Moog (The Qemists remix)</string>
 			<key>Artist</key><string>Coldcut</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -2392,7 +2391,7 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-15T21:24:40Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>242</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2402,15 +2401,15 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>8BB0EE1B05B08430</string>
+			<key>Persistent ID</key><string>2252FDEC98F50B37</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/You%20Don't%20Know%20-%20Ninja%20Cuts%20-%20collection/2-08%20Atomic%20Moog%20(The%20Qemists%20remix).mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13286</key>
+		<key>29968</key>
 		<dict>
-			<key>Track ID</key><integer>13286</integer>
+			<key>Track ID</key><integer>29968</integer>
 			<key>Name</key><string>The Art Of Kissing</string>
 			<key>Artist</key><string>The Long Lost</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -2425,7 +2424,7 @@
 			<key>Track Count</key><integer>24</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>Date Modified</key><date>2018-09-15T21:24:39Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>220</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2437,15 +2436,15 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Long Lost</string>
 			<key>Sort Name</key><string>Art Of Kissing</string>
-			<key>Persistent ID</key><string>9760EBEE6891E46E</string>
+			<key>Persistent ID</key><string>089131E2007BEDE2</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/You%20Don't%20Know%20-%20Ninja%20Cuts%20-%20collection/2-20%20The%20Art%20Of%20Kissing.mp3</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13288</key>
+		<key>29971</key>
 		<dict>
-			<key>Track ID</key><integer>13288</integer>
+			<key>Track ID</key><integer>29971</integer>
 			<key>Name</key><string>I Am a Decent Man</string>
 			<key>Artist</key><string>Gamers In Exile</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -2459,7 +2458,7 @@
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2018-09-15T21:55:46Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:27Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2471,16 +2470,16 @@
 			<key>Normalization</key><integer>1072</integer>
 			<key>Compilation</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>C4EDB4E6395FC4B2</string>
+			<key>Persistent ID</key><string>6B185842D3975D77</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Tigerbeat6%20Inc.%20-%20Collection/01%20I%20Am%20a%20Decent%20Man.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13290</key>
+		<key>29974</key>
 		<dict>
-			<key>Track ID</key><integer>13290</integer>
+			<key>Track ID</key><integer>29974</integer>
 			<key>Name</key><string>Hallucination Acid Lobot</string>
 			<key>Artist</key><string>Com.A</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -2494,7 +2493,7 @@
 			<key>Track Number</key><integer>25</integer>
 			<key>Year</key><integer>2001</integer>
 			<key>Date Modified</key><date>2018-09-15T21:55:47Z</date>
-			<key>Date Added</key><date>2019-10-20T20:22:28Z</date>
+			<key>Date Added</key><date>2021-06-25T19:45:24Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>GK</string>
@@ -2504,12 +2503,12 @@
 			<key>Normalization</key><integer>4040</integer>
 			<key>Compilation</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
-			<key>Persistent ID</key><string>A77F5DC4FE46B3BC</string>
+			<key>Persistent ID</key><string>1589BF3C1AF4D660</string>
 			<key>Track Type</key><string>File</string>
 			<key>Purchased</key><true/>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Tigerbeat6%20Inc.%20-%20Collection/25%20Hallucination%20Acid%20Lobot.m4a</string>
-			<key>File Folder Count</key><integer>-1</integer>
-			<key>Library Folder Count</key><integer>-1</integer>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
 	</dict>
 	<key>Playlists</key>
@@ -2517,241 +2516,241 @@
 		<dict>
 			<key>Name</key><string>Electronica With Vocals</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>31126</integer>
-			<key>Playlist Persistent ID</key><string>619144123B34F12F</string>
+			<key>Playlist ID</key><integer>29977</integer>
+			<key>Playlist Persistent ID</key><string>063EA8C524692B1F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>13180</integer>
+					<key>Track ID</key><integer>29863</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13182</integer>
+					<key>Track ID</key><integer>9748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13218</integer>
+					<key>Track ID</key><integer>29899</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13274</integer>
+					<key>Track ID</key><integer>29953</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13278</integer>
+					<key>Track ID</key><integer>29956</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13276</integer>
+					<key>Track ID</key><integer>6328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7026</integer>
+					<key>Track ID</key><integer>29848</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13208</integer>
+					<key>Track ID</key><integer>29887</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13212</integer>
+					<key>Track ID</key><integer>29430</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13282</integer>
+					<key>Track ID</key><integer>29962</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7024</integer>
+					<key>Track ID</key><integer>29845</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13158</integer>
+					<key>Track ID</key><integer>29857</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13178</integer>
+					<key>Track ID</key><integer>28525</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8218</integer>
+					<key>Track ID</key><integer>29412</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13286</integer>
+					<key>Track ID</key><integer>29968</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13270</integer>
+					<key>Track ID</key><integer>28903</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13204</integer>
+					<key>Track ID</key><integer>28894</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13248</integer>
+					<key>Track ID</key><integer>29932</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13246</integer>
+					<key>Track ID</key><integer>29929</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13244</integer>
+					<key>Track ID</key><integer>29926</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13156</integer>
+					<key>Track ID</key><integer>29854</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13186</integer>
+					<key>Track ID</key><integer>29869</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13272</integer>
+					<key>Track ID</key><integer>29950</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8740</integer>
+					<key>Track ID</key><integer>6208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13206</integer>
+					<key>Track ID</key><integer>29884</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13174</integer>
+					<key>Track ID</key><integer>28513</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13176</integer>
+					<key>Track ID</key><integer>28516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13268</integer>
+					<key>Track ID</key><integer>28900</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13266</integer>
+					<key>Track ID</key><integer>29947</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13264</integer>
+					<key>Track ID</key><integer>29944</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13240</integer>
+					<key>Track ID</key><integer>29434</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13202</integer>
+					<key>Track ID</key><integer>28891</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13210</integer>
+					<key>Track ID</key><integer>29890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13242</integer>
+					<key>Track ID</key><integer>29923</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13184</integer>
+					<key>Track ID</key><integer>29866</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13262</integer>
+					<key>Track ID</key><integer>6352</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13200</integer>
+					<key>Track ID</key><integer>28888</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13172</integer>
+					<key>Track ID</key><integer>28507</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13288</integer>
+					<key>Track ID</key><integer>29971</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13260</integer>
+					<key>Track ID</key><integer>29941</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13280</integer>
+					<key>Track ID</key><integer>29959</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13254</integer>
+					<key>Track ID</key><integer>29938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13170</integer>
+					<key>Track ID</key><integer>28504</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7028</integer>
+					<key>Track ID</key><integer>28840</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13198</integer>
+					<key>Track ID</key><integer>28885</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13168</integer>
+					<key>Track ID</key><integer>28501</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13196</integer>
+					<key>Track ID</key><integer>29881</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13194</integer>
+					<key>Track ID</key><integer>29878</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13190</integer>
+					<key>Track ID</key><integer>29875</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13188</integer>
+					<key>Track ID</key><integer>29872</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13252</integer>
+					<key>Track ID</key><integer>28897</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13166</integer>
+					<key>Track ID</key><integer>28498</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6990</integer>
+					<key>Track ID</key><integer>28810</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13250</integer>
+					<key>Track ID</key><integer>29935</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13290</integer>
+					<key>Track ID</key><integer>29974</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13284</integer>
+					<key>Track ID</key><integer>29965</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13238</integer>
+					<key>Track ID</key><integer>29920</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13236</integer>
+					<key>Track ID</key><integer>29917</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13234</integer>
+					<key>Track ID</key><integer>29914</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7018</integer>
+					<key>Track ID</key><integer>29831</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7018</integer>
+					<key>Track ID</key><integer>29831</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13162</integer>
+					<key>Track ID</key><integer>29860</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7022</integer>
+					<key>Track ID</key><integer>29842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13232</integer>
+					<key>Track ID</key><integer>29911</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13230</integer>
+					<key>Track ID</key><integer>29908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6992</integer>
+					<key>Track ID</key><integer>28813</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13228</integer>
+					<key>Track ID</key><integer>29905</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13226</integer>
+					<key>Track ID</key><integer>29902</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13164</integer>
+					<key>Track ID</key><integer>28470</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13220</integer>
+					<key>Track ID</key><integer>6350</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13214</integer>
+					<key>Track ID</key><integer>29893</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13180</integer>
+					<key>Track ID</key><integer>29863</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13182</integer>
+					<key>Track ID</key><integer>9748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13216</integer>
+					<key>Track ID</key><integer>29896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7030</integer>
+					<key>Track ID</key><integer>29851</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7020</integer>
+					<key>Track ID</key><integer>29834</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6962</integer>
+					<key>Track ID</key><integer>29386</integer>
 				</dict>
 			</array>
 		</dict>
