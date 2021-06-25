@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2021-03-19T19:05:08Z</date>
+	<key>Date</key><date>2021-05-13T16:06:30Z</date>
 	<key>Application Version</key><string>1.0.6.10</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>17367F639663C89A</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4944</key>
+		<key>4901</key>
 		<dict>
-			<key>Track ID</key><integer>4944</integer>
+			<key>Track ID</key><integer>4901</integer>
 			<key>Name</key><string>I. Allegro moderato (Piano Trio in D - Korpo)</string>
 			<key>Artist</key><string>The Essential Sibelius</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -28,8 +28,11 @@
 			<key>Date Added</key><date>2021-02-01T04:35:54Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702903705</integer>
+			<key>Play Date UTC</key><date>2021-05-03T23:21:45Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Essential Sibelius</string>
@@ -39,9 +42,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4946</key>
+		<key>4903</key>
 		<dict>
-			<key>Track ID</key><integer>4946</integer>
+			<key>Track ID</key><integer>4903</integer>
 			<key>Name</key><string>IV. Tempo I (Florestan - 1889)</string>
 			<key>Artist</key><string>Folke Grasbeck</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -56,8 +59,11 @@
 			<key>Date Added</key><date>2021-02-01T04:38:07Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702963984</integer>
+			<key>Play Date UTC</key><date>2021-05-04T16:06:24Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61F63F8AE18114BB</string>
@@ -66,9 +72,34 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4950</key>
+		<key>4905</key>
 		<dict>
-			<key>Track ID</key><integer>4950</integer>
+			<key>Track ID</key><integer>4905</integer>
+			<key>Name</key><string>III. Andante (Florestan - 1889)</string>
+			<key>Artist</key><string>Folke Grasbeck</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2058677</integer>
+			<key>Total Time</key><integer>248803</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1889</integer>
+			<key>Date Modified</key><date>2021-02-01T04:41:59Z</date>
+			<key>Date Added</key><date>2021-02-01T04:38:07Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC3B1BCC870764D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1889%20-%20Florestan%20(piano)/Folke%20Grasbeck/03%20-%20III.%20Andante%20(Florestan%20-%201889).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4907</key>
+		<dict>
+			<key>Track ID</key><integer>4907</integer>
 			<key>Name</key><string>II. Molto moderato (Florestan - 1889)</string>
 			<key>Artist</key><string>Folke Grasbeck</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -83,11 +114,11 @@
 			<key>Date Added</key><date>2021-02-01T04:38:07Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3694980056</integer>
-			<key>Play Date UTC</key><date>2021-02-01T07:20:56Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702963848</integer>
+			<key>Play Date UTC</key><date>2021-05-04T16:04:08Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1B57BC0CCEFBBBA2</string>
@@ -96,9 +127,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4954</key>
+		<key>4909</key>
 		<dict>
-			<key>Track ID</key><integer>4954</integer>
+			<key>Track ID</key><integer>4909</integer>
 			<key>Name</key><string>III. Vivace (Sonata in F for Violin - 1889)</string>
 			<key>Artist</key><string>Kuusisto - Grasbeck</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -112,7 +143,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0F39E8DBBDE826A3</string>
@@ -121,9 +152,60 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4968</key>
+		<key>4911</key>
 		<dict>
-			<key>Track ID</key><integer>4968</integer>
+			<key>Track ID</key><integer>4911</integer>
+			<key>Name</key><string>II. Andante (Sonata in F for Violin - 1889)</string>
+			<key>Artist</key><string>Kuusisto - Grasbeck</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3048216</integer>
+			<key>Total Time</key><integer>363830</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1889</integer>
+			<key>Date Modified</key><date>2021-02-01T05:54:10Z</date>
+			<key>Date Added</key><date>2021-02-01T05:53:08Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9136AF031C9FC2A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1889%20-%20Sonata%20in%20F%20for%20Violin/Kuusisto%20-%20Grasbeck/02%20-%20II.%20Andante%20(Sonata%20in%20F%20for%20Violin%20-%201889).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4913</key>
+		<dict>
+			<key>Track ID</key><integer>4913</integer>
+			<key>Name</key><string>IV. Allegro (String Quartet in am - 1889)</string>
+			<key>Artist</key><string>Tempera Quartet</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4444275</integer>
+			<key>Total Time</key><integer>540563</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1889</integer>
+			<key>Date Modified</key><date>2021-02-01T05:55:15Z</date>
+			<key>Date Added</key><date>2021-02-01T05:54:29Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9EBDB672D1D089F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1889%20-%20String%20Quartet%20in%20am/Tempera%20Quartet/04%20-%20IV.%20Allegro%20(String%20Quartet%20in%20am%20-%201889).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4915</key>
+		<dict>
+			<key>Track ID</key><integer>4915</integer>
 			<key>Name</key><string>V. Moderato-Vivace (Piano Quintet in gm)</string>
 			<key>Artist</key><string>The Essential Sibelius</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -137,7 +219,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Essential Sibelius</string>
@@ -147,9 +229,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4970</key>
+		<key>4917</key>
 		<dict>
-			<key>Track ID</key><integer>4970</integer>
+			<key>Track ID</key><integer>4917</integer>
 			<key>Name</key><string>IV. Scherzo, Vivacissimo (Piano Quintet in gm)</string>
 			<key>Artist</key><string>The Essential Sibelius</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -162,8 +244,11 @@
 			<key>Date Added</key><date>2021-02-01T05:56:04Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702905949</integer>
+			<key>Play Date UTC</key><date>2021-05-03T23:59:09Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>Essential Sibelius</string>
@@ -173,9 +258,91 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4986</key>
+		<key>4919</key>
 		<dict>
-			<key>Track ID</key><integer>4986</integer>
+			<key>Track ID</key><integer>4919</integer>
+			<key>Name</key><string>II. Intermezzo, Moderato (Piano Quintet in gm)</string>
+			<key>Artist</key><string>The Essential Sibelius</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2687834</integer>
+			<key>Total Time</key><integer>325723</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1889</integer>
+			<key>Date Modified</key><date>2021-02-01T05:56:58Z</date>
+			<key>Date Added</key><date>2021-02-01T05:56:04Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3703678495</integer>
+			<key>Play Date UTC</key><date>2021-05-12T22:34:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Essential Sibelius</string>
+			<key>Persistent ID</key><string>1276980DE4EA22FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1890%20-%20Piano%20Quintet%20in%20gm/The%20Essential%20Sibelius/02%20-%20II.%20Intermezzo,%20Moderato%20(Piano%20Quintet%20in%20gm).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4921</key>
+		<dict>
+			<key>Track ID</key><integer>4921</integer>
+			<key>Name</key><string>I. Grave-Allegro (Piano Quintet in gm)</string>
+			<key>Artist</key><string>The Essential Sibelius</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5415637</integer>
+			<key>Total Time</key><integer>659363</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1889</integer>
+			<key>Date Modified</key><date>2021-02-01T05:56:58Z</date>
+			<key>Date Added</key><date>2021-02-01T05:56:04Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702905012</integer>
+			<key>Play Date UTC</key><date>2021-05-03T23:43:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Essential Sibelius</string>
+			<key>Persistent ID</key><string>406BAD3AE6A45E83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1890%20-%20Piano%20Quintet%20in%20gm/The%20Essential%20Sibelius/01%20-%20I.%20Grave-Allegro%20(Piano%20Quintet%20in%20gm).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4923</key>
+		<dict>
+			<key>Track ID</key><integer>4923</integer>
+			<key>Name</key><string>III. Kullervo and his Sister (Kullervo Op 7 - 1892)</string>
+			<key>Artist</key><string>Vanska - Lahti</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12603345</integer>
+			<key>Total Time</key><integer>1538453</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1892</integer>
+			<key>Date Modified</key><date>2021-02-01T05:59:57Z</date>
+			<key>Date Added</key><date>2021-02-01T05:59:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1EE208F8F563C545</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1892%20-%20Kullervo%20Op%207/Vanska%20-%20Lahti/03%20-%20III.%20Kullervo%20and%20his%20Sister%20(Kullervo%20Op%207%20-%201892).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4925</key>
+		<dict>
+			<key>Track ID</key><integer>4925</integer>
 			<key>Name</key><string>II. Kullervo's Youth (Kullervo Op 7 - 1892)</string>
 			<key>Artist</key><string>Vanska - Lahti</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -197,9 +364,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4990</key>
+		<key>4927</key>
 		<dict>
-			<key>Track ID</key><integer>4990</integer>
+			<key>Track ID</key><integer>4927</integer>
 			<key>Name</key><string>III. Alla marcia (Karelia Suite Op 11)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -214,7 +381,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0B17FABCA1D2C002</string>
 			<key>Track Type</key><string>File</string>
@@ -222,9 +390,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4992</key>
+		<key>4929</key>
 		<dict>
-			<key>Track ID</key><integer>4992</integer>
+			<key>Track ID</key><integer>4929</integer>
 			<key>Name</key><string>II. Ballade (Karelia Suite Op 11)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -239,7 +407,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E4E21F4137B91662</string>
 			<key>Track Type</key><string>File</string>
@@ -247,9 +416,37 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5002</key>
+		<key>4931</key>
 		<dict>
-			<key>Track ID</key><integer>5002</integer>
+			<key>Track ID</key><integer>4931</integer>
+			<key>Name</key><string>Impromptu in B Minor Op 5</string>
+			<key>Artist</key><string>Folke Grasbeck</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1864655</integer>
+			<key>Total Time</key><integer>225083</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1893</integer>
+			<key>Date Modified</key><date>2021-02-01T06:03:05Z</date>
+			<key>Date Added</key><date>2021-02-01T06:02:23Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3695967915</integer>
+			<key>Play Date UTC</key><date>2021-02-12T17:45:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6CB113D806A05B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1893%20-%20Six%20Impromptus%20Op%205/Folke%20Grasbeck/01%20-%20Impromptu%20in%20B%20Minor%20Op%205.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4933</key>
+		<dict>
+			<key>Track ID</key><integer>4933</integer>
 			<key>Name</key><string>II. The Path of His Beloved (Rakastava - The Lover)</string>
 			<key>Artist</key><string>Vanska - Lahti</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -262,9 +459,9 @@
 			<key>Date Added</key><date>2021-02-01T06:04:12Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695397992</integer>
-			<key>Play Date UTC</key><date>2021-02-06T03:26:32Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702107479</integer>
+			<key>Play Date UTC</key><date>2021-04-24T18:11:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Artwork Count</key><integer>1</integer>
@@ -274,9 +471,65 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5018</key>
+		<key>4935</key>
 		<dict>
-			<key>Track ID</key><integer>5018</integer>
+			<key>Track ID</key><integer>4935</integer>
+			<key>Name</key><string>II. Andantino (Sonata in F Op 41)</string>
+			<key>Artist</key><string>Folke Grasbeck</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3465258</integer>
+			<key>Total Time</key><integer>420843</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1893</integer>
+			<key>Date Modified</key><date>2021-02-01T06:08:27Z</date>
+			<key>Date Added</key><date>2021-02-01T06:07:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702623105</integer>
+			<key>Play Date UTC</key><date>2021-04-30T17:25:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF236861E9503C7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1893%20-%20Sonata%20in%20F%20Op%2041%20(piano)/Folke%20Grasbeck/02%20-%20II.%20Andantino%20(Sonata%20in%20F%20Op%2041).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4937</key>
+		<dict>
+			<key>Track ID</key><integer>4937</integer>
+			<key>Name</key><string>I. Allegro molto (Sonata in F Op 41)</string>
+			<key>Artist</key><string>Folke Grasbeck</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2933348</integer>
+			<key>Total Time</key><integer>355790</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1893</integer>
+			<key>Date Modified</key><date>2021-02-01T06:08:28Z</date>
+			<key>Date Added</key><date>2021-02-01T06:07:51Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3701775000</integer>
+			<key>Play Date UTC</key><date>2021-04-20T21:50:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D952659312F597A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1893%20-%20Sonata%20in%20F%20Op%2041%20(piano)/Folke%20Grasbeck/01%20-%20I.%20Allegro%20molto%20(Sonata%20in%20F%20Op%2041).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4939</key>
+		<dict>
+			<key>Track ID</key><integer>4939</integer>
 			<key>Name</key><string>The Wood Nymph Op.15</string>
 			<key>Artist</key><string>Vanska - Lahti</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -303,9 +556,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5020</key>
+		<key>4941</key>
 		<dict>
-			<key>Track ID</key><integer>5020</integer>
+			<key>Track ID</key><integer>4941</integer>
 			<key>Name</key><string>V. Ballad (Kung Kristian II Op 27)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -318,8 +571,12 @@
 			<key>Date Added</key><date>2021-02-01T06:10:38Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702548198</integer>
+			<key>Play Date UTC</key><date>2021-04-29T20:36:38Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E8E31E89C8161915</string>
 			<key>Track Type</key><string>File</string>
@@ -327,9 +584,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5022</key>
+		<key>4943</key>
 		<dict>
-			<key>Track ID</key><integer>5022</integer>
+			<key>Track ID</key><integer>4943</integer>
 			<key>Name</key><string>IV. Serenade (Kung Kristian II Op 27)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -342,8 +599,12 @@
 			<key>Date Added</key><date>2021-02-01T06:10:38Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3703581551</integer>
+			<key>Play Date UTC</key><date>2021-05-11T19:39:11Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2BDA4776D1E6B718</string>
 			<key>Track Type</key><string>File</string>
@@ -351,9 +612,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5030</key>
+		<key>4945</key>
 		<dict>
-			<key>Track ID</key><integer>5030</integer>
+			<key>Track ID</key><integer>4945</integer>
 			<key>Name</key><string>Finlandia Op 26</string>
 			<key>Artist</key><string>Vanska - Lahti</string>
 			<key>Album</key><string>Symphony 5 &#38; Tone Poems</string>
@@ -376,9 +637,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5034</key>
+		<key>4947</key>
 		<dict>
-			<key>Track ID</key><integer>5034</integer>
+			<key>Track ID</key><integer>4947</integer>
 			<key>Name</key><string>II. Scena (Scènes historiques I Op 25)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -391,11 +652,12 @@
 			<key>Date Added</key><date>2021-02-01T06:12:17Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695106336</integer>
-			<key>Play Date UTC</key><date>2021-02-02T18:25:36Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702969709</integer>
+			<key>Play Date UTC</key><date>2021-05-04T17:41:49Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DE3A8071D27159F9</string>
 			<key>Track Type</key><string>File</string>
@@ -403,9 +665,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5036</key>
+		<key>4949</key>
 		<dict>
-			<key>Track ID</key><integer>5036</integer>
+			<key>Track ID</key><integer>4949</integer>
 			<key>Name</key><string>I. All'Overtura (Scènes historiques I Op 25)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -422,7 +684,8 @@
 			<key>Play Date</key><integer>3698918716</integer>
 			<key>Play Date UTC</key><date>2021-03-18T20:25:16Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>326747E6F01FD514</string>
 			<key>Track Type</key><string>File</string>
@@ -430,9 +693,37 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5042</key>
+		<key>4951</key>
 		<dict>
-			<key>Track ID</key><integer>5042</integer>
+			<key>Track ID</key><integer>4951</integer>
+			<key>Name</key><string>VI. Demanten På Marssnon (Songs Op 36 - 1899)</string>
+			<key>Artist</key><string>Hynninen - Panula - Gothenburg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1530837</integer>
+			<key>Total Time</key><integer>184483</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1899</integer>
+			<key>Date Modified</key><date>2021-02-01T06:15:22Z</date>
+			<key>Date Added</key><date>2021-02-01T06:14:49Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3703158841</integer>
+			<key>Play Date UTC</key><date>2021-05-06T22:14:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A45A49C962B8E7FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1899%20-%20Songs%20Op%2036/Hynninen%20-%20Panula%20-%20Gothenburg/06%20-%20VI.%20Demanten%20Pa%CC%8A%20Marssnon%20(Songs%20Op%2036%20-%201899).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4953</key>
+		<dict>
+			<key>Track ID</key><integer>4953</integer>
 			<key>Name</key><string>II. Men Min Fagel Marks Dock Icke (Songs Op 36 - 1899)</string>
 			<key>Artist</key><string>Hynninen - Panula - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -445,11 +736,12 @@
 			<key>Date Added</key><date>2021-02-01T06:14:49Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3694993244</integer>
-			<key>Play Date UTC</key><date>2021-02-01T11:00:44Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702136281</integer>
+			<key>Play Date UTC</key><date>2021-04-25T02:11:21Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E44C914D249C6872</string>
 			<key>Track Type</key><string>File</string>
@@ -457,9 +749,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5044</key>
+		<key>4955</key>
 		<dict>
-			<key>Track ID</key><integer>5044</integer>
+			<key>Track ID</key><integer>4955</integer>
 			<key>Name</key><string>I. Svarta Rosor (Songs Op 36 - 1899)</string>
 			<key>Artist</key><string>Hynninen - Panula - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -472,11 +764,12 @@
 			<key>Date Added</key><date>2021-02-01T06:14:49Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3698904453</integer>
-			<key>Play Date UTC</key><date>2021-03-18T16:27:33Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702878467</integer>
+			<key>Play Date UTC</key><date>2021-05-03T16:21:07Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F09E10A7CBC50D3A</string>
 			<key>Track Type</key><string>File</string>
@@ -484,9 +777,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5046</key>
+		<key>4957</key>
 		<dict>
-			<key>Track ID</key><integer>5046</integer>
+			<key>Track ID</key><integer>4957</integer>
 			<key>Name</key><string>V. Flickan Kom Ifrån Sin Alsklings Mote (Songs Op 37 - 1902)</string>
 			<key>Artist</key><string>Van Otter - Forsberg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -504,7 +797,7 @@
 			<key>Play Date</key><integer>3695283891</integer>
 			<key>Play Date UTC</key><date>2021-02-04T19:44:51Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C5BE119DD7511B40</string>
@@ -513,9 +806,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5052</key>
+		<key>4959</key>
 		<dict>
-			<key>Track ID</key><integer>5052</integer>
+			<key>Track ID</key><integer>4959</integer>
 			<key>Name</key><string>IX. Romance in D flat major10 Pieces Op. 24</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -533,7 +826,7 @@
 			<key>Play Date</key><integer>3697527108</integer>
 			<key>Play Date UTC</key><date>2021-03-02T18:51:48Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>24DD9CC1844F2F0D</string>
@@ -543,9 +836,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5056</key>
+		<key>4961</key>
 		<dict>
-			<key>Track ID</key><integer>5056</integer>
+			<key>Track ID</key><integer>4961</integer>
 			<key>Name</key><string>VI. Idylle10 Pieces Op. 24</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -559,11 +852,11 @@
 			<key>Date Added</key><date>2021-02-01T06:17:17Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695361038</integer>
-			<key>Play Date UTC</key><date>2021-02-05T17:10:38Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702532249</integer>
+			<key>Play Date UTC</key><date>2021-04-29T16:10:49Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>96368F5CC4638F62</string>
@@ -573,9 +866,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5058</key>
+		<key>4963</key>
 		<dict>
-			<key>Track ID</key><integer>5058</integer>
+			<key>Track ID</key><integer>4963</integer>
 			<key>Name</key><string>V. Waltz10 Pieces Op. 24</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -593,7 +886,7 @@
 			<key>Play Date</key><integer>3696482452</integer>
 			<key>Play Date UTC</key><date>2021-02-18T16:40:52Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C5F4C7206845FF5C</string>
@@ -603,9 +896,67 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5066</key>
+		<key>4965</key>
 		<dict>
-			<key>Track ID</key><integer>5066</integer>
+			<key>Track ID</key><integer>4965</integer>
+			<key>Name</key><string>III. Caprice (10 Pieces Op 24)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6442684</integer>
+			<key>Total Time</key><integer>196800</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1903</integer>
+			<key>Date Modified</key><date>2021-02-01T06:17:57Z</date>
+			<key>Date Added</key><date>2021-02-01T06:17:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702901450</integer>
+			<key>Play Date UTC</key><date>2021-05-03T22:44:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9435C02F7519AE8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1903%20-%2010%20Pieces%20Op.%2024%20(piano)/Erik%20T.%20Tawaststjerna/03%20-%20III.%20Caprice%20(10%20Pieces%20Op%2024).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4967</key>
+		<dict>
+			<key>Track ID</key><integer>4967</integer>
+			<key>Name</key><string>II. På Verandan Vid Havet (Songs Op 38 - 1903)</string>
+			<key>Artist</key><string>Gothenburg - Panula</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1609045</integer>
+			<key>Total Time</key><integer>194057</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1903</integer>
+			<key>Date Modified</key><date>2021-02-01T06:19:53Z</date>
+			<key>Date Added</key><date>2021-02-01T06:19:30Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3702964184</integer>
+			<key>Play Date UTC</key><date>2021-05-04T16:09:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58DFA985868F9A31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1903%20-%20Songs%20Op%2038/Gothenburg%20-%20Panula/02%20-%20II.%20Pa%CC%8A%20Verandan%20Vid%20Havet%20(Songs%20Op%2038%20-%201903).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4969</key>
+		<dict>
+			<key>Track ID</key><integer>4969</integer>
 			<key>Name</key><string>Valse Triste Op 44 No 1 (1903)</string>
 			<key>Artist</key><string>Vanska - Lahti</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -628,9 +979,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5068</key>
+		<key>4971</key>
 		<dict>
-			<key>Track ID</key><integer>5068</integer>
+			<key>Track ID</key><integer>4971</integer>
 			<key>Name</key><string>II. Adagio di molto (Concerto for Violin in dm Op 47)</string>
 			<key>Artist</key><string>Kavakos - Vanska - Lahti</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -643,11 +994,14 @@
 			<key>Date Added</key><date>2021-02-01T06:21:22Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695358649</integer>
-			<key>Play Date UTC</key><date>2021-02-05T16:30:49Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702641012</integer>
+			<key>Play Date UTC</key><date>2021-04-30T22:23:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-05T16:24:49Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BA119A02F05FEE47</string>
 			<key>Track Type</key><string>File</string>
@@ -655,9 +1009,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5072</key>
+		<key>4973</key>
 		<dict>
-			<key>Track ID</key><integer>5072</integer>
+			<key>Track ID</key><integer>4973</integer>
 			<key>Name</key><string>I. Allegro moderato (Concerto for Violin in dm Op 47)</string>
 			<key>Artist</key><string>Kavakos - Vanska - Lahti</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -670,8 +1024,12 @@
 			<key>Date Added</key><date>2021-02-01T06:21:22Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702825419</integer>
+			<key>Play Date UTC</key><date>2021-05-03T01:36:59Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>064BF540BFB9DCD1</string>
 			<key>Track Type</key><string>File</string>
@@ -679,9 +1037,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5074</key>
+		<key>4975</key>
 		<dict>
-			<key>Track ID</key><integer>5074</integer>
+			<key>Track ID</key><integer>4975</integer>
 			<key>Name</key><string>III. Commodo (Kyllikki Op 41)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -699,7 +1057,7 @@
 			<key>Play Date</key><integer>3695027632</integer>
 			<key>Play Date UTC</key><date>2021-02-01T20:33:52Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>01A13202954EA9C9</string>
@@ -709,9 +1067,67 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5086</key>
+		<key>4977</key>
 		<dict>
-			<key>Track ID</key><integer>5086</integer>
+			<key>Track ID</key><integer>4977</integer>
+			<key>Name</key><string>II. Andantino (Kyllikki Op 41)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8877888</integer>
+			<key>Total Time</key><integer>273600</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1904</integer>
+			<key>Date Modified</key><date>2021-02-01T06:22:38Z</date>
+			<key>Date Added</key><date>2021-02-01T06:22:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3699604163</integer>
+			<key>Play Date UTC</key><date>2021-03-26T18:49:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27E0CBA4862D3A04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1904%20-%20Kyllikki%20Op%2041%20(piano)/Erik%20T.%20Tawaststjerna/02%20-%20II.%20Andantino%20(Kyllikki%20Op%2041).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4979</key>
+		<dict>
+			<key>Track ID</key><integer>4979</integer>
+			<key>Name</key><string>VIII. Entr'acte (Pelleas Melisande Op 46)</string>
+			<key>Artist</key><string>Jarvi - Gothenburg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1517988</integer>
+			<key>Total Time</key><integer>180229</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1905</integer>
+			<key>Date Modified</key><date>2021-02-01T06:23:27Z</date>
+			<key>Date Added</key><date>2021-02-01T06:22:52Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3702879585</integer>
+			<key>Play Date UTC</key><date>2021-05-03T16:39:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>016F6C166A3B4D81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1905%20-%20Pelleas%20Melisande%20Op%2046/Jarvi%20-%20Gothenburg/08%20-%20VIII.%20Entr'acte%20(Pelleas%20Melisande%20Op%2046).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4981</key>
+		<dict>
+			<key>Track ID</key><integer>4981</integer>
 			<key>Name</key><string>V. The Three Blind Sisters (Pelleas Melisande Op 46)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -724,11 +1140,12 @@
 			<key>Date Added</key><date>2021-02-01T06:22:52Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695099394</integer>
-			<key>Play Date UTC</key><date>2021-02-02T16:29:54Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702886945</integer>
+			<key>Play Date UTC</key><date>2021-05-03T18:42:25Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>4726A74422870B59</string>
 			<key>Track Type</key><string>File</string>
@@ -736,9 +1153,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5088</key>
+		<key>4983</key>
 		<dict>
-			<key>Track ID</key><integer>5088</integer>
+			<key>Track ID</key><integer>4983</integer>
 			<key>Name</key><string>IV. By a Spring in the Park (Pelleas Melisande Op 46)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -755,7 +1172,8 @@
 			<key>Play Date</key><integer>3695041383</integer>
 			<key>Play Date UTC</key><date>2021-02-02T00:23:03Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>2</integer>
 			<key>Persistent ID</key><string>4671904B4B13087B</string>
 			<key>Track Type</key><string>File</string>
@@ -763,9 +1181,37 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5096</key>
+		<key>4985</key>
 		<dict>
-			<key>Track ID</key><integer>5096</integer>
+			<key>Track ID</key><integer>4985</integer>
+			<key>Name</key><string>I. At the Castle Gate (Pelleas Melisande Op 46)</string>
+			<key>Artist</key><string>Jarvi - Gothenburg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1976158</integer>
+			<key>Total Time</key><integer>236270</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1905</integer>
+			<key>Date Modified</key><date>2021-02-01T06:23:28Z</date>
+			<key>Date Added</key><date>2021-02-01T06:22:52Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3700111424</integer>
+			<key>Play Date UTC</key><date>2021-04-01T15:43:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>E337C2ADF2BDAC82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1905%20-%20Pelleas%20Melisande%20Op%2046/Jarvi%20-%20Gothenburg/01%20-%20I.%20At%20the%20Castle%20Gate%20(Pelleas%20Melisande%20Op%2046).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4987</key>
+		<dict>
+			<key>Track ID</key><integer>4987</integer>
 			<key>Name</key><string>Pohjola's Daughter Op 49</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -779,7 +1225,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DB131F5DD31C52A3</string>
 			<key>Track Type</key><string>File</string>
@@ -787,9 +1234,99 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5110</key>
+		<key>4989</key>
 		<dict>
-			<key>Track ID</key><integer>5110</integer>
+			<key>Track ID</key><integer>4989</integer>
+			<key>Name</key><string>VII. Tempo di menuetto (10 Pieces Op 58)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5629373</integer>
+			<key>Total Time</key><integer>171000</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1909</integer>
+			<key>Date Modified</key><date>2021-02-01T06:26:58Z</date>
+			<key>Date Added</key><date>2021-02-01T06:26:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3702793908</integer>
+			<key>Play Date UTC</key><date>2021-05-02T16:51:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F98BA4170D4E6BD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1909%20-%2010%20Pieces%20Op%2058%20(piano)/Erik%20T.%20Tawaststjerna/07%20-%20VII.%20Tempo%20di%20menuetto%20(10%20Pieces%20Op%2058).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4991</key>
+		<dict>
+			<key>Track ID</key><integer>4991</integer>
+			<key>Name</key><string>IV. Le berger (10 Pieces Op 58)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5983661</integer>
+			<key>Total Time</key><integer>182000</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1909</integer>
+			<key>Date Modified</key><date>2021-02-01T06:26:58Z</date>
+			<key>Date Added</key><date>2021-02-01T06:26:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3700026305</integer>
+			<key>Play Date UTC</key><date>2021-03-31T16:05:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A486905435699050</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1909%20-%2010%20Pieces%20Op%2058%20(piano)/Erik%20T.%20Tawaststjerna/04%20-%20IV.%20Le%20berger%20(10%20Pieces%20Op%2058).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4993</key>
+		<dict>
+			<key>Track ID</key><integer>4993</integer>
+			<key>Name</key><string>III. Air varie (10 Pieces Op 58)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8848239</integer>
+			<key>Total Time</key><integer>271000</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1909</integer>
+			<key>Date Modified</key><date>2021-02-01T06:27:00Z</date>
+			<key>Date Added</key><date>2021-02-01T06:26:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3699967893</integer>
+			<key>Play Date UTC</key><date>2021-03-30T23:51:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78F7D17FA2CEF9D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1909%20-%2010%20Pieces%20Op%2058%20(piano)/Erik%20T.%20Tawaststjerna/03%20-%20III.%20Air%20varie%20(10%20Pieces%20Op%2058).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4995</key>
+		<dict>
+			<key>Track ID</key><integer>4995</integer>
 			<key>Name</key><string>V. Allegro (String Quartet in dm - Voces Intimae)</string>
 			<key>Artist</key><string>Tempera Quartet</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -804,7 +1341,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>28EEE7CC437FB887</string>
@@ -813,9 +1350,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5118</key>
+		<key>4997</key>
 		<dict>
-			<key>Track ID</key><integer>5118</integer>
+			<key>Track ID</key><integer>4997</integer>
 			<key>Name</key><string>I. Andante - Allegro (String Quartet in dm - Voces Intimae)</string>
 			<key>Artist</key><string>Tempera Quartet</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -829,11 +1366,11 @@
 			<key>Date Added</key><date>2021-02-01T06:27:23Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3697172554</integer>
-			<key>Play Date UTC</key><date>2021-02-26T16:22:34Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702556877</integer>
+			<key>Play Date UTC</key><date>2021-04-29T23:01:17Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1D4258AB9E2D8978</string>
@@ -842,9 +1379,38 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5124</key>
+		<key>4999</key>
 		<dict>
-			<key>Track ID</key><integer>5124</integer>
+			<key>Track ID</key><integer>4999</integer>
+			<key>Name</key><string>II. Andante-Allegro (Sonatina in bm Op 67 No 3)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1796252</integer>
+			<key>Total Time</key><integer>214390</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1912</integer>
+			<key>Date Modified</key><date>2021-02-01T06:28:48Z</date>
+			<key>Date Added</key><date>2021-02-01T06:28:23Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3702641461</integer>
+			<key>Play Date UTC</key><date>2021-04-30T22:31:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DCC937A66C343D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1912%20-%20Three%20Sonatinas%20Op%2067%20(piano)/Erik%20T.%20Tawaststjerna/08%20-%20II.%20Andante-Allegro%20(Sonatina%20in%20bm%20Op%2067%20No%203).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5001</key>
+		<dict>
+			<key>Track ID</key><integer>5001</integer>
 			<key>Name</key><string>II. Andantino (Sonatina in E  Op 67 No 2)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -858,11 +1424,12 @@
 			<key>Date Added</key><date>2021-02-01T06:28:23Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3696916247</integer>
-			<key>Play Date UTC</key><date>2021-02-23T17:10:47Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3703680971</integer>
+			<key>Play Date UTC</key><date>2021-05-12T23:16:11Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D24286A9DB75FE7D</string>
 			<key>Track Type</key><string>File</string>
@@ -870,9 +1437,38 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5128</key>
+		<key>5003</key>
 		<dict>
-			<key>Track ID</key><integer>5128</integer>
+			<key>Track ID</key><integer>5003</integer>
+			<key>Name</key><string>I. Allegro (Sonatina in E  Op 67 No 2)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>992514</integer>
+			<key>Total Time</key><integer>116096</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1912</integer>
+			<key>Date Modified</key><date>2021-02-01T06:28:49Z</date>
+			<key>Date Added</key><date>2021-02-01T06:28:23Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3701664504</integer>
+			<key>Play Date UTC</key><date>2021-04-19T15:08:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88A5BEF0FD88EADE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1912%20-%20Three%20Sonatinas%20Op%2067%20(piano)/Erik%20T.%20Tawaststjerna/04%20-%20I.%20Allegro%20(Sonatina%20in%20E%20%20Op%2067%20No%202).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5005</key>
+		<dict>
+			<key>Track ID</key><integer>5005</integer>
 			<key>Name</key><string>III. Allegro moderato (Sonatina in f#m Op 67 No 1)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -886,11 +1482,12 @@
 			<key>Date Added</key><date>2021-02-01T06:28:23Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695041032</integer>
-			<key>Play Date UTC</key><date>2021-02-02T00:17:12Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702623222</integer>
+			<key>Play Date UTC</key><date>2021-04-30T17:27:02Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F095A7A225251AEC</string>
 			<key>Track Type</key><string>File</string>
@@ -898,9 +1495,38 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5132</key>
+		<key>5007</key>
 		<dict>
-			<key>Track ID</key><integer>5132</integer>
+			<key>Track ID</key><integer>5007</integer>
+			<key>Name</key><string>III. Allegro (Sonatina in E  Op 67 No 2)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>787597</integer>
+			<key>Total Time</key><integer>91029</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1912</integer>
+			<key>Date Modified</key><date>2021-02-01T06:28:49Z</date>
+			<key>Date Added</key><date>2021-02-01T06:28:23Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3703158955</integer>
+			<key>Play Date UTC</key><date>2021-05-06T22:15:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82C651DEAE20A435</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1912%20-%20Three%20Sonatinas%20Op%2067%20(piano)/Erik%20T.%20Tawaststjerna/06%20-%20III.%20Allegro%20(Sonatina%20in%20E%20%20Op%2067%20No%202).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5009</key>
+		<dict>
+			<key>Track ID</key><integer>5009</integer>
 			<key>Name</key><string>II. Largo (Sonatina in f#m Op 67 No 1)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -918,7 +1544,8 @@
 			<key>Play Date</key><integer>3698735021</integer>
 			<key>Play Date UTC</key><date>2021-03-16T17:23:41Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CEC752523BE2C071</string>
 			<key>Track Type</key><string>File</string>
@@ -926,9 +1553,63 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5142</key>
+		<key>5011</key>
 		<dict>
-			<key>Track ID</key><integer>5142</integer>
+			<key>Track ID</key><integer>5011</integer>
+			<key>Name</key><string>I. Allegro (Sonatina in f#m Op 67 No 1)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1317832</integer>
+			<key>Total Time</key><integer>155870</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1912</integer>
+			<key>Date Modified</key><date>2021-02-01T06:28:49Z</date>
+			<key>Date Added</key><date>2021-02-01T06:28:23Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3703332796</integer>
+			<key>Play Date UTC</key><date>2021-05-08T22:33:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7ABCD7E3F384DB51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1912%20-%20Three%20Sonatinas%20Op%2067%20(piano)/Erik%20T.%20Tawaststjerna/01%20-%20I.%20Allegro%20(Sonatina%20in%20f%23m%20Op%2067%20No%201).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5013</key>
+		<dict>
+			<key>Track ID</key><integer>5013</integer>
+			<key>Name</key><string>Luonnotar Op 70</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4036530</integer>
+			<key>Total Time</key><integer>488200</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1913</integer>
+			<key>Date Modified</key><date>2021-02-01T06:29:49Z</date>
+			<key>Date Added</key><date>2021-02-01T06:29:01Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6F0D552D2635146</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1913%20-%20Luonnotar/Bernstein%20-%20NYPhil/01%20-%20Luonnotar%20Op.%2070.m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5015</key>
+		<dict>
+			<key>Track ID</key><integer>5015</integer>
 			<key>Name</key><string>III. Auf dem Tanzvergnugen (4 Lyric Pieces Op 74)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -942,11 +1623,11 @@
 			<key>Date Added</key><date>2021-02-01T06:30:44Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695362727</integer>
-			<key>Play Date UTC</key><date>2021-02-05T17:38:47Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702901231</integer>
+			<key>Play Date UTC</key><date>2021-05-03T22:40:31Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>238921A88661EB0C</string>
@@ -956,9 +1637,72 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5150</key>
+		<key>5017</key>
 		<dict>
-			<key>Track ID</key><integer>5150</integer>
+			<key>Track ID</key><integer>5017</integer>
+			<key>Name</key><string>V. Granen (5 Pieces -The Trees - Op 75)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Album</key><string>Piano Music</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1582594</integer>
+			<key>Total Time</key><integer>182336</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1914</integer>
+			<key>Date Modified</key><date>2021-02-01T06:34:49Z</date>
+			<key>Date Added</key><date>2021-02-01T06:33:55Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>583399F47EB88BB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1914%20-%205%20Pieces%20-The%20Trees%20-%20Op%2075%20(piano)/Erik%20T.%20Tawaststjerna/05%20-%20V.%20Granen%20(5%20Pieces%20-The%20Trees%20-%20Op%2075).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5019</key>
+		<dict>
+			<key>Track ID</key><integer>5019</integer>
+			<key>Name</key><string>II. The Solitary Fir (5 Pieces -The Trees - Op 75)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Album Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Album</key><string>Sibelius: The Complete Original Piano Music (Vol. 5)</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4284623</integer>
+			<key>Total Time</key><integer>129194</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1914</integer>
+			<key>Date Modified</key><date>2021-02-01T06:34:49Z</date>
+			<key>Date Added</key><date>2021-02-01T06:33:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3700059399</integer>
+			<key>Play Date UTC</key><date>2021-04-01T01:16:39Z</date>
+			<key>Release Date</key><date>1987-01-31T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6333ECA6880190BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1914%20-%205%20Pieces%20-The%20Trees%20-%20Op%2075%20(piano)/Erik%20T.%20Tawaststjerna/02%20-%20II.%20The%20Solitary%20Fir%20(5%20Pieces%20-The%20Trees%20-%20Op%2075).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5021</key>
+		<dict>
+			<key>Track ID</key><integer>5021</integer>
 			<key>Name</key><string>IX. Arabesque (13 Pieces Op 76)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -972,11 +1716,11 @@
 			<key>Date Added</key><date>2021-02-01T06:36:01Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3697086782</integer>
-			<key>Play Date UTC</key><date>2021-02-25T16:33:02Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702902635</integer>
+			<key>Play Date UTC</key><date>2021-05-03T23:03:55Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BDA890365F787C59</string>
@@ -986,9 +1730,129 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5168</key>
+		<key>5023</key>
 		<dict>
-			<key>Track ID</key><integer>5168</integer>
+			<key>Track ID</key><integer>5023</integer>
+			<key>Name</key><string>II. Etude (13 Pieces Op 76)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>2618932</integer>
+			<key>Total Time</key><integer>77760</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>27</integer>
+			<key>Year</key><integer>1914</integer>
+			<key>Date Modified</key><date>2021-02-01T06:36:35Z</date>
+			<key>Date Added</key><date>2021-02-01T06:36:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702725799</integer>
+			<key>Play Date UTC</key><date>2021-05-01T21:56:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B834D32933086D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1914%20-%2013%20Pieces%20Op%2076%20(piano)/Erik%20T.%20Tawaststjerna/02%20-%20II.%20Etude%20(13%20Pieces%20Op%2076).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5025</key>
+		<dict>
+			<key>Track ID</key><integer>5025</integer>
+			<key>Name</key><string>I. Esquisse (13 Pieces Op 76)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>2311657</integer>
+			<key>Total Time</key><integer>68240</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>27</integer>
+			<key>Year</key><integer>1914</integer>
+			<key>Date Modified</key><date>2021-02-01T06:36:35Z</date>
+			<key>Date Added</key><date>2021-02-01T06:36:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702900367</integer>
+			<key>Play Date UTC</key><date>2021-05-03T22:26:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8B5CDBCA18A322D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1914%20-%2013%20Pieces%20Op%2076%20(piano)/Erik%20T.%20Tawaststjerna/01%20-%20I.%20Esquisse%20(13%20Pieces%20Op%2076).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5027</key>
+		<dict>
+			<key>Track ID</key><integer>5027</integer>
+			<key>Name</key><string>II. Devotion (Two Serious Melodies for Cello &#38; Orch Op 77)</string>
+			<key>Artist</key><string>Yolnnen - Vanska - Lahti</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1856200</integer>
+			<key>Total Time</key><integer>218910</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1914</integer>
+			<key>Date Modified</key><date>2021-02-01T06:37:11Z</date>
+			<key>Date Added</key><date>2021-02-01T06:36:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5357B9662426B7A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1914%20-%20Two%20Serious%20Melodies%20for%20Cello%20&#38;%20Orch%20Op%2077/Yolnnen%20-%20Vanska%20-%20Lahti/02%20-%20II.%20Devotion%20(Two%20Serious%20Melodies%20for%20Cello%20&#38;%20Orch%20Op%2077).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5029</key>
+		<dict>
+			<key>Track ID</key><integer>5029</integer>
+			<key>Name</key><string>Iris (5 Pieces - The Flowers - Op 85)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5924379</integer>
+			<key>Total Time</key><integer>180673</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1916</integer>
+			<key>Date Modified</key><date>2021-02-01T06:38:21Z</date>
+			<key>Date Added</key><date>2021-02-01T06:37:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702993914</integer>
+			<key>Play Date UTC</key><date>2021-05-05T00:25:14Z</date>
+			<key>Release Date</key><date>1987-01-31T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>219027F772B4BE8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1916%20-%205%20Pieces%20-%20The%20Flowers%20-%20Op%2085%20(piano)/Erik%20T.%20Tawaststjerna/03%20-%20Iris%20(5%20Pieces%20-%20The%20Flowers%20-%20Op%2085).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5031</key>
+		<dict>
+			<key>Track ID</key><integer>5031</integer>
 			<key>Name</key><string>Oeillet (5 Pieces - The Flowers - Op 85)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1005,12 +1869,13 @@
 			<key>Date Added</key><date>2021-02-01T06:37:59Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3697519882</integer>
-			<key>Play Date UTC</key><date>2021-03-02T16:51:22Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702619308</integer>
+			<key>Play Date UTC</key><date>2021-04-30T16:21:48Z</date>
 			<key>Release Date</key><date>1987-01-31T08:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>63883C9E02B9D458</string>
 			<key>Track Type</key><string>File</string>
@@ -1019,9 +1884,103 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5176</key>
+		<key>5033</key>
 		<dict>
-			<key>Track ID</key><integer>5176</integer>
+			<key>Track ID</key><integer>5033</integer>
+			<key>Name</key><string>Bellis (5 Pieces - The Flowers - Op 85)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>2822917</integer>
+			<key>Total Time</key><integer>84333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1916</integer>
+			<key>Date Modified</key><date>2021-02-01T06:38:21Z</date>
+			<key>Date Added</key><date>2021-02-01T06:37:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3702541077</integer>
+			<key>Play Date UTC</key><date>2021-04-29T18:37:57Z</date>
+			<key>Release Date</key><date>1987-01-31T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8672003D004F1594</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1916%20-%205%20Pieces%20-%20The%20Flowers%20-%20Op%2085%20(piano)/Erik%20T.%20Tawaststjerna/01%20-%20Bellis%20(5%20Pieces%20-%20The%20Flowers%20-%20Op%2085).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5035</key>
+		<dict>
+			<key>Track ID</key><integer>5035</integer>
+			<key>Name</key><string>VIII. Joueur de harpe (10 Bagatelles Op 34)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3101859</integer>
+			<key>Total Time</key><integer>93000</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1916</integer>
+			<key>Date Modified</key><date>2021-02-01T06:39:08Z</date>
+			<key>Date Added</key><date>2021-02-01T06:38:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3703142645</integer>
+			<key>Play Date UTC</key><date>2021-05-06T17:44:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A37C26A3272D0CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1916%20-%2010%20Bagatelles%20Op%2034%20(piano)/Erik%20T.%20Tawaststjerna/08%20-%20VIII.%20Joueur%20de%20harpe%20(10%20Bagatelles%20Op%2034).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5037</key>
+		<dict>
+			<key>Track ID</key><integer>5037</integer>
+			<key>Name</key><string>X. Souvenir (10 Bagatelles Op 34)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4410199</integer>
+			<key>Total Time</key><integer>133666</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1916</integer>
+			<key>Date Modified</key><date>2021-02-01T06:39:07Z</date>
+			<key>Date Added</key><date>2021-02-01T06:38:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3702557584</integer>
+			<key>Play Date UTC</key><date>2021-04-29T23:13:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2DAAFA8C8C37EF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1916%20-%2010%20Bagatelles%20Op%2034%20(piano)/Erik%20T.%20Tawaststjerna/10%20-%20X.%20Souvenir%20(10%20Bagatelles%20Op%2034).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5039</key>
+		<dict>
+			<key>Track ID</key><integer>5039</integer>
 			<key>Name</key><string>I. Valse (10 Bagatelles Op 34)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1035,8 +1994,12 @@
 			<key>Date Added</key><date>2021-02-01T06:38:37Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702900488</integer>
+			<key>Play Date UTC</key><date>2021-05-03T22:28:08Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F542C55002FA2F17</string>
 			<key>Track Type</key><string>File</string>
@@ -1045,9 +2008,38 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5182</key>
+		<key>5041</key>
 		<dict>
-			<key>Track ID</key><integer>5182</integer>
+			<key>Track ID</key><integer>5041</integer>
+			<key>Name</key><string>IV. Rigaudon (Four Pieces Op 78)</string>
+			<key>Artist</key><string>Sparf - Forsberg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1122512</integer>
+			<key>Total Time</key><integer>128309</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1917</integer>
+			<key>Date Modified</key><date>2021-02-01T06:39:56Z</date>
+			<key>Date Added</key><date>2021-02-01T06:39:28Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3703135366</integer>
+			<key>Play Date UTC</key><date>2021-05-06T15:42:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00B48834B1AEA0BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1917%20-%20Four%20Pieces%20Op%2078%20(violin%20&#38;%20piano)/Sparf%20-%20Forsberg/04%20-%20IV.%20Rigaudon%20(Four%20Pieces%20Op%2078).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5043</key>
+		<dict>
+			<key>Track ID</key><integer>5043</integer>
 			<key>Name</key><string>II. Romance in F major (Four Pieces Op 78)</string>
 			<key>Artist</key><string>Sparf - Forsberg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1062,7 +2054,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FF97F96DA16FDDB3</string>
@@ -1071,9 +2063,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5184</key>
+		<key>5045</key>
 		<dict>
-			<key>Track ID</key><integer>5184</integer>
+			<key>Track ID</key><integer>5045</integer>
 			<key>Name</key><string>I. Impromptu (Four Pieces Op 78)</string>
 			<key>Artist</key><string>Sparf - Forsberg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1088,7 +2080,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E8D97ACE3722A3DD</string>
@@ -1097,9 +2089,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5190</key>
+		<key>5047</key>
 		<dict>
-			<key>Track ID</key><integer>5190</integer>
+			<key>Track ID</key><integer>5047</integer>
 			<key>Name</key><string>VI. in G minor Op 89d (Six Humoresques for Violin &#38; Orch)</string>
 			<key>Artist</key><string>Kang - Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1112,11 +2104,12 @@
 			<key>Date Added</key><date>2021-02-01T06:41:37Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3696151623</integer>
-			<key>Play Date UTC</key><date>2021-02-14T20:47:03Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3702542335</integer>
+			<key>Play Date UTC</key><date>2021-04-29T18:58:55Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9CD0C67ABE8A816F</string>
 			<key>Track Type</key><string>File</string>
@@ -1124,9 +2117,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5194</key>
+		<key>5049</key>
 		<dict>
-			<key>Track ID</key><integer>5194</integer>
+			<key>Track ID</key><integer>5049</integer>
 			<key>Name</key><string>IV. in G minor Op 89b (Six Humoresques for Violin &#38; Orch)</string>
 			<key>Artist</key><string>Kang - Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1143,7 +2136,8 @@
 			<key>Play Date</key><integer>3695274085</integer>
 			<key>Play Date UTC</key><date>2021-02-04T17:01:25Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>75973541E7ABD7D7</string>
 			<key>Track Type</key><string>File</string>
@@ -1151,9 +2145,9 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5198</key>
+		<key>5051</key>
 		<dict>
-			<key>Track ID</key><integer>5198</integer>
+			<key>Track ID</key><integer>5051</integer>
 			<key>Name</key><string>II. in D minor Op 87 No 2 (Six Humoresques for Violin &#38; Orch)</string>
 			<key>Artist</key><string>Kang - Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1166,11 +2160,12 @@
 			<key>Date Added</key><date>2021-02-01T06:41:37Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3696312379</integer>
-			<key>Play Date UTC</key><date>2021-02-16T17:26:19Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702889481</integer>
+			<key>Play Date UTC</key><date>2021-05-03T19:24:41Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E7A5553C60C1E985</string>
 			<key>Track Type</key><string>File</string>
@@ -1178,9 +2173,69 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5210</key>
+		<key>5053</key>
 		<dict>
-			<key>Track ID</key><integer>5210</integer>
+			<key>Track ID</key><integer>5053</integer>
+			<key>Name</key><string>Scene Romantique, Op.101 no.5</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Album</key><string>Piano Music</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1706437</integer>
+			<key>Total Time</key><integer>196840</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>1923</integer>
+			<key>Date Modified</key><date>2021-02-01T06:44:58Z</date>
+			<key>Date Added</key><date>2021-02-01T06:44:07Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702396114</integer>
+			<key>Play Date UTC</key><date>2021-04-28T02:21:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81520017B5FF711E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1923%20-%205%20Romantic%20Compositions%20Op%20101%20(piano)/Erik%20T.%20Tawaststjerna/05%20-%20V.%20Scene%20Romantique%20(5%20Romantic%20Compositions%20Op%20101).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5055</key>
+		<dict>
+			<key>Track ID</key><integer>5055</integer>
+			<key>Name</key><string>Scene romantique (5 Romantic Compositions Op 101)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7311244</integer>
+			<key>Total Time</key><integer>223040</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1923</integer>
+			<key>Date Modified</key><date>2021-02-01T06:44:57Z</date>
+			<key>Date Added</key><date>2021-02-01T06:44:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3703654685</integer>
+			<key>Play Date UTC</key><date>2021-05-12T15:58:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9B9D9AE2288E5D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1923%20-%205%20Romantic%20Compositions%20Op%20101%20(piano)/Erik%20T.%20Tawaststjerna/03%20-%20Scene%20romantique%20(5%20Romantic%20Compositions%20Op%20101).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5057</key>
+		<dict>
+			<key>Track ID</key><integer>5057</integer>
 			<key>Name</key><string>Humoresque (5 Romantic Compositions Op 101)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1194,11 +2249,12 @@
 			<key>Date Added</key><date>2021-02-01T06:44:07Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3698816092</integer>
-			<key>Play Date UTC</key><date>2021-03-17T15:54:52Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702900788</integer>
+			<key>Play Date UTC</key><date>2021-05-03T22:33:08Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9131877D21B89971</string>
 			<key>Track Type</key><string>File</string>
@@ -1207,9 +2263,41 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5218</key>
+		<key>5059</key>
 		<dict>
-			<key>Track ID</key><integer>5218</integer>
+			<key>Track ID</key><integer>5059</integer>
+			<key>Name</key><string>In Mournful Mood (5 Characteristic Impressions Op 103)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5024175</integer>
+			<key>Total Time</key><integer>152066</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1924</integer>
+			<key>Date Modified</key><date>2021-02-01T06:46:57Z</date>
+			<key>Date Added</key><date>2021-02-01T06:45:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3701683859</integer>
+			<key>Play Date UTC</key><date>2021-04-19T20:30:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-28T16:27:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9CA88F6FC619BCF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1924%20-%205%20Characteristic%20Impressions%20Op%20103%20(piano)/Erik%20T.%20Tawaststjerna/02%20-%20In%20Mournful%20Mood%20(5%20Characteristic%20Impressions%20Op%20103).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5061</key>
+		<dict>
+			<key>Track ID</key><integer>5061</integer>
 			<key>Name</key><string>II. Alla polacca (Five Danses Champêtres - 1925)</string>
 			<key>Artist</key><string>Sparf - Forsberg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1224,7 +2312,7 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4D965873F3D26FB1</string>
@@ -1233,9 +2321,38 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5222</key>
+		<key>5063</key>
 		<dict>
-			<key>Track ID</key><integer>5222</integer>
+			<key>Track ID</key><integer>5063</integer>
+			<key>Name</key><string>I. Largamente assai-Vivace (Five Danses Champêtres - 1925)</string>
+			<key>Artist</key><string>Sparf - Forsberg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2591406</integer>
+			<key>Total Time</key><integer>307963</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1925</integer>
+			<key>Date Modified</key><date>2021-02-01T06:48:11Z</date>
+			<key>Date Added</key><date>2021-02-01T06:47:38Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3699534754</integer>
+			<key>Play Date UTC</key><date>2021-03-25T23:32:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6BE886343CE30D94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1925%20-%20Five%20Danses%20Champe%CC%82tres%20(violin%20&#38;%20piano)/Sparf%20-%20Forsberg/01%20-%20I.%20Largamente%20assai-Vivace%20(Five%20Danses%20Champe%CC%82tres%20-%201925).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5065</key>
+		<dict>
+			<key>Track ID</key><integer>5065</integer>
 			<key>Name</key><string>XI. The Storm (The Tempest Op 109)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1249,8 +2366,12 @@
 			<key>Date Added</key><date>2021-02-01T06:48:24Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702641706</integer>
+			<key>Play Date UTC</key><date>2021-04-30T22:35:06Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>32197839F91C955A</string>
 			<key>Track Type</key><string>File</string>
@@ -1258,9 +2379,38 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5230</key>
+		<key>5067</key>
 		<dict>
-			<key>Track ID</key><integer>5230</integer>
+			<key>Track ID</key><integer>5067</integer>
+			<key>Name</key><string>X. Miranda (The Tempest Op 109)</string>
+			<key>Artist</key><string>Jarvi - Gothenburg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1093093</integer>
+			<key>Total Time</key><integer>130950</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1925</integer>
+			<key>Date Modified</key><date>2021-02-01T06:49:07Z</date>
+			<key>Date Added</key><date>2021-02-01T06:48:24Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3703655193</integer>
+			<key>Play Date UTC</key><date>2021-05-12T16:06:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1E84E05FD7E4DB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1925%20-%20The%20Tempest%20Op%20109/Jarvi%20-%20Gothenburg/10%20-%20X.%20Miranda%20(The%20Tempest%20Op%20109).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5069</key>
+		<dict>
+			<key>Track ID</key><integer>5069</integer>
 			<key>Name</key><string>V. Entr'acte - Ariel's Song (The Tempest Op 109)</string>
 			<key>Artist</key><string>Jarvi - Gothenburg</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1274,8 +2424,12 @@
 			<key>Date Added</key><date>2021-02-01T06:48:24Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3702640257</integer>
+			<key>Play Date UTC</key><date>2021-04-30T22:10:57Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C0656236EE8512AE</string>
 			<key>Track Type</key><string>File</string>
@@ -1283,9 +2437,93 @@
 			<key>File Folder Count</key><integer>6</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5246</key>
+		<key>5071</key>
 		<dict>
-			<key>Track ID</key><integer>5246</integer>
+			<key>Track ID</key><integer>5071</integer>
+			<key>Name</key><string>IV. Intrada - Berceuse (The Tempest Op 109)</string>
+			<key>Artist</key><string>Jarvi - Gothenburg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1119396</integer>
+			<key>Total Time</key><integer>134163</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1925</integer>
+			<key>Date Modified</key><date>2021-02-01T06:49:07Z</date>
+			<key>Date Added</key><date>2021-02-01T06:48:24Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3703136891</integer>
+			<key>Play Date UTC</key><date>2021-05-06T16:08:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2EC2DC2ACB4F0EFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1925%20-%20The%20Tempest%20Op%20109/Jarvi%20-%20Gothenburg/04%20-%20IV.%20Intrada%20-%20Berceuse%20(The%20Tempest%20Op%20109).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5073</key>
+		<dict>
+			<key>Track ID</key><integer>5073</integer>
+			<key>Name</key><string>I. The Oak Tree (The Tempest Op 109)</string>
+			<key>Artist</key><string>Jarvi - Gothenburg</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1256711</integer>
+			<key>Total Time</key><integer>150963</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1925</integer>
+			<key>Date Modified</key><date>2021-02-01T06:49:07Z</date>
+			<key>Date Added</key><date>2021-02-01T06:48:24Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3703569753</integer>
+			<key>Play Date UTC</key><date>2021-05-11T16:22:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BEE052D7212C65B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1925%20-%20The%20Tempest%20Op%20109/Jarvi%20-%20Gothenburg/01%20-%20I.%20The%20Oak%20Tree%20(The%20Tempest%20Op%20109).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5075</key>
+		<dict>
+			<key>Track ID</key><integer>5075</integer>
+			<key>Name</key><string>Tapiola Op 112 (1926)</string>
+			<key>Artist</key><string>Vanka - Lahti</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8866078</integer>
+			<key>Total Time</key><integer>1075963</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1926</integer>
+			<key>Date Modified</key><date>2021-02-01T06:49:50Z</date>
+			<key>Date Added</key><date>2021-02-01T06:49:17Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>006355FA0244FF1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/1926%20-%20Tapiola/Vanka%20-%20Lahti/01%20-%20Tapiola%20Op%20112%20(1926).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5077</key>
+		<dict>
+			<key>Track ID</key><integer>5077</integer>
 			<key>Name</key><string>Song in the Forest (5 Esquisses Op 114)</string>
 			<key>Artist</key><string>Erik T. Tawaststjerna</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1299,11 +2537,12 @@
 			<key>Date Added</key><date>2021-02-01T06:50:06Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695042714</integer>
-			<key>Play Date UTC</key><date>2021-02-02T00:45:14Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702900638</integer>
+			<key>Play Date UTC</key><date>2021-05-03T22:30:38Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>21D7F51A3F0241F3</string>
 			<key>Track Type</key><string>File</string>
@@ -1312,9 +2551,37 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>5250</key>
+		<key>5079</key>
 		<dict>
-			<key>Track ID</key><integer>5250</integer>
+			<key>Track ID</key><integer>5079</integer>
+			<key>Name</key><string>II. Sydamestani rakastan (6 Finnish Folksongs)</string>
+			<key>Artist</key><string>Erik T. Tawaststjerna</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>2612111</integer>
+			<key>Total Time</key><integer>79973</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2021-02-01T06:51:04Z</date>
+			<key>Date Added</key><date>2021-02-01T06:50:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3702891126</integer>
+			<key>Play Date UTC</key><date>2021-05-03T19:52:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6C0BA740652F26AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Six%20Finnish%20Folksongs%20(piano)/Erik%20T.%20Tawaststjerna/02%20-%20II.%20Sydamestani%20rakastan%20(6%20Finnish%20Folksongs).m4a</string>
+			<key>File Folder Count</key><integer>6</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5081</key>
+		<dict>
+			<key>Track ID</key><integer>5081</integer>
 			<key>Name</key><string>IV. Finale (Symphony No 1 in em)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1331,7 +2598,8 @@
 			<key>Play Date</key><integer>3697519660</integer>
 			<key>Play Date UTC</key><date>2021-03-02T16:47:40Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9111F2F2196F98BD</string>
 			<key>Track Type</key><string>File</string>
@@ -1339,9 +2607,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5252</key>
+		<key>5083</key>
 		<dict>
-			<key>Track ID</key><integer>5252</integer>
+			<key>Track ID</key><integer>5083</integer>
 			<key>Name</key><string>II. Andante (Symphony No 1 in em)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1355,7 +2623,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>164B1C89DC322DF6</string>
 			<key>Track Type</key><string>File</string>
@@ -1363,9 +2632,65 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5260</key>
+		<key>5085</key>
 		<dict>
-			<key>Track ID</key><integer>5260</integer>
+			<key>Track ID</key><integer>5085</integer>
+			<key>Name</key><string>I. Andante ma non troppo (Symphony No 1 in em)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5166438</integer>
+			<key>Total Time</key><integer>626012</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1899</integer>
+			<key>Date Modified</key><date>2021-02-01T06:52:30Z</date>
+			<key>Date Added</key><date>2021-02-01T06:51:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3699875398</integer>
+			<key>Play Date UTC</key><date>2021-03-29T22:09:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE9B0F90BE634E7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%201%20in%20em%20Op%2031/Bernstein%20-%20NYPhil/01%20-%20I.%20Andante%20ma%20non%20troppo%20(Symphony%20No%201%20in%20em).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5087</key>
+		<dict>
+			<key>Track ID</key><integer>5087</integer>
+			<key>Name</key><string>IV. Finale - Allegro moderato (Symphony No 2 in D)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7195029</integer>
+			<key>Total Time</key><integer>873573</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1902</integer>
+			<key>Date Modified</key><date>2021-02-01T06:53:30Z</date>
+			<key>Date Added</key><date>2021-02-01T06:53:00Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3696314176</integer>
+			<key>Play Date UTC</key><date>2021-02-16T17:56:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>969BED6756A9A409</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%202%20in%20D%20Op%2043/Bernstein%20-%20NYPhil/04%20-%20IV.%20Finale%20-%20Allegro%20moderato%20(Symphony%20No%202%20in%20D).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5089</key>
+		<dict>
+			<key>Track ID</key><integer>5089</integer>
 			<key>Name</key><string>III. Vivacissimo - Lento e suave (Symphony No 2 in D)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1378,11 +2703,12 @@
 			<key>Date Added</key><date>2021-02-01T06:53:00Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695024503</integer>
-			<key>Play Date UTC</key><date>2021-02-01T19:41:43Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3703222993</integer>
+			<key>Play Date UTC</key><date>2021-05-07T16:03:13Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>42B3DD654705E684</string>
 			<key>Track Type</key><string>File</string>
@@ -1390,9 +2716,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5262</key>
+		<key>5091</key>
 		<dict>
-			<key>Track ID</key><integer>5262</integer>
+			<key>Track ID</key><integer>5091</integer>
 			<key>Name</key><string>II. Tempo Adante, ma rubato (Symphony No 2 in D)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1406,7 +2732,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>966BCCA994F87B95</string>
 			<key>Track Type</key><string>File</string>
@@ -1414,9 +2741,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5264</key>
+		<key>5093</key>
 		<dict>
-			<key>Track ID</key><integer>5264</integer>
+			<key>Track ID</key><integer>5093</integer>
 			<key>Name</key><string>I. Allegretto (Symphony No 2 in D)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1430,7 +2757,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1010CC9500E9B377</string>
 			<key>Track Type</key><string>File</string>
@@ -1438,9 +2766,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5266</key>
+		<key>5095</key>
 		<dict>
-			<key>Track ID</key><integer>5266</integer>
+			<key>Track ID</key><integer>5095</integer>
 			<key>Name</key><string>III. Moderato - Allegro (Symphony No 3 in C)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1453,11 +2781,12 @@
 			<key>Date Added</key><date>2021-02-01T06:53:42Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3697002700</integer>
-			<key>Play Date UTC</key><date>2021-02-24T17:11:40Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3703488057</integer>
+			<key>Play Date UTC</key><date>2021-05-10T17:40:57Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D71D279A9F3BD898</string>
 			<key>Track Type</key><string>File</string>
@@ -1465,9 +2794,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5270</key>
+		<key>5097</key>
 		<dict>
-			<key>Track ID</key><integer>5270</integer>
+			<key>Track ID</key><integer>5097</integer>
 			<key>Name</key><string>I. Allegro moderato (Symphony No 3 in C)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1480,11 +2809,12 @@
 			<key>Date Added</key><date>2021-02-01T06:53:42Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3695879790</integer>
-			<key>Play Date UTC</key><date>2021-02-11T17:16:30Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3702880336</integer>
+			<key>Play Date UTC</key><date>2021-05-03T16:52:16Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A96B416103DDF5F0</string>
 			<key>Track Type</key><string>File</string>
@@ -1492,9 +2822,37 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5274</key>
+		<key>5099</key>
 		<dict>
-			<key>Track ID</key><integer>5274</integer>
+			<key>Track ID</key><integer>5099</integer>
+			<key>Name</key><string>IV. Allegro (Symphony No 4 in am)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5705997</integer>
+			<key>Total Time</key><integer>691933</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1911</integer>
+			<key>Date Modified</key><date>2021-02-01T06:55:03Z</date>
+			<key>Date Added</key><date>2021-02-01T06:54:33Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3703141994</integer>
+			<key>Play Date UTC</key><date>2021-05-06T17:33:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5012BD248A0EB59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%204%20in%20am%20Op%2063/Bernstein%20-%20NYPhil/04%20-%20IV.%20Allegro%20(Symphony%20No%204%20in%20am).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5101</key>
+		<dict>
+			<key>Track ID</key><integer>5101</integer>
 			<key>Name</key><string>III. tempo largo (Symphony No 4 in am)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1508,7 +2866,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8A140F29D4A6FAEF</string>
 			<key>Track Type</key><string>File</string>
@@ -1516,9 +2875,34 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5282</key>
+		<key>5103</key>
 		<dict>
-			<key>Track ID</key><integer>5282</integer>
+			<key>Track ID</key><integer>5103</integer>
+			<key>Name</key><string>IV. Allegro molto (Symphony No 5 in Eb)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4781918</integer>
+			<key>Total Time</key><integer>579196</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2021-02-01T06:56:03Z</date>
+			<key>Date Added</key><date>2021-02-01T06:55:32Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA7DC26E89CBA034</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%205%20in%20Eb%20Op%2082/Bernstein%20-%20NYPhil/04%20-%20IV.%20Allegro%20molto%20(Symphony%20No%205%20in%20Eb).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5105</key>
+		<dict>
+			<key>Track ID</key><integer>5105</integer>
 			<key>Name</key><string>III. Andante mosso, quasi allegretto (Symphony No 5 in Eb)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1532,7 +2916,8 @@
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E2F8F237F7D074E4</string>
 			<key>Track Type</key><string>File</string>
@@ -1540,9 +2925,65 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5290</key>
+		<key>5107</key>
 		<dict>
-			<key>Track ID</key><integer>5290</integer>
+			<key>Track ID</key><integer>5107</integer>
+			<key>Name</key><string>II. Allegro - Presto (Symphony No 5 in Eb)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2401531</integer>
+			<key>Total Time</key><integer>288627</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2021-02-01T06:56:04Z</date>
+			<key>Date Added</key><date>2021-02-01T06:55:32Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3702136570</integer>
+			<key>Play Date UTC</key><date>2021-04-25T02:16:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B923A90C16C08FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%205%20in%20Eb%20Op%2082/Bernstein%20-%20NYPhil/02%20-%20II.%20Allegro%20-%20Presto%20(Symphony%20No%205%20in%20Eb).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5109</key>
+		<dict>
+			<key>Track ID</key><integer>5109</integer>
+			<key>Name</key><string>I. Tempo molto moderato - Largomente (Symphony No 5 in Eb)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4155626</integer>
+			<key>Total Time</key><integer>502666</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1915</integer>
+			<key>Date Modified</key><date>2021-02-01T06:56:04Z</date>
+			<key>Date Added</key><date>2021-02-01T06:55:32Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3703078096</integer>
+			<key>Play Date UTC</key><date>2021-05-05T23:48:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1895EC7E0D06C254</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%205%20in%20Eb%20Op%2082/Bernstein%20-%20NYPhil/01%20-%20I.%20Tempo%20molto%20moderato%20-%20Largomente%20(Symphony%20No%205%20in%20Eb).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5111</key>
+		<dict>
+			<key>Track ID</key><integer>5111</integer>
 			<key>Name</key><string>III. Poco vivace (Symphony No 6 in dm)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1555,11 +2996,12 @@
 			<key>Date Added</key><date>2021-02-01T06:56:18Z</date>
 			<key>Bit Rate</key><integer>64</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3697194804</integer>
-			<key>Play Date UTC</key><date>2021-02-26T22:33:24Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3703581220</integer>
+			<key>Play Date UTC</key><date>2021-05-11T19:33:40Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BC20C24095D0C2CC</string>
 			<key>Track Type</key><string>File</string>
@@ -1567,9 +3009,9 @@
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5292</key>
+		<key>5113</key>
 		<dict>
-			<key>Track ID</key><integer>5292</integer>
+			<key>Track ID</key><integer>5113</integer>
 			<key>Name</key><string>II. Allegretto moderato (Symphony No 6 in dm)</string>
 			<key>Artist</key><string>Bernstein - NYPhil</string>
 			<key>Composer</key><string>Jean Sibelius</string>
@@ -1586,11 +3028,40 @@
 			<key>Play Date</key><integer>3696420804</integer>
 			<key>Play Date UTC</key><date>2021-02-17T23:33:24Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FDC1CE4B78FB72A4</string>
 			<key>Track Type</key><string>File</string>
 			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%206%20in%20dm%20Op%20104/Bernstein%20-%20NYPhil/02%20-%20II.%20Allegretto%20moderato%20(Symphony%20No%206%20in%20dm).m4a</string>
+			<key>File Folder Count</key><integer>7</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5115</key>
+		<dict>
+			<key>Track ID</key><integer>5115</integer>
+			<key>Name</key><string>I. Allegro molto moderato (Symphony No 6 in dm)</string>
+			<key>Artist</key><string>Bernstein - NYPhil</string>
+			<key>Composer</key><string>Jean Sibelius</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4001080</integer>
+			<key>Total Time</key><integer>483800</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1823</integer>
+			<key>Date Modified</key><date>2021-02-01T06:56:52Z</date>
+			<key>Date Added</key><date>2021-02-01T06:56:18Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3699875423</integer>
+			<key>Play Date UTC</key><date>2021-03-29T22:10:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6999809FF7F5F9CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/Classical/Sibelius/Symphonies/Symphony%20No%206%20in%20dm%20Op%20104/Bernstein%20-%20NYPhil/01%20-%20I.%20Allegro%20molto%20moderato%20(Symphony%20No%206%20in%20dm).m4a</string>
 			<key>File Folder Count</key><integer>7</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1600,187 +3071,334 @@
 		<dict>
 			<key>Name</key><string>Sibelius faves</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>14600</integer>
-			<key>Playlist Persistent ID</key><string>315ED683C785C7A8</string>
+			<key>Playlist ID</key><integer>22366</integer>
+			<key>Playlist Persistent ID</key><string>55FEA28F5364893B</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4986</integer>
+					<key>Track ID</key><integer>5027</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5018</integer>
+					<key>Track ID</key><integer>4923</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5218</integer>
+					<key>Track ID</key><integer>4933</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5086</integer>
+					<key>Track ID</key><integer>4925</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5230</integer>
+					<key>Track ID</key><integer>4939</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5088</integer>
+					<key>Track ID</key><integer>4969</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5034</integer>
+					<key>Track ID</key><integer>4945</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5042</integer>
+					<key>Track ID</key><integer>5075</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4950</integer>
+					<key>Track ID</key><integer>4957</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4944</integer>
+					<key>Track ID</key><integer>4995</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5128</integer>
+					<key>Track ID</key><integer>4913</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5246</integer>
+					<key>Track ID</key><integer>4997</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5260</integer>
+					<key>Track ID</key><integer>5041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5282</integer>
+					<key>Track ID</key><integer>5043</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5262</integer>
+					<key>Track ID</key><integer>5061</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5096</integer>
+					<key>Track ID</key><integer>5063</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5002</integer>
+					<key>Track ID</key><integer>5045</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5046</integer>
+					<key>Track ID</key><integer>4909</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5182</integer>
+					<key>Track ID</key><integer>4911</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5068</integer>
+					<key>Track ID</key><integer>4971</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5194</integer>
+					<key>Track ID</key><integer>4973</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4992</integer>
+					<key>Track ID</key><integer>5047</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4968</integer>
+					<key>Track ID</key><integer>5049</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4970</integer>
+					<key>Track ID</key><integer>5051</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5056</integer>
+					<key>Track ID</key><integer>5065</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5074</integer>
+					<key>Track ID</key><integer>5067</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5142</integer>
+					<key>Track ID</key><integer>4979</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5274</integer>
+					<key>Track ID</key><integer>4981</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5030</integer>
+					<key>Track ID</key><integer>5069</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5110</integer>
+					<key>Track ID</key><integer>4941</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5184</integer>
+					<key>Track ID</key><integer>4943</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4954</integer>
+					<key>Track ID</key><integer>5071</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5198</integer>
+					<key>Track ID</key><integer>4983</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5020</integer>
+					<key>Track ID</key><integer>4927</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5022</integer>
+					<key>Track ID</key><integer>4947</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5058</integer>
+					<key>Track ID</key><integer>4929</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5176</integer>
+					<key>Track ID</key><integer>5073</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5270</integer>
+					<key>Track ID</key><integer>4985</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4946</integer>
+					<key>Track ID</key><integer>4949</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5150</integer>
+					<key>Track ID</key><integer>4951</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5266</integer>
+					<key>Track ID</key><integer>4953</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5264</integer>
+					<key>Track ID</key><integer>4955</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5066</integer>
+					<key>Track ID</key><integer>4967</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5118</integer>
+					<key>Track ID</key><integer>4905</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5124</integer>
+					<key>Track ID</key><integer>4935</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5290</integer>
+					<key>Track ID</key><integer>4931</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5052</integer>
+					<key>Track ID</key><integer>4937</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5168</integer>
+					<key>Track ID</key><integer>4903</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5132</integer>
+					<key>Track ID</key><integer>4907</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5250</integer>
+					<key>Track ID</key><integer>4915</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5072</integer>
+					<key>Track ID</key><integer>4917</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5190</integer>
+					<key>Track ID</key><integer>4919</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5222</integer>
+					<key>Track ID</key><integer>4921</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4990</integer>
+					<key>Track ID</key><integer>4901</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5036</integer>
+					<key>Track ID</key><integer>5037</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5044</integer>
+					<key>Track ID</key><integer>4959</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5210</integer>
+					<key>Track ID</key><integer>5021</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5252</integer>
+					<key>Track ID</key><integer>5035</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5292</integer>
+					<key>Track ID</key><integer>4999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5093</integer>
 				</dict>
 			</array>
 		</dict>
