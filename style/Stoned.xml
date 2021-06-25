@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-05-26T19:18:38Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Volumes/LAVALAMP/music/</string>
+	<key>Library Persistent ID</key><string>17367F639663C89A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2947</key>
+		<dict>
+			<key>Track ID</key><integer>2947</integer>
+			<key>Name</key><string>Tomorrow Never Knows </string>
+			<key>Artist</key><string>Herbie Hancock</string>
+			<key>Album</key><string>The Imagine Project</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12978605</integer>
+			<key>Total Time</key><integer>323709</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-07-27T06:04:36Z</date>
+			<key>Date Added</key><date>2020-10-04T06:02:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3701796546</integer>
+			<key>Play Date UTC</key><date>2021-04-21T03:49:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-17T17:18:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Imagine Project</string>
+			<key>Persistent ID</key><string>EB97A479B6D3488A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Herbie%20Hancock/2010%20-%20The%20Imagine%20Project/08%20Tomorrow%20Never%20Knows.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2949</key>
+		<dict>
+			<key>Track ID</key><integer>2949</integer>
+			<key>Name</key><string>Instant Gods Out of the Box</string>
+			<key>Artist</key><string>Arovane</string>
+			<key>Album</key><string>Lilies</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7081672</integer>
+			<key>Total Time</key><integer>275461</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-08-13T17:59:51Z</date>
+			<key>Date Added</key><date>2020-10-04T06:02:37Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>GK</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3701799011</integer>
+			<key>Play Date UTC</key><date>2021-04-21T04:30:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-03-30T22:29:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>4</integer>
+			<key>Persistent ID</key><string>2DD5F3C447CAD1F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/LAVALAMP/music/iTunes/Arovane/2004%20-%20Lilies/08%20Instant%20Gods%20Out%20of%20the%20Box.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Stoned</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>18958</integer>
+			<key>Playlist Persistent ID</key><string>2B030566896928B1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2947</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
